@@ -1,0 +1,12 @@
+Device: Redmi Note 8/8T
+Device code name : ginkgo/willow
+Device maintainer: tejas101k
+
+Date - 16/05/2024
+=================
+• Fixed missing fingerprint for goodix fp variants
+• Fixed device integrity
+
+Date - 15/05/2024
+=================
+• Inital Android 14 Build
