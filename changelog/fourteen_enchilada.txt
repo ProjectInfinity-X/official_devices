@@ -1,0 +1,12 @@
+Device: Oneplus 6
+Device code name : enchilada
+Device maintainer: vikas
+
+Date - 18/05/2024
+=================
+• Fixed slow charging info
+• Fixed device integrity
+
+Date - 15/05/2024
+=================
+• Inital Android 14 Build
