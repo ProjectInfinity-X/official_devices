@@ -1,0 +1,7 @@
+Device: Moto G9/Play
+Device code name : guamp
+Device maintainer: DelightReza
+
+Date - 20/05/2024
+=================
+• Initial Release
