@@ -2,6 +2,11 @@ Device: Moto G9/Play
 Device code name : guamp
 Device maintainer: DelightReza
 
+Date - 01/06/2024
+=================
+• Fix Offline Charging Animation
+• Source Upstream
+
 Date - 20/05/2024
 =================
 • Initial Release
