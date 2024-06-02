@@ -1,5 +1,5 @@
-Device: Redmi Note 8/8T
-Device code name : ginkgo/willow
+Device: POCO X3 PRO
+Device code name : vayu/bhima
 Device maintainer: tejas101k
 
 Date - 01/06/2024
@@ -22,11 +22,6 @@ Date - 01/06/2024
 • Added WiFi standard icon
 • Allowed hiding the navigation pill and configuring the IME space
 • Added force full-screen apps preference
-
-Date - 16/05/2024
-=================
-• Fixed missing fingerprint for goodix fp variants
-• Fixed device integrity
 
 Date - 15/05/2024
 =================

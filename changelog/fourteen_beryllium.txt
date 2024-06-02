@@ -1,8 +1,8 @@
-Device: Redmi Note 8/8T
-Device code name : ginkgo/willow
+Device: POCO F1
+Device code name : beryllium
 Device maintainer: tejas101k
 
-Date - 01/06/2024
+Date - 02/06/2024
 =================
 • Fixed "OK Google"
 • Fixed Dialer call history crash
@@ -24,10 +24,5 @@ Date - 01/06/2024
 • Added force full-screen apps preference
 
 Date - 16/05/2024
-=================
-• Fixed missing fingerprint for goodix fp variants
-• Fixed device integrity
-
-Date - 15/05/2024
 =================
 • Inital Android 14 Build
