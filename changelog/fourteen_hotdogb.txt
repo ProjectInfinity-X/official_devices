@@ -1,0 +1,7 @@
+Device: OnePlus 7 T
+Device code name : hotdogb
+Device maintainer: matt0301
+
+Date - 03/06/2024
+=================
+• Inital Android 14 Build
