@@ -1,0 +1,13 @@
+Device: Poco X3/NFC
+Device code name : surya
+Device maintainer: muichiro09
+
+Date - 03/06/2024
+=================
+• V1.1 Official release
+• May Security patch
+• Ksu included
+• Signed Build
+• Switch to rebased trees
+• Switch to sunfish powerhint
+• Nuked smooth display
