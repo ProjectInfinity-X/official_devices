@@ -1,0 +1,38 @@
+Device: XIAOMI 11T PRO
+Device code name : vili
+Device maintainer: Jezzay97
+
+Date - 04/06/2024
+=================
+• Inital release
+• gps: Reduce LOWI debug level
+• Move from phase offsets to work durations
+• Update sf durations from Pixel 5
+• better RAM management
+• overlay: Add Notch Bar Killer overlay
+• Use dex2oat64 on sm8350
+• rootdir: avoid migrating foreground tasks to X1
+• rootdir: Do not allow restricted tasks to run on big cores
+• rootdir: Move background cpuset to CPU0-1
+• rootdir: Make less cores available for background tasks
+• Switch to lz4 for zram
+• Don't pin launcher app in memory
+• Also set config_screenBrightnessDozeFloat
+• CarrierConfig: Globally enable LTE+ icon
+• CarrierConfig: Set LTE+ threshold bandwidth to 0
+• wifi: Enable support for IEEE80211AX
+• Set dex2oat thread count and cpuset
+• Drop livedisplay leftovers
+• Update libspatialaudio from cheetah AP1A.240405.002.B1
+• add missing lib libQTEEEConnector_listener
+• Support KernelSU by default
+• Switch to Void Kernel by Omar99
+• Dolby Audio by default
+• Add Audio Spacial
+• Leica Camera by default
+• Added other corrections and improvements
+
+Credits
+• @Omar99A
+• @TeamMEX_XDA
+• @TheStrechh
