@@ -1,0 +1,10 @@
+Device: Redmi Note 8 Pro
+Device code name : begonia
+Device maintainer: ShantanuPC
+
+Date - 03/06/2024
+=================
+• Synced with 1.1 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
+• MIUI Leica Camera Included
