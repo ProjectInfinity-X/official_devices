@@ -1,0 +1,9 @@
+Device: POCO M3
+Device code name : citrus
+Device maintainer: pawelik001
+
+Date - 08/06/2024
+=================
+• Synced with 1.1 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
