@@ -1,0 +1,10 @@
+Device: OnePlus Nord
+Device code name : avicii
+Device maintainer: sreeshankark
+
+Date - 09/06/2024
+=================
+• Synced with 1.1 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
+• Added Basic Call Recorder
