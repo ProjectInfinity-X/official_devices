@@ -1,0 +1,9 @@
+Device: Xiaomi Mi 9T Pro/ Redmi K20 Pro
+Device code name : raphael
+Device maintainer: pawelik001
+
+Date - 09/06/2024
+=================
+• Synced with 1.1 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
