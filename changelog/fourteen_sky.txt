@@ -1,0 +1,19 @@
+Device: Redmi 12 5G / Poco M6 Pro 5G
+Device code name : sky
+Device maintainer: JazzeeBlaze x Suvojeet_Sengupta
+
+Date - 08/06/2024
+=================
+Changelogs:
+• Improved Charging Speeds
+• Added ViperFX
+• Added Support For FM radio
+• Added inline props with Stock HyperOS
+• Added Thermal Improvements (Thanks to @lostark13)
+• Added Support For XIG Model
+• Added Performance tweaks
+• Dropped few 32 Bit Blobs
+
+Credits
+• @lostark13
+• @SwagAjay
