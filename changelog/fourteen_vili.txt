@@ -32,6 +32,26 @@ Date - 04/06/2024
 • Leica Camera by default
 • Added other corrections and improvements
 
+Date - 13/06/2024
+=================
+• Sync last source
+• Pin netmgrd taken from LAHAINA-19300
+• Import CarrierConfig from LA.QSSI.14.0.r1-11100-qssi.0
+• Change GPS NFW proxy apps to Google Carrier Location
+• CarrierConfig: Import changes from NothingOS 2.5.2.A065
+• CarrierConfig: Update to LA.QSSI.14.0.r1-12000-qssi.0
+• Disable SF composition prediction model
+• Define TARGET_GRALLOC_HANDLE_HAS_RESERVED_SIZE
+• Update radio properties from haydn V816.0.1.0.UKKCNXM
+• Update blobs from V816.0.2.0.UKKMIXM
+• Switch to LineageOS Kernel
+• Fix vowifi
+• perf: Disable IOP
+• perf: Disable vendor.debug.enable.lm
+• perf: Remove ro.vendor.at_library
+• perf: Disable gesture fling boost
+• Drop unsupported perf resources
+
 Credits
 • @Omar99A
 • @TeamMEX_XDA
