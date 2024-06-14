@@ -1,0 +1,7 @@
+Device: Moto G42
+Device code name : hawao
+Device maintainer: DelightReza
+
+Date - 01/06/2024
+=================
+• Updated Common blobs to devon_g T2SNS33.73-22-3-6
