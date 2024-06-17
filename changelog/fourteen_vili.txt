@@ -52,7 +52,36 @@ Date - 13/06/2024
 • perf: Disable gesture fling boost
 • Drop unsupported perf resources
 
+Date - 17/06/2024
+=================
+• Drop parts: Add per app maximum refresh rate
+• first of all drop lisa
+• Optimize package manager dexopt properties
+• Optimise dex flags
+• performance optimizations
+• Use LZ4 Ramdisk
+• sepolicy: Label new telephony properties
+• Add DisplayFeature support
+• add displayfeature stuff from stock
+• use prebuilt libtinycompress
+• Make dex2oat go fast
+• Optimize everything on preopt
+• Enable AOSP surfaceflinger
+• rootdir: Chown the cgroup.procs nodes
+• Enable level 3(core_and_mm_walk) Multi-Gen LRU
+• Lower min frequency for little cluster
+• add prebuild missing lib qti ImsRtpService
+• rootdir: Allow creating camera dir
+• Enable display smooth motion (SmoMo)
+• part: disables the order defined for the thermal profile menu
+• system_ext: enforce lahaina as media profiles
+• Switch to void kernel, by Omar
+• Undervolt support (better gaming efficiency)
+• KernelSU support temporarily reinstated
+• Fixed the problem when playing content from netflix or other platforms such as disney+
+• Fixes front camera recording for Leica camera
+
 Credits
-• @Omar99A
-• @TeamMEX_XDA
-• @TheStrechh
+• @Omar99A for helping & Kernel
+• @TeamMEX_XDA for optimizations and improvements
+• @TheStrechh by dt base
