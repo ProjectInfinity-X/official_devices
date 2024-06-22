@@ -1,0 +1,7 @@
+Device: Redmi Note 12 Pro5G/5G+/Dıscovery
+Device code name : ruby/rubypro/rubyplus
+Device maintainer: Allien10X
+
+Date - 14/06/2024
+=================
+• Inital Android 14 Build
