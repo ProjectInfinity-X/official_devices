@@ -1,0 +1,14 @@
+Device: Google Pixel 7 Pro
+Device code name : cheetah
+Device maintainer: pyrtle93
+
+Date - 06/27/2024
+=================
+• Initial release
+• Synced with 1.2 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
+• Viper4Android comes by default
+• Some pixel exclusives are working
+• RCS works by default
+• more various improvements/fixes
