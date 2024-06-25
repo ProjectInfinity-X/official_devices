@@ -1,0 +1,12 @@
+Device: Google Pixel 7 Pro
+Device code name : cheetah
+Device maintainer: pyrtle93
+
+Date - 06/24/2024
+=================
+• Initial release
+• Synced with 1.2 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
+• Viper4Android comes by default
+• Now playing & NGA are working, will work on the rest of pixel features once qpr3 is done
