@@ -2,6 +2,18 @@ Device: Redmi Note 12 Pro5G/5G+/Dıscovery
 Device code name : ruby/rubypro/rubyplus
 Device maintainer: Allien10X
 
+Date - 27/06/2024
+=================
+• Synced with 1.2 source
+• Fixed USB Tethering problem
+• Signed build (Play integrity passes)
+• MIUI Camera Included
+• Dolby Atmos Included from V816.0.4 UMOMIXM (No battery issue)
+• Vi Music Included
+• Smart Pixels Enabled
+• Update blobs/firmware from HyperOS V816.0.4.0.UMOMIXM
+• Added XiaomiParts
+
 Date - 14/06/2024
 =================
 • Inital Android 14 Build
