@@ -12,3 +12,13 @@ Date - 06/27/2024
 • Some pixel exclusives are working
 • RCS works by default
 • more various improvements/fixes
+
+Date - 07/02/2024
+=================
+• Fixed wallpaper & styles not showing in settings
+• Added pixel-frameworks so all pixel features are working
+• Carrier config/settings updates
+• Fixed themes f/c in InfinitySuite
+• Fixed crash in lockscreen shortcuts
+• Statusbar padding improvements
+• More various fixes/improvements
