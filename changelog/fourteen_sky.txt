@@ -2,13 +2,15 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: JazzeeBlaze x Suvojeet_Sengupta
 
-Date - 12/06/2024
+Date - 24/06/2024
 =================
-Hotfix Changelogs:
-• OTT apps crash fixed
-• Added Gcam, Vi Music
-• Fixed Lags and Jitters
+Changelogs:
+• Siged build to pass integrity check
+• Fixed low audio on wired earphones
+• Updated display blobs
+• Improved battery drain
 • Misc Improvements
 
 Credits
-• @lostark13
+• @lostark13 For base tree
+• Thanks to @tejas101k for help 
