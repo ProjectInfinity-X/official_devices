@@ -2,6 +2,27 @@ Device: POCO X3 PRO
 Device code name : vayu/bhima
 Device maintainer: tejas101k
 
+Date - 08/07/2024
+=================
+• Merged July 2024 (Android 14 QPR3) Security Patches
+• Lockscreen unlock is totally instant now
+• Completely fixed delay while switching from light mode to dark mode or vice versa
+• Add 5/5 & 6/6 pattern layout 
+• Update new bootanimation (for the last time now i hope)
+• Add partial screenshot and screenshot qs tile 
+• Fixed double IOS Battery charging percentage on lockscreen
+• Fixed lockscreen charging info for some devices which was smh bugged in 1.2 release 
+• Allow adjusting lockscreen clock bottom spacing
+• Add support for coloured lockscreen clock based on monet themeing 
+• Allow changing lockscreen clock font for ios clock 
+• Add more status bar clock chip styles
+• Allow hiding developer options status from apps
+• Allow disabling media player squiggle animation
+• Improve About Phone and Settings layout (Clipping Digital Wellbeing text and improper AboutPhone device codename and ram display 7gb etc fixed)
+• Hide navigation hint itself when taskbar enabled
+• Introduce dynamic VoLTE & VoWiFi icons
+• Many more reported bug fixes and misc. stability improvements
+
 Date - 22/06/2024
 =================
 • Fixed lock screen delay when power button is instantly pressed after turning off screen or general delay on lockscreen to appear when pressing power button
