@@ -2,6 +2,16 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: KSSRAO
 
+Date - 09/07/2024
+=================
+- Based on QPR3 July Security Patch 
+- Fixed low brightness flickers fully
+- Updated ViperFX to latest 6.5
+- Updated BCR App to latest 1.65
+- Reverted to stock Adreno blobs to fix gameplay issues
+- Updated some blobs
+- OTA not pushed as CLEAN FLASH IS HIGHLY RECOMMENDED due to QPR update
+
 Date - 23/06/2024
 =================
 - Fixed Aod flicker on 0a display panels
