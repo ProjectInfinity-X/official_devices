@@ -1,0 +1,14 @@
+Device: Poco X5 Pro 
+Device code name : redwood
+Device maintainer: RDx55
+
+Date - 10/07/2024
+=================
+• Fixed LockScreen charging info
+• Fixed Front cam recording
+• Fixed Screen flickering on low brightness
+• Updated Adreno blobs to v767
+• Tuned Charging control parameters
+• Set Default thermal profile as dynamic
+• Set Min freq to 300 MHz for little cluster
+• Kernel Upstreamed to 5.4.278
