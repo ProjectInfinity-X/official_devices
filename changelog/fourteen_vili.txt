@@ -81,6 +81,20 @@ Date - 17/06/2024
 • Fixed the problem when playing content from netflix or other platforms such as disney+
 • Fixes front camera recording for Leica camera
 
+Date - 8/07/2024
+=================
+• Initial compilation in qpr3
+• Disable UFFD GC
+• Build missing libraries for 14 QPR3
+• Import missing IMS lib
+• fixup! Build Lineage Health HAL
+
+Kernel:
+• Upstreamed to 5.4.278
+• Undervolt gpu
+• Add support for init brightness level
+• Support KernelSU
+
 Credits
 • @Omar99A for helping & Kernel
 • @TeamMEX_XDA for optimizations and improvements
