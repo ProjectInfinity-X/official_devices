@@ -2,6 +2,11 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: KSSRAO
 
+Date - 11/07/2024
+=================
+- Fixed OIS
+- Updated ViperFX to latest 6.6
+
 Date - 09/07/2024
 =================
 - Based on QPR3 July Security Patch 
