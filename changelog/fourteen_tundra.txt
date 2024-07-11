@@ -1,0 +1,7 @@
+Device: Motorola Edge 30 fusion
+Device code name : tundra
+Device maintainer: Shivam_Ingale
+
+Date - 10/07/2024
+=================
+• Inital Android 14 Build
