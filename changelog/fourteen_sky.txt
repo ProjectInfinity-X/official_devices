@@ -1,16 +1,20 @@
 Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
-Device maintainer: JazzeeBlaze x Suvojeet_Sengupta
+Device maintainer: Suvojeet_Sengupta
 
-Date - 24/06/2024
+Date - 13/07/2024
 =================
 Changelogs:
-• Siged build to pass integrity check
-• Fixed low audio on wired earphones
-• Updated display blobs
-• Improved battery drain
+• Signed build to pass integrity check
+• Upstremed Kernel (KernelSu included upstremed to 11874)
+• Switched to OSS libperfmgr
+• Updated Blobs from V816.0.5.0.UMWINXM HyperOS
+• Updated Carrier config from HyperOS 1.0.5
+• Added Gcam Go as a Default camera app
+• Fixed Low sound in Wired Headphones
+• Fixed Depth wallpaper for sky (Source side)
 • Misc Improvements
 
 Credits
-• @lostark13 For base tree
-• Thanks to @tejas101k for help 
+• @lostark13 For base tree 
+• @Mijumourya For gki customized kernel
