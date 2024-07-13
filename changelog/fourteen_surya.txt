@@ -11,3 +11,15 @@ Date - 03/06/2024
 • Switch to rebased trees
 • Switch to sunfish powerhint
 • Nuked smooth display
+
+Date - 13/07/2024
+=================
+• V1.3 Official release
+• July Security patch
+• Signed Build
+• Initial QPR3 Build
+• Switch to sunfish powerhint
+• Switch to LOS kernel
+• Accelerate refresh rate switching
+• Adjust SF phase offsets
+• Some Under the Hood changes
