@@ -5,3 +5,7 @@ Device maintainer: Shivam_Ingale
 Date - 10/07/2024
 =================
 • Inital Android 14 Build
+
+Date - 16/07/2024
+=================
+• Incremental release
