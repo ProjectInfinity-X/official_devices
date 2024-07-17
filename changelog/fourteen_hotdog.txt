@@ -1,0 +1,14 @@
+Device: OnePlus 7T Pro
+Device code name : hotdog
+Device maintainer: NILOY
+
+Date - 16/07/2024
+=================
+• Inital Android 14 Build
+• Reduce default vibration intensities
+• Improve haptics latency when under load
+• Fixed moving from total silent mode to others using the slider
+
+Kernel
+  - vibration driver change
+  - fod: code cleanup and optimization
