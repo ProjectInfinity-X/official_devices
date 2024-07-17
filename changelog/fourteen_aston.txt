@@ -1,0 +1,13 @@
+Device: OnePlus 12R / ACE 3 5G
+Device code name : aston
+Device maintainer: tejas101k
+
+Date - 17/07/2024
+=================
+• Initial OFFICIAL Release
+• Fixed double tap to wake
+• Move to power-libperfmgr from qti perf component
+• Fixed device integrity
+• Fixed broken landscape gesture navigation
+• Fixed broken vol panel layout in landscape
+• Ship with GcamGO and override Aperture
