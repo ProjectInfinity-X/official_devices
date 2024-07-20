@@ -2,6 +2,13 @@ Device: OnePlus 12R / ACE 3 5G
 Device code name : aston
 Device maintainer: tejas101k
 
+Date - 20/07/2024
+=================
+• Fixed Hotspot
+• Fixed lockscreen charging info always reporting charging slowly
+• Improve haptic feedback strength and consistency
+• Memory management improvements
+
 Date - 17/07/2024
 =================
 • Initial OFFICIAL Release
