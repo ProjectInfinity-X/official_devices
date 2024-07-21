@@ -2,6 +2,12 @@ Device: POCO X3 PRO
 Device code name : vayu/bhima
 Device maintainer: tejas101k
 
+Date - 21/07/2024
+=================
+• Memory management improvements
+• Improvements for battery backup and ui/ux smoothness
+• Address some missing blobs that were causing linker overhead leading to drains.
+
 Date - 08/07/2024
 =================
 • Merged July 2024 (Android 14 QPR3) Security Patches
