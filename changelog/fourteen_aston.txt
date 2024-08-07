@@ -2,6 +2,13 @@ Device: OnePlus 12R / ACE 3 5G
 Device code name : aston
 Device maintainer: tejas101k
 
+Date - 07/08/2024
+=================
+• Added livedisplay (Outdoor high brightness mode, Anti Flicker, Reading mode, cabc) 
+• Add per app refresh rate control
+• Increase maximum performance threshold for games
+• Improve idle drains
+
 Date - 20/07/2024
 =================
 • Fixed Hotspot
