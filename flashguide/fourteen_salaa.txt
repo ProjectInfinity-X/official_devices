@@ -1,0 +1,51 @@
+Device: Realme 7/ Narzo 20 Pro/ Narzo 30 (salaa)
+Recommended Recovery: https://t.me/shitijsprojectschat/1426/21033
+
+Flashing Instructions:
+
+* Clean Flash:
+1. Reboot to recovery [Orange Fox] (Get from here: https://t.me/shitijsprojectschat/1426/21033)
+
+2. Format necessary partitions and clear data.
+
+3. Flash firmware [Firmware level: F.17] (Get from here: https://t.me/shitijsprojectschat/1426/21367)
+
+4. Flash the rom.
+
+5. Clear cache.
+
+6. Reboot
+
+* Dirty Flash:
+1. Reboot to recovery.
+
+2. Flash rom.
+
+3. Reboot.
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)|
+
+* ADB Sideload:
+If you wish to sideload your rom then here's the process for Sideloading:
+*Clean flash:
+1. Reboot to recovery [Orange Fox] (Get from here: https://t.me/shitijsprojectschat/1426/21033)
+
+2. Format necessary partitions and clear data.
+
+3. Apply update -> adb sideload
+
+4. adb sideload firmware.zip
+
+5. adb sideload rom.zip
+
+6. Reboot
+
+* Dirty Flash:
+1. Reboot to recovery
+
+2. Apply update -> adb sideload
+
+3. adb sideload rom.zip
+
+4. Reboot
