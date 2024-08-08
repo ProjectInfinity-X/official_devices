@@ -4,6 +4,10 @@ Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
 Date - 08/08/2024
+=================
+• Fixed hotspot crash
+
+Date - 08/08/2024
 =================              
 • Rebased over POS tree
 • Upstremed Kernel AtomX 5.10.218
