@@ -1,0 +1,29 @@
+Device: OnePlus 7T Pro (Hotdog)
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/hotdog/14/gapps/recovery.img/download
+
+Flashing Instructions:
+
+Be on OOS11
+
+* Clean Flash:
+1. Reboot to recovery [AOSP Recovery Recommended]
+
+2. Apply update -> adb sideload
+
+3. adb sideload rom.zip
+
+4. Format data
+
+5. Reboot
+
+* Dirty Flash:
+1. Reboot to recovery
+
+2. Apply update -> adb sideload
+
+3. adb sideload rom.zip
+
+4. Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
