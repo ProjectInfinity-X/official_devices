@@ -5,7 +5,10 @@ Device maintainer: Suvojeet_Sengupta
 
 Date - 08/08/2024
 =================
+• hotfix update
 • Fixed hotspot crash
+• fixed sms sim toggle on/off required to get sms
+• misc underhood changes
 
 Date - 08/08/2024
 =================              
