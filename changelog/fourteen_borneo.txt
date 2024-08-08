@@ -2,6 +2,10 @@ Device: Moto G Power (2021)
 Device code name : borneo
 Device maintainer: DelightReza
 
+Date - 08/08/2024
+=================
+• Remove Dolby
+
 Date - 21/07/2024
 =================
 • Add Dolby
