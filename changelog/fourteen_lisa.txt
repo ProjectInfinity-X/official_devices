@@ -1,0 +1,14 @@
+Device: Xiaomi 11 Lite 5G NE | Mi 11 Le
+Device code name : lisa
+Device maintainer: ZAID KHAN
+
+Date - 09/08/2024
+=================
+• Initial OFFICIAL Release
+• Rebased on lineage common trees
+• Miui Leica Camera included
+• lineage Perf Kernel
+• Gapps Included
+• Sync with latest 1.4 changes
+• Signed build and pif apk support
+• Merged August 2024 Security Patch
