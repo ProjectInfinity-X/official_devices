@@ -1,0 +1,24 @@
+Flashing Instructions:
+
+* Clean Flash:
+1. Flash recovery inside the rom
+
+2. Format data, system and cache
+
+3. Apply update -> adb sideload
+
+4. adb sideload rom.zip
+
+5. Reboot
+
+* Dirty Flash:
+1. Reboot to recovery
+
+2. Apply update -> adb sideload
+
+3. adb sideload rom.zip
+
+4. Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
