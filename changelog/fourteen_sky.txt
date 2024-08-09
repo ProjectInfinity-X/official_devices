@@ -3,6 +3,16 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
+Date - 09/08/2024
+=================
+• HOTFIX build
+• add support for lift to wake
+• source synced with latest qs settings crash fixed
+• add colour profile overlay
+
+Credits
+• Thanks to @ES_prophet for testig
+
 Date - 08/08/2024
 =================
 • hotfix update
