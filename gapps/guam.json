@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.3-guam-20240721-1158-GAPPS-OFFICIAL.zip",
-			"download": "https://github.com/RazaDroidProject/releases/releases/download/infinity-guam/Project_Infinity-X-1.3-guam-20240721-1158-GAPPS-OFFICIAL.zip",
-			"timestamp": 1721563090,
-			"md5": "a9d6222d593cb68b9372e6d16a80769e",
-			"size": 1417419979,
-			"version": "1.3"
+			"filename": "Project_Infinity-X-1.4-guam-20240807-2256-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/guam/14/gapps/Project_Infinity-X-1.4-guam-20240807-2256-GAPPS-OFFICIAL.zip",
+			"timestamp": 1723071179,
+			"md5": "dfd2ec09b15bf6a774c5714b7d7000f8",
+			"size": 1421084669,
+			"version": "1.4"
 		}
 	]
 }

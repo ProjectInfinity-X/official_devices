@@ -2,6 +2,10 @@ Device: Moto G9 Power
 Device code name : cebu
 Device maintainer: DelightReza
 
+Date - 08/08/2024
+=================
+• Remove Dolby
+
 Date - 21/07/2024
 =================
 • Add Dolby

@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.3-rhode-20240721-1752-GAPPS-OFFICIAL.zip",
-			"download": "https://github.com/RazaDroidProject/releases/releases/download/infinity-rhode/Project_Infinity-X-1.3-rhode-20240721-1752-GAPPS-OFFICIAL.zip",
-			"timestamp": 1721583932,
-			"md5": "b88c1bcf19895a64139f8a1547e0dec9",
-			"size": 1442844772,
-			"version": "1.3"
+			"filename": "Project_Infinity-X-1.4-rhode-20240808-0003-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/rhode/14/gapps/Project_Infinity-X-1.4-rhode-20240808-0003-GAPPS-OFFICIAL.zip",
+			"timestamp": 1723075108,
+			"md5": "46697e96920031745e2d5469e9b5cf41",
+			"size": 1445979749,
+			"version": "1.4"
 		}
 	]
 }

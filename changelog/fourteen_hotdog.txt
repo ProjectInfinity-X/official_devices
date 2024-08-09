@@ -2,6 +2,13 @@ Device: OnePlus 7T Pro
 Device code name : hotdog
 Device maintainer: NILOY
 
+Date - 08/08/2024
+=================
+• Enabled QS pull tick vibration
+• Improved animation jitter
+• Fixed random over amplified vibrations
+• Fixed random fingerprint flashbang
+
 Date - 16/07/2024
 =================
 • Inital Android 14 Build
