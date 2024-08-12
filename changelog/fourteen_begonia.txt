@@ -2,6 +2,18 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 12/08/2024
+=================
+• Synced with 1.4 source
+• Fixed Bluetooth Disconnection Issue on No Media Output
+• Fixed Camera
+• Enabled Blur
+• Switched to SW C2
+• Patched necessary libs for A14
+• Enabled Zygote Preforking (faster app startups)
+• Enabled Pre-Rendering
+• Miscellaneous optimisations
+
 Date - 23/06/2024
 =================
 • Synced with 1.2 source
