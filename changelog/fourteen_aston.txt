@@ -2,6 +2,13 @@ Device: OnePlus 12R / ACE 3 5G
 Device code name : aston
 Device maintainer: tejas101k
 
+Date - 14/08/2024
+=================
+• Source Changelog (https://t.me/ProjectInfinityX/489)
+• Fix camera app occasional captured photos not being saved
+• Fix unrecognised package while flashing for OP5CF9L1 (OnePlus ACE 3) from aosp recovery 
+• Improve active heating 
+
 Date - 07/08/2024
 =================
 • Added livedisplay (Outdoor high brightness mode, Anti Flicker, Reading mode, cabc) 
