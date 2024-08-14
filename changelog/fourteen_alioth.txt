@@ -2,6 +2,17 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 14/08/2024
+=================
+• Dropped OOS QS for now
+• Updated pif.apk to pass device integrity
+• Updated Miui Camera
+• Fixed blank notification panel (not showing notifications when expanded)
+• Fixed half cut landscape notifications
+• Fixed disappearing statusbar bluetooth icon and blank bluetooth connected devices page
+• Fixed landscape tiles overlap
+• Fixed issues with quicksettings on higher dpi
+
 Date - 07/08/2024
 =================
 • Merged August 2024 Security Patch
