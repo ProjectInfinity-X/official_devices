@@ -2,6 +2,24 @@ Device: POCO X3 PRO
 Device code name : vayu/bhima
 Device maintainer: tejas101k
 
+Date - 15/08/2024
+=================
+• Source Changelog (https://t.me/ProjectInfinityX/489)
+• Fixed kernel side power button screenshot unresponsiveness
+• Fixed led light while charging
+• Fixed 4G to LTE icon toggle
+
+Date - 07/08/2024
+=================
+• Source Changelog (https://t.me/ProjectInfinityX/343)
+• Drop problematic charging control
+
+Date - 21/07/2024
+=================
+• Memory management improvements
+• Improvements for battery backup and ui/ux smoothness
+• Address some missing blobs that were causing linker overhead leading to drains.
+
 Date - 08/07/2024
 =================
 • Merged July 2024 (Android 14 QPR3) Security Patches

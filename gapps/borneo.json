@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.2-borneo-20240622-2157-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/borneo/14/gapps/Project_Infinity-X-1.2-borneo-20240622-2157-GAPPS-OFFICIAL.zip",
-			"timestamp": 1719093173,
-			"md5": "b678c6a0e565d43fd5867fd6a1e2e3cc",
-			"size": 1287964319,
-			"version": "1.2"
+			"filename": "Project_Infinity-X-1.4-borneo-20240808-0207-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/borneo/14/gapps/Project_Infinity-X-1.4-borneo-20240808-0207-GAPPS-OFFICIAL.zip",
+			"timestamp": 1723082577,
+			"md5": "a646ce5571446c1af7ec222b8096d581",
+			"size": 1453164736,
+			"version": "1.4"
 		}
 	]
 }

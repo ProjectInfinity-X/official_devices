@@ -2,6 +2,15 @@ Device: Moto E7 Plus
 Device code name : guam
 Device maintainer: DelightReza
 
+Date - 08/08/2024
+=================
+• Remove Dolby
+
+Date - 21/07/2024
+=================
+• Add Dolby
+• Enable Blur
+
 Date - 22/06/2024
 =================
 • V1.2 Release

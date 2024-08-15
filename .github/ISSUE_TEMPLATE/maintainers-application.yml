@@ -12,17 +12,15 @@ body:
   validations:
     required: true
 - attributes:
-    label: Number of ROM's you maintain officially/unofficially, also name them
+    label: Number of rom(s) you maintain, also name them stating official or unofficial
   type: input
   validations:
     required: true
 - attributes:
     label: Any Exceptions/special concern?
   type: textarea
-  validations:
-    required: true
 - attributes:
-    label: Telegram username
+    label: Telegram username / or any alternative medium to reach you
   type: input
   validations:
     required: true

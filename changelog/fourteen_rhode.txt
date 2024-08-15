@@ -2,6 +2,15 @@ Device: Moto G52
 Device code name : rhode
 Device maintainer: DelightReza
 
+Date - 08/08/2024
+=================
+• Remove Dolby
+
+Date - 21/07/2024
+=================
+• Add Dolby
+• Enable Blur
+
 Date - 2206/2024
 =================
 • V1.2 Release

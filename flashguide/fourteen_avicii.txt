@@ -1,0 +1,22 @@
+Device: OnePlus Nord (avicii)
+Recommended Recovery: https://sourceforge.net/projects/pbrp/files/avicii/PBRP-avicii-4.0-20231219-1108-OFFICIAL.zip
+AOSP Recovery: https://sourceforge.net/projects/infinity-x/files/avicii/14/recovery/recovery_20240813.img
+
+Flashing Instructions:
+
+* Clean Flash:
+- Wipe Data
+- Flash Infinity-X ROM zip
+- Flash Gapps (if you flashed vanilla and want google apps)
+- Flash Magisk (if want)
+- Reboot
+
+* Dirty Flash:
+- Wipe Dalvik, ART Cache
+- Flash Infinity-X ROM zip
+- Flash Gapps (if you flashed vanilla and want google apps)
+- Flash Magisk (if want)
+- Reboot
+
+* OTA:
+- Simply upgrade via ota updater (either if pushed or via local update import)

@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.2-rhode-20240622-2353-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/rhode/14/gapps/Project_Infinity-X-1.2-rhode-20240622-2353-GAPPS-OFFICIAL.zip",
-			"timestamp": 1719100148,
-			"md5": "837b6794a1ac13cb230799926fdab387",
-			"size": 1280616374,
-			"version": "1.2"
+			"filename": "Project_Infinity-X-1.4-rhode-20240808-0003-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/rhode/14/gapps/Project_Infinity-X-1.4-rhode-20240808-0003-GAPPS-OFFICIAL.zip",
+			"timestamp": 1723075108,
+			"md5": "46697e96920031745e2d5469e9b5cf41",
+			"size": 1445979749,
+			"version": "1.4"
 		}
 	]
 }

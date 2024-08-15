@@ -1,0 +1,7 @@
+Device code name : spartan
+Device maintainer: Abhi & Amruth
+
+Decrypted by default
+Included Realme camera
+Switched to new Kernel
+Included Dolby

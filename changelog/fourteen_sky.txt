@@ -1,20 +1,73 @@
+
 Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
+Date - 09/08/2024
+=================
+• HOTFIX build
+• add support for lift to wake
+• source synced with latest qs settings crash fixed
+• add colour profile overlay
+
+Credits
+• Thanks to @ES_prophet for testig
+
+Date - 08/08/2024
+=================
+• hotfix update
+• Fixed hotspot crash
+• fixed sms sim toggle on/off required to get sms
+• misc underhood changes
+
+Date - 08/08/2024
+=================              
+• Rebased over POS tree
+• Upstremed Kernel AtomX 5.10.218
+
+Credits
+• Thanks to @lostark13 @redducc and @jendermine For base tree
+
 Date - 13/07/2024
 =================
-Changelogs:
 • Signed build to pass integrity check
 • Upstremed Kernel (KernelSu included upstremed to 11874)
 • Switched to OSS libperfmgr
 • Updated Blobs from V816.0.5.0.UMWINXM HyperOS
 • Updated Carrier config from HyperOS 1.0.5
 • Added Gcam Go as a Default camera app
-• Fixed Low sound in Wired Headphones
+• Fixed Low sound in Wired Headphones            
 • Fixed Depth wallpaper for sky (Source side)
+• Misc Improvements   
+                                                                                                
+Credits
+• @lostark13 For base tree
+• @Mijumourya For gki customized kernel
+                                                                                                                      
+Date - 24/06/2024
+=================
+• Siged build to pass integrity check
+• Fixed low audio on wired earphones
+• Updated display blobs
+• Improved battery drain
 • Misc Improvements
 
 Credits
-• @lostark13 For base tree 
-• @Mijumourya For gki customized kernel
+• @lostark13 For base tree
+• Thanks to @tejas101k for help                                                                                       
+
+Date - 08/06/2024
+=================
+Changelogs:
+• Improved Charging Speeds
+• Added ViperFX
+• Added Support For FM radio
+• Added inline props with Stock HyperOS
+• Added Thermal Improvements (Thanks to @lostark13)
+• Added Support For XIG Model
+• Added Performance tweaks
+• Dropped few 32 Bit Blobs
+
+Credits
+• @lostark13                
+• @SwagAjay

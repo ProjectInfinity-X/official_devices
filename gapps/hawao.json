@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.2-hawao-20240623-0044-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/hawao/14/gapps/Project_Infinity-X-1.2-hawao-20240623-0044-GAPPS-OFFICIAL.zip",
-			"timestamp": 1719103298,
-			"md5": "da295a664d994116d17f5f640379343c",
-			"size": 1278629862,
-			"version": "1.2"
+			"filename": "Project_Infinity-X-1.4-hawao-20240808-0303-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/hawao/14/gapps/Project_Infinity-X-1.4-hawao-20240808-0303-GAPPS-OFFICIAL.zip",
+			"timestamp": 1723085947,
+			"md5": "e2ae94024ceef237148887879d6b12a6",
+			"size": 1444099690,
+			"version": "1.4"
 		}
 	]
 }

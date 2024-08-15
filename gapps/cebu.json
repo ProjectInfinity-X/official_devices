@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.2-cebu-20240622-2102-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/cebu/14/gapps/Project_Infinity-X-1.2-cebu-20240622-2102-GAPPS-OFFICIAL.zip",
-			"timestamp": 1719089933,
-			"md5": "c2eab2d734ea12981f8397904879333f",
-			"size": 1258389240,
-			"version": "1.2"
+			"filename": "Project_Infinity-X-1.4-cebu-20240808-0056-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/cebu/14/gapps/Project_Infinity-X-1.4-cebu-20240808-0056-GAPPS-OFFICIAL.zip",
+			"timestamp": 1723078361,
+			"md5": "b5fde5d42d9e7008f9b87f5bc67c5d2e",
+			"size": 1423687840,
+			"version": "1.4"
 		}
 	]
 }
