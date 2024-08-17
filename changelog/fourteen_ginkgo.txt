@@ -2,6 +2,11 @@ Device: Redmi Note 8/8T
 Device code name : ginkgo/willow
 Device maintainer: tejas101k
 
+Date - 17/08/2024
+=================
+• Source Changelog (https://t.me/ProjectInfinityX/489)
+• Fixed 4G to LTE icon toggle
+
 Date - 08/08/2024
 =================
 • Source Changelog (https://t.me/ProjectInfinityX/343)
