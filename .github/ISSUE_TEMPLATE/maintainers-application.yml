@@ -17,6 +17,11 @@ body:
   validations:
     required: true
 - attributes:
+    label: Link to your one released Infinity-X Unofficial Build (must be a link of a platform eg. telegram or xda)
+  type: input
+  validations:
+    required: true
+- attributes:
     label: Any Exceptions/special concern?
   type: textarea
 - attributes:
