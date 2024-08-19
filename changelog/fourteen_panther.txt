@@ -2,6 +2,14 @@ Device: Google Pixel 7
 Device code name : panther
 Device maintainer: pyrtle93
 
+Date - 08/19/2024
+=================
+• Synced recent source changes
+• Updated to August
+• Dropped V4A
+• Updated to prebuilt aosp kernel based off r55
+• More various improvements/fixes
+
 Date - 06/27/2024
 =================
 • Initial release
