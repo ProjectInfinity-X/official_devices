@@ -5,3 +5,8 @@ Device maintainer: IczYn
 Date - 13/07/2024
 =================
 • V1.3 Release
+
+Date - 20/08/2024
+=================
+• remove pixelparts
+

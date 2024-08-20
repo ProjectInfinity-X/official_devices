@@ -12,3 +12,8 @@ Date - 10/07/2024
 • Updated blobs & firmware from AP2A.240705.004
 • Add GoogleCamera_6gb_or_more_ram.xml
 
+Date - 20/08/2024
+=================
+• remove pixelparts
+
+
