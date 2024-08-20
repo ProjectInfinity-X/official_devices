@@ -1,0 +1,17 @@
+Device: Xiaomi 11T Pro (vili)
+Recommended Recovery: https://t.me/builds_as_vili/6515
+
+Flashing Instructions:
+
+* Clean Flash:
+- Wipe Data
+- Flash ROM.zip
+- Reboot
+
+* Dirty Flash:
+- Wipe Dalvik, Cache
+- Flash ROM.zip
+- Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)

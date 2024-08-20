@@ -2,6 +2,17 @@ Device: XIAOMI 11T PRO
 Device code name : vili
 Device maintainer: Jezzay97
 
+Date - 19/08/2024
+=================
+• The entire device tree has been re-based.
+• Some bug fixes have been made
+• Upgraded to the latest global blobs available
+• Leica camera replaced by miui camera
+• The latest void kernel changes have been added.
+• Supports KernelSu
+• Dolby audio default
+• Some optimizations and temperature improvements have been made
+
 Date - 04/06/2024
 =================
 • Inital release
