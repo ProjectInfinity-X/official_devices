@@ -2,6 +2,18 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: CHAITANYA
 
+Date - 24/08/2024
+=================
+- marble: update sensor notifier extension
+- update hyper os cam from marble OS1.0.7.0.UMRMIXM
+- Move to Xiaomi IR AIDL
+- Move more radio properties to vendor
+- Remove DEVICE_PROVISIONED
+- overlay: Prodive MIUI color mode options
+- overlay: Move rro packages to vendor partition
+- overlay: Remove _Sys and _Vendor suffix from names
+- Add clang-format configuration
+
 Date - 09/08/2024
 =================
 - Fix battery and USB OTG detection
