@@ -1,0 +1,19 @@
+Device: Nothing Phone 2 (Pong)
+Recommended Recovery: https://orangefox.download/device/pong
+
+Flashing Instructions:
+
+Recovery Build - with custom recovery
+
+• Flash custom recovery and boot
+• Flash latest FW (no need if already using latest)
+• Flash Rom zip (If face error flash super_empty.img or try merge snapshot)
+• Reboot to recovery
+• Flash Gapps package (if vanilla)
+• Clean cache if dirty flash (format data if coming from different rom)
+• Boot
+
+Firmware link - https://drive.google.com/drive/folders/1F-LD3pjx7mrjzpEYGvoeZ81s1ZUxXvQz?usp=sharing
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)

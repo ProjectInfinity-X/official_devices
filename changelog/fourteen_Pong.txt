@@ -1,0 +1,8 @@
+Device: Nothing Phone 2
+Device code name : Pong
+Device maintainer: GHOST
+
+Date - 27/08/2024
+=================
+• Initial build
+• August patch
