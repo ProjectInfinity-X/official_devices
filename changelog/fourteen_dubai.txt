@@ -2,6 +2,11 @@ Device: Motorola Edge 30
 Device code name: dubai
 Device maintainer: Francirijillo
 
+Date -  01-09-2024
+==================
+• Synced with latest 1.4 source
+• Add MotoDolby 
+
 Date -  23-08-2024
 ==================
 • Initial official release
