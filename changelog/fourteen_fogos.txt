@@ -1,0 +1,7 @@
+Device: Motorola G34
+Device code name : fogos
+Device maintainer: Dr.Opto
+
+Date - 07/09/2024
+=================
+• Initial official relese
