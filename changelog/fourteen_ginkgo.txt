@@ -2,6 +2,11 @@ Device: Redmi Note 8/8T
 Device code name : ginkgo/willow
 Device maintainer: tejas101k
 
+Date - 10/09/2024
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/532)
+• Improve charging control
+
 Date - 17/08/2024
 =================
 • Source Changelog (https://t.me/ProjectInfinityX/489)
