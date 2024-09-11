@@ -2,6 +2,18 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 11/09/2024
+=================
+• September security patch 
+• Add intelligent equalizer dolby settings
+• Add nothing charging control service (Thanks to Hellboy)
+• Change udfps animation offset
+• Move to QTI health AIDL service
+• Add OTG switch and Tile in DeviceExtra
+• Remove unnecessary thermal config
+• Fix glyph brightness preference
+• Fix music visualisation crash
+
 Date - 27/08/2024
 =================
 • Initial build
