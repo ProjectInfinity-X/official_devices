@@ -24,3 +24,23 @@ Date - 13/07/2024
 • Accelerate refresh rate switching
 • Adjust SF phase offsets
 • Some Under the Hood changes
+
+Date - 22/08/2024
+=================
+• V1.4 Official release
+• FW included
+• August Security patch
+• Signed Build
+• Include Leica Camera
+• Some Under the Hood changes
+• Added More Camera Props
+
+Date - 9/12/2024
+=================
+• V1.5 Official release
+• FW included
+• September Security patch
+• Signed Build
+• Included Leica Camera
+• Bringback Per App Refresh Rate
+• Optimize Audio on Calls
