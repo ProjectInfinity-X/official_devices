@@ -1,13 +1,18 @@
-
 Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
+
+Date - 12/09/2024
+=================
+• switch to AOSP dieler 
+
+Credits                                    
+• Thanks to @ashwani212 & @solocaptainblaze For testing And Server.
 
 Date - 17/08/2024                                                                                             
 =================
 • No device side changes
 • source changes [Click here](https://t.me/ProjectInfinityX/489)
-
 
 Date - 09/08/2024
 =================
