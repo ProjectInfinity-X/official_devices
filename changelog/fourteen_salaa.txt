@@ -1,0 +1,12 @@
+Device: Realme 7/ Narzo 20 Pro/ Narzo 30 
+Device code name : salaa
+Device maintainer: SHITIJ.dev
+
+Date - 14/09/2024
+=================
+• Inital Android 14 Build
+• Fixed Camera
+• Fixed Bluetooh Disconnection 
+• Strombreaker Kernel 4.14.366
+• Source Changelog (https://t.me/ProjectInfinityX/532)
+• Fixed device integrity and play certification passes by default
