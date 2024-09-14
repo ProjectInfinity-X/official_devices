@@ -2,6 +2,16 @@ Device: Xiaomi 11 Lite 5G NE | Mi 11 Le
 Device code name : lisa
 Device maintainer: ZAID KHAN
 
+
+Date - 09/08/2024
+=================
+leica 5.0 ( leica holybear )
+Add & Adapt per app refresh rate for lisa
+Add Moto Dolby
+Update blobs to OS1.0.5.0.UKOMIX
+Turn on screen on unplug
+Gapps Included
+
 Date - 09/08/2024
 =================
 • Initial OFFICIAL Release
