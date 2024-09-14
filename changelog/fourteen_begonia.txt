@@ -4,6 +4,14 @@ Device maintainer: ShantanuPC
 
 Date - 23/08/2024
 =================
+• Synced with 1.5 source
+• Fixed video playback issues
+• Fixed flickering in QS Blur and in some apps
+• Fixed Island notification position
+• Added USB accessories support
+
+Date - 23/08/2024
+=================
 • Synced with latest 1.4 source
 • Fixed Notification/Battery Light
 • Added Mtk FMRadio
