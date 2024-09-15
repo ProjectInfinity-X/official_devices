@@ -1,0 +1,15 @@
+Device: Xiaomi Redmi Note 13 Pro 5G
+Device code name : Garnet
+Device maintainer: franlop77
+
+Date - 13/09/2024
+=================
+- Update Horus Kernel 2.1 
+- KernelSU support
+- Switch XiaomiDolby
+- Fixed minimum brightness
+- Update thermals
+- 120hz support for screen recorder
+- Update blobs v.816.0.9.0
+- OTA support
+- Some more improvements
