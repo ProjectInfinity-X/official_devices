@@ -21,6 +21,11 @@ Note: Flash Stock ROM first.
 
 6. Double-click on flash.bat, Wait for it to complete once done reboot phone.
 
+* Local Update
+1. Download zip from link.
+2. Go to Settings > System > System updates.
+3. Click on three dots in top-right corner and then Local update.
+4. Select Downloaded zip and then continue as it says reboot device once done.
 
 * Dirty Flash:
 1. Don't do dirty flash even I don't know how to do and what will happen.

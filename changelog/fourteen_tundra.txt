@@ -14,3 +14,7 @@ Date - 15/08/2024
 =================
 • Added missing libraries
 • Fixed broken things
+
+Date - 15/09/2024
+=================
+• Updated blobs from tundra August firmware
