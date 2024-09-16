@@ -2,6 +2,41 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 14/09/2024
+=================
+• Update MIUI Camera to Lecia
+• Switched to latest RealKing kernel
+• Dropped Dolby
+• Merged September 2024 Security Patches
+• Make Strong Integrity Pass by Default (Fixes Custom Rom Detection in some banking/daily apps)
+• Bring back support for toggleable OxygenOS QS Style (https://t.me/ProjectInfinityX/470?single)
+• Add support for spoofing device as Pixel 9 Pro (Gain benefits like free gemini advanced, google one memberships)
+• NEW UI for System, Settings, Launcher & InfinitySuite
+• Added hotspot client manager (limit, block devices, hide your ssid, etc.)
+• Include Simple FOSS Keyboard on Vanilla Builds (Enable keyboard in Settings > System > Keyboard > On Screen Keyboard)
+• Added PowerShare, Sync, Preferred Network Tile
+• Added Color Based Bluetooth Battery Level (If you see bluetooth icon not showing or bluetooth battery level not showing just restart systemui)
+• Added Automated Sleep Mode
+• Added Extended Back Swipe Gestures
+• Added Scheduling Always on Display
+• Added Monochrome Color Set
+• Added Force Monochrome Themed Icons in Launcher
+• Added Support for Locking Recent Apps in Launcher
+• Switched Back to Old VoLTE(HD) & VoWifi Icon
+• Add support for quick launch apps from gamespace
+• Fixed Crash on Wrong QS Layouts
+• Fixed LockScreen Bottom Shortcuts Vibration
+• Fixed QS Customizer Panel Shade Color
+• Fixed Internet Tile Summary TextView
+• Fixed QR Code Scanner QS Tile & and LS Shortcut
+• Added Aosp Recovery Version Info print
+• Fixed Overlaying Max System Icons
+• Fixed Webview Disabled & not found in few apps
+• Update default apns
+• Added More Private DNS Options
+• Added OOS Style Dialer InCallUI
+• Added Optional Haptic Feedback on Back Gesture
+
 Date - 14/08/2024
 =================
 • Dropped OOS QS for now

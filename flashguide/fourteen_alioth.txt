@@ -1,5 +1,6 @@
 Device: POCO F3 / Redmi K40 / Mi 11X (alioth)
 Recommended Recovery: https://orangefox.download/device/alioth
+Recommended firmware: 1.0.2.0 (avoid 1.0.3.0, it might brick your phone)
 
 Flashing Instructions:
 
