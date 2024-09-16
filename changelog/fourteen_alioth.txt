@@ -2,9 +2,13 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 16/09/2024
+=================
+• Fix camera for aliothin (Mi 11X) version
+
 Date - 14/09/2024
 =================
-• Update MIUI Camera to Lecia
+• Update MIUI Camera to Leica
 • Switched to latest RealKing kernel
 • Dropped Dolby
 • Merged September 2024 Security Patches
