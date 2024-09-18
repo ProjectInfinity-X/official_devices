@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.4-oriole-20240820-0556-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/oriole/14/gapps/Project_Infinity-X-1.4-oriole-20240820-0556-GAPPS-OFFICIAL.zip",
-			"timestamp": 1724133290,
-			"md5": "31864c9cf38871d901382c1f84bb23b4",
-			"size": 1863521885,
-			"version": "1.4"
+			"filename": "Project_Infinity-X-1.5-oriole-20240917-1232-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/oriole/14/gapps/Project_Infinity-X-1.5-oriole-20240917-1232-GAPPS-OFFICIAL.zip",
+			"timestamp": 1726576274,
+			"md5": "e2cef8196e7961b1af648cc20196e5de",
+			"size": 1907546433,
+			"version": "1.5"
 		}
 	]
 }
