@@ -2,6 +2,18 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
+Date - 24/09/2024
+=================
+• Update blobs from V816.0.6.0.UMWINXM
+• Remove software OMX codec references
+• Prebuilt gcam go included
+• Switch to 64bit only
+
+Credits
+• Thanks to Steven Strange & @Psycho_HuNtE_r & @messypenguin For testing the rom
+
+• Thanks to @jendermine , @redducc & @lostark13 For base device tree
+
 Date - 12/09/2024
 =================
 • switch to AOSP dieler 
