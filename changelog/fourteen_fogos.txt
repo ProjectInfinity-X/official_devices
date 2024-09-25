@@ -2,6 +2,22 @@ Device: Motorola G34
 Device code name : fogos
 Device maintainer: Dr.Opto
 
+Date - 25/09/2024
+=================
+• Incremental update
+• Some minor bug fixes
+
 Date - 07/09/2024
 =================
 • Initial official relese
+
+Known bugs:
+-----------
+- DT2W
+- Night Light
+
+Credit:
+-------
+ - @AnandSuresh02 for Device sources
+ - @Sid_imp for testing
+ - @kartik01_g for kernel.
