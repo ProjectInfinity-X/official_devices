@@ -2,6 +2,13 @@ Device: Google Pixel 7 Pro
 Device code name : cheetah
 Device maintainer: pyrtle93
 
+Date - 09/28/2024
+=================
+• Updated to September
+• Updated kernel to r67
+• Fixed sms/mms from google restore not working
+• More various improvements
+
 Date - 08/19/2024
 =================
 • Synced recent source changes
