@@ -2,6 +2,10 @@ Device: Realme 7/ Narzo 20 Pro/ Narzo 30
 Device code name : salaa
 Device maintainer: SHITIJ.dev
 
+Date - 14/10/2024
+=================
+• Source Changelog (https://t.me/ProjectInfinityX/583)
+
 Date - 14/09/2024
 =================
 • Inital Android 14 Build
