@@ -2,6 +2,10 @@ Device: POCO X3 PRO
 Device code name : vayu/bhima
 Device maintainer: tejas101k
 
+Date - 13/10/2024
+=================
+• Source Changelog (https://t.me/ProjectInfinityX/583)
+
 Date - 10/09/2024
 =================
 • Source Changelog (https://t.me/ProjectInfinityX/532)
