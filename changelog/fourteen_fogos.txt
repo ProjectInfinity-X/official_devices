@@ -2,6 +2,12 @@ Device: Motorola G34
 Device code name : fogos
 Device maintainer: Dr.Opto
 
+Date - 15/10/2024
+=================
+• Tune audio output
+• Add Moto Cam
+• Some underhood fixes
+
 Date - 25/09/2024
 =================
 • Incremental update
@@ -13,11 +19,10 @@ Date - 07/09/2024
 
 Known bugs:
 -----------
-- DT2W
-- Night Light
+• DT2W
 
 Credit:
 -------
- - @AnandSuresh02 for Device sources
- - @Sid_imp for testing
- - @kartik01_g for kernel.
+• @AnandSuresh02 for base trees
+• @kartik01_g & @amritokun for kernel side improvements
+• SamratSuraj & @UserNotFound4O4 for testing  
