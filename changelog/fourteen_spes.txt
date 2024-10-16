@@ -1,44 +1,60 @@
-### Device: Redmi Note 11
-#### Device Code Name: spes/spesn
-#### Device Maintainer: JassiVxSayan
+Device: Redmi Note 11  
+Device Code Name: spes/spesn  
+Device Maintainer: JassiV
 
----
+---------------------------------------------------
 
-### Update: 07/08/2024 - Version 1.4
-- **Rebased Device Source**
-- Removed Duplicate Sepolicies
-- Fixup Partition
-- Applied August Security Patch QPR3
-- Rebased Device Tree
-- Reworked Thermal Management
-- Updated Blobs from miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM
-- Switched to SF Phase Offsets from Redfin
-- Dropped Vsync Offset Properties
-- Switched to Parts Based Refresh Rate QS Tile
-- Built Missing Camera & Audio Libraries for 14 QPR3
-- Brought Back Refresh Rate Customizations in Settings
-- Shifted to NightSilver Kernel
+Update: 16/10/2024 - Version 1.6  
+- Remove quad mic support  
+- Enable slow-cpu media codecs  
+- Set correct channel mask for earpiece  
+- Support BT SCO mic for record_24 profile  
+- Add stereo support to BT SCO Headset Mic  
+- Correct maximum microphone count  
+- Address powerhal denials in sepolicy  
+- Build vendor modules for RIL, WFD, and GPS HAL  
+- Disable NFC service by default  
+- Add can-swap-width-height for video codecs  
+- Revert to previous thermal config  
+- Disable dynamic refresh rate  
+- Miscellaneous improvements and bug fixes  
+- Reverted back to OSS Kernel  
 
----
+---------------------------------------------------
 
-### Update: 01/06/2024
-- Fixed "OK Google" Issue
-- Fixed Dialer Call History Crash
-- Fixed Device Integrity and Play Certification to Pass by Default
-- Fixed Volume Slider Lag
-- Fixed MicroG Signature Spoofing
-- Added iOS Depth Wallpaper
-- Added Optional Toggleable Android 11 QS
-- Added QS Header Images
-- Added Combined QS Element Styles
-- Allowed Disabling Screen Capture Detection for Apps like Snapchat
-- Allowed Removing Restrictions on Selecting Folders through Android (e.g., "Android/data")
-- Allowed Disabling Extra iOS Clock Components
-- Introduced New Boot Animation and Settings UI
-- Implemented Background Process Killer
-- Added Multiple SIMs Ringtone Support
-- Added WiFi Standard Icon
-- Allowed Hiding the Navigation Pill and Configuring the IME Space
-- Added Force Full-Screen Apps Preference
+Update: 07/08/2024 - Version 1.4  
+- Rebased Device Source  
+- Removed duplicate sepolicies  
+- Fixup partition  
+- Applied August Security Patch QPR3  
+- Rebased device tree  
+- Reworked thermal management  
+- Updated blobs from miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM  
+- Switched to SF phase offsets from Redfin  
+- Dropped vsync offset properties  
+- Switched to parts-based refresh rate QS tile  
+- Built missing camera & audio libraries for 14 QPR3  
+- Brought back refresh rate customizations in settings  
+- Shifted to NightSilver Kernel  
 
----
+---------------------------------------------------
+
+Update: 01/06/2024  
+- Fixed "OK Google" issue  
+- Fixed dialer call history crash  
+- Fixed device integrity and Play certification to pass by default  
+- Fixed volume slider lag  
+- Fixed MicroG signature spoofing  
+- Added iOS depth wallpaper  
+- Added optional toggleable Android 11 QS  
+- Added QS header images  
+- Added combined QS element styles  
+- Allowed disabling screen capture detection for apps like Snapchat  
+- Allowed removing restrictions on selecting folders through Android (e.g., "Android/data")  
+- Allowed disabling extra iOS clock components  
+- Introduced new boot animation and settings UI  
+- Implemented background process killer  
+- Added multiple SIMs ringtone support  
+- Added WiFi standard icon  
+- Allowed hiding the navigation pill and configuring the IME space  
+- Added force full-screen apps preference  
