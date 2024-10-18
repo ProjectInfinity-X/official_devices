@@ -2,6 +2,23 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
+
+Date - 18/10/2024
+=================
+• Use led vibrator
+• Migrate to QTI USB Gadget 1.2 HIDL
+• Swap to QTI USB init scripts
+• Disable proprietary listen sound model
+• Add hotword enrollment permissions
+• Fix low sound
+• Align display props with stock
+• Fix cpu variant runtime flag
+• Fix powerhint L3 node
+
+Credits
+• Thanks to @jendermine , @redducc & @lostark13 For base device tree
+• Thanks so much to @messypenguin For testing the rom
+
 Date - 24/09/2024
 =================
 • Update blobs from V816.0.6.0.UMWINXM
