@@ -2,6 +2,10 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
+Date - 19/10/2024
+=================
+• Fix some sensors not working
+• Fix Media picker crash
 
 Date - 18/10/2024
 =================
