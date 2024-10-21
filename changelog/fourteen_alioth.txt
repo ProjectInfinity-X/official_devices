@@ -2,6 +2,28 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 21/10/2024
+=================
+• Merged October 2024 Security Patch 
+• Added back Dolby
+• Updated RealKing kernel to 17.2
+• Added QuickTap Support (Pixel Framework)
+• Added JSON based PixelProps & GameProps Spoofing
+• Added Auto Update Integrity Spoof json (https://t.me/InfinityXGroup/63230)
+• Added QS Tile to show volume panel
+• Added Toggle for Bluetooth Battery Color (If you see bluetooth icon not showing or bluetooth battery level not showing just restart systemui)
+• Add Wi-Fi Inactivity Timeout feature
+• Redesign progress seekbar
+• Fixed Notification Edge Light
+• Added More secure In-Settings AppLock Support (Now supports every launcher)
+• Fixed Screen Resolution change Crash on some devices
+• Improved OOS QS Panel (Fixed Media panel overlap, Secure QS, QS Haptics)
+• Improved Memory Pressure & Compaction
+• Adapted Weather View for Custom Clocks
+• Fixed Wireless Debugging
+• Replace simple foss keyboard with gboard on vanilla build
+• Added Clock Color Luminance Control
+
 Date - 16/09/2024
 =================
 • Fix camera for aliothin (Mi 11X) version
