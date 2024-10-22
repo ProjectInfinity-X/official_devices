@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-1.5-tundra-20240915-0246-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/tundra/14/gapps/Project_Infinity-X-1.5-tundra-20240915-0246-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1726365444,
-                        "md5": "cdc61dca0c830f1258e7be1ce097a2a7",
-                        "size": 1921540109,
-                        "version": "1.5"
+                        "filename": "Project_Infinity-X-1.6-tundra-20241020-0543-GAPPS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/tundra/14/gapps/Project_Infinity-X-1.6-tundra-20241020-0543-GAPPS-OFFICIAL.zip",
+                        "timestamp": 1729497342,
+                        "md5": "e1aa326576a7b9abc77122335e31871c",
+                        "size": 1940634889,
+                        "version": "1.6"
                 }
         ]
 }
