@@ -44,3 +44,15 @@ Date - 9/12/2024
 • Included Leica Camera
 • Bringback Per App Refresh Rate
 • Optimize Audio on Calls
+
+Date - 10/24/2024
+=================
+• V1.6 Official release
+• FW included
+• October Security patch
+• Signed Build
+• Switched to PixelPowerHAL
+• Added Dolby Atmos
+• Silenced some logspams
+• Explicitly disable GL comp backpressure
+• Misc changes and optimization
