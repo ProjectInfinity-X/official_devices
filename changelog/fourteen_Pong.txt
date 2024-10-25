@@ -2,6 +2,25 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 25/10/2024
+=================
+• Switch to AIDL fingerprint service
+• Drop android.hardware.tetheroffload.config to fix hotspot crash issue
+• Switch to meteoric kernel
+• Build vendor.qti.hardware.capabilityconfigstore
+• Update fingerprint from nos 2.6
+• Use HintManager for HWUI
+• Kill OMX completely
+• Increase haptic vmax gain & vibrator gain
+• Fix Statusbar height and round corner values
+• powerhint: Add full frequency range for min and max GPU scaling
+• powerhint: Set GPU idle timeout to 58 ms
+• sepolicy: Allow powerhal write to /proc
+• use AOSP FLAC decoder
+• DeviceExtras: Drop search indexing it fix settings search crash
+• Use QCOM USB gadget HAL
+• Build Google Dialer
+
 Date - 11/09/2024
 =================
 • September security patch 
