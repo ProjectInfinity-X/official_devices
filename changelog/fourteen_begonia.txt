@@ -2,7 +2,14 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
-Date - 23/08/2024
+Date - 26/10/2024
+=================
+• Synced with 1.6 source
+• Switched to Xiaomi Dolby
+• Fixed Netflix Video Playback
+• Fixed some flickering issues
+
+Date - 14/09/2024
 =================
 • Synced with 1.5 source
 • Fixed video playback issues
