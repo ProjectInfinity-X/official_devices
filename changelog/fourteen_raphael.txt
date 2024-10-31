@@ -2,6 +2,59 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael
 Device maintainer: pawelik001
 
+Date - 31/10/2024
+=================
+• Merged October 2024 Security Patch 
+• Added QuickTap Support (Pixel Framework)
+• Added JSON based PixelProps & GameProps Spoofing
+• Added Auto Update Integrity Spoof json (https://t.me/InfinityXGroup/63230)
+• Added QS Tile to show volume panel
+• Added Toggle for Bluetooth Battery Color (If you see bluetooth icon not showing or bluetooth battery level not showing just restart systemui)
+• Add Wi-Fi Inactivity Timeout feature
+• Redesign progress seekbar
+• Fixed Notification Edge Light
+• Added More secure In-Settings AppLock Support (Now supports every launcher)
+• Fixed Screen Resolution change Crash on some devices
+• Improved OOS QS Panel (Fixed Media panel overlap, Secure QS, QS Haptics)
+• Improved Memory Pressure & Compaction
+• Adapted Weather View for Custom Clocks
+• Fixed Wireless Debugging
+• Replace simple foss keyboard with gboard on vanilla build
+• Added Clock Color Luminance Control
+• Make Strong Integrity Pass by Default (Fixes Custom Rom Detection in some banking/daily apps)
+• Bring back support for toggleable OxygenOS QS Style (https://t.me/ProjectInfinityX/470?single)
+• Add support for spoofing device as Pixel 9 Pro (Gain benefits like free gemini advanced, google one memberships)
+• NEW UI for System, Settings, Launcher & InfinitySuite
+• Added hotspot client manager (limit, block devices, hide your ssid, etc.)
+• Include Simple FOSS Keyboard on Vanilla Builds (Enable keyboard in Settings > System > Keyboard > On Screen Keyboard)
+• Added PowerShare, Sync, Preferred Network Tile
+• Added Color Based Bluetooth Battery Level (If you see bluetooth icon not showing or bluetooth battery level not showing just restart systemui)
+• Added Automated Sleep Mode
+• Added Extended Back Swipe Gestures
+• Added Scheduling Always on Display
+• Added Monochrome Color Set
+• Added Force Monochrome Themed Icons in Launcher
+• Added Support for Locking Recent Apps in Launcher
+• Switched Back to Old VoLTE(HD) & VoWifi Icon
+• Add support for quick launch apps from gamespace
+• Fixed Crash on Wrong QS Layouts
+• Fixed LockScreen Bottom Shortcuts Vibration
+• Fixed QS Customizer Panel Shade Color
+• Fixed Internet Tile Summary TextView
+• Fixed QR Code Scanner QS Tile & and LS Shortcut
+• Added Aosp Recovery Version Info print
+• Fixed Overlaying Max System Icons
+• Fixed Webview Disabled & not found in few apps
+• Update default apns
+• Added More Private DNS Options
+• Added OOS Style Dialer InCallUI
+• Added Optional Haptic Feedback on Back Gesture
+• Implement long press navigation bar to search gesture (circle to search wannabe) [Google app must be installed]
+• Fix OK Google or Hey Google (uninstall google app updates if you dirty flashed) and disable Google App auto update from playstore.
+• Update ViaBrowser prebuilt
+• Beautify Data saver & Mobile Data icons
+• Improve UI Smoothness
+
 Date - 14/08/2024
 =================
 • Merged August 2024 Security Patch
