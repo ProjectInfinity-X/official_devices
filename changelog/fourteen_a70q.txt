@@ -8,3 +8,9 @@ Date - 9/08/2024
 • Signed build (Play integrity passes) 
 • Iniitial Offcial Build
 
+Date - 1/11/2024
+=================
+• Synced with 1.6 source
+• Signed Build
+• Ultra Wide Camera Support
+• Fixed night light and flashbang while using fingerprint (thanks to rtd1250)
