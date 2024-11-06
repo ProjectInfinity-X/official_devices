@@ -2,6 +2,20 @@ Device: Redmi Note 8/8T
 Device code name : ginkgo/willow
 Device maintainer: tejas101k
 
+Date - 06/11/2024 (v2.0 Android 15)
+=================
+• Initial OTA for Android 15 Release (Must prefer a clean flash if receiving this on Android 14 releases)
+• Add Pure Black Theme Toggle
+• Add option to scramble pin layout while unlocking
+• Add more lockscreen pattern sizes
+• Fixed bluetooth sys ui restart and missing icon
+• Add more rotation settings
+• Add QS Data Usage
+• Fixed default usb configuration page not opening
+• Allow using 4G icon instead LTE
+• Add option to disable data disabled indicator
+• Fix faceunlock icon
+
 Date - 13/10/2024
 =================
 • Source Changelog (https://t.me/ProjectInfinityX/583)

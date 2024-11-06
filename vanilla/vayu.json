@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.6-vayu-20241013-1638-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/vayu/14/vanilla/Project_Infinity-X-1.6-vayu-20241013-1638-VANILLA-OFFICIAL.zip",
-			"timestamp": 1728836889,
-			"md5": "073bd824367d194b2514333c39752f77",
-			"size": 1656600276,
-			"version": "1.6"
+			"filename": "Project_Infinity-X-2.0-Alpha-vayu-20241106-1629-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/vayu/15/vanilla/Project_Infinity-X-2.0-Alpha-vayu-20241106-1629-VANILLA-OFFICIAL.zip",
+			"timestamp": 1730910109,
+			"md5": "aa86f84ee65650d85eaf08f837b63411",
+			"size": 1581780540,
+			"version": "2.0-Alpha"
 		}
 	]
 }
