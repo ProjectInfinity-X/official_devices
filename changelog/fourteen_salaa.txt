@@ -2,6 +2,22 @@ Device: Realme 7/ Narzo 20 Pro/ Narzo 30
 Device code name : salaa
 Device maintainer: SHITIJ.dev
 
+Date - 10/11/2024
+=================
+• Initial Android 15 Build
+• Initial OTA for Android 15 Release (Must prefer a clean flash if receiving this on Android 14 releases)
+• Add Pure Black Theme Toggle
+• Add option to scramble pin layout while unlocking
+• Add more lockscreen pattern sizes
+• Fixed bluetooth sys ui restart and missing icon
+• Add more rotation settings
+• Add QS Data Usage
+• Fixed default usb configuration page not opening
+• Allow using 4G icon instead LTE
+• Add option to disable data disabled indicator
+• Fix faceunlock icon
+• Source Changelog (https://t.me/ProjectInfinityX/613)
+
 Date - 14/10/2024
 =================
 • Source Changelog (https://t.me/ProjectInfinityX/583)
