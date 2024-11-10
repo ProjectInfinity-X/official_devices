@@ -1,6 +1,10 @@
-Device: POCO X3 PRO
-Device code name : vayu/bhima
+Device: Redmi Note 8/8T
+Device code name : ginkgo/willow
 Device maintainer: tejas101k
+
+Date - 10/11/2024 (v2.1 Android 15)
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/613)
 
 Date - 06/11/2024 (v2.0 Android 15)
 =================
@@ -9,11 +13,11 @@ Date - 06/11/2024 (v2.0 Android 15)
 • Add option to scramble pin layout while unlocking
 • Add more lockscreen pattern sizes
 • Fixed bluetooth sys ui restart and missing icon
-• Add more rotation settings 
+• Add more rotation settings
 • Add QS Data Usage
-• Fixed default usb configuration page not opening 
+• Fixed default usb configuration page not opening
 • Allow using 4G icon instead LTE
-• Add option to disable data disabled indicator 
+• Add option to disable data disabled indicator
 • Fix faceunlock icon
 
 Date - 13/10/2024
@@ -22,26 +26,17 @@ Date - 13/10/2024
 
 Date - 10/09/2024
 =================
-• Source Changelog (https://t.me/ProjectInfinityX/532)
-• Reinclude and improve charging control
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/532)
+• Improve charging control
 
-Date - 15/08/2024
+Date - 17/08/2024
 =================
 • Source Changelog (https://t.me/ProjectInfinityX/489)
-• Fixed kernel side power button screenshot unresponsiveness
-• Fixed led light while charging
 • Fixed 4G to LTE icon toggle
 
-Date - 07/08/2024
+Date - 08/08/2024
 =================
 • Source Changelog (https://t.me/ProjectInfinityX/343)
-• Drop problematic charging control
-
-Date - 21/07/2024
-=================
-• Memory management improvements
-• Improvements for battery backup and ui/ux smoothness
-• Address some missing blobs that were causing linker overhead leading to drains.
 
 Date - 08/07/2024
 =================
@@ -110,6 +105,11 @@ Date - 01/06/2024
 • Added WiFi standard icon
 • Allowed hiding the navigation pill and configuring the IME space
 • Added force full-screen apps preference
+
+Date - 16/05/2024
+=================
+• Fixed missing fingerprint for goodix fp variants
+• Fixed device integrity
 
 Date - 15/05/2024
 =================
