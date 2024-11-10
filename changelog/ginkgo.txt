@@ -2,6 +2,10 @@ Device: Redmi Note 8/8T
 Device code name : ginkgo/willow
 Device maintainer: tejas101k
 
+Date - 10/11/2024 (v2.1 Android 15)
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/613)
+
 Date - 06/11/2024 (v2.0 Android 15)
 =================
 • Initial OTA for Android 15 Release (Must prefer a clean flash if receiving this on Android 14 releases)
