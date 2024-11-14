@@ -1,0 +1,12 @@
+Device: Poco X3/NFC
+Device code name : surya
+Device maintainer: muichiro09
+
+Date - 11/13/2024
+=================
+• V2.1 Official release
+• November Security patch
+• FW included
+• Signed Build
+• Initial Android 15 Build
+
