@@ -2,6 +2,12 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 14/11/2024
+=================
+• Synced with 2.1 source
+• Initial Android 15 release
+• MIUI Leica Camera & Xiaomi Dolby included
+
 Date - 26/10/2024
 =================
 • Synced with 1.6 source
