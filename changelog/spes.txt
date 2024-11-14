@@ -2,6 +2,10 @@ Device: Redmi Note 11
 Device Code Name: spes/spesn  
 Device Maintainer: JassiV
 
+Update: 14/11/2024 - Version 2.1
+- Initial A15 Build
+- Changed Kernel to Naughty Silver
+
 ---------------------------------------------------
 
 Update: 16/10/2024 - Version 1.6  
