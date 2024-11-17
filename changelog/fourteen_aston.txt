@@ -2,6 +2,12 @@ Device: OnePlus 12R / ACE 3 5G
 Device code name : aston
 Device maintainer: tejas101k
 
+Date - 17/11/2024
+=================
+• Source Changelog for v1.7 (https://t.me/ProjectInfinityX/621)
+• Speed up refresh rate switching timers
+• Bring back colours page for reality engines
+
 Date - 24/10/2024
 =================
 • Source Changelog for v1.5 (https://t.me/ProjectInfinityX/532)

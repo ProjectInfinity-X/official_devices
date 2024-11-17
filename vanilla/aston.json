@@ -1,12 +1,12 @@
 {
-    "response": [
-            {
-                    "filename": "Project_Infinity-X-1.6-aston-20241023-1642-VANILLA-OFFICIAL.zip",
-                    "download": "https://sourceforge.net/projects/infinity-x/files/aston/14/vanilla/Project_Infinity-X-1.6-aston-20241023-1642-VANILLA-OFFICIAL.zip",
-                    "timestamp": 1729701699,
-                    "md5": "f2cc93ef1ce34e4023707dc6c7276d26",
-                    "size": 2436039222,
-                    "version": "1.6"
-            }
-    ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-1.7-aston-20241117-1308-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/aston/14/vanilla/Project_Infinity-X-1.7-aston-20241117-1308-VANILLA-OFFICIAL.zip",
+			"timestamp": 1731848755,
+			"md5": "04ee34f43eb40901d48b67f063fca0d8",
+			"size": 2435883970,
+			"version": "1.7"
+		}
+	]
 }
