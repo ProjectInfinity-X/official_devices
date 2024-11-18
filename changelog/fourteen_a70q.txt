@@ -14,3 +14,10 @@ Date - 1/11/2024
 • Signed Build
 • Ultra Wide Camera Support
 • Fixed night light and flashbang while using fingerprint (thanks to rtd1250)
+
+Date - 19/11/2024
+=================
+• Synced with 1.7 source
+• Signed Build
+• Fixed flashlight
+• added ui smoothness tweaks
