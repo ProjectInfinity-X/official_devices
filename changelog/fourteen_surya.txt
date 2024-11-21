@@ -56,3 +56,11 @@ Date - 10/24/2024
 • Silenced some logspams
 • Explicitly disable GL comp backpressure
 • Misc changes and optimization
+
+Date - 11/21/2024
+=================
+• V1.7 Official release
+• FW included
+• November Security patch
+• Signed Build
+• Misc changes and optimization
