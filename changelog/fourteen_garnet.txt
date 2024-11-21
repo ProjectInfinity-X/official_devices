@@ -2,6 +2,11 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: franlop77
 
+Date - 21/11/2024
+=================
+- Switch Illusion Kernel
+- Update last blobs
+
 Date - 14/10/2024
 =================
 - Switch Strix-Inline kernel
