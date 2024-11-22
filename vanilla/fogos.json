@@ -1,12 +1,12 @@
 {
-          "response": [
-                  {
-                          "filename": "Project_Infinity-X-2.0-Alpha-fogos-20241105-1304-VANILLA-OFFICIAL.zip",
-                         "download": "https://sourceforge.net/projects/infinity-x/files/fogos/15/vanilla/Project_Infinity-X-2.0-Alpha-fogos-20241105-1304-VANILLA-OFFICIAL.zip",
-                          "timestamp": 1730811796,
-                          "md5": "67ce13f0155116b79a4e21e4da7b4ef1",
-                          "size": 1281434050,
-                          "version": "2.0-Alpha"
-                  }
-         ]
+        "response": [
+                {
+                        "filename": "Project_Infinity-X-2.1-Beta-fogos-20241122-0904-VANILLA-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/fogos/15/vanilla/Project_Infinity-X-2.1-Beta-fogos-20241122-0904-VANILLA-OFFICIAL.zip",
+                        "timestamp": 1732266067,
+                        "md5": "14dd49f7dc17138447bd7612476d09e1",
+                        "size": 1314857599,
+                        "version": "2.1"
+                }
+        ]
 }
