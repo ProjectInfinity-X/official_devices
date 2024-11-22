@@ -2,6 +2,12 @@ Device: Redmi Note 8/8T
 Device code name : ginkgo/willow
 Device maintainer: tejas101k
 
+Date - 22/11/2024 (v2.1 Android 15 Stable)
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/643)
+• Included Google's Original Circle To Search Functionality (https://t.me/ProjectInfinityX/640) 
+• Stable Release
+
 Date - 10/11/2024 (v2.1 Android 15)
 =================
 • Highlighted Source Changelog (https://t.me/ProjectInfinityX/613)
