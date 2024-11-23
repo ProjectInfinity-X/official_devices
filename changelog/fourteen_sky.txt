@@ -2,6 +2,16 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
+Date - 22/11/2024
+=================
+• Added support for HBM & CABC LCD features.
+• Manage HBM and CABC states on screen events
+• Updated CarrierConfig from HyperOS 1.0.5.
+
+Credits
+• Thanks to @AltafYafai for testing the ROM.
+• Thanks to @lostark13,@redducc & @jendermine For base device tree
+
 Date - 19/10/2024
 =================
 • Fix some sensors not working
