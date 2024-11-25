@@ -4,19 +4,30 @@ Device maintainer: Dr.Opto
 
 Date - 05/11/2024
 =================
-• Add Moto Dolby
-• Switch to AIDL usb hal
-• Switch to AIDL thermal hal
-• Some underhood optimisation & changes
+• Initial A15 relese
+• Some minor bug fixes
+
+Date - 15/10/2024
+=================
+• Tune audio output
+• Add Moto Cam
+• Some underhood fixes
+
+Date - 25/09/2024
+=================
+• Incremental update
+• Some minor bug fixes
+
+Date - 07/09/2024
+=================
+• Initial official relese
+
+Known bugs:
+-----------
+• DT2W
 
 Credit:
 -------
 • @AnandSuresh02 for base trees
 • @kartik01_g & @amritokun for kernel side improvements
-• @SamratSuraj & @Anirudhking for testing
-
-
-Donate:
-_______
-• Opto's UPI - sourajitmukherjee2-1@okicici
-• Anand's UPI - anandzzz360@okhdfcbank
+• SamratSuraj for testing  
