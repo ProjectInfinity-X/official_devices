@@ -1,0 +1,18 @@
+Device: Motorola G82 5G
+Device code name : rhodep
+Device maintainer: Notkerd69
+
+Date - 27/11/2024
+=================
+• Initial official relese
+* Switch to new moto sedona trees
+* New kernel "notkernel" based on los qcom sm8350
+* A lot of improvements
+
+Credit:
+-------
+• Thanks to all those who contributed in Motorola Sedona Project (https://telegra.ph/Motorola-Sedona-Devs-10-21)
+• @LeoPaladiknight for support
+
+
+
