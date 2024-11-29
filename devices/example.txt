@@ -5,6 +5,7 @@
             "maintainerurl": "https://github.com/tejas101k", # Enter your profile url it could be of any platform like telegram, github, xda, OnlyFans (xd sry) whichever you prefer.
 			"devicemodel": "OnePlus 12R / ACE 3", # Enter your device model name separated by "/" if Unified Build.
 			"codename": "aston", # Your device codename separated by "/" if multiple Eg. "codename": "(ginkgo/willow)" or "codename": "(curtana/joyeuse/excalibur/gram)"
+			"supportgroupurl": "https://t.me/InfinityXGroup", #If Any
 			"donateurl1": "https://paypal.me/tejas101k", # If any
 			"donateurl2": "https://buymeacoffee.com/tejas101k" # If any
    }
