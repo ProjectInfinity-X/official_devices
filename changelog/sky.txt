@@ -2,6 +2,19 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: Suvojeet_Sengupta
 
+Date - 01/12/2024
+=================
+• Initial Android 15 Release
+• Added LCD features
+• Fixed libperfmgr issue
+• Fixed SFPS location 
+• Build GNSS Hal from source
+• Misc perf improvements
+
+Credits
+• Thanks to @lostark13 For base device tree
+• Thanks to @Saifu_88 , @Bruce0O_7 For testing the rom
+
 Date - 22/11/2024
 =================
 • Added support for HBM & CABC LCD features.
