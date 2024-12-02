@@ -2,6 +2,21 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 02/12/2024
+=================
+• Merged November 2024 Security Patch
+• Fix Left side volume panel location
+• Pass integrity again by default also fixed json tracking for Update Pif Spoof Json in Spoof settings
+• Make all Infinity Suite Settings searchable
+• Allow user to customize settings style header image (on holding the header image)
+• Fixed slow animations on qs release
+• Improve QS and systemwide fluidity
+• Fixed fading expandable QS clock upon pull and release
+• Improvements in RAM Management
+• Ship default voice reocrder app
+• Improve Launcher Now Playing
+• Make compact QS media toggle independent os OOS QS toggle
+
 Date - 21/10/2024
 =================
 • Merged October 2024 Security Patch 
