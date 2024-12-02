@@ -1,7 +1,15 @@
 Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
-Device maintainer: CHAITANYA
+Device maintainer: PabloEscobar
 
+Date - 02/12/2024
+- marble: initial android 15
+- Update blobs hyperos v816.0.10.0.UMRMIXM
+- Added Dolby atmos and launcher icon
+- Added HyperOS Gallery,VideoPlayer,Calculator
+- Fixed SIGSEGV (segmentation fault) errors caused by mismatched memory layouts
+- Fixed SFPS location
+=================
 Date - 24/08/2024
 =================
 - marble: update sensor notifier extension
