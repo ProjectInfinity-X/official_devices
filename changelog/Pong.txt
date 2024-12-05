@@ -2,6 +2,18 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 05/12/2024
+=================
+• Initial Android 15 build
+• DeviceExtras: Migrate MainSwitchBar and Switch to Material3
+• set readahead_size_kb=128 on fstab
+• fixup! Do not balance msm_drm and kgsl_3d0 IRQs
+• Remove some useless doze overlays
+• Bring in all dolby volume listener stream effects
+• Make haptic stronger & Use correct voltage for long duration haptics
+• Switch to lineage GKI kernel (KSU patched)
+• Fix ultra-wide support in Snapchat
+
 Date - 25/10/2024
 =================
 • Switch to AIDL fingerprint service
