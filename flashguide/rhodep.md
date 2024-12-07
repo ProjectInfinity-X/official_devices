@@ -21,7 +21,7 @@
    - Open your terminal / CMD and run the following command:
 
    ``` bash
-   adb -d sideload Project_Infinity-X*
+   adb sideload Project_Infinity-X*
    ```
 
    - Reboot the phone, and voila!
