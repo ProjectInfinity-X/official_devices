@@ -2,10 +2,17 @@ Device: POCO X3 PRO
 Device code name : vayu/bhima
 Device maintainer: tejas101k
 
-Date - 30/11/2024 (v2.2 Android 15)
+Date - 08/12/2024 (v2.2 Android 15)
 =================
 Changelog -
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/652)
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/722)
+• Fixed IR Blaster (Remote)
+• Migrate to AIDL FP Hal (Fixed Fingerprint icon position on lockscreen)
+• Fix no call outgoing sound until the receiver picks the call when VoLTE enabled
+• Improve Network Connectivity
+• Address QS lags in presence of notifications or light mode
+• Improve battery backup / heating/ charging speeds
+• Improve RAM Management
 
 Notes -
 • Default shipped kernel hasn't been shipped with KernelSU (For KernelSU variant kernel:- Click Here (https://www.pling.com/p/2169528/))
