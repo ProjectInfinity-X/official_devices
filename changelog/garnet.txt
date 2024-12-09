@@ -2,6 +2,16 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: franlop77
 
+Date - 09/12/2024
+=================
+- Completely rebased DT and Vendor
+- Updated Miuicamera to v816.0.17.0UNRMIXM
+- Updated blobs to v816.0.17.0UNRMIXM
+- Updated IlussionX kernel v2
+- Upstream to 5.10.230
+- Improvised Sound
+- Improvised many more things
+
 Date - 30/11/2024
 =================
 - Switch Illusion Kernel
