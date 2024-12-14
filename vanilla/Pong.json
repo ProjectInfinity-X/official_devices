@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.6-Pong-20241025-1105-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/Pong/14/vanilla/Project_Infinity-X-1.6-Pong-20241025-1105-VANILLA-OFFICIAL.zip",
-			"timestamp": 1729854242,
-			"md5": "bbf6a1edaa7b82e1fd8bc06f41bdb593",
-			"size": 1927370885,
-			"version": "1.6"
+			"filename": "Project_Infinity-X-2.2-Pong-20241214-0853-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/Pong/15/vanilla/Project_Infinity-X-2.2-Pong-20241214-0853-VANILLA-OFFICIAL.zip",
+			"timestamp": 1734166305,
+			"md5": "6f75aa901a791fb25d084cf70070313d",
+			"size": 1853299462,
+			"version": "2.2"
 		}
 	]
 }
