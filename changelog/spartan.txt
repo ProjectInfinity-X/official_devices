@@ -1,5 +1,5 @@
 Device code name : spartan
-Device maintainer: Abhi & Amruth
+Device maintainer: Abhi & Ar-muth
 
 Decrypted by default
 Included Realme camera
