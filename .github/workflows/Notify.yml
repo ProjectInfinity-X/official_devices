@@ -1,0 +1,17 @@
+name: Notify
+on:
+  pull_request:
+    types: [opened]
+jobs:
+  notify-telegram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Telegram Notification
+        run: |
+          echo "Sending notification to Telegram"
+          curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+          -d chat_id="${{ secrets.TELEGRAM_GROUP_ID }}" \
+          -d text="A new pull request has been opened @tejas101k
+          Title: ${{ github.event.pull_request.title }}
+          Author: ${{ github.event.pull_request.user.login }}
+          URL: ${{ github.event.pull_request.html_url }}"
