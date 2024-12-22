@@ -1,0 +1,46 @@
+name: Notify
+on:
+  pull_request:
+    types: [opened]
+jobs:
+  notify-telegram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests
+
+      - name: Send Telegram Notification
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+        run: |
+          python -c "
+          import os
+          import requests
+
+          bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
+          chat_id = os.getenv('TELEGRAM_GROUP_ID')
+          pr_title = os.getenv('PR_TITLE')
+          pr_author = os.getenv('PR_AUTHOR')
+          pr_url = os.getenv('PR_URL')
+
+          message = f'A new pull request has been opened @tejas101k\n\nTitle: {pr_title}\nAuthor: {pr_author}\nURL: {pr_url}'
+
+          response = requests.post(
+          f'https://api.telegram.org/bot{bot_token}/sendMessage',
+          data={'chat_id': chat_id, 'text': message}
+          )
+
+          if response.status_code != 200:
+          raise Exception(f'Failed to send message: {response.text}')
+          "
