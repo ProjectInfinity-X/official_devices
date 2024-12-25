@@ -2,6 +2,13 @@ Device: Google Pixel 7 Pro
 Device code name : cheetah
 Device maintainer: pyrtle93
 
+Date - 12/25/2024
+• Fixed systemui npe that was causing constant crashes
+• Fixed settings crashing when dirty flashing
+• Added pixel smartspace
+• To fix circle to search and other related issues go to settings, apps, default apps and make sure google is set as default assistant app
+• More various improvements/fixes
+
 Date - 12/19/2024
 • Updated to November A15
 • Synced with recent source changes
