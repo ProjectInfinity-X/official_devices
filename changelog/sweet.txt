@@ -1,0 +1,8 @@
+Device: Redmi Note 10 Pro / Pro Max
+Device Codename : sweet
+Device Maintainer: donjohanliebert
+
+Date - 26/12/2024
+=================
+- Novemeber 2024 ASB (A15)
+- Initial Android 15 Release
