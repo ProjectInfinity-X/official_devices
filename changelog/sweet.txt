@@ -2,6 +2,10 @@ Device: Redmi Note 10 Pro / Pro Max
 Device Codename : sweet
 Device Maintainer: donjohanliebert
 
+Date - 30/12/2024
+=================
+- Sync to latest source changes
+
 Date - 26/12/2024
 =================
 - Novemeber 2024 ASB (A15)
