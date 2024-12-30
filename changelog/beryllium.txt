@@ -1,6 +1,11 @@
-Device: Pocophone F1
+Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
+
+Date - 30/12/2024
+=================
+• Synced with latest source
+• Switched to electro kernel
 
 Date - 11/12/2024
 =================
