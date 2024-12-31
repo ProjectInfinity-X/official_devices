@@ -6,6 +6,7 @@ Date - 30/12/2024
 =================
 • Synced with latest source
 • Switched to electro kernel
+• Added blur support
 
 Date - 11/12/2024
 =================
@@ -13,7 +14,6 @@ Date - 11/12/2024
 
 Notes:
 • System-Ext build
-• Helios kernel inlined
 
 Credits:
 • @xyz_sourav for miuicamera
