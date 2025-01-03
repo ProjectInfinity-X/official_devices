@@ -2,44 +2,12 @@ Device: OnePlus 12R / ACE 3 5G
 Device code name : aston
 Device maintainer: tejas101k
 
-Date - 17/11/2024
-=================
-• Source Changelog for v1.7 (https://t.me/ProjectInfinityX/621)
-• Speed up refresh rate switching timers
-• Bring back colours page for reality engines
+- Initial Android 15 Build
+- Fixed flashing unsupported device error when flashing on OnePlus Ace 3
+- Replace OnePlus dolby dax with AOSPA dolby implementation
 
-Date - 24/10/2024
-=================
-• Source Changelog for v1.5 (https://t.me/ProjectInfinityX/532)
-• Source Changelog for v1.6 (https://t.me/ProjectInfinityX/583)
+* Circle to Search works
+* Gapps build
+* Playstore certified
 
-Date - 14/08/2024
-=================
-• Source Changelog (https://t.me/ProjectInfinityX/489)
-• Fix camera app occasional captured photos not being saved
-• Fix unrecognised package while flashing for OP5CF9L1 (OnePlus ACE 3) from aosp recovery 
-• Improve active heating 
-
-Date - 07/08/2024
-=================
-• Added livedisplay (Outdoor high brightness mode, Anti Flicker, Reading mode, cabc) 
-• Add per app refresh rate control
-• Increase maximum performance threshold for games
-• Improve idle drains
-
-Date - 20/07/2024
-=================
-• Fixed Hotspot
-• Fixed lockscreen charging info always reporting charging slowly
-• Improve haptic feedback strength and consistency
-• Memory management improvements
-
-Date - 17/07/2024
-=================
-• Initial OFFICIAL Release
-• Fixed double tap to wake
-• Move to power-libperfmgr from qti perf component
-• Fixed device integrity
-• Fixed broken landscape gesture navigation
-• Fixed broken vol panel layout in landscape
-• Ship with GcamGO and override Aperture
+// Special Thanks to inferno0230 and bgcngm (Team Lineage) 

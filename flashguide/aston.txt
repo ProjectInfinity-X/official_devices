@@ -3,6 +3,8 @@ Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/aston/in
 
 Flashing Instructions:
 
+--- MUST BE ON OxygenOS 15 before flashing this ---
+
 * Clean Flash:
 1. Reboot to recovery [AOSP Recovery Recommended] (Get from here: https://sourceforge.net/projects/infinity-x/files/aston/infinity_aston-recoveryimage.img)
 
