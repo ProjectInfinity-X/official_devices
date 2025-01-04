@@ -2,6 +2,13 @@ Device: Xiaomi 11T Pro
 Device code name : vili
 Device maintainer: swiitchOFF
 
+Date - 04/01/2024
+=================
+• Source upstream
+• Disable FRP
+• Make bass enhancer available on speakers as well
+• Added blur support
+
 Date - 07/12/2024
 =================
 • Initial Android 15 build
