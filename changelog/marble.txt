@@ -2,6 +2,13 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 05/01/2024
+=================
+-marble: Source upstream
+-Fix deep sleep issue
+-Added support for Charging limit
+-Added Custon Display saturation adjustment
+
 Date - 22/12/2024
 =================
 - marble: Fixed Netflix loading screen
