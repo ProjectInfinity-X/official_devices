@@ -1,16 +1,11 @@
-Device: Redmi Note 8/8T
-Device code name : ginkgo/willow
-Device maintainer: tejas101k
+Changelog:
+• Source Changelog (https://t.me/ProjectInfinityX/739)
+• Ship Xiaomi Dolby Atmos
 
-Date - 30/11/2024 (v2.2 Android 15)
-=================
-Changelog - 
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/652)
-
-Notes - 
+Notes:
 • Use non-dynamic A15 OrangeFox recovery (https://t.me/builds_discussion/17932)
 • Default shipped kernel hasn't been shipped with KernelSU (For KernelSU variant kernel:- Click Here (https://www.pling.com/p/2127679/))
+• Circle To Search is Available
 • Device Integrity Passes by default and playstore is certified
 • MiuiCamera is included
 • Dolby Atmos is included
-
