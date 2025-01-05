@@ -1,0 +1,4 @@
+- Initial Android 15 Build
+- Gapps and vanilla build
+- Circle to Search works
+- Playstore certified
