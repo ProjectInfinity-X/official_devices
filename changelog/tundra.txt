@@ -2,31 +2,6 @@ Device: Motorola Edge 30 fusion
 Device code name : tundra
 Device maintainer: Shivam_Ingale
 
-Date - 10/07/2024
-=================
-• Inital Android 14 Build
-
-Date - 16/07/2024
-=================
-• Incremental release
-
-Date - 15/08/2024
-=================
-• Added missing libraries
-• Fixed broken things
-
-Date - 15/09/2024
-=================
-• Updated blobs from tundra August firmware
-
-Date - 20/10/2024
-=================
-• Latest Security Patch (October)
-
 Date - 13/11/2024 (Android 15)
 =================
-- Initial Android 15 Build
-
-Date - 13/11/2024 (Android 15)
-=================
-- Latest Security Patch
+- Source Changelog (https://t.me/ProjectInfinityX/739)
