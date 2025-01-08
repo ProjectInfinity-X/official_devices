@@ -26,3 +26,7 @@ Date - 20/10/2024
 Date - 13/11/2024 (Android 15)
 =================
 - Initial Android 15 Build
+
+Date - 13/11/2024 (Android 15)
+=================
+- Latest Security Patch
