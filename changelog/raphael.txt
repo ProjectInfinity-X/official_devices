@@ -2,6 +2,10 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael
 Device maintainer: pawelik001
 
+Date - 11/01/2025
+=================
+• Initial Project Infinity X, Android 15 release
+
 Date - 02/12/2024
 =================
 • Merged November 2024 Security Patch
