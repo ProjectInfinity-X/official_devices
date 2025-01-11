@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-2.1-Beta-fogos-20241120-1253-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/fogos/15/gapps/Project_Infinity-X-2.1-Beta-fogos-20241120-1253-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1732107169,
-                        "md5": "b791ec334266b1c37b5dfad6f71d66bd",
-                        "size": 1735998509,
-                        "version": "2.1"
+                        "filename": "Project_Infinity-X-2.2-fogos-20250107-0821-GAPPS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/fogos/15/gapps/Project_Infinity-X-2.2-fogos-20250107-0821-GAPPS-OFFICIAL.zip",
+                        "timestamp": 1736237859,
+                        "md5": "955307efdef8024f289914adaac9ec80",
+                        "size": 1987601586,
+                        "version": "2.2"
                 }
         ]
 }

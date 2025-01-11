@@ -1,13 +1,7 @@
 Device: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
 Device code name : veux
-Device maintainer: Amrito
+Device maintainer: Sdm695dev
 
-Date - 18/10/2024
+Date - 07/01/2025
 =================
-• Initial Build Expect Bugs (Will be Fixed By Next Month)
-• October patch
-• Signed Build
-• Do not report bugs caused by third party mods or modules and custom kernel
-• Use latest A13/HyperOS fw for your regions
-• Thanks to @dereference for kernel and trees
-• Thanks to @Spyware87 for testing.
+• Initial Build

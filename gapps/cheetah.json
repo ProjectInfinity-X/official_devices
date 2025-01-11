@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.5-cheetah-20240928-0155-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/cheetah/14/gapps/Project_Infinity-X-1.5-cheetah-20240928-0155-GAPPS-OFFICIAL.zip",
-			"timestamp": 1727488278,
-			"md5": "097f07c2d799fff8aa602df0927dc2ae",
-			"size": 2788330129,
-			"version": "1.5"
+			"filename": "Project_Infinity-X-2.2-cheetah-20241225-1711-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/cheetah/15/gapps/Project_Infinity-X-2.2-cheetah-20241225-1711-GAPPS-OFFICIAL.zip",
+			"timestamp": 1735146406,
+			"md5": "0fc795e48320201b7116274775df9bed",
+			"size": 2772413588,
+			"version": "2.2"
 		}
 	]
 }

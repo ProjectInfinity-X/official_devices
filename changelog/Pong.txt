@@ -2,6 +2,27 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 14/12/2024
+=================
+• Initial Vanilla build
+• Update pixel pitch to fix default fp icon
+• Fix 60fps stuck in-game
+• Disable alpha compositing in WM (Completely eliminates occasional jank in few animations)
+• Remove search index provider to fix search crash
+• Disable FRP enforcement 
+
+Date - 05/12/2024
+=================
+• Initial Android 15 build
+• DeviceExtras: Migrate MainSwitchBar and Switch to Material3
+• set readahead_size_kb=128 on fstab
+• fixup! Do not balance msm_drm and kgsl_3d0 IRQs
+• Remove some useless doze overlays
+• Bring in all dolby volume listener stream effects
+• Make haptic stronger & Use correct voltage for long duration haptics
+• Switch to lineage GKI kernel (KSU patched)
+• Fix ultra-wide support in Snapchat
+
 Date - 25/10/2024
 =================
 • Switch to AIDL fingerprint service
