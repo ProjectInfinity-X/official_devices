@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.7-raphael-20241202-1228-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/raphael/14/vanilla/Project_Infinity-X-1.7-raphael-20241202-1228-VANILLA-OFFICIAL.zip",
-			"timestamp": 1733142371,
-			"md5": "d38efea143b8a0110f2772ae11057c54",
-			"size": 1986202285,
-			"version": "1.7"
+			"filename": "Project_Infinity-X-2.2-raphael-20250111-1920-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/raphael/15/vanilla/Project_Infinity-X-2.2-raphael-20250111-1920-VANILLA-OFFICIAL.zip",
+			"timestamp": 1736623098,
+			"md5": "d5ae067f0305e4107f5f5679605c4cdc",
+			"size": 1836763365,
+			"version": "2.2"
 		}
 	]
 }
