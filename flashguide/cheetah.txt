@@ -13,6 +13,14 @@ First Time Install (Note: These releases include firmware)
 • adb sideload rom.zip (replace "rom" with actual filename) 7 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
 • Reboot to system
 
+Dirty Flash (when updating your infinity x version)
+
+• Reboot to recovery
+• Apply update -> adb sideload
+• adb sideload romname.zip
+• Reboot
+• Or simply just update via ota updater in settings
+
 Download and Install Magisk apk
 
 • Unzip the factory image from here for example (https://developers.google.com/android/images), Extract the IMGs folder, copy the init_boot file to your Pixel device.
