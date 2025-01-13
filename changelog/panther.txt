@@ -2,6 +2,15 @@ Device: Google Pixel 7
 Device code name : panther
 Device maintainer: pyrtle93
 
+Date - 01/12/2025
+• Synced with recent source changes
+• Circle to Search works by default
+• Added Viper4Android
+• Hey Google is working
+• Fixed google battery drain
+• Fixed search icon not showing on lock screen for now playing
+• More improvements
+
 Date - 12/25/2024
 • Updated to November A15
 • Synced with recent source changes
