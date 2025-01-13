@@ -2,6 +2,12 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 13/01/2025
+=================
+• Synced with latest 2.2 source
+• Based on November Patch
+• Fixed "Fingerprint Hardware not found" for some users
+
 Date - 02/12/2024
 =================
 • Synced with 2.2 source
