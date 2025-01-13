@@ -1,0 +1,10 @@
+Device: Redmi Note 12 Pro/Pro+/Dıscovery 5G
+Device code name : rubyx/ruby/rubypro/rubyplus
+Device maintainer: postcumer
+
+Date - 13/01/2025
+=================
+• Inital Android 15 Build
+• Signed build (Play integrity passes)
+• MIUI Camera Included
+• Dolby Atmos Included
