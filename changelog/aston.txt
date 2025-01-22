@@ -2,9 +2,9 @@ Device: OnePlus 12R / ACE 3 5G
 Device code name : aston
 Device maintainer: tejas101k
 
-- Initial Android 15 Build
-- Fixed flashing unsupported device error when flashing on OnePlus Ace 3
-- Replace OnePlus dolby dax with AOSPA dolby implementation
+- Updated Blobs
+- Upstreamed Kernel
+- Set default refresh rate to 120hz
 
 * Circle to Search works
 * Gapps build
