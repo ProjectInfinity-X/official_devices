@@ -1,12 +1,12 @@
 {
-        "response": [
-                {
-                        "filename": "Project_Infinity-X-2.2-veux-20250107-1200-VANILLA-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/veux/15/vanilla/Project_Infinity-X-2.2-veux-20250107-1200-VANILLA-OFFICIAL.zip",
-                        "timestamp": 1736251113,
-                        "md5": "c7d040c1210a540316edcf7406acc37d",
-                        "size": 1476193829,
-                        "version": "2.2"
-                }
-        ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-2.4-veux-20250123-1214-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/veux/15/vanilla/Project_Infinity-X-2.4-veux-20250123-1214-VANILLA-OFFICIAL.zip",
+			"timestamp": 1737634079,
+			"md5": "6ccceb0532394afa7a0565c7c96b4ffa",
+			"size": 1524303469,
+			"version": "2.4"
+		}
+	]
 }
