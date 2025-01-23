@@ -2,6 +2,20 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 23/01/2025
+=================
+• Switch to Full gapps for gapps ver
+• Update from NOS V3.0-250113-1723
+• Utilise ADSP-backed Charge Control mechanism (thanks to arter97)
+• wifi: Set mid high threshold for HSP
+• zram: Add writeback properties
+• Optimize powerhint and Add CPU frequency scaling adjustments for INTERACTION 
+• Improve KGSL and MSM_DRM Tuning
+• Lower gps debug level
+• Improve cpuset parameters
+• Update to latest gki kernel 
+• Improved power consumption during video playback
+
 Date - 14/12/2024
 =================
 • Initial Vanilla build

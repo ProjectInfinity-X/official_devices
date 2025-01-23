@@ -13,7 +13,15 @@ Recovery Build - with custom recovery
 • Clean cache if dirty flash (format data if coming from different rom)
 • Boot
 
-Firmware link - https://drive.google.com/drive/folders/1F-LD3pjx7mrjzpEYGvoeZ81s1ZUxXvQz?usp=sharing
+Firmware link - https://sourceforge.net/projects/nothing-archive/files/Pong/recovery_flashable_firmware/
 
 * OTA:
 1. Simply upgrade via ota updater (either if pushed or via local update import)
+
+**A15 cause ui glitch if cache from previous build exists, So must clean cache if u see any UI glitch 
+
+/data/resources_cache 
+
+/data/system/package_cache
+
+Delete this 2 folder using recovery or any root file manager
