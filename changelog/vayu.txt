@@ -1,8 +1,5 @@
 Changelog:
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/739)
-• Fixed side fingerprint icon position for all users (which was still bugged for some users previously)
-• Ship New Leica Cam (Supports 4k 60fps and mimojis and other numerous features)
-• Ship Xiaomi Dolby Atmos
+Highlighted Source Changelog (https://t.me/ProjectInfinityX/807)
 
 Notes:
 • Default shipped kernel hasn't been shipped with KernelSU (For KernelSU variant kernel:- Click Here (https://www.pling.com/p/2169528/))
@@ -11,4 +8,4 @@ Notes:
 • Both Vanilla & Gapps build available 
 • Dolby Atmos is included
 • Leica Camera is included
-• Dirty Flash / OTA from previous A15 builds is fine
+• Clean Flash from previous A15 builds is highly recommended

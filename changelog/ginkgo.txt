@@ -1,6 +1,5 @@
 Changelog:
-• Source Changelog (https://t.me/ProjectInfinityX/739)
-• Ship Xiaomi Dolby Atmos
+Highlighted Source Changelog (https://t.me/ProjectInfinityX/807)
 
 Notes:
 • Use non-dynamic A15 OrangeFox recovery (https://t.me/builds_discussion/17932)
