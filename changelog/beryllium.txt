@@ -2,6 +2,12 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
 
+Date - 23/01/2025
+=================
+• Bumped to v2.4
+• Upstreamed electro kernel to v2
+• Updated WFD system blobs
+
 Date - 30/12/2024
 =================
 • Synced with latest source
