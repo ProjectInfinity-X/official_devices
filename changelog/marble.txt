@@ -2,6 +2,15 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 23/01/2025
+=================
+-marble: Bumped to v2.4
+Xiaomi style Changelog:
+-Improved system stability
+-Fixed MiuiCamera
+-Fixed SystemUI crash 
+-Misc improvements
+
 Date - 05/01/2025
 =================
 -marble: Source upstream
