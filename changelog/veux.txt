@@ -2,6 +2,13 @@ Device: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
 Device code name : veux
 Device maintainer: Sdm695dev
 
+Date - 27/01/2025
+=================
+•Hotfix Update.
+•Fixed developer option crashes.
+•Play integrity passes again now.
+•Updated to latest Paimon Kernel Changes.
+
 Date - 23/01/2025
 =================
 • Bumped to v2.4
