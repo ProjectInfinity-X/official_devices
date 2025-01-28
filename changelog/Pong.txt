@@ -2,6 +2,22 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 28/01/2025 - HOTFIX BUILD
+================================
+• Fix developer settings crash on different language than english  
+• Disable random settings header wallpaper by default, for ones with really dead network connection it was causing settings app to crash
+• Set dex2oat thread count and cpuset
+• utilize task_profiles.json + cgroups.json
+• Improvements in powerhint for uclamp
+• Added new backgesture effect to dolby and DeviceExtras
+• Configure schedutil up/down rate limit
+• Import default ringtone/notification/alarm sound from Pixel 9 Pro
+• Make device integrity pass by default again
+• Add Cloudfare and Adguard DNS Providers
+• Optimize Custom Headers to prevent memory leaks
+• Fix few possible NPE's
+
+
 Date - 23/01/2025
 =================
 • Switch to Full gapps for gapps ver
