@@ -2,6 +2,13 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 28/01/2025 - HOTFIX BUILD
+=================
+- Fix single sim card disconnecting bug
+- Fixed WhatsApp sound crash
+- Import QTI Power Hal
+- Updated Dolby App -Make bass enhancer available on speakers as well
+
 Date - 26/01/2025
 =================
 - Initial build rom bezke
