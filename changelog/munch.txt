@@ -1,6 +1,10 @@
 Device: POCO F4
 Device code name : munch
-Device maintainer: tejas101k
+Device maintainer: Rik
+
+Date - 30/01/2025
+=================
+• Initial Official Android 15 build.
 
 Date - 02/06/2024
 =================
