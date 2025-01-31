@@ -2,6 +2,16 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 31/01/2025
+=================
+• Synced with latest 2.4 source
+• Based on January Security Patch
+• Fixed Camera in official Telegram app and some other clients
+• Fixed high intensity vibrations
+• Fixed Notification Light
+• Disabled Blur
+• Removed FM Radio for now
+
 Date - 13/01/2025
 =================
 • Synced with latest 2.2 source
