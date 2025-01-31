@@ -1,6 +1,17 @@
-Initial Android 15 Build
-
-- MiuiCamera included
-- Circle to Search works
-- Gapps build
-- Playstore certified
+- Switched to AOSP encryption 
+- Enabled elfchecks for camera libs
+- Enable elfchecks for libwfdaac_vendor
+- Enable frame pacing for smoother visual performance
+- Uprev aidl power hal to 5
+- Mark CNE symlink target as required package
+- Update display flags & packages
+- Remove OMX audio codecs
+- Switch to common lights HAL
+- wifi: Disable DFS master capability
+- wifi: Enable WPA3/SAE
+- wifi: Enable SoftAP on indoor channel
+Kernel
+- Rebased over Latest LOS kernel 
+- Set pelt half-life to 16
+- Introducd SBalance IRQ balancer
+- Added IR-SPI driver
