@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.2-begonia-20250113-1353-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/begonia/15/gapps/Project_Infinity-X-2.2-begonia-20250113-1353-GAPPS-OFFICIAL.zip",
-			"timestamp": 1736776002,
-			"md5": "838c8684c9db411f702ae43c5c4b6262",
-			"size": 2021098070,
-			"version": "2.2"
+			"filename": "Project_Infinity-X-2.4-begonia-20250130-1603-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/begonia/15/gapps/Project_Infinity-X-2.4-begonia-20250130-1603-GAPPS-OFFICIAL.zip",
+			"timestamp": 1738253001,
+			"md5": "fc04b0c285ff836bb14957f10a3c769e",
+			"size": 2089072408,
+			"version": "2.4"
 		}
 	]
 }
