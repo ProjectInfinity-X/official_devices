@@ -2,6 +2,13 @@ Device: Google Pixel 7 Pro
 Device code name : cheetah
 Device maintainer: pyrtle93
 
+Date - 01/31/2025
+• Updated to Jan qpr1
+• Fix cutoff when enrolling udfps on setup
+• NGA works now
+• Added SoundPicker
+• Updated prebuilt kernel to 5.10/24Q4-12476354
+
 Date - 01/12/2025
 • Synced with recent source changes
 • Circle to Search works by default
