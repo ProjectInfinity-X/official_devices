@@ -2,7 +2,16 @@ Device: Xiaomi 11T Pro
 Device code name : vili
 Device maintainer: swiitchOFF
 
-Date - 04/01/2024
+Date - 27/01/2025
+=================
+• Remove direct flag for VOIP RX (Fixes the problem of WhatsApp, Telegram etc..)
+• Kernel upstream
+
+Date - 24/01/2025
+=================
+• Source upstream
+
+Date - 04/01/2025
 =================
 • Source upstream
 • Disable FRP

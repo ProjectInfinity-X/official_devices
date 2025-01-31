@@ -1,6 +1,10 @@
-Device: Poco X5 Pro 
+Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: RDx55
+
+Date - 30/01/2025
+=================
+- Initial Android 15 Release
 
 Date - 10/08/2024
 =================

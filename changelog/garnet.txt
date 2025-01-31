@@ -1,6 +1,27 @@
 Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
-Device maintainer: franlop77
+Device maintainer: bezke
+
+Date - 28/01/2025 - HOTFIX BUILD
+=================
+- Fix single sim card disconnecting bug
+- Fixed WhatsApp sound crash
+- Import QTI Power Hal
+- Updated Dolby App -Make bass enhancer available on speakers as well
+
+Date - 26/01/2025
+=================
+- Initial build rom bezke
+- Completely rebased DT and Vendor
+- Fixed L1 and L3 issues
+- Switch to SkiaGl
+- Added few activates optimizing compiler flags for HWUI
+- Added sim restart shell script
+- Import some audio configurations from stock vendor
+- Import haptic feedback configurations from Stock
+- Import performance configurations from Stock
+- Updated graphics and display configurations
+- Update Dalvik heap for Android 15 ( We have a 8gb device)
 
 Date - 09/12/2024
 =================
