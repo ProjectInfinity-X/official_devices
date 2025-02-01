@@ -1,0 +1,7 @@
+Device: Samsung Galaxy S10
+Device code name : beyond1lte
+Device maintainer: FrEeRuNnEr4EvEr
+
+- Initial Android 15 Build
+
+* Gapps build

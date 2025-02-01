@@ -1,0 +1,7 @@
+Device: Samsung Galaxy F62
+Device code name : f62
+Device maintainer: FrEeRuNnEr4EvEr
+
+- Initial Android 15 Build
+
+* Gapps build
