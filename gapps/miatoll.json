@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.2-miatoll-20250101-1923-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/miatoll/15/gapps/Project_Infinity-X-2.2-miatoll-20250101-1923-GAPPS-OFFICIAL.zip",
-			"timestamp": 1735758960,
-			"md5": "d9d0610f763df3a77140248f216bb966",
-			"size": 1956781083,
-			"version": "2.2"
-		}
+			"filename": "Project_Infinity-X-2.4-miatoll-20250201-0736-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/miatoll/15/gapps/Project_Infinity-X-2.4-miatoll-20250201-0736-GAPPS-OFFICIAL.zip",
+			"timestamp": 1738394352,
+			"md5": "cf1fe5ae4b4c792dc2c04c95bc59e125",
+			"size": 2022887983,
+			"version": "2.4"
+	}
 	]
 }
