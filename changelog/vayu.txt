@@ -1,16 +1,8 @@
 Changelog:
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/807)
-- Make device integrity pass by default again
-- Fix developer settings crash on different language than english 
-- Add Ability to Force Full Screen Apps
-- Allow to change header images from included header packs
-- Fiercly prevent notification icons going white for people who still doing dirty flashing the QPR's
-- Import default ringtone/notification/alarm sound from Pixel 9 Pro
-- Disable random settings header wallpaper by default, for ones with really dead network connection it was causing settings app to crash
-- Fix a bug where launcher's Clear All recents button may go stuck 
-- Add Cloudfare and Adguard DNS Providers
-- Optimize Custom Headers to prevent memory leaks
-- Fix few possible NPE's
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/853)
+- Add Charging current control
+- Make dolby bass enhancer available on speakers
+- Make dolby switches more prone to Material colours 
 
 Notes:
 • Default shipped kernel hasn't been shipped with KernelSU (For KernelSU variant kernel:- Click Here (https://www.pling.com/p/2169528/))
