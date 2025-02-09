@@ -2,6 +2,19 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 08/02/2025
+=================
+- Add OP Dolby
+- Switch to Xiaomi fingerprint AIDL
+- Optimize and improve auto brightness adjustment
+- Tune ambient display burn-in protection
+- Add burn-in protection for statusbar and navbar
+- Increase 5 GHz network signal tolerance
+- Enable Zram and set to 60% of ram
+- Lot of govenor and boost configs for better performance
+- Fix screen record lag
+- Fix Voip Calls commits added
+
 Date - 28/01/2025 - HOTFIX BUILD
 =================
 - Fix single sim card disconnecting bug
