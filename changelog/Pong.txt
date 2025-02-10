@@ -2,6 +2,12 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 10/02/2025 
+=================
+• Switch to Xiaomi Dolby libs 
+• Switch to Meteoric kernel
+• Configuration for dolby spatial audio
+
 Date - 28/01/2025 - HOTFIX BUILD
 ================================
 • Fix developer settings crash on different language than english  
@@ -16,7 +22,6 @@ Date - 28/01/2025 - HOTFIX BUILD
 • Add Cloudfare and Adguard DNS Providers
 • Optimize Custom Headers to prevent memory leaks
 • Fix few possible NPE's
-
 
 Date - 23/01/2025
 =================
