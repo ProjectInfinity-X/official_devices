@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.4-alioth-20240807-2151-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/alioth/14/vanilla/Project_Infinity-X-1.4-alioth-20240807-2151-VANILLA-OFFICIAL.zip",
-			"timestamp": 1723042974,
-			"md5": "85044e0ebb56adafc40628fb39adf85e",
-			"size": 1617167477,
-			"version": "1.4"
+			"filename": "Project_Infinity-X-1.7-alioth-20241202-1117-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/alioth/14/vanilla/Project_Infinity-X-1.7-alioth-20241202-1117-VANILLA-OFFICIAL.zip",
+			"timestamp": 1733138143,
+			"md5": "9356a0300dfaf6634199ff65670affc6",
+			"size": 1693969295,
+			"version": "1.7"
 		}
 	]
 }

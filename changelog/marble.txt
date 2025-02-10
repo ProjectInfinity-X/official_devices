@@ -1,0 +1,110 @@
+Device: Poco F5/ Redmi Note 12 Turbo
+Device code name : marble
+Device maintainer: PabloEscobar
+
+Date - 05/01/2025
+=================
+-marble: Source upstream
+-Fix deep sleep issue
+-Added support for Charging limit
+-Added Custon Display saturation adjustment
+
+Date - 22/12/2024
+=================
+- marble: Fixed Netflix loading screen
+- Added Dolby vision support and fixed dolby atmos media codecs
+- import audio effects from oneplus  9R
+
+Date - 02/12/2024
+=================
+- marble: initial android 15
+- Update blobs hyperos v816.0.10.0.UMRMIXM
+- Added Dolby atmos and launcher icon
+- Added HyperOS Gallery,VideoPlayer,Calculator
+- Fixed SIGSEGV (segmentation fault) errors caused by mismatched memory layouts
+- Fixed SFPS location
+
+Date - 24/08/2024
+=================
+- marble: update sensor notifier extension
+- update hyper os cam from marble OS1.0.7.0.UMRMIXM
+- Move to Xiaomi IR AIDL
+- Move more radio properties to vendor
+- Remove DEVICE_PROVISIONED
+- overlay: Prodive MIUI color mode options
+- overlay: Move rro packages to vendor partition
+- overlay: Remove _Sys and _Vendor suffix from names
+- Add clang-format configuration
+
+Date - 09/08/2024
+=================
+- Fix battery and USB OTG detection
+- Drop xiaomi libsensor_cal@2.0.so
+- Unpin telephony apks
+- Build xiaomi-telephony-stub
+- Build XiaomiDolby
+- Define OEM fast charge sysfs node
+- Optimize dex2oat for cortex-a76 on cortex-a510
+- Optimize native executables for Cortex-A76 CPU
+- wifi: Enable support for IEEE80211AX
+- rootdir: Add sdcard1 and usbotg to recovery fstab
+- Fix battery and USB OTG detection
+- Load adsp_loader_dlkm for battery status in recovery
+- sensors: Increase _oem_msg struct size
+- Kill xiaomi citsensorservice and sensor communicate
+- sensors: Introduce LightNotifier and use libssccalapi@2.0
+- Add aod notifier
+- sensors: Convert nonui notifier into a generalized sensor based notifier
+- sensors: Close touch dev fd after usage
+- Use kernel provided xiaomi_touch.h
+- sensors: Pass nonui value unmodified to touchscreensensors: Pass nonui value unmodified to touchscreen
+- sensors: Cleanup code and drop unused dependencies
+- Drop nfc services from manifest since they have fragments
+- Migrate to QTI USB Gadget 1.2 HIDL
+- Swap to QTI USB init scripts
+- Use soong_config_set to set xiaomi powershare variable
+- Unset BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Assert for marble or marblein
+- Introduce sensor notifier extension to report raw brightness
+- Set HWC-specific properties
+- Set display idle time to 0
+- Add missing kvh2xml.xml
+- Add Xiaomi sensor module
+- Update blobs from V816.0.6.0.UMRMIXM
+- Update bcr to version 1.69
+
+Date - 11/07/2024
+=================
+- Fixed OIS
+- Updated ViperFX to latest 6.6
+
+Date - 09/07/2024
+=================
+- Based on QPR3 July Security Patch 
+- Fixed low brightness flickers fully
+- Updated ViperFX to latest 6.5
+- Updated BCR App to latest 1.65
+- Reverted to stock Adreno blobs to fix gameplay issues
+- Updated some blobs
+- OTA not pushed as CLEAN FLASH IS HIGHLY RECOMMENDED due to QPR update
+
+Date - 23/06/2024
+=================
+- Fixed Aod flicker on 0a display panels
+- Reduced flickers at low brightness (slight flickers still there in qs but no flickers in apps )
+- Silenced some spammy logging
+- Updated Adreno blobs from chenfeng V816.0.5.0.UNJCNXM
+- Added back support for Dolby spatial audio
+- Refactored Clear Speaker Fragment code
+- Import missing media codecs from stock
+- Updated BCR App to v1.64
+
+Date - 02/06/2024
+=================
+- Fixed Auto Brightness 
+- Improved Haptics
+- Negligible flickers now
+- Signed build to pass Play Integrity again
+- Updated build fingerprint 
+- Updated ViperFX to latest 6.3
+- Updated BCR to latest 1.63

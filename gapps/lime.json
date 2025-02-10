@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.1-lime-20240607-1219-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/lime/14/gapps/Project_Infinity-X-1.1-lime-20240607-1219-GAPPS-OFFICIAL.zip",
-			"timestamp": 1717762438,
-			"md5": "a7c4b21113db0a6c95292d68a3da3787",
-			"size": 1718392148,
-			"version": "1.1"
+			"filename": "Project_Infinity-X-1.7-lime-20241202-1301-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/lime/14/gapps/Project_Infinity-X-1.7-lime-20241202-1301-GAPPS-OFFICIAL.zip",
+			"timestamp": 1733144299,
+			"md5": "bce3d455c43970008118836df7f0cf26",
+			"size": 1836488835,
+			"version": "1.7"
 		}
 	]
 }

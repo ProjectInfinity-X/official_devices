@@ -1,0 +1,17 @@
+Device: Pixel 6a
+Device code name : bluejay
+Device maintainer: IczYn
+
+Date - 13/07/2024
+=================
+• V1.3 Release
+
+Date - 20/08/2024
+=================
+• remove pixelparts
+
+Date - 18/09/2024
+=================
+• add back pixelparts
+• change kernel to 6.1 ( thanks to hOS Team )
+

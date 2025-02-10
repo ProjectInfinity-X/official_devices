@@ -1,0 +1,140 @@
+Device: Redmi 12 5G / Poco M6 Pro 5G
+Device code name : sky
+Device maintainer: Suvojeet_Sengupta
+
+Date - 01/12/2024
+=================
+• Initial Android 15 Release
+• Added LCD features
+• Fixed libperfmgr issue
+• Fixed SFPS location 
+• Build GNSS Hal from source
+• Misc perf improvements
+
+Credits
+• Thanks to @lostark13 For base device tree
+• Thanks to @Saifu_88 , @Bruce0O_7 For testing the rom
+
+Date - 22/11/2024
+=================
+• Added support for HBM & CABC LCD features.
+• Manage HBM and CABC states on screen events
+• Updated CarrierConfig from HyperOS 1.0.5.
+
+Credits
+• Thanks to @AltafYafai for testing the ROM.
+• Thanks to @lostark13,@redducc & @jendermine For base device tree
+
+Date - 19/10/2024
+=================
+• Fix some sensors not working
+• Fix Media picker crash
+
+Date - 18/10/2024
+=================
+• Use led vibrator
+• Migrate to QTI USB Gadget 1.2 HIDL
+• Swap to QTI USB init scripts
+• Disable proprietary listen sound model
+• Add hotword enrollment permissions
+• Fix low sound
+• Align display props with stock
+• Fix cpu variant runtime flag
+• Fix powerhint L3 node
+
+Credits
+• Thanks to @jendermine , @redducc & @lostark13 For base device tree
+• Thanks so much to @messypenguin For testing the rom
+
+Date - 24/09/2024
+=================
+• Update blobs from V816.0.6.0.UMWINXM
+• Remove software OMX codec references
+• Prebuilt gcam go included
+• Switch to 64bit only
+
+Credits
+• Thanks to Steven Strange & @Psycho_HuNtE_r & @messypenguin For testing the rom
+
+• Thanks to @jendermine , @redducc & @lostark13 For base device tree
+
+Date - 12/09/2024
+=================
+• switch to AOSP dieler 
+
+Credits                                    
+• Thanks to @ashwani212 & @solocaptainblaze For testing And Server.
+
+Date - 17/08/2024                                                                                             
+=================
+• No device side changes
+• source changes [Click here](https://t.me/ProjectInfinityX/489)
+
+Date - 09/08/2024
+=================
+• HOTFIX build
+• add support for lift to wake
+• source synced with latest qs settings crash fixed
+• add colour profile overlay
+
+Credits
+• Thanks to @ES_prophet for testig
+
+Date - 08/08/2024
+=================
+• hotfix update
+• Fixed hotspot crash
+• fixed sms sim toggle on/off required to get sms
+• misc underhood changes
+
+Date - 08/08/2024
+=================              
+• Rebased over POS tree
+• Upstremed Kernel AtomX 5.10.218
+
+Credits
+• Thanks to @lostark13 @redducc and @jendermine For base tree
+
+Date - 13/07/2024
+=================
+• Signed build to pass integrity check
+• Upstremed Kernel (KernelSu included upstremed to 11874)
+• Switched to OSS libperfmgr
+• Updated Blobs from V816.0.5.0.UMWINXM HyperOS
+• Updated Carrier config from HyperOS 1.0.5
+• Added Gcam Go as a Default camera app
+• Fixed Low sound in Wired Headphones            
+• Fixed Depth wallpaper for sky (Source side)
+• Misc Improvements   
+                                                                                                
+Credits
+• @lostark13 For base tree
+• @Mijumourya For gki customized kernel
+                                                                                                                      
+Date - 24/06/2024
+=================
+• Siged build to pass integrity check
+• Fixed low audio on wired earphones
+• Updated display blobs
+• Improved battery drain
+• Misc Improvements
+
+Credits
+• @lostark13 For base tree
+• Thanks to @tejas101k for help                                                                                       
+
+Date - 08/06/2024
+=================
+Changelogs:
+• Improved Charging Speeds
+• Added ViperFX
+• Added Support For FM radio
+• Added inline props with Stock HyperOS
+• Added Thermal Improvements (Thanks to @lostark13)
+• Added Support For XIG Model
+• Added Performance tweaks
+• Dropped few 32 Bit Blobs
+
+Credits
+• @lostark13                
+• @SwagAjay

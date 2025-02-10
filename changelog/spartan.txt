@@ -1,0 +1,15 @@
+Device code name : spartan
+Device maintainer: Abhi & Amruth
+
+Decrypted by default
+Included Realme camera
+Switched to new Kernel
+Included Dolby
+
+=================
+Date - 04/12/2024
+=================
+- fixed lockscreen charging info
+- changed to ximi dolby
+- Include AyakaAddons
+- Included Oplus cam

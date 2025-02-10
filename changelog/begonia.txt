@@ -1,0 +1,81 @@
+Device: Redmi Note 8 Pro
+Device code name : begonia
+Device maintainer: ShantanuPC
+
+Date - 31/01/2025
+=================
+• Synced with latest 2.4 source
+• Based on January Security Patch
+• Fixed Camera in official Telegram app and some other clients
+• Fixed high intensity vibrations
+• Fixed Notification Light
+• Disabled Blur
+• Removed FM Radio for now
+
+Date - 13/01/2025
+=================
+• Synced with latest 2.2 source
+• Based on November Patch
+• Fixed "Fingerprint Hardware not found" for some users
+
+Date - 02/12/2024
+=================
+• Synced with 2.2 source
+• Based on November Security Patch
+• Fixed some OTT apps video playback
+• Enabled Blur
+
+Date - 14/11/2024
+=================
+• Synced with 2.1 source
+• Initial Android 15 release
+• MIUI Leica Camera & Xiaomi Dolby included
+
+Date - 26/10/2024
+=================
+• Synced with 1.6 source
+• Switched to Xiaomi Dolby
+• Fixed Netflix Video Playback
+• Fixed some flickering issues
+
+Date - 14/09/2024
+=================
+• Synced with 1.5 source
+• Fixed video playback issues
+• Fixed flickering in QS Blur and in some apps
+• Fixed Island notification position
+• Added USB accessories support
+
+Date - 23/08/2024
+=================
+• Synced with latest 1.4 source
+• Fixed Notification/Battery Light
+• Added Mtk FMRadio
+
+Date - 12/08/2024
+=================
+• Synced with 1.4 source
+• Fixed Bluetooth Disconnection Issue on No Media Output
+• Fixed Camera
+• Enabled Blur
+• Switched to SW C2
+• Patched necessary libs for A14
+• Enabled Zygote Preforking (faster app startups)
+• Enabled Pre-Rendering
+• Miscellaneous optimisations
+
+Date - 23/06/2024
+=================
+• Synced with 1.2 source
+• Signed build (Play integrity passes)
+• May security patch 
+• MIUI Leica Camera Included
+• Moto Dolby & Calculator Included
+• Vi Music Included
+
+Date - 03/06/2024
+=================
+• Synced with 1.1 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
+• MIUI Leica Camera Included

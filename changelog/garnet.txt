@@ -1,0 +1,72 @@
+Device: Xiaomi Redmi Note 13 Pro 5G
+Device code name : Garnet
+Device maintainer: bezke
+
+Date - 08/02/2025
+=================
+- Add OP Dolby
+- Switch to Xiaomi fingerprint AIDL
+- Optimize and improve auto brightness adjustment
+- Tune ambient display burn-in protection
+- Add burn-in protection for statusbar and navbar
+- Increase 5 GHz network signal tolerance
+- Enable Zram and set to 60% of ram
+- Lot of govenor and boost configs for better performance
+- Fix screen record lag
+- Fix Voip Calls commits added
+
+Date - 28/01/2025 - HOTFIX BUILD
+=================
+- Fix single sim card disconnecting bug
+- Fixed WhatsApp sound crash
+- Import QTI Power Hal
+- Updated Dolby App -Make bass enhancer available on speakers as well
+
+Date - 26/01/2025
+=================
+- Initial build rom bezke
+- Completely rebased DT and Vendor
+- Fixed L1 and L3 issues
+- Switch to SkiaGl
+- Added few activates optimizing compiler flags for HWUI
+- Added sim restart shell script
+- Import some audio configurations from stock vendor
+- Import haptic feedback configurations from Stock
+- Import performance configurations from Stock
+- Updated graphics and display configurations
+- Update Dalvik heap for Android 15 ( We have a 8gb device)
+
+Date - 09/12/2024
+=================
+- Completely rebased DT and Vendor
+- Updated Miuicamera to v816.0.17.0UNRMIXM
+- Updated blobs to v816.0.17.0UNRMIXM
+- Updated IlussionX kernel v2
+- Upstream to 5.10.230
+- Improvised Sound
+- Improvised many more things
+
+Date - 30/11/2024
+=================
+- Switch Illusion Kernel
+- Update last blobs
+- Synchronized with the latest changes
+
+Date - 14/10/2024
+=================
+- Switch Strix-Inline kernel
+- Switch XiaomiDolby
+- Update blobs v.816.0.12.0
+- Some more improvements and fixes
+
+Date - 13/09/2024
+=================
+- Update Horus Kernel 2.1 
+- KernelSU support
+- Switch XiaomiDolby
+- Fixed minimum brightness
+- Update thermals
+- 120hz support for screen recorder
+- Update blobs v.816.0.9.0
+- OTA support
+- Some more improvements

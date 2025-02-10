@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.1-citrus-20240607-1131-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/citrus/14/gapps/Project_Infinity-X-1.1-citrus-20240607-1131-GAPPS-OFFICIAL.zip",
-			"timestamp": 1717759541,
-			"md5": "0b87df43765840e97475d4aaf1e6fd88",
-			"size": 1716166689,
-			"version": "1.1"
+			"filename": "Project_Infinity-X-1.7-citrus-20241202-1404-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/citrus/14/gapps/Project_Infinity-X-1.7-citrus-20241202-1404-GAPPS-OFFICIAL.zip",
+			"timestamp": 1733148114,
+			"md5": "18bf6c5f23991272648e128f1c55b63c",
+			"size": 1834287284,
+			"version": "1.7"
 		}
 	]
 }

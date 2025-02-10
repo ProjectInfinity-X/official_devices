@@ -1,0 +1,22 @@
+Device: POCO F3 / Redmi K40 / Mi 11X (alioth)
+Recommended Recovery: https://orangefox.download/device/alioth
+Recommended firmware: 1.0.2.0 (avoid 1.0.3.0, it might brick your phone)
+
+Flashing Instructions:
+
+* Clean Flash:
+- Wipe Data
+- Flash ROM.zip
+- Flash Gapps (if you flashed vanilla and want google apps)
+- Flash Magisk (if want)
+- Reboot
+
+* Dirty Flash:
+- Wipe Dalvik, Cache
+- Flash ROM.zip
+- Flash Gapps (if you flashed vanilla and want google apps)
+- Flash Magisk (if want)
+- Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)

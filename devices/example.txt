@@ -1,0 +1,13 @@
+### This json filename should be the main codename you using while lunch process i.e. lunch infinity_codename-xxxxx
+
+   {
+			"maintainer": "Tejas Singh (tejas101k)", # Enter your Real Name enclosed by telegram username, you can skip real name if want to and just use telegram username or vice versa if don't have telegram.
+            "maintainerurl": "https://github.com/tejas101k", # Enter your profile url it could be of any platform like telegram, github, xda, OnlyFans (xd sry) whichever you prefer.
+			"devicemodel": "OnePlus 12R / ACE 3", # Enter your device model name separated by "/" if Unified Build.
+			"codename": "aston", # Your device codename separated by "/" if multiple Eg. "codename": "(ginkgo/willow)" or "codename": "(curtana/joyeuse/excalibur/gram)"
+			"supportgroupurl": "https://t.me/InfinityXGroup", #If Any
+			"donateurl1": "https://paypal.me/tejas101k", # If any
+			"donateurl2": "https://buymeacoffee.com/tejas101k" # If any
+   }
+
+   Sample json https://raw.githubusercontent.com/ProjectInfinity-X/official_devices/refs/heads/master/devices/vayu.json

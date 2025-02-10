@@ -1,7 +1,0 @@
-Device: Mi 11x Pro/Redmi K40 Pro
-Device code name : haydn
-Device maintainer: AshraySingh
-
-Date - 08/07/2024
-=================
-• Inital Android 14 Build

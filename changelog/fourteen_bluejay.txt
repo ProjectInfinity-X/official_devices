@@ -1,7 +1,0 @@
-Device: Pixel 6a
-Device code name : bluejay
-Device maintainer: IczYn
-
-Date - 13/07/2024
-=================
-• V1.3 Release

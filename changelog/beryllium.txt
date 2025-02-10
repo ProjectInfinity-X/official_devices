@@ -1,0 +1,59 @@
+Device: POCO F1
+Device code name : beryllium
+Device maintainer: Legendleo90
+
+Date - 10/02/2025
+=================
+• HOTFIX release
+• Switched to common lights HAL(Fixes Charging LED)
+
+Date - 09/02/2025
+=================
+• Bumped to V2.5
+• Disabled 5G toggle in internet settings
+
+Date - 31/01/2025
+=================
+• Upstreamed electro kernel to v2.5
+• Removed OMX audio codecs
+• Made bass enhancer available on speakers as well(dolby)
+• Add icons for dolby profiles
+• Add custom profile(dolby)
+• Fix developer settings crash on different language than english 
+• Add Ability to Force Full Screen Apps
+• Allow to change header images from included header packs
+• Fiercly prevent notification icons going white for people who still doing dirty flashing the QPR's
+• Import default ringtone/notification/alarm sound from Pixel 9 Pro
+• Disable random settings header wallpaper by default, for ones with really dead network connection it was causing settings app to crash
+• Fix a bug where launcher's Clear All recents button may go stuck 
+• Add Cloudfare and Adguard DNS Providers
+• Optimize Custom Headers to prevent memory leaks
+• Fix few possible NPE's
+
+Date - 23/01/2025
+=================
+• Bumped to v2.4
+• Upstreamed electro kernel to v2
+• Updated WFD system blobs
+
+Date - 30/12/2024
+=================
+• Synced with latest source
+• Switched to electro kernel
+• Added blur support
+
+Date - 11/12/2024
+=================
+• Initial Android 15 release
+
+Notes:
+• System-Ext build
+• Default shipped kernel hasn't been shipped with KernelSU-Next (For KernelSU-Next variant kernel:- Click Here (https://t.me/ak_builds_discussion/33301))
+• Playstore certified by default and banking apps do work
+• Circle To Search is available
+• Dolby Atmos is included
+• Miui Camera is included
+• Dirty Flash / OTA from previous A15 builds is fine
+
+Credits:
+• @xyz_sourav for miuicamera

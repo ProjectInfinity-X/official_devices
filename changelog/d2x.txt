@@ -1,0 +1,7 @@
+Device: Samsung Galaxy Note 10+ 5G
+Device code name : d2x
+Device maintainer: FrEeRuNnEr4EvEr
+
+- Initial Android 15 Build
+
+* Gapps build

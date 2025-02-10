@@ -1,0 +1,31 @@
+Device: Xiaomi 11T Pro
+Device code name : vili
+Device maintainer: swiitchOFF
+
+Date - 01/02/2025
+=================
+• Source upstream
+• Fix developer settings crash on different language than english  
+• Disable random settings header wallpaper by default, for ones with really dead network connection it was causing settings app to crash
+• Move to Xiaomi IR AIDL
+• dolby: Apply NLSound 4.1
+
+Date - 27/01/2025
+=================
+• Remove direct flag for VOIP RX (Fixes the problem of WhatsApp, Telegram etc..)
+• Kernel upstream
+
+Date - 24/01/2025
+=================
+• Source upstream
+
+Date - 04/01/2025
+=================
+• Source upstream
+• Disable FRP
+• Make bass enhancer available on speakers as well
+• Added blur support
+
+Date - 07/12/2024
+=================
+• Initial Android 15 build

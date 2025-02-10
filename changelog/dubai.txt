@@ -1,0 +1,24 @@
+Device: Motorola Edge 30
+Device code name: dubai
+Device maintainer: Francirijillo
+
+Date -  10-09-2024
+==================
+• Synced with latest 1.5 source
+• September 2024 ASB
+
+Date -  01-09-2024
+==================
+• Synced with latest 1.4 source
+• Add MotoDolby 
+
+Date -  23-08-2024
+==================
+• Initial official release
+• Synced with latest 1.4 source
+• MotoCamera4 included
+• Enabled ZRAM Writeback
+• Optimized RAM management
+• Dropped blur (due bad performance)
+• Signed build and PIF support
+• Merged August 2024 security patch

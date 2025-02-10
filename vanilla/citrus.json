@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.1-citrus-20240608-1001-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/citrus/14/vanilla/Project_Infinity-X-1.1-citrus-20240608-1001-VANILLA-OFFICIAL.zip",
-			"timestamp": 1717840515,
-			"md5": "7599a90b801576210a0fc65f9023eb1e",
-			"size": 1383995703,
-			"version": "1.1"
+			"filename": "Project_Infinity-X-1.7-citrus-20241202-1434-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/citrus/14/vanilla/Project_Infinity-X-1.7-citrus-20241202-1434-VANILLA-OFFICIAL.zip",
+			"timestamp": 1733149869,
+			"md5": "df026049ef9ee4a491c9f85e60041ad1",
+			"size": 1548832980,
+			"version": "1.7"
 		}
 	]
 }

@@ -1,0 +1,11 @@
+Device: Redmi note 12 Pro 4g
+Device code name : sweet2
+Device maintainer: MiDoNaSR
+
+Date - 24/09/2024
+=================
+Latest source changes
+
+Date - 18/08/2024
+=================
+nothing new only qpr3 update

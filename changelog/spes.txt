@@ -1,0 +1,72 @@
+Device: Redmi Note 11  
+Device Code Name: spes/spesn  
+Device Maintainer: JassiV
+
+---------------------------------------------------
+
+Update: 08/02/2024 - Version 2.5
+
+- Initial Offical Build 
+- Fixed FP Position Indicator 
+- Fixed DRM
+- Fixed DT2W On Default Kernel 
+- Update blobs from HyperOS Global stable v1.0.7.0.TGCMIXM_91ee997f22_13.0
+- Update audio/display/media into 'LA.UM.9.15.2.r1-10900-KAMORTA.QSSI14.0
+- Update lmkd properties to improve responsiveness
+
+---------------------------------------------------
+
+Update: 16/10/2024 - Version 1.6  
+- Remove quad mic support  
+- Enable slow-cpu media codecs  
+- Set correct channel mask for earpiece  
+- Support BT SCO mic for record_24 profile  
+- Add stereo support to BT SCO Headset Mic  
+- Correct maximum microphone count  
+- Address powerhal denials in sepolicy  
+- Build vendor modules for RIL, WFD, and GPS HAL  
+- Disable NFC service by default  
+- Add can-swap-width-height for video codecs  
+- Revert to previous thermal config  
+- Disable dynamic refresh rate  
+- Miscellaneous improvements and bug fixes  
+- Reverted back to OSS Kernel  
+
+---------------------------------------------------
+
+Update: 07/08/2024 - Version 1.4  
+- Rebased Device Source  
+- Removed duplicate sepolicies  
+- Fixup partition  
+- Applied August Security Patch QPR3  
+- Rebased device tree  
+- Reworked thermal management  
+- Updated blobs from miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM  
+- Switched to SF phase offsets from Redfin  
+- Dropped vsync offset properties  
+- Switched to parts-based refresh rate QS tile  
+- Built missing camera & audio libraries for 14 QPR3  
+- Brought back refresh rate customizations in settings  
+- Shifted to NightSilver Kernel  
+
+---------------------------------------------------
+
+Update: 01/06/2024  
+- Fixed "OK Google" issue  
+- Fixed dialer call history crash  
+- Fixed device integrity and Play certification to pass by default  
+- Fixed volume slider lag  
+- Fixed MicroG signature spoofing  
+- Added iOS depth wallpaper  
+- Added optional toggleable Android 11 QS  
+- Added QS header images  
+- Added combined QS element styles  
+- Allowed disabling screen capture detection for apps like Snapchat  
+- Allowed removing restrictions on selecting folders through Android (e.g., "Android/data")  
+- Allowed disabling extra iOS clock components  
+- Introduced new boot animation and settings UI  
+- Implemented background process killer  
+- Added multiple SIMs ringtone support  
+- Added WiFi standard icon  
+- Allowed hiding the navigation pill and configuring the IME space  
+- Added force full-screen apps preference  

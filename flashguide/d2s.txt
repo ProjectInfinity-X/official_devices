@@ -1,0 +1,16 @@
+Recommended Recovery:Infinity X recovery. Can be found inside rom zip
+
+Flashing Instructions:
+
+* Clean Flash:
+- Wipe Data
+- Flash Infinity-X ROM zip
+- Reboot
+
+* Dirty Flash:
+- Wipe Dalvik, ART Cache
+- Flash Infinity-X ROM zip
+- Reboot
+
+* OTA:
+- Simply upgrade via ota updater (either if pushed or via local update import)

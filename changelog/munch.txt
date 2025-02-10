@@ -1,0 +1,32 @@
+Device: POCO F4
+Device code name : munch
+Device maintainer: Rik
+
+Date - 30/01/2025
+=================
+• Initial Official Android 15 build.
+
+Date - 02/06/2024
+=================
+• Fixed "OK Google"
+• Fixed Dialer call history crash
+• Fixed device integrity and play certification passes by default
+• Fixed volume slider lag
+• Fixed MicroG signature spoofing
+• Added iOS depth wallpaper
+• Added optional toggleable Android 11 QS
+• Added QS Header Images
+• Added combined QS element styles
+• Allowed disabling screen capture detection for apps like Snapchat
+• Allowed removing restrictions on selecting folders through Android, e.g., "Android/data"
+• Allowed disabling extra iOS clock components
+• Introduced new boot animation and settings UI (hold name to enable wallpaper background blur)
+• Implemented background process killer
+• Added multiple SIMs ringtone support
+• Added WiFi standard icon
+• Allowed hiding the navigation pill and configuring the IME space
+• Added force full-screen apps preference
+
+Date - 16/05/2024
+=================
+• Inital Android 14 Build

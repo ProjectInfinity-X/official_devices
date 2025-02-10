@@ -1,0 +1,174 @@
+Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
+Device code name : raphael
+Device maintainer: pawelik001
+
+Date - 11/01/2025
+=================
+• Initial Project Infinity X, Android 15 release
+
+Date - 02/12/2024
+=================
+• Merged November 2024 Security Patch
+• Fix Left side volume panel location
+• Pass integrity again by default also fixed json tracking for Update Pif Spoof Json in Spoof settings
+• Make all Infinity Suite Settings searchable
+• Allow user to customize settings style header image (on holding the header image)
+• Fixed slow animations on qs release
+• Improve QS and systemwide fluidity
+• Fixed fading expandable QS clock upon pull and release
+• Improvements in RAM Management
+• Ship default voice reocrder app
+• Improve Launcher Now Playing
+• Make compact QS media toggle independent os OOS QS toggle
+
+Date - 31/10/2024
+=================
+• Merged October 2024 Security Patch 
+• Added QuickTap Support (Pixel Framework)
+• Added JSON based PixelProps & GameProps Spoofing
+• Added Auto Update Integrity Spoof json (https://t.me/InfinityXGroup/63230)
+• Added QS Tile to show volume panel
+• Added Toggle for Bluetooth Battery Color (If you see bluetooth icon not showing or bluetooth battery level not showing just restart systemui)
+• Add Wi-Fi Inactivity Timeout feature
+• Redesign progress seekbar
+• Fixed Notification Edge Light
+• Added More secure In-Settings AppLock Support (Now supports every launcher)
+• Fixed Screen Resolution change Crash on some devices
+• Improved OOS QS Panel (Fixed Media panel overlap, Secure QS, QS Haptics)
+• Improved Memory Pressure & Compaction
+• Adapted Weather View for Custom Clocks
+• Fixed Wireless Debugging
+• Replace simple foss keyboard with gboard on vanilla build
+• Added Clock Color Luminance Control
+• Make Strong Integrity Pass by Default (Fixes Custom Rom Detection in some banking/daily apps)
+• Bring back support for toggleable OxygenOS QS Style (https://t.me/ProjectInfinityX/470?single)
+• Add support for spoofing device as Pixel 9 Pro (Gain benefits like free gemini advanced, google one memberships)
+• NEW UI for System, Settings, Launcher & InfinitySuite
+• Added hotspot client manager (limit, block devices, hide your ssid, etc.)
+• Include Simple FOSS Keyboard on Vanilla Builds (Enable keyboard in Settings > System > Keyboard > On Screen Keyboard)
+• Added PowerShare, Sync, Preferred Network Tile
+• Added Color Based Bluetooth Battery Level (If you see bluetooth icon not showing or bluetooth battery level not showing just restart systemui)
+• Added Automated Sleep Mode
+• Added Extended Back Swipe Gestures
+• Added Scheduling Always on Display
+• Added Monochrome Color Set
+• Added Force Monochrome Themed Icons in Launcher
+• Added Support for Locking Recent Apps in Launcher
+• Switched Back to Old VoLTE(HD) & VoWifi Icon
+• Add support for quick launch apps from gamespace
+• Fixed Crash on Wrong QS Layouts
+• Fixed LockScreen Bottom Shortcuts Vibration
+• Fixed QS Customizer Panel Shade Color
+• Fixed Internet Tile Summary TextView
+• Fixed QR Code Scanner QS Tile & and LS Shortcut
+• Added Aosp Recovery Version Info print
+• Fixed Overlaying Max System Icons
+• Fixed Webview Disabled & not found in few apps
+• Update default apns
+• Added More Private DNS Options
+• Added OOS Style Dialer InCallUI
+• Added Optional Haptic Feedback on Back Gesture
+• Implement long press navigation bar to search gesture (circle to search wannabe) [Google app must be installed]
+• Fix OK Google or Hey Google (uninstall google app updates if you dirty flashed) and disable Google App auto update from playstore.
+• Update ViaBrowser prebuilt
+• Beautify Data saver & Mobile Data icons
+• Improve UI Smoothness
+
+Date - 14/08/2024
+=================
+• Merged August 2024 Security Patch
+• Added PIF apk Support (Updated pif to latest, fixed device integrity)
+• Translated major parts of rom (Infinity Suite, Settings, Launcher) into multiple international languages
+• Add Screen OFF Udfps (FOD)
+• Add Custom UDFPS ICONS
+• Add custom udfps animations
+• Remove additional dimensions adjustment / crop workarounds for depth wallpaper and make it automated
+• Fixed issues while unlocking device with pin when depth wallpaper enabled
+• Add X-Reality Display Engine & Vivid Display
+• Allow unlocking Ultra Extreme FPS (120 FPS) Spoof in PUBGM
+• Bring back QS Styles
+• Bring back brightness slider styles
+• Added Toggle to Spoof 5G icon instead LTE/4G even on 4G devices
+• Fix black screen of death while decreasing volume steps to 0
+• Fix some problematic notchbar killers causing bootloop
+• Added always on display while charging
+• Add TouchGestures
+• Add optional qs footer text
+• Fixed Scroll Lag on Clock Style Preview
+• Bring in Nothing 2.0 UI sound effects
+• Bring in OxygenOS keypress sounds
+• Fixed Snapchat login issue
+• Fix call recording for some devices where the sound from receiver end was not been recorded
+• Fixed Location Indicator View
+• Fixed Multiple NPE
+• Fixed Dynamic VoLTE/VoWIFI Toggle
+• Added Toggle to disable double tap to sleep on status bar
+• Improved RAM Usage
+• Changed Haptic Feedback Effect for Tiles
+• Add bluetooth timeout feature 
+• Added Toggle for Charging Ripple Effect
+• Updated Infinity Recovery drawables
+• Add infinity-x adaptive launcher icons
+• Added Toggle Privacy Indicators
+• Added BatteryBar
+• Added Split Shade QS Panel on Landscape
+• Added Live Display Support
+• Added More Options for NetworkMeter
+• Added Toggle for Bluetooth Battery Level
+• Added Toggle for Scroll Edge Haptic
+• Added Gradient Color on Battery Usage ProgressBarView
+• Added Notification Counter
+• Added Notification & Battery Light Customization
+• Added QS Tile Animations
+• Merged July 2024 (Android 14 QPR3) Security Patches
+• Lockscreen unlock is totally instant now
+• Completely fixed delay while switching from light mode to dark mode or vice versa
+• Add 5/5 & 6/6 pattern layout 
+• Update new bootanimation (for the last time now i hope)
+• Add partial screenshot and screenshot qs tile 
+• Fixed double IOS Battery charging percentage on lockscreen
+• Fixed lockscreen charging info for some devices which was smh bugged in 1.2 release 
+• Allow adjusting lockscreen clock bottom spacing
+• Add support for coloured lockscreen clock based on monet themeing 
+• Allow changing lockscreen clock font for ios clock 
+• Add more status bar clock chip styles
+• Allow hiding developer options status from apps
+• Allow disabling media player squiggle animation
+• Improve About Phone and Settings layout (Clipping Digital Wellbeing text and improper AboutPhone device codename and ram display 7gb etc fixed)
+• Hide navigation hint itself when taskbar enabled
+• Introduce dynamic VoLTE & VoWiFi icons
+• Fixed lock screen delay when power button is instantly pressed after turning off screen or general delay on lockscreen to appear when pressing power button
+• Improve delay while switching from light mode to dark mode and vice versa
+• Add brightness slider styles
+• Add X-Reality Display Engine under Display > Colours
+• Add Face Unlock support for App Lock
+• Fixed xbox status bar logo crash
+• Fix issues with Bluetooth (Issues while arriving notification like audio voulme decreased or coming from speaker)
+• Fixed occasional Face Unlock service is unavailable
+• Fixed broken monet modes either from wallpaper or styles or monet engine
+• Add support for UI Styles
+• Add support for configuring volume stream steps
+• Move to new network traffic implementation (fix alignment when showing 0 Kbps or network traffic not showing for some devices/users)
+• Fix volume panel lag for all the stream rows and not just only media row
+• Add support for toggle-able optional compact qs media player
+• Fixed IOS Volume lockscreen widget not updating instantly
+• Add support for PocketMode
+• Fix clear all notification button toggle auto reset to disable after reboot/close.
+• Reconfigure Launcher3 AllAppsContainer paddings
+• Redesign Launcher3 Settings layout
+• Fixed gesture navigation settings clipped text
+• Introduce automated DC Dimming for supported devices
+• Fixed abnormal volume panel behavior while volume percent text enabled
+• Add support for oem fastcharge detection for supported devices (turbo, warp, dash, vooc)
+• Fixed blank notification panel (not showing notifications when expanded)
+• Fixed half cut landscape notifications
+• Fixed disappearing statusbar bluetooth icon and blank bluetooth connected devices page
+• Fixed landscape tiles overlap
+• Fixed issues with quicksettings on higher dpi
+• Many more
+
+Date - 09/06/2024
+=================
+• Synced with 1.1 source
+• May Security patch
+• Signed Build (Fixed Device Integrity)
