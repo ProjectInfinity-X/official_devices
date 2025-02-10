@@ -2,6 +2,11 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
 
+Date - 10/02/2025
+=================
+• HOTFIX release
+• Switched to common lights HAL(Fixes Charging LED)
+
 Date - 09/02/2025
 =================
 • Bumped to V2.5
