@@ -1,0 +1,7 @@
+Device: Redmi Note 5 Pro
+Device code name : whyred
+Device maintainer: Arijit Saha
+
+Date - 10/02/2025 
+=================
+•Initial release
