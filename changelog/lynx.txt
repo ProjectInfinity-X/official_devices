@@ -1,0 +1,10 @@
+Device: Google Pixel 7a
+Device code name : lynx
+Device maintainer: pyrtle93
+
+Date - 02/10/2025
+• Initial A15 release
+• Based on A15 Feb firmware
+• Synced with recent 2.5 changes
+• Pixel features working
+• Various improvements/updates

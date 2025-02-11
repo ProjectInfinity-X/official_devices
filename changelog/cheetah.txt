@@ -2,6 +2,12 @@ Device: Google Pixel 7 Pro
 Device code name : cheetah
 Device maintainer: pyrtle93
 
+Date - 02/10/2025
+• Synced with recent 2.5 changes
+• Updated to Feb firmware
+• Fixed smart pixel not working
+• Various improvements/updates
+
 Date - 01/31/2025
 • Updated to Jan qpr1
 • Fix cutoff when enrolling udfps on setup
@@ -17,53 +23,3 @@ Date - 01/12/2025
 • Fixed google battery drain
 • Fixed search icon not showing on lock screen for now playing
 • More improvements
-
-Date - 12/25/2024
-• Fixed systemui npe that was causing constant crashes
-• Fixed settings crashing when dirty flashing
-• Added pixel smartspace
-• To fix circle to search and other related issues go to settings, apps, default apps and make sure google is set as default assistant app
-• More various improvements/fixes
-
-Date - 12/19/2024
-• Updated to November A15
-• Synced with recent source changes
-• All Pixel features are working except for show search button on lock screen for now playing & NGA
-• Updated to latest prebuilt A15 kernel
-• More various improvements/fixes
-
-Date - 09/28/2024
-=================
-• Updated to September
-• Updated kernel to r67
-• Fixed sms/mms from google restore not working
-• More various improvements
-
-Date - 08/19/2024
-=================
-• Synced recent source changes
-• Updated to August
-• Dropped V4A
-• Updated to prebuilt aosp kernel based off r55
-• More various improvements/fixes
-
-Date - 06/27/2024
-=================
-• Initial release
-• Synced with 1.2 source
-• May Security patch
-• Signed Build (Fixed Device Integrity)
-• Viper4Android comes by default
-• Some pixel exclusives are working
-• RCS works by default
-• more various improvements/fixes
-
-Date - 07/02/2024
-=================
-• Fixed wallpaper & styles not showing in settings
-• Added pixel-frameworks so all pixel features are working
-• Carrier config/settings updates
-• Fixed themes f/c in InfinitySuite
-• Fixed crash in lockscreen shortcuts
-• Statusbar padding improvements
-• More various fixes/improvements
