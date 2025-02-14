@@ -1,4 +1,12 @@
 Changelog:
-* Make dolby bass enhancer available for speakers
-* Make dolby atmos more prone to monet theming 
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/853)
+* Fix Short Media (shorts, reels, tiktok etc.) freezing upon pause (for sure this time)
+- Merged r17 tags to all external remote tracked repos
+- Make expandable QS Clock black again on light theme
+- Fix occasional overlapping of QS Header clock styles over default combined header
+- Add support for Statusbar notification colored icons feature
+- Fix issues related to media/audio playback 
+- Add QS Page Custom Transition Animations
+- Add support for hide applist feature
+- Bring back less boring heads up
+- Fixed empty volume output layout on bluetooth when not playing media
+- Disable Settings Dump service
