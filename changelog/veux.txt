@@ -2,25 +2,13 @@ Device: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
 Device code name : veux
 Device maintainer: Sdm695dev
 
-Date - 27/01/2025
+Date - 14/02/2025
 =================
-•Hotfix Update.
-•Fixed developer option crashes.
-•Play integrity passes again now.
-•Updated to latest Paimon Kernel Changes.
-
-Date - 23/01/2025
-=================
-• Bumped to v2.4
-• Shipped With positron kernel and ksu enabled by default.
-• Comes with January security patch
+• Bumped to v2.5
+• Comes with February security patch
+• Fully Functional Miui Camera.
+• NFC works for all the variants.
+• Added support for Viper4Androidfx
 • Play Integrity passes out of the box.
-• Fixed Random SystemUI crashes especially which occurs while listening music and call arrives.
-• Fixed Usb detection which was greyed out in previous builds.
-• Fixed whatsapp video call rear cam freeze issue.
-• Added props to improve battery backup.
-• Optimised status bar padding.
-
-Date - 07/01/2025
-=================
-• Initial Build
+• Shipped With Positron kernel and ksu enabled by default.
+• Fixed Whatsapp video call in rear cam works but it lags :(
