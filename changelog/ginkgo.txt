@@ -1,8 +1,5 @@
 Changelog:
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/853)
-- Add Charging current control
-- Make dolby bass enhancer available on speakers
-- Make dolby switches more prone to Material colours 
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/881)
 
 Notes:
 • Use non-dynamic A15 OrangeFox recovery (https://t.me/builds_discussion/17932)
