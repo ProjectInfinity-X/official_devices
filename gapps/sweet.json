@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.2-sweet-20241230-0655-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/sweet/A15/Project_Infinity-X-2.2-sweet-20241230-0655-GAPPS-OFFICIAL.zip",
-			"timestamp": 1735541494,
-			"md5": "1ad4372930be0da84e050e50054c15f4",
-			"size": 2203405842,
-			"version": "2.2"
+			"filename": "Project_Infinity-X-2.5-sweet-20250215-0056-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/sweet/15/GAPPS/Project_Infinity-X-2.5-sweet-20250215-0056-GAPPS-OFFICIAL.zip",
+			"timestamp": 1739580800,
+			"md5": "cca8169a416f0f6d8c04890c41dcd430",
+			"size": 2345736730,
+			"version": "2.5"
 		}
 	]
 }

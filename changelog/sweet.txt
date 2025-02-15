@@ -2,6 +2,22 @@ Device: Redmi Note 10 Pro / Pro Max
 Device Codename : sweet
 Device Maintainer: donjohanliebert
 
+Date - 15/02/2025
+=================
+- Merged r17 tags to all external remote tracked repos
+- Make expandable QS Clock black again on light theme
+- Fix occasional overlapping of QS Header clock styles over default combined header
+- Add support for Statusbar notification colored icons feature
+- Fix issues related to media/audio playback 
+- Add QS Page Custom Transition Animations
+- Add support for hide applist feature
+- Bring back less boring heads up
+- Fixed empty volume output layout on bluetooth when not playing media
+- Disable Settings Dump service
+
+Notes:
+- I highly recommend to clean flash from v2.2
+
 Date - 30/12/2024
 =================
 - Sync to latest source changes
