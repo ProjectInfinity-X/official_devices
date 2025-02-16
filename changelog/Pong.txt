@@ -2,6 +2,12 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 16/02/2025
+=================
+- Fix wireless charging 
+- Switch to kryo 785
+- Drop oos lib and add patch nos lib to fix sms
+
 Date - 10/02/2025 
 =================
 • Switch to Xiaomi Dolby libs 
