@@ -1,6 +1,11 @@
 Device: Redmi Note 11  
 Device Code Name: spes/spesn  
 Device Maintainer: JassiV
+---------------------------------------------------
+
+Update: 16/02/2024 - Version 2.5
+
+- Includes Latest Source Changes
 
 ---------------------------------------------------
 
