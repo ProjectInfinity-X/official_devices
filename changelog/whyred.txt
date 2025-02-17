@@ -2,6 +2,19 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 17/02/2025
+=================
+- Synced with latest source
+- Switched to san kernel
+- Increased zram
+- Enabled zram writeback
+- Dropped low memory killer
+- Switched to QTI health AIDL service
+- Switched to QTI memtrack AIDL hal
+- Added recovery check for Dynamic Partitions
+- Cleanup qti_whitelist
+- Many more underhood changes
+
 Date - 15/02/2025
 =================
 - Synced with latest source
