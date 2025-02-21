@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.4-munch-20250126-1322-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/munch/15/gapps/Project_Infinity-X-2.4-munch-20250126-1322-GAPPS-OFFICIAL.zip",
-			"timestamp": 1737920520,
-			"md5": "a3f9d8c2b7e604f1a5d3e6f8c9b2a7d1",
-			"size": 1968912400,
-			"version": "2.4"
+			"filename": "Project_Infinity-X-2.5-munch-20250220-1805-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/munch/15/gapps/Project_Infinity-X-2.5-munch-20250220-1805-GAPPS-OFFICIAL.zip",
+			"timestamp": 1740074561,
+			"md5": "791a896594d52030ad97fcd056b76467",
+			"size": 2096534331,
+			"version": "2.5"
 		}
 	]
 }
