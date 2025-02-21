@@ -2,6 +2,12 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: Rik
 
+Date - 21/02/2025
+=================
+• Added HBM, DC  Dimming, Per-app Refresh rate, touch controls for gaming, viper4android, Mi Sound (Dirac), Leica camera (thanks to hdzungx) and many more device side changes!
+
+• Dirty flash from v2.4 is fine. Just make sure to flash vanilla version over the vanilla build and gapps version for the gapps build.
+
 Date - 30/01/2025
 =================
 • Initial Official Android 15 build.
