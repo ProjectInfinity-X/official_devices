@@ -1,4 +1,16 @@
-- Initial Android 15 Build
-- Gapps and vanilla build
-- Circle to Search works
-- Playstore certified
+Device: Redmi Note 7/7s
+Device code name : lavender
+Device maintainer: SpiDyNub
+
+Date - 21/02/2025
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/881)
+• Switch to common lights HAL
+• Disable avoid_gfx_accel prop
+• Drop unused Media blobs
+• Drop Deprecated configs
+• configs: Trim QTI whitelists
+• Enable the SVA in UI area
+• Use AOSP default Codec2/OMX ranks
+• Drop explicit 'sdk_version' declaration
+• Remove suffix in vulkan-related permissions
