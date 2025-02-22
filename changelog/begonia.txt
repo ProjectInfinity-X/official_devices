@@ -2,6 +2,18 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 22/02/2025
+=================
+• Synced with latest 2.5 source
+• Based on February security patch
+• Allowed Snapchat to use wide angle and 2x camera
+• Video Playback fixed
+• Added back FM Radio
+• Fixed Vulkan
+• Disabled FRP
+• Added c2.android.av1-dav1d.decoder
+• Restart C2 services after every boot
+
 Date - 31/01/2025
 =================
 • Synced with latest 2.4 source
