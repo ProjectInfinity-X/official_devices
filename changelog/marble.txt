@@ -2,6 +2,16 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 23/02/2025
+=================
+-marble: Source upstream
+-nuke oos qs header as its causing qs jitter and lag
+-High touch polling rate
+-Added battery props for better batterybackup
+-Fix setting default thermal profile
+-fixed issue with vanilla variant gapps not flashable
+-fixed bluetooth audio issue 
+
 Date - 17/02/2025
 =================
 -marble: Source upstream
