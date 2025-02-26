@@ -2,6 +2,10 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 26/02/2025
+=================
+• Initial Project Infinity X, Android 15 release
+
 Date - 02/12/2024
 =================
 • Merged November 2024 Security Patch
