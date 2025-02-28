@@ -4,6 +4,15 @@ Device maintainer: SHITIJ.dev
 
 Date - 30/11/2024
 =================
+ <<- Changelog for @ProjectInfinityX v2.5 Release ->>
+∞ Source Changelog (https://t.me/ProjectInfinityX/652)
+• Added FM Radio for R7
+• Fixed NFC path
+• Added Lockscreen Album art
+• Added currently playing qs music tile
+
+Date - 30/11/2024
+=================
 ∞ Source Changelog (https://t.me/ProjectInfinityX/652)
 • Bring back most features from v1.x (Android 14 Releases)
 • Bring back Settings style (Hold Settings Header Image for more options) and InfinitySuite style from v1.x
