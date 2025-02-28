@@ -4,6 +4,43 @@ Device maintainer: SHITIJ.dev
 
 Date - 30/11/2024
 =================
+ <<- Changelog for @ProjectInfinityX v2.5 Release ->>
+∞ Source Changelog (https://t.me/ProjectInfinityX/652)
+• Merged February 2025 Security Patches 
+• Fixed boot issues for Google Pixel Devices (Additionally must pick this device side patch (https://github.com/Pissel7Series/device_google_pantah/commit/0371c54c8b7c0d29e8dd3f244ba1c0df63ac819e))
+• Add lockscreen media album art
+• Add QS Header Clock styles
+• Add Pixel Sound Picker on Gapps builds
+• Add functionality to always show AOD while charging 
+• Refactor Edge Light Implementation (Can now also show edge light always when on ambient)
+• Fixed an issue of square notifications on cyberpunk and surround qs styles
+• Fix developer settings crash on different language than english 
+• Add Ability to Force Full Screen Apps
+• Add an choice to launch apps either in AOSP Freeform or LMOFreeform
+• Import default ringtone/notification/alarm sound from Pixel 9 Pro
+• Add preferred network tile (to switch between 5G and LTE networks seamlessly from qs tile)
+• Add Currently playing qs music tile
+• Disable random settings header wallpaper by default, for ones with really dead network connection it was causing settings app to crash
+• Fix a bug where launcher's Clear All recents button may go stuck 
+• Integrate LMOFreeform to gamespace quick start apps 
+• Add toggle for Smart 5G
+• Add toggle to disable heads up notifications
+• Add functionality to enable compact heads up notifications
+• More fixes and improvements for depth wallpaper functionality 
+• Add functionality of Idle background processes killer to suppress idle drains
+• Integrate google lens shortcut to screenshot ui
+• Fix improper udfps while smart pixels enabled
+• Allow to change header images from included header packs
+• Fiercly prevent notification icons going white for people who still doing dirty flashing the QPR's
+• Add Cloudfare and Adguard DNS Providers
+• Fix A11 QS Flashlight strength tile layout
+• Add LinearMotorService for oplus cam haptic services (fixes crashes for oneplus cams in absence of waveformeffect)
+• Richtap vibrations code improvements
+• Optimize Custom Headers to prevent memory leaks
+• Fix few possible NPE's
+
+Date - 30/11/2024
+=================
 ∞ Source Changelog (https://t.me/ProjectInfinityX/652)
 • Bring back most features from v1.x (Android 14 Releases)
 • Bring back Settings style (Hold Settings Header Image for more options) and InfinitySuite style from v1.x
