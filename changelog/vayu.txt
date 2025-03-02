@@ -1,11 +1,5 @@
 Changelog:
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/881)
-
-Notes:
-• Default shipped kernel hasn't been shipped with KernelSU (For KernelSU variant kernel:- Click Here (https://www.pling.com/p/2169528/))
-• Playstore certified by default and banking apps do work
-• Circle To Search is available
-• Both Vanilla & Gapps build available 
-• Dolby Atmos is included
-• Leica Camera is included
-• Dirty Flash / OTA from previous A15 builds is fine
+* Fixed notification/battery led light
+* Add status bar on-going task notification progress bar chip
+* Add support for Call of Duty in Game spoof
+* Improve depth wall functionality
