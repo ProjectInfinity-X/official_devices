@@ -2,6 +2,13 @@ Device: Xiaomi 11T Pro
 Device code name : vili
 Device maintainer: swiitchOFF
 
+Date - 04/03/2025
+** CLEAN FLASH RECOMMEND **
+=================
+• Source upstream
+• Everything rebased from device side
+• Blobs are based on V816.0.10.0.UKDMIXM and V816.0.12.0.UKDEUXM
+
 Date - 18/02/2025
 =================
 • Source upstream
