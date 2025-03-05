@@ -5,6 +5,8 @@ Device maintainer: K4LCHAKRA & romgharti
 Date - 05/03/2025
 =================
 - Initial Official Android 15
+- Implement torch light control
+- Update tetheroffload to version 1.1
 - Fixed msm_drm and msm_kgsl_3d0 IRQs values
 - Bring back video recording 4k in back and 1080p in front
 - Target arm v8.2a and A55
