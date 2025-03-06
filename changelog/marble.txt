@@ -2,6 +2,23 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 06/03/2025
+=================
+-marble: Source upstream
+-Fix lag in apps like chrome,twitter,etc..
+-Do not use phase offsets as duration (fixes random qs/ui lags)
+-Build QtiTelephonyCompat
+-Build binder_prio module (taken from melt kernel)
+-Add support for 60Hz in Landscape in Per-App-RR
+-Set VENDOR_SECURITY_PATCH To PLATFORM
+-Implement torch light control
+-Set SF caching property to 0
+-Disable game_default_frame_rate override
+-Add missing layer buffer slots cache clear property
+-Enable OMX service
+-Move to aidl bootctrl hal
+-Misc Improvements
+
 Date - 23/02/2025
 =================
 -marble: Source upstream
