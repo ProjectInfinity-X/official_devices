@@ -1,10 +1,8 @@
 Changelog:
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/881)
-
-Notes:
-• Use non-dynamic A15 OrangeFox recovery (https://t.me/builds_discussion/17932)
-• Default shipped kernel hasn't been shipped with KernelSU (For KernelSU variant kernel:- Click Here (https://www.pling.com/p/2127679/))
-• Circle To Search is Available
-• Device Integrity Passes by default and playstore is certified
-• MiuiCamera is included
-• Dolby Atmos is included
+* Add status bar on-going task notification progress bar chip
+* Fix red color on flashlight tile when enabled
+* Replace current gallery with lineage glimpse gallery
+* Fix Volume slider tile on secondary user
+* Add support for Call of Duty in Game spoof
+* Attempt unlocking free fire 90 fps spoof
+* Improve depth wall functionality

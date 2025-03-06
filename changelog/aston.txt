@@ -1,6 +1,8 @@
 Changelog:
 * Fixed Sim Manager randomly crashing on OnePlus Ace 3
-* Add status bar on-going task notification progress bar chip
-* Add ring udfps icon and breathing udfps animation effect from NothingOS
+* Add status bar on-going task notification progress bar chip (Also fix white chip app drawble for playstore)
+* Fix Volume & Flashlight slider tile on secondary user
+* Play haptics while sliding flashlight strength tile
 * Add support for Call of Duty in Game spoof
+* Attempt unlocking free fire 90 fps spoof
 * Improve depth wall functionality
