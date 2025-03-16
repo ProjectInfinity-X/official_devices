@@ -2,6 +2,30 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 16/03/2025
+=================
+- Update Blobs from OS2.0.6.0.VNREUXM (thx to ramaadi & kleidione)
+- Switch to Sony Dolby (pdx237)
+- Add support for oem fast charger detection
+- Use HintManager for HWUI
+- Switch to SF phase offsets from gs201.
+- wifi: Disable all logging
+- Enable support for kernel idle timer
+- props: Set SF caching property to 0 (enable)
+- props: Disable game_default_frame_rate override
+- Explicitly disable "Enable GL comp backpressure"
+- props: Add missing layer buffer slots cache clear property
+- Enable usage of dex2oat64
+- Do not use phase offsets as duration
+- Generate qcrilNr.db during build
+- Set qcril persist.vendor.radio.poweron_opt to 0
+- Change modem profile from u-stable to v-stable
+- Enhance LE Audio and voice codec configurations
+- Unmount /firmware after fastbootd starts
+- audio: Import audio_effets.conf and microphone_characteristics.xml from stock
+- audio: Update audio_effects.conf and audio_effects.xml
+- overlay: Add Wi-Fi 6 support
+
 Date - 08/02/2025
 =================
 - Add OP Dolby
