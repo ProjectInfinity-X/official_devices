@@ -1,7 +1,1 @@
-Changelog:
-* Add status bar on-going task notification progress bar chip (Also fix white chip app drawble for playstore)
-* Fix red color on flashlight tile when enabled
-* Fix Volume slider tile on secondary user
-* Add support for Call of Duty in Game spoof
-* Attempt unlocking free fire 90 fps spoof
-* Improve depth wall functionality
+Source Changelog - https://t.me/ProjectInfinityX/988
