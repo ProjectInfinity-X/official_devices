@@ -4,6 +4,14 @@ Device maintainer: Legendleo90
 
 Date - 10/02/2025
 =================
+• Added AOD
+• Addressed powerhal,init,camerahal denials
+• Source Changelog - https://t.me/ProjectInfinityX/988
+
+*** Clean flash from previous A15 builds is mandatory (due A15 QPR2)
+
+Date - 10/02/2025
+=================
 • HOTFIX release
 • Switched to common lights HAL(Fixes Charging LED)
 
@@ -53,7 +61,6 @@ Notes:
 • Circle To Search is available
 • Dolby Atmos is included
 • Miui Camera is included
-• Dirty Flash / OTA from previous A15 builds is fine
 
 Credits:
 • @xyz_sourav for miuicamera
