@@ -1,20 +1,10 @@
-Device: POCO F4 (munch)
-Recommended Recovery: https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/munch/twrp-3.7.1_12-v9.0_A15-munch-skkk.img
-Recommended firmware: Included. Flashing any 1.0.5 Regional is okay.
-
-Flashing Instructions:
-
-* Clean Flash:
-- Wipe Data
-- Flash ROM.zip
-- Flash Gapps (if you flashed vanilla and want google apps)
-- Reboot
-
-* Dirty Flash:
-- Wipe Dalvik, Cache
-- Flash ROM.zip
-- Flash Gapps (if you flashed vanilla and want google apps)
-- Reboot
-
-* OTA:
-1. Simply upgrade via ota updater (either if pushed or via local update import)
+Flashing Guide:
+* Reboot to bootloader.
+* Download vendor_boot.img and boot.img
+* On the terminal, enter -
+	fastboot flash boot boot.img
+	fastboot flash vendor_boot vendor_boot.img
+	fastboot reboot recovery
+* On the recovery, go to install > adb sideload and enter
+	adb sideload rom.zip (change "rom" to the name of the rom zip")
+* reboot back to recovery and format data and reboot to system

@@ -2,6 +2,16 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: Rik
 
+Date - 04/04/2025
+=================
+• v2.6 QPR2 build.
+• Doesn't support custom recoveries at the moment.
+• Read the flashing steps before flashing. Clean flash is highly recommended due to massive amount of changes introduced in QPR2 release. Dirty flash works but can cause issues.
+• Switched to perf kernel. It does not includes ksu or susfs. Flash a kernel that do support it if you want to use ksu.
+• Dropped leica camera as its broken at the moment.
+• Implemented GameBar v2.0.
+• And many more changes.
+
 Date - 17/03/2025
 =================
 • OTA update is fine from v2.5.
