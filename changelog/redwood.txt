@@ -2,6 +2,11 @@ Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: RDx55
 
+Date - 05/04/2025
+=================
+- Initial Android 15 QPR2 Release
+- Source Changelog - https://t.me/ProjectInfinityX/988
+
 Date - 30/01/2025
 =================
 - Initial Android 15 Release
