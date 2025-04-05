@@ -2,6 +2,25 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 05/04/2025
+=================
+- Initial qpr2 release
+- Dropped soundtrigger HIDL
+- Dropped device settings & miui camera
+- Bump manifest target-level to 6
+- Update tetheroffload to version 1.1
+- Enabled WPA3-SAE authentication
+- Moved wifioverlay to vendor
+- Add parts based dirac
+- Disabled checkelfs
+- Uprev some vintf entry
+- Set correct channel mask
+- Switched to southwest kernel
+- Imptoved touch responsiveness
+- Improved charging speed for indian variant
+- Improved idle drain
+- Many more underhood changes
+
 Date - 17/02/2025
 =================
 - Synced with latest source
