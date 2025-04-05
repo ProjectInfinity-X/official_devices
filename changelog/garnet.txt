@@ -2,6 +2,20 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 05/04/2025
+=================
+- Fix Vibrator strengh
+- Fix mic issues in apps like WhatsApp
+- Fix top speaker on Lockscreen and also for apps like Telegram
+- Use dual-mic config as default for voice input
+- Enable ultrasound proximity sensor in audio hal
+- Switch to common QCOM AIDL bootctrl HAL
+- Patch nfc_nci.nqx.default.hw.v1 blob to load libbase_shim
+- Switch to AIDL thermal HAL
+- Add Wi-Fi 6 support
+- Fix stack memory address return in UdfpsHandler
+- MiuiCamera: Update all patches (thx to ramaadni)
+
 Date - 16/03/2025
 =================
 - Update Blobs from OS2.0.6.0.VNREUXM (thx to ramaadi & kleidione)
