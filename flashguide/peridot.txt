@@ -1,14 +1,18 @@
 Device: POCO F6 (peridot)
 Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/peridot/15/recovery.img
 
-Clean Flash (Installing for first time from hyperos/another rom):
+---------------- Must be on HyperOS 2 or HyperOS 2 based rom before flashing this ----------------
 
-1. Reboot to bootloader by adb reboot bootloader and type "fastboot -w"
+Clean Flash (Installing for first time from hyperos 2 / another rom):
+
+1. Reboot to bootloader by "adb reboot bootloader" and type "fastboot -w"
 2. Flash this recovery.img (https://sourceforge.net/projects/infinity-x/files/peridot/15/recovery.img/download)  by "fastboot flash recovery_ab recovery.img"
-3. Boot into recovery by "fastboot reboot recovery"
-4. Format data
-5. Flash ROM in recovery by "Apply Update > adb sideload > adb sideload /path/to/rom.zip" and select no when it asks to reboot to flash additional zips ...format data... Reboot to fastboot and flash the vendor_boot.img (https://sourceforge.net/projects/infinity-x/files/peridot/15/vendor_boot.img/download) by "fastboot flash vendor_boot vendor_boot.img"
-6. Reboot system
+3. Boot into fastboot mode by "fastboot reboot bootloader" & flash the vendor_boot.img (https://sourceforge.net/projects/infinity-x/files/peridot/15/vendor_boot.img/download) by "fastboot flash vendor_boot vendor_boot.img"
+4. Reboot to recovery by "fastboot reboot recovery"
+5. Flash ROM in recovery by "Apply Update > adb sideload > adb sideload /path/to/rom.zip" and select no when it asks to reboot to flash additional zips
+6. Format data
+7. [IMPORTANT] Reboot to fastboot mode again by "fastboot reboot bootloader" and flash the vendor_boot.img (https://sourceforge.net/projects/infinity-x/files/peridot/15/vendor_boot.img/download) by "fastboot flash vendor_boot vendor_boot.img"
+8. Reboot system
 
 Dirty Flash / Update (From existing Infinity-X):
 
