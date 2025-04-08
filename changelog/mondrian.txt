@@ -1,0 +1,27 @@
+Source Changelog:
+
+https://t.me/ProjectInfinityX/956
+Added Gboard
+
+Device Changelog:
+
+(07/04/2025)
+
+Switch to common QCOM AIDL bootctrl HAL
+Drop bootctl from debug packages
+Generate qcrilNr.db during build
+Change Dolby Atmos to Dolby Sony Xperia
+Import qti vibrator from wly & porsche
+Switch from decoder 0 to decoder 1 for voice assistant mic enrollment
+Change microphone source from SWR_MIC4 to SWR_MIC0
+Update channel mapping from SWRM_TX2_CH1 to SWRM_TX1_CH1
+Keep mixer switches enabled (value="1") to ensure proper signal routing
+Enable aptX Voice codec for HFP for superior call quality
+Add support for dual bidirectional Super Wideband in LE Audio
+Enable SIM phonebook access via PBAP for connected devices
+Disable SAP server for improved security
+Configure LE Audio behavior for better performance:
+Disable multiple audio contexts to prevent conflicts
+Enable bypass_allow_list for wider device compatibility
+Enable idle notifications during calls for better audio management
+Enable LE Audio offload for improved battery efficiency
