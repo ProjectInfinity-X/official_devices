@@ -2,6 +2,16 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 09/04/2025
+=================
+• Synced with latest 2.6 source
+• Based on March security patch
+• Fixed Offline Charging
+• Added back EngineerMode
+• Dropped hotword enrollment APKs
+• Moved few apps into system partition
+• Dropped MediaTek software OMX codecs
+
 Date - 22/02/2025
 =================
 • Synced with latest 2.5 source
