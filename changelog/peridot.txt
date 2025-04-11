@@ -1,20 +1,2 @@
-- Merged March 2025 Security Patches 
-- Add more custom lockscreen clock styles
-- Add detailed Lockscreen widgets like NothingOS
-- Fixed QS janks in presence of qs media player while playing media
-- Fixed screenshot preview animation lag or frame skipping
-- Fixup hiccups in popping / app opening/closing animations
-- Fixed issue of refresh rate dropping on repetitive scrolling while adaptive refresh rate enabled
-- Ship default google settings style
-- Fixed bignum clock alignment while in small state
-- Fixed color camouflage on qs when enabled pure black theme
-- Extend wallpaper blur feature
-- Extend network speed indicator options
-- Add volume panel percent cust
-- Add volume and brightness slider haptics toggle
-- Extend quick tap settings
-- Improve charging control feature
-- New font or theme packs picker style
-- Ship new gallery app and override old gallery due jank issues and unusable while having large media
-- Increase UDFPS Animation size
-- And lot more (complete rebased source)
+- Switch to AIDL OSS Fingerprint Hal
+- Fixed inconsistent haptics and make intensity stronger
