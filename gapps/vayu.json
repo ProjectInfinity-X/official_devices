@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.6-vayu-20250403-1311-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/vayu/15/gapps/Project_Infinity-X-2.6-vayu-20250403-1311-GAPPS-OFFICIAL.zip",
-			"timestamp": 1743685644,
-			"md5": "65913f8df1d01552258f4cbc47bcbda8",
-			"size": 1992356863,
-			"version": "2.6"
+			"filename": "Project_Infinity-X-2.7-vayu-20250410-2344-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/vayu/15/gapps/Project_Infinity-X-2.7-vayu-20250410-2344-GAPPS-OFFICIAL.zip",
+			"timestamp": 1744328465,
+			"md5": "e4c5799050468a2295b469d7b621946c",
+			"size": 2005556256,
+			"version": "2.7"
 		}
 	]
 }
