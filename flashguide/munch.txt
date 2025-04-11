@@ -8,3 +8,4 @@ Flashing Guide:
 * On the recovery, go to install > adb sideload and enter
 	adb sideload rom.zip (change "rom" to the name of the rom zip")
 * reboot back to recovery and format data and reboot to system
+* Flashing with latest OFOX recovery works now.

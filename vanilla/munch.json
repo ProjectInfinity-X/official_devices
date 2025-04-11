@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.6-munch-20250403-1730-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/munch/15/vanilla/Project_Infinity-X-2.6-munch-20250403-1730-VANILLA-OFFICIAL.zip",
-			"timestamp": 1743701300,
-			"md5": "b11984ce9a36f3fe03fd71c72c4a76f5",
-			"size": 1700369289,
-			"version": "2.6"
+			"filename": "Project_Infinity-X-2.7-munch-20250411-1455-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/munch/15/vanilla/Project_Infinity-X-2.7-munch-20250411-1455-VANILLA-OFFICIAL.zip",
+			"timestamp": 1744383210,
+			"md5": "335db4fbf81c47e8ae6934d3dab3bb92",
+			"size": 1819446809,
+			"version": "2.7"
 		}
 	]
 }
