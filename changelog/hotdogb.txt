@@ -1,37 +1,22 @@
 Device: OnePlus 7T
-Device code name : hotdog
-Device maintainer: NILOY
+Device code name : hotdogb
+Device maintainer: GuneetAtwal
 
-Date - 08/08/2024
+Date - 04/12/2025
 =================
-• Enabled QS pull tick vibration
-• Improved animation jitter
-• Fixed random over amplified vibrations
-• Fixed random fingerprint flashbang
+• Merged April 2025 ASB
+• Source Changelog - https://t.me/ProjectInfinityX/1005
 
-Date - 24/06/2024
+Date - 04/09/2025
 =================
-• Fixed lock screen delay when power button is instantly pressed after turning off screen or general delay on lockscreen to appear when pressing power button
-• Improve delay while switching from light mode to dark mode and vice versa
-• Add brightness slider styles
-• Add X-Reality Display Engine under Display > Colours
-• Add Face Unlock support for App Lock
-• Fixed xbox status bar logo crash
-• Fix issues with Bluetooth (Issues while arriving notification like audio voulme decreased or coming from speaker)
-• Fixed occasional Face Unlock service is unavailable
-• Fixed broken monet modes either from wallpaper or styles or monet engine
-• Add support for UI Styles
-• Add support for configuring volume stream steps
-• Move to new network traffic implementation (fix alignment when showing 0 Kbps or network traffic not showing for some devices/users)
-• Fix volume panel lag for all the stream rows and not just only media row
-• Add support for toggle-able optional compact qs media player
-• Fixed IOS Volume lockscreen widget not updating instantly
-• Add support for PocketMode
-• Fix clear all notification button toggle auto reset to disable after reboot/close.
-• Reconfigure Launcher3 AllAppsContainer paddings
-• Redesign Launcher3 Settings layout
-• Fixed gesture navigation settings clipped text
-• Introduce automated DC Dimming for supported devices
-• Fixed abnormal volume panel behavior while volume percent text enabled
-• Add support for oem fastcharge detection for supported devices (turbo, warp, dash, vooc)
+• Merged March 2025 ASB
+• Source Changelog - https://t.me/ProjectInfinityX/988
+• Fixed Screen Flickering in AOD
+• Fixed lockscreen text overlapping with UDFS icon
+• Fixed incorrect Charging info on lockscreen
+• Added Torch Light Control
+
+Date - 04/02/2025
+=================
+• Initial Release
 
