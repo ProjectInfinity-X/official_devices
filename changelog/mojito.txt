@@ -1,3 +1,6 @@
+12/04/2025
+- Fixed boot animation selection to prioritize custom animation
+
 07/04/2025
 - Adapt DTs for A15 QPR2
 - Remove Simple GPU Algorithm
