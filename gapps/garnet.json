@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.6-garnet-20250405-1351-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/garnet/15/gapps/Project_Infinity-X-2.6-garnet-20250405-1351-GAPPS-OFFICIAL.zip",
-			"timestamp": 1743859617,
-			"md5": "ce115463029f08784a67b28df4416ca3",
-			"size": 2199890613,
-			"version": "2.6"
+			"filename": "Project_Infinity-X-2.7-garnet-20250413-0824-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/garnet/15/gapps/Project_Infinity-X-2.7-garnet-20250413-0824-GAPPS-OFFICIAL.zip",
+			"timestamp": 1744532289,
+			"md5": "078d74e6e3d140c6fa271c514b12d78e",
+			"size": 2129300894,
+			"version": "2.7"
 		}
 	]
 }

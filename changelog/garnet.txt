@@ -2,6 +2,14 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 13/04/2025
+=================
+- Update libs from OS2.0.9.0.VNREUXM
+- Update prebuilt kernel from OS2.0.9.0.VNREUXM
+- fully fixed xiaomi vibrator effects
+- fixed Whatsapp sounds..
+- added back parts (refreshrate, clearspeaker, thermal)
+
 Date - 05/04/2025
 =================
 - Fix Vibrator strengh
