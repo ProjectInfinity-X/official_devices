@@ -2,6 +2,21 @@ Device: Xiaomi 11T Pro
 Device code name : vili
 Device maintainer: swiitchOFF
 
+Date - 14/04/2025
+=================
+- Android 15 QPR2 update + April 2025 Security Update
+- Switched to py extract utils && regenerated .bp/.mk files
+
+Note: 
+    * Clean flash recommend
+    1) https://t.me/ProjectInfinityX/1001
+    2) https://t.me/ProjectInfinityX/1017
+    3) https://t.me/ProjectInfinityX/1018
+
+Date - 19/03/2025
+=================
+- Fixed audio issue on screen cast
+
 Date - 16/03/2025
 =================
 - Disable stereo support for voip (Fixes in-game voice chat)
