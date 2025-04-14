@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.6-mondrian-20250407-2233-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/mondrian/15/gapps/Project_Infinity-X-2.6-mondrian-20250407-2233-GAPPS-OFFICIAL.zip",
-			"timestamp": 1744064291,
-			"md5": "5a2f83dfe9ad7925035adbc4afb5b029",
-			"size": 2554602078,
-			"version": "2.6"
+			"filename": "Project_Infinity-X-2.7-mondrian-20250414-0007-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/mondrian/15/gapps/Project_Infinity-X-2.7-mondrian-20250414-0007-GAPPS-OFFICIAL.zip",
+			"timestamp": 1744588192,
+			"md5": "70d788be523eba91dff18b89770b2f69",
+			"size": 2556988233,
+			"version": "2.7"
 		}
 	]
 }

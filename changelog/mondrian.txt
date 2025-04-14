@@ -5,6 +5,18 @@ Added Gboard
 
 Device Changelog:
 
+(14/04/2025)
+Update blobs and firmware from OS2.0.7.0.VMNMIXM
+Add prebuilt_hidl_interfaces
+Fixed the problem that gboard and virtual assistants did not recognize the microphone.
+Add missing sepolicy for Wechat Fingerprint Pay
+Organized overlays by removing duplicates and deleting those incompatible with Mondrian, which were originally taken from sm8450-common
+Import libinit
+Remove wigig components
+Delete dhcpcd init entries, since dhcpcd is no more.
+Remove HIDL sensor multihal overrides
+Merge tag KERNEL.PLATFORM.1.0.r1-18700-kernel.0 & KERNEL.PLATFORM.1.0.r3-05900-kernel.0 in kernel
+
 (07/04/2025)
 
 Switch to common QCOM AIDL bootctrl HAL
