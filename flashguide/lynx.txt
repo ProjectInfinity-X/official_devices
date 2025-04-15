@@ -2,6 +2,9 @@ Device: Google Pixel 7a (lynx)
 
 First Time Install (Note: These releases include firmware)
 
+Download link for Lynx IMGs 
+• https://sourceforge.net/projects/infinity-x/files/lynx/15/IMGs/
+
 • Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
 • Reboot to bootloader
 • fastboot flash boot boot.img
