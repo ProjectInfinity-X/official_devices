@@ -1,2 +1,7 @@
-- Switch to AIDL OSS Fingerprint Hal
-- Fixed inconsistent haptics and make intensity stronger
+• HOS2 blobs
+• dirty flashable over previous release
+• Fixed vendor_boot issue
+• Gapps Already Included
+• switch to old fp implementation (faster)
+• fix top speaker buzzing during calls
+• Fixed inconsistent haptics and make intensity stronger
