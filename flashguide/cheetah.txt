@@ -2,6 +2,9 @@ Device: Google Pixel 7 Pro (cheetah)
 
 First Time Install (Note: These releases include firmware)
 
+Download link for Cheetah IMGs 
+• https://sourceforge.net/projects/infinity-x/files/cheetah/15/IMGs/
+
 • Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
 • Reboot to bootloader
 • fastboot flash boot boot.img

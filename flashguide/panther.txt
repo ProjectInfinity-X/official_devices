@@ -2,6 +2,9 @@ Device: Google Pixel 7 (panther)
 
 First Time Install (Note: These releases include firmware)
 
+Download link for Panther IMGs 
+• https://sourceforge.net/projects/infinity-x/files/panther/15/IMGs/
+
 • Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
 • Reboot to bootloader
 • fastboot flash boot boot.img

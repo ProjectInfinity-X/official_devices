@@ -2,6 +2,11 @@ Device: Google Pixel 7 Pro
 Device code name : cheetah
 Device maintainer: pyrtle93
 
+Date - 04/15/2025
+• Android 15 QPR2 update + April 2025 Security Update
+• Synced with recent 2.7 changes
+--CLEAN FLASH IS REQUIRED--
+
 Date - 02/10/2025
 • Synced with recent 2.5 changes
 • Updated to Feb firmware
