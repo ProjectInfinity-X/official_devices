@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.5-beyond2lte-20250314-0740-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/beyond2lte/15/gapps/Project_Infinity-X-2.5-beyond2lte-20250314-0740-GAPPS-OFFICIAL.zip",
-			"timestamp": 1741937998,
-			"md5": "caa6020e9f0736566f914c4a80430fae",
-			"size": 1809673293,
-			"version": "2.5"
+			"filename": "Project_Infinity-X-2.7-beyond2lte-20250413-1507-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/beyond2lte/15/gapps/Project_Infinity-X-2.7-beyond2lte-20250413-1507-GAPPS-OFFICIAL.zip",
+			"timestamp": 1744556748,
+			"md5": "db5c1f89bb1354f2e3d40986a7f01f47",
+			"size": 1727830807,
+			"version": "2.7"
 		}
 	]
 }
