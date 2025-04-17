@@ -4,6 +4,30 @@ Device maintainer: Dr.Opto
 
 Date - 07/01/2025
 =================
+• Drop moto dolby
+• Enabke elf changes
+• Decrease launch boost to 3sec
+• Add wifi6 support 
+• Replace config_wifi_dual_band_support
+• Enable VoLTE for Beeline
+• Enable VoLTE and Wi-Fi calling for Telcel
+• Enable VoWiFI and VoLTE by default.
+• Default to full gesture navigation
+• Enable rise to wake feature
+• Add props to make the UI smoother
+• Enable USB and skin temperature warnings
+• Commonize 5G capability overlays
+• Set status_bar_header_height_keyguard to status_bar_height_default value
+• Set default QR code scanner
+• Import regulatory overlays from stock
+• Retain e-SIM profiles after factory reset
+• Import power_profile from stock for G45 devices
+• Update MotoCam apk from motorola/fogos_g/fogos:11/V1UG35H.75-14/a4cca:user/release-keys
+
+Creadit for testing: A big thanks to my testers -  @Fogos User, @Sonu1846 & @Anirudhking
+
+Date - 07/01/2025
+=================
 • Incrimental relese
 • Updated with latest patch
 
@@ -35,4 +59,3 @@ Credit:
 -------
 • @AnandSuresh02 for base trees
 • @kartik01_g & @amritokun for kernel side improvements
-• @Anirudhking for testing  
