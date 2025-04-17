@@ -2,7 +2,23 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
 
-Date - 10/02/2025
+Date - 17/04/2025
+=================
+• Removed NXP,NFC & eSE sepolicy rules
+• Rewrite access to BT and WiFi MAC address files
+• Fixed Dolby Atmos crash
+• Switched to AOSP WFD(Fixes WFD crashes)
+• Cleanup unused props
+• Added more props to improve smoothness,responsiveness and ram management
+• Addressed kernel & xiaomiparts sepolicy denials
+• Switched back to AIDL Xiaomi light(Fixes rapid blink of notification led)
+• Added Lineage Fastcharge support
+• Migrated thermal profiles to system settings
+• Source Changelog - https://t.me/ProjectInfinityX/1005
+
+*** Clean flash from previous A15 builds is mandatory (due to A15 QPR2)
+
+Date - 05/04/2025
 =================
 • Added AOD
 • Addressed powerhal,init,camerahal denials
@@ -61,6 +77,3 @@ Notes:
 • Circle To Search is available
 • Dolby Atmos is included
 • Miui Camera is included
-
-Credits:
-• @xyz_sourav for miuicamera
