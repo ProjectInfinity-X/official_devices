@@ -1,1 +1,20 @@
-Source Changelog - https://t.me/ProjectInfinityX/1005
+Device Changelog:
+- Fixed Screen Off UDFPS
+- Add support for off screen touch gestures
+- Improve and strengthen System Richtap Haptics
+- Upstream Kernel to latest linux revision
+- Update Blobs from latest CPH2585_15.0.0.701(EX01)
+
+Source Changelog:
+- Added support for off-screen touch gestures (on supported devices)
+- Fixed issue where Circle to Search Music detection was unable to detect music playing internally on the device
+- Defaulted Google Messaging app (Fixes RCS Chats)
+- Improved functionality of depth wallpapers:
+= Resolved hollow depth wall displaying when expanding Quick Settings
+= Corrected misalignment during swipe and scroll interactions
+- Depth wallpaper now hides when lockscreen media artwork is displayed
+- Fixed boot animation styles not applying on certain devices
+- Included additional Google apps in GApps builds, replacing AOSP counterparts (e.g., DeskClockGoogle, CalculatorGoogle, Google Chrome) [If DeskClock application crashes on dirty flash, just clear it's app data]
+- Restored Google WebView in GApps builds and few more day-to-day essential Google apps
+- Circle to Search no longer requires updating the Google app to function
+- Resolved compilation errors related to Velvet and GmsCore

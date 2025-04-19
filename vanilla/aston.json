@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.7-aston-20250410-2251-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/aston/15/vanilla/Project_Infinity-X-2.7-aston-20250410-2251-VANILLA-OFFICIAL.zip",
-			"timestamp": 1744325311,
-			"md5": "74f989caeef984a7607eb9aade763e62",
-			"size": 2296276278,
+			"filename": "Project_Infinity-X-2.7-aston-20250419-1139-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/aston/15/vanilla/Project_Infinity-X-2.7-aston-20250419-1139-VANILLA-OFFICIAL.zip",
+			"timestamp": 1745062555,
+			"md5": "378c848cafd3cc65c14bfb574df5bd77",
+			"size": 2300440990,
 			"version": "2.7"
-		}
+	    }
 	]
 }
