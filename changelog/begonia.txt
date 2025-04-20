@@ -2,6 +2,15 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 20/04/2025
+=================
+• Synced with latest 2.7 source
+• Based on April security patch
+• Fixed video playback and freezing issues in all apps
+• Fixed 4k Recording in camera
+• Fixed HEVC encoding in Screen Recording
+• Updated to latest PoWeR kernel
+
 Date - 09/04/2025
 =================
 • Synced with latest 2.6 source
