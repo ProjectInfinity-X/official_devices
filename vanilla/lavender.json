@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.5-lavender-20250219-2147-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/lavender/15/vanilla/Project_Infinity-X-2.5-lavender-20250219-2147-VANILLA-OFFICIAL.zip",
-			"timestamp": 1740001468,
-			"md5": "c9de2f0e61cd3d03b452e0e6b7eb835b",
-			"size": 1380337434,
-			"version": "2.5"
+			"filename": "Project_Infinity-X-2.7-lavender-20250421-1850-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/lavender/15/vanilla/Project_Infinity-X-2.7-lavender-20250421-1850-VANILLA-OFFICIAL.zip",
+			"timestamp": 1745261367,
+			"md5": "9ad877ca930c1368dc85be0269f9ba10",
+			"size": 1392683584,
+			"version": "2.7"
 		}
 	]
 }
