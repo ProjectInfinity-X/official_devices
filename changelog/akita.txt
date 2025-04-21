@@ -1,0 +1,8 @@
+Device: Google Pixel 8a
+Device code name : akita
+Device maintainer: Libra420T
+
+Date - 04/21/2025
+• Initial Release
+• Android 15 QPR2 update + April 2025 Security Update
+• Synced with recent 2.7 changes
