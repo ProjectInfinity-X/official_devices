@@ -1,0 +1,29 @@
+Device: Realme 9 SE 5G (ice)
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/ice/Project_Infinity-X-2.7-recovery-ice-20250420.zip/download
+
+----------FLASHING INSTRUCTIONS---------
+• MUST be on Rui4 (F.06)
+
+*ROM Flashing (clean)*
+• Flash the dtbo,vendor_boot,boot images
+- Go to bootloader
+  » fastboot flash dtbo dtbo.img
+  » fastboot flash boot boot.img 
+  » fastboot flash vendor_boot vendor_boot.img
+- Reboot to recovery
+- Format data
+- apply update> adb method
+- adb sideload rom.zip  [adb sideload (drag and drop rom file)]
+- Reboot to recovery
+- Format data
+- Reboot to System
+
+*ROM Flashing (dirty)*
+- Reboot to Recovery
+- apply update> adb method 
+- adb sideload rom.zip  [adb sideload (drag and drop rom file)]
+- Reboot to Recovery
+- Reboot to System
+
+*OTA*
+- Simply upgrade via ota updater (either if pushed or via local update import)
