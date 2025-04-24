@@ -2,6 +2,13 @@ Device: Realme 7/ Narzo 20 Pro/ Narzo 30
 Device code name : salaa
 Device maintainer: SHITIJ.dev
 
+Date - 24/04/2025
+=================
+ <<- Changelog for @ProjectInfinityX v2.7 Release ->>
+∞ Source Changelog (https://t.me/ProjectInfinityX/1005)
+• Import definitions for prebuilt HIDL interfaces
+• Use 64-bit C2 service
+
 Date - 30/11/2024
 =================
  <<- Changelog for @ProjectInfinityX v2.5 Release ->>
