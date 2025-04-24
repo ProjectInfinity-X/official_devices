@@ -1,3 +1,8 @@
+24/4/2025
+- Restore open source soundtrigger
+- Make WIFI compatible with NL80211_REG_CHANGED_EVENT
+- FCM checks after a15 qpr2
+
 12/04/2025
 - Fixed boot animation selection to prioritize custom animation
 
