@@ -2,6 +2,18 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 24/04/2025
+=================
+- marble: Source upstream
+- Drop Dolby Atmos support for now, until we find a fix for VOIP call issue.
+- Drop Build binder_prio module
+- Import missing permissions for QCC app
+- Allow more cached apps in the background
+- Disable game_default_frame_rate override
+- Set frame rate multiple threshold to 120
+- Set SF caching property to 0 (enable)
+- Disable turbulence noise
+
 Date - 06/03/2025
 =================
 -marble: Source upstream
