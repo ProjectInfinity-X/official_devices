@@ -2,6 +2,57 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 27/04/2025
+=================
+- Merged April 2025 Security Patches
+- Add more custom lockscreen clock styles
+- Add detailed Lockscreen widgets like NothingOS
+- Fixed QS janks in presence of qs media player while playing media
+- Fixed screenshot preview animation lag or frame skipping
+- Fixup hiccups in popping / app opening/closing animations
+- Fixed issue of refresh rate dropping on repetitive scrolling while adaptive refresh rate enabled
+- Ship default google settings style
+- Fixed bignum clock alignment while in small state
+- Fixed color camouflage on qs when enabled pure black theme
+- Extend wallpaper blur feature
+- Extend network speed indicator options
+- Add volume panel percent cust
+- Add volume and brightness slider haptics toggle
+- Extend quick tap settings
+- Improve charging control feature
+- New font or theme packs picker style
+- Ship new gallery app and override old gallery due jank issues and unusable while having large media
+- Increase UDFPS Animation size
+- And lot more (complete rebased source)
+- Bring back Settings UI Style from v2.5 and add ability to show custom image/gif in settings dashboard
+- Revert broken lineage health upstreams to cater recent issues with charging control features whether it be a reboot while choosing custom schedule or difficulties with limit charging
+- Remove duplicate "Hide Navigation Bar" toggle which was causing non functional gestures for plenty
+- Re-ship Gboard on Gapps builds (Kindly read this (https://t.me/ProjectInfinityX/1001), if you plan to dirty flash the upcoming build)
+- Fix issues with recently introduced light/dark/amoled theme switching from settings and introduce tri-theme switch qs tile 
+- Make notification background transparent on TwoToneAccent QS Style
+- Update pif to latest values
+- Make adb root available for user builds
+- Make "adb shell su" available for all
+- Bring back showing ambient instead fully waking screen for raise to wake
+- New ANSI art for flashing page 
+- Bring back Custom QS Page transition animations
+- Fix visibility toggle for floating rotation button
+- Fix for mini udfps custom icon when repeatedly accessing lockscreen 
+- Improve system/touch responsiveness 
+- Improve and quicken system/launcher animations
+- Added support for off-screen touch gestures (on supported devices)  
+- Fixed issue where Circle to Search Music detection was unable to detect music playing internally on the device  
+- Defaulted Google Messaging app (Fixes RCS Chats)  
+- Improved functionality of depth wallpapers:  
+  = Resolved hollow depth wall displaying when expanding Quick Settings  
+  = Corrected misalignment during swipe and scroll interactions  
+- Depth wallpaper now hides when lockscreen media artwork is displayed  
+- Fixed boot animation styles not applying on certain devices  
+- Included additional Google apps in GApps builds, replacing AOSP counterparts (e.g., DeskClockGoogle, CalculatorGoogle, Google Chrome)  [If DeskClock application crashes on dirty flash, just clear it's app data]
+- Restored Google WebView in GApps builds and few more day-to-day essential Google apps
+- Circle to Search no longer requires updating the Google app to function  
+- Resolved compilation errors related to Velvet and GmsCore
+
 Date - 26/02/2025
 =================
 • Initial Project Infinity X, Android 15 release
