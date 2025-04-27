@@ -1,12 +1,12 @@
 {
-        "response": [
-                {
-                        "filename": "Project_Infinity-X-2.2-spartan-20241202-1650-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/spartan/15/gapps/Project_Infinity-X-2.2-spartan-20241202-1650-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1733158225,
-                        "md5": "010817237d64874c02bedb6eebe438eb",
-                        "size": 2534570277,
-                        "version": "2.2"
-                }
-        ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-2.7-spartan-20250425-1757-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/spartan/15/gapps/Project_Infinity-X-2.7-spartan-20250425-1757-GAPPS-OFFICIAL.zip",
+			"timestamp": 1745603694,
+			"md5": "71423734f494c7388abe857969380acb",
+			"size": 2431038927,
+			"version": "2.7"
+		}
+	]
 }
