@@ -2,6 +2,15 @@ Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: Priyanshu
 
+Date - 28/04/2025
+=================
+- Updated blobs to OS2.0.3.0.UMSMIXM
+- Included firmware vOS2.0.3.0.UMSMIXM ( Do not flash firmware Separately )
+- Droped Ksu-legacy support in favour of KSU-Next
+- Imported vibrator effects from stock
+- Implemented torch light control
+- Added Dolby Atmos support
+
 Date - 21/04/2025
 =================
 - Updated blobs to OS1.0.15.0.UMSMIXM
