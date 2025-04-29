@@ -2,6 +2,12 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
 
+Date - 29/04/2025
+=================
+• Implemented rounded corners for overall SystemUI
+• Adjusted paddings to match rounded corners
+• Source Changelog - https://t.me/ProjectInfinityX/1040
+
 Date - 17/04/2025
 =================
 • Removed NXP,NFC & eSE sepolicy rules
