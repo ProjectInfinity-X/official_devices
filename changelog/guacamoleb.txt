@@ -1,10 +1,7 @@
 Device: OnePlus 7
 Device code name : guacamoleb
-Device maintainer: NILOY
+Device maintainer: H A R I S H
 
 Date - 08/08/2024
 =================
-• Enabled QS pull tick vibration
-• Improved animation jitter
-• Fixed random over amplified vibrations
-• Fixed random fingerprint flashbang
+• Initial Stable build
