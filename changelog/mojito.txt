@@ -1,3 +1,9 @@
+3/5/2025
+- Remove unused overlay
+- overlay: Set default pin amount for home app
+- Enable Userfaultfd GC to improve memory management on 4GB RAM variant.
+- Some changes on audio related.
+
 24/4/2025
 - Fixed serveral ELF check
 - Restore open source soundtrigger
