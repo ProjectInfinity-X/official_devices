@@ -1,3 +1,1 @@
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1040)
-• Fix MiCam 48MP
-• Increase NFC card processing timeout duration
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1081)
