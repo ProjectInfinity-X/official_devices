@@ -1,9 +1,27 @@
 Source Changelog:
 
-https://t.me/ProjectInfinityX/956
-Added Gboard
+https://t.me/ProjectInfinityX/1081
 
 Device Changelog:
+
+(04/05/2025)
+Introduce GameBar v4.0
+Introduce High Brightness Mode (HBM) and Auto HBM QS tile
+Reback Xiaomi vibrator
+Limit AOD & Ambient Display refresh rate to 60Hz
+Added a fix for the problem in Whatsapp, Telegram, etc where the sound was very low.
+Drop more blobs OMX
+Changed to Audio OSS
+Changed to Kernel Prebuilt
+Improved GPS
+Pin libops.so from davinci
+Disable NearbyMessagesService
+Move thermal profile permission to init stage
+Update display ids after display-drivers change
+Drop unused xiaomi mdss display config
+Improved brightness
+Switch from ASB to full LTS base in kernel and merge Tag KERNEL.PLATFORM.1.0.r1-18700-kernel.0 & KERNEL.PLATFORM.1.0.r3-05900-kernel.0 & kernel.lnx.5.10.r3-rel
+I added more kernel improvements xD
 
 (14/04/2025)
 Update blobs and firmware from OS2.0.7.0.VMNMIXM
