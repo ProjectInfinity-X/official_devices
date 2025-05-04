@@ -2,52 +2,7 @@ Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: Priyanshu
 
-Date - 28/04/2025
+Date - 04/05/2025
 =================
-- Updated blobs to OS2.0.3.0.UMSMIXM
-- Included firmware vOS2.0.3.0.UMSMIXM ( Do not flash firmware Separately )
-- Droped Ksu-legacy support in favour of KSU-Next
-- Imported vibrator effects from stock
-- Implemented torch light control
-- Added Dolby Atmos support
-
-Date - 21/04/2025
-=================
-- Updated blobs to OS1.0.15.0.UMSMIXM
-- Switched to stock miuicamera
-- Switched to scarlet kernel
-- Updated adreno and display blobs from AOSPA
-
-Date - 05/04/2025
-=================
-- Initial Android 15 QPR2 Release
-- Source Changelog - https://t.me/ProjectInfinityX/988
-
-Date - 30/01/2025
-=================
-- Initial Android 15 Release
-
-Date - 10/08/2024
-=================
-## DEVICE
-
-- Updated Blobs from 1.0.7.0.UMSCNXM
-- Updated Task Profile from Infinity Source
-- Optimized Memory Parameters under Heavy Loads
-- Faster Boot Time 
-- Switched to Default AOSP Media Codec
-- Added Live Display Support
-- Bumped up Blur Radius to 190px
-- Optimized Native Executables for Cortex-A76 CPU
-
-## KERNEL
-
-- Kernel Upstreamed to 5.4.281
-- Dropped Power Efficient Workingqueues
-- Enabled Idle Page Tracking
-- Introduced Data Access Monitor (DAMON)
-- Merged CAF LA.UM.9.14.r1-24900-LAHAINA.QSSI14.0
-- Relaxed Alarmtimer Wakelock
-- Optimized LSE Atomics
-- Removed android_fs Tracings
-- Demoted GC Thread to Idle Scheduler Class
+• Fixed high idle & active drain issue.
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1081)
