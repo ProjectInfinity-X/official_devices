@@ -2,6 +2,28 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 05/05/2025
+=================
+- Update blobs & fp from  OS2.0.4.0.VMRMIXM
+- Add Dolby Atmos support. All credits goes to HellBoy
+- Fixed & add tools for thermals. All creidts goes to Kenway
+- Added Gamebar 4.0
+- Import QCOM audio effects from OnePlus 9R
+- use QCOM Implementation for Audio Effects
+- Add a property to enable prefetching video
+- Add missing layer buffer slots cache clear property
+- Extend audio offload buffer size to 256kb
+- Disable continuous transaction tracing on all build types
+- Set game refresh rate override to 120
+- Enable frame pacing for smoother visual performance
+- Allow more cached apps in the background
+- Apply dex2oat optimizations
+- Disable debug.sf.latch_unsignaled
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- Dynamically set IRQ affinity for KGSL and MSM_DRM
+- Use HintManager for HWUI
+- Enable support for kernel idle timer
+
 Date - 24/04/2025
 =================
 - marble: Source upstream
