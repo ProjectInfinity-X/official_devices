@@ -2,13 +2,10 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 05/03/2024
+Date - 05/07/2024
 =================
-• Fixed Homescreen and Lockscreen Statusbar Paddings
-• Fixed some sepolicy errors
-• Bring back NoCutoutOverlay[Hiding the notch]
-    -> Disable custom UDFPS animations when notch is hidden
-• Build with Custom UDFPS Icons and animations
+• Dolby: more efficient and less memory & CPU-intensive audio effects and graphic equalizer routines.
+• Fix Smart Charging control.
+• Fix some sepolicy errors
 • Ship KernelSuNext with Kernel
-• Update Device Specifications from OnePlus
 • Misc Optimizations and Improvements
