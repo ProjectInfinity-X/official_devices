@@ -1,6 +1,29 @@
 Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
-Device maintainer: Suvojeet_Sengupta
+Device maintainer: kAiF
+
+Date - 07/05/2025
+=================
+• Initial Android 15 QPR2 Release
+• Update blobs from  OS2.0.5.0.VMWEUXM
+• Switch to Aidl BootCtrl
+• Extend audio offload buffer size to 256kb
+• Remove unnecessary display board flags
+• Allow PowerOffAlarm app to find alarm service
+• Remove unused GPS implementations
+• Migrate mount point creation out of Android.mk
+• Switch to use.voice.path.for.pcm.voip
+• Disable turbulence noise
+• Disable OMX service
+• Added swappiness to 40 (to avoid qs lag)
+• Sync overlay paddings from Stock
+• Added overlay cpu temp divider
+• Remove unneeded NFC packages
+• Added ViPER4AndroidFX
+
+Credits
+• Thanks to @solocaptainblaze , @jendermine , @lostark13 , @redducc For base device tree and kernel
+• Thanks to @Mikeblogs , @Strange1708 For testing the rom
 
 Date - 01/12/2024
 =================
