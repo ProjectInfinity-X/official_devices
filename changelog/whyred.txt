@@ -2,6 +2,11 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 08/05/2025
+=================
+- Synced with latest source
+- Updated apn configs
+
 Date - 03/05/2025
 =================
 - Synced with latest source
