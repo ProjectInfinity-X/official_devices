@@ -2,6 +2,13 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: Rik
 
+Date - 08/05/2025
+=================
+• v2.7 Build Update
+• Dropped 90hz from the kernel
+• Added back 48MP camera sensor for K40S
+• And a few minor changes on trees and source
+
 Date - 03/05/2025
 =================
 • v2.7 Build Update.
@@ -10,7 +17,6 @@ Date - 03/05/2025
 • Fixed whatsapp call issue.
 • Update vendor security patch to April.
 • And many more optimizations.
-
 
 Date - 11/04/2025
 =================
