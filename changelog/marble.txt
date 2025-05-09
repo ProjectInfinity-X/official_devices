@@ -1,12 +1,40 @@
 Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
-Device maintainer: PabloEscobar
+Device maintainer: PabloEscobar & SharmagRit
+
+Date - 09/05/2025
+=================
+- Enable PowerOffAlarmService
+- Split and configure perf tuning
+- props: Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
+- overlay: configure SQLite to operate in MEMORY mode
+- init: Kill statsd service
+- rootdir: Set dex2oat thread count and cpuset
+- Enable usage of dex2oat64
+- props: Disable Skia tracing by default
+- props: Disable phantom process monitoring
+- Do not use phase offsets as duration
+- Sync vsync work duration with gs201
+- powerhint: Configure walt window stats policy / qcom_lpm mode
+- init: Give proper permissions for /dev/diag
+- sensors: add more padding to _oem_msg
+- rootdir: Kill WALT CPU boosting
+- powerhint: Handle thermal profile state via powerhint
+- powerhint: Drop CPU freqs boosting on INTERACTION
+- powerhint: Follow taro's CPU freqs for little cluster
+- sepolicy: Allow powerhal write to /proc
+- rootdir: Enable powerhint parsing after boot completion
+- powerhint: Adapt and tune for SM8475 (cape)
+- Import powerhint.json from lahaina
+- Migrate to common libqti-perfd-client and power-libperfmgr
+- Remove QTI perfd
+- Drop libadreno_app_profiles
 
 Date - 05/05/2025
 =================
 - Update blobs & fp from  OS2.0.4.0.VMRMIXM
 - Add Dolby Atmos support. All credits goes to HellBoy
-- Fixed & add tools for thermals. All creidts goes to Kenway
+- Thermal fixed & added Power Tools. All credits goes to Kenway
 - Added Gamebar 4.0
 - Import QCOM audio effects from OnePlus 9R
 - use QCOM Implementation for Audio Effects
