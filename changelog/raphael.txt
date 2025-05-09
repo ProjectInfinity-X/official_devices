@@ -1,6 +1,18 @@
 Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael
-Device maintainer: pawelik001
+Device maintainer: YourDulavai
+
+Date - 9/05/2025
+================
+• Initial A15 release from my side
+• Based on my tree (so need clean flash if coming from previous official release)
+• Xiaomi Dolby, Leica 5.0, KProfile included
+• Waffle kernel with KSU Next+SUSFS
+• Mi thermal build (its summer, so why not)
+• Many changes here and there, not worth to mention everything here
+• Gapps and Vanilla both version available
+• Gapps build comes with Dynamic partition and EROFS system
+• Vanilla build comes with Dynamic partition and EXT4 system
 
 Date - 11/01/2025
 =================
