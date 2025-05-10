@@ -5,11 +5,13 @@ Flashing Instructions:
 * Clean Flash:
 - Wipe Data
 - Flash Infinity-X ROM zip
+- Flash Gapps also for vanilla build
 - Reboot
 
 * Dirty Flash:
 - Wipe Dalvik, ART Cache
 - Flash Infinity-X ROM zip
+- Flash Gapps also for vanilla build
 - Reboot
 
 * OTA:
