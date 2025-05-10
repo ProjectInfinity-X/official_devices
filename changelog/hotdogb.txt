@@ -2,6 +2,23 @@ Device: OnePlus 7T
 Device code name : hotdogb
 Device maintainer: GuneetAtwal
 
+Date - 05/09/2025
+=================
+• Merged May 2025 ASB
+• Added Dolby Sound
+• Added Per-app refresh rate control
+• Added Warp Charging support
+• Added Lift to wake support
+• Added Alert slider customization
+• Show volume panel on left by default
+• Fixed Charging Control
+• Fixed statusbar paddings in lockscreen
+• Fixed an issue where total battery capacity was shown wrong
+• Fixed an issue where VoIP not working over bluetooth
+• Improved performance of fingerprint sensor
+• Addressed a lot of SELinux denials
+• Other general performance improvements
+
 Date - 04/12/2025
 =================
 • Merged April 2025 ASB
