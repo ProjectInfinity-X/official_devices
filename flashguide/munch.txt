@@ -1,4 +1,8 @@
 Flashing Guide:
+* OTA is recommended.
+
+If you are not Flashing via OTA, then follow the steps below
+
 * Reboot to bootloader.
 * Download vendor_boot.img and boot.img
 * On the terminal, enter -

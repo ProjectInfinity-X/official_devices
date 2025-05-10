@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.5-lavender-20250219-2221-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/lavender/15/gapps/Project_Infinity-X-2.5-lavender-20250219-2221-GAPPS-OFFICIAL.zip",
-			"timestamp": 1740003494,
-			"md5": "4255f11fc70aa61838a10de26ab53194",
-			"size": 1878782344,
-			"version": "2.5"
+			"filename": "Project_Infinity-X-2.8-lavender-20250509-1226-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/lavender/15/gapps/Project_Infinity-X-2.8-lavender-20250509-1226-GAPPS-OFFICIAL.zip",
+			"timestamp": 1746793420,
+			"md5": "786fb9a7496f1d3759c0081902b2434e",
+			"size": 1919067586,
+			"version": "2.8"
 		}
 	]
 }

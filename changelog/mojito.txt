@@ -1,3 +1,18 @@
+8/5/2025
+- Some minor improvements
+
+3/5/2025
+- Remove unused overlay
+- overlay: Set default pin amount for home app
+- Enable Userfaultfd GC to improve memory management on 4GB RAM variant.
+- Some changes on audio related.
+
+24/4/2025
+- Fixed serveral ELF check
+- Restore open source soundtrigger
+- Make WIFI compatible with NL80211_REG_CHANGED_EVENT
+- FCM checks after a15 qpr2
+
 12/04/2025
 - Fixed boot animation selection to prioritize custom animation
 

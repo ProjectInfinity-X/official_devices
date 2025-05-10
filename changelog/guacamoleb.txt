@@ -1,10 +1,11 @@
 Device: OnePlus 7
 Device code name : guacamoleb
-Device maintainer: NILOY
+Device maintainer: H A R I S H
 
-Date - 08/08/2024
+Date - 05/07/2024
 =================
-• Enabled QS pull tick vibration
-• Improved animation jitter
-• Fixed random over amplified vibrations
-• Fixed random fingerprint flashbang
+• Dolby: more efficient and less memory & CPU-intensive audio effects and graphic equalizer routines.
+• Fix Smart Charging control.
+• Fix some sepolicy errors
+• Ship KernelSuNext with Kernel
+• Misc Optimizations and Improvements

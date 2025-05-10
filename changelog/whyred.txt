@@ -2,6 +2,26 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 08/05/2025
+=================
+- Synced with latest source
+- Updated apn configs
+
+Date - 03/05/2025
+=================
+- Synced with latest source
+
+Date - 20/04/2025
+=================
+- Synced with latest source
+
+Date - 17/04/2025
+=================
+- Synced with latest source
+- Switch to latest southwest kernel
+- Fixed various crashes on boot
+- Many more underhood changes
+
 Date - 05/04/2025
 =================
 - Initial qpr2 release

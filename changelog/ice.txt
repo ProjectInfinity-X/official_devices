@@ -1,0 +1,25 @@
+Device: Realme 9 SE 5G
+Device code name : ice
+Device maintainer: Debarpan102
+
+Date - 07/05/2025
+===============
+• Highlighted Source Changes (https://t.me/ProjectInfinityX/1005)
+
+<<< Dirty flash from previous build possible >>>
+
+Date - 30/04/2025
+===============
+• Merged Latest Lineage-22.2 changes
+• Revoked restricted task to run on big cores
+• Prevented MetaData Corruption
+• Removed Deprecated entries
+• Fine tunned read_ahead size
+• Move background task to cpuset 0-1
+
+ <<< Dirty flash from 22/04/2025 build possible >>>
+
+Date - 22/04/2025
+===============
+• Initial Release
+ 

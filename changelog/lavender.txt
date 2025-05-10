@@ -2,6 +2,29 @@ Device: Redmi Note 7/7s
 Device code name : lavender
 Device maintainer: SpiDyNub
 
+Date - 10/05/2025
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1110)
+• Set rlimit memlock from source
+• Implement torch light control
+• camera: set saner values for torch
+• Drop Duplicate Neverallow app open access
+• Build AOSP Radio AIDL Wrapper
+• Don't override GPU props from init
+• Check full device changelogs: https://github.com/ImSpiDy/build-release/blob/14-K4.19/lavender.txt
+
+Date - 22/04/2025
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1040)
+• Updated KernelSU and Susfs
+• Fixed Wi-Fi WPA3 not connecting
+• properties: Disable FRP
+• RRO: move Wi-Fi Overlays to vendor
+• gps: update configs from CLO & MIUI
+• Switch to OSS Dolby Atoms (Aospa)
+• Update various blobs from Helios 14 & CLO 15
+• Check full device changelogs: https://github.com/ImSpiDy/build-release/blob/14-K4.19/lavender.txt
+
 Date - 21/02/2025
 =================
 • Highlighted Source Changelog (https://t.me/ProjectInfinityX/881)

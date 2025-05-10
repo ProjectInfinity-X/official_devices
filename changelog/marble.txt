@@ -1,6 +1,68 @@
 Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
-Device maintainer: PabloEscobar
+Device maintainer: PabloEscobar & SharmagRit
+
+Date - 09/05/2025
+=================
+- Enable PowerOffAlarmService
+- Split and configure perf tuning
+- props: Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
+- overlay: configure SQLite to operate in MEMORY mode
+- init: Kill statsd service
+- rootdir: Set dex2oat thread count and cpuset
+- Enable usage of dex2oat64
+- props: Disable Skia tracing by default
+- props: Disable phantom process monitoring
+- Do not use phase offsets as duration
+- Sync vsync work duration with gs201
+- powerhint: Configure walt window stats policy / qcom_lpm mode
+- init: Give proper permissions for /dev/diag
+- sensors: add more padding to _oem_msg
+- rootdir: Kill WALT CPU boosting
+- powerhint: Handle thermal profile state via powerhint
+- powerhint: Drop CPU freqs boosting on INTERACTION
+- powerhint: Follow taro's CPU freqs for little cluster
+- sepolicy: Allow powerhal write to /proc
+- rootdir: Enable powerhint parsing after boot completion
+- powerhint: Adapt and tune for SM8475 (cape)
+- Import powerhint.json from lahaina
+- Migrate to common libqti-perfd-client and power-libperfmgr
+- Remove QTI perfd
+- Drop libadreno_app_profiles
+
+Date - 05/05/2025
+=================
+- Update blobs & fp from  OS2.0.4.0.VMRMIXM
+- Add Dolby Atmos support. All credits goes to HellBoy
+- Thermal fixed & added Power Tools. All credits goes to Kenway
+- Added Gamebar 4.0
+- Import QCOM audio effects from OnePlus 9R
+- use QCOM Implementation for Audio Effects
+- Add a property to enable prefetching video
+- Add missing layer buffer slots cache clear property
+- Extend audio offload buffer size to 256kb
+- Disable continuous transaction tracing on all build types
+- Set game refresh rate override to 120
+- Enable frame pacing for smoother visual performance
+- Allow more cached apps in the background
+- Apply dex2oat optimizations
+- Disable debug.sf.latch_unsignaled
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- Dynamically set IRQ affinity for KGSL and MSM_DRM
+- Use HintManager for HWUI
+- Enable support for kernel idle timer
+
+Date - 24/04/2025
+=================
+- marble: Source upstream
+- Drop Dolby Atmos support for now, until we find a fix for VOIP call issue.
+- Drop Build binder_prio module
+- Import missing permissions for QCC app
+- Allow more cached apps in the background
+- Disable game_default_frame_rate override
+- Set frame rate multiple threshold to 120
+- Set SF caching property to 0 (enable)
+- Disable turbulence noise
 
 Date - 06/03/2025
 =================

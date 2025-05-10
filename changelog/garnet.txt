@@ -2,6 +2,36 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 04/05/2025
+=================
+- Fixed voip audio routing issue using a monitoring service
+- Update Dolby to SONY DAX3_3.7 from reiryuku
+
+Date - 02/05/2025
+=================
+- Update blobs from OS2.0.9.0.VNRMIXM
+- Build audio blobs from source
+- Fixxed lot of Dolby Blobs & stayed @ OPDOLBY
+- Use QCOM Implementation for Audio Effects from OnePlus 9R for better bass (import vendor blobs too)
+- Import Bluetooth Devices Encodings for Dolby Processing
+- Optimize ram management
+- Configure & Increase ZRAM size to 60% of Ram size
+- Fix screen record lag
+- Add Props to fix camera OIS
+- Make the UI smoother with overlays
+- Add dalvik heap configuration (for 8-12 gb devices too)
+- Enable the pre-rendering feature
+- Silence some log spam messages
+- Apply dex2oat optimizations
+- Disable ART debug
+- Adjust ambient light threshold configurations
+- Many rootdir optimalizations
+- Switch to use.voice.path.for.pcm.voip (it Fixes routing on VoIP apps)
+- parts: Add thermal profiles tile
+- parts: Introduce Display Satutaion Service and TileUtils
+- parts: Introduce High Brightness Mode (HBM) and Auto HBM QS tile
+- parts: Introduce GameBar v4.0
+
 Date - 14/04/2025 - HOTFIX
 =================
 - audio: Fix mic issues in apps like WhatsApp

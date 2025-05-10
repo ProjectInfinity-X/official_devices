@@ -2,9 +2,25 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: Rik
 
-Date - 11/04/2025
+Date - 08/05/2025
+=================
+• v2.7 Build Update
+• Dropped 90hz from the kernel
+• Added back 48MP camera sensor for K40S
+• And a few minor changes on trees and source
+
+Date - 03/05/2025
 =================
 • v2.7 Build Update.
+• Dirty Flash should be fine but as always, its recommended to backup user data.
+• Added back AOSP native colors.
+• Fixed whatsapp call issue.
+• Update vendor security patch to April.
+• And many more optimizations.
+
+Date - 11/04/2025
+=================
+• v2.7 Initial Build.
 • Added back leica camera.
 • Flashing with latest OFOX recovery is fine.
 • And a few minor changes.

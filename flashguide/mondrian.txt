@@ -1,7 +1,12 @@
 Device: Poco F5 Pro/Redmi K60 (mondrian)
-Recommended Recovery: https://github.com/DqrKnzx/OrangeFox-Action-Builder/releases/tag/13914289504 (OrangeFox)
+
+¡I recommend flashing the rom via OrangeFox, you can use the Official version or any other versión.!
+
+¡¡¡Sorry for the inconvenience but it is necessary to do Clean Flash!!!
 
 Flashing Instructions:
+
+* Reboot to Recovery OrangeFox *
 
 * Clean Flash:
 - Wipe Dalvik, Cache, Metadata, Data
