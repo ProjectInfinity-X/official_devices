@@ -1,57 +1,15 @@
-Device: Mi 11x Pro/Redmi K40 Pro
+Device: Mi 11x Pro/Mi 11i/Redmi K40 Pro+
 Device code name : haydn
-Device maintainer: AshraySingh
+Device maintainer: Hexdare
 
-Date - 17/08/2024
+Date - 11/05/2025
 =================
-* Disbale kpti
-* props: Enabled the pre-rendering feature
-* props: Add a property to enable prefetching video
-* rootdir: Do not allow restricted task to run on big cores
-* rootdir: switch hwcomposer to foreground CPU set
-* rootdir: move background cpuset to CUP0-1
-* rootdir: make less cores available for background tasks
-* Enable support for IEE80211AX
-* Declare 6ghz wifi support
-* Enable multi-stage SVA
-* move to new RFS install_symlink targets
-* switch to dot prod CPU varient
-* Optimize native executables for Cortex-A76 CPU
-* Guard qti thermal 2.0 service hals
-* Do not balance msm_drm and kgsl_3d0 IRQs
-* Disable Vulkan
-* set screen record max framerate to 90Hz
-* set AOD max refreshrate to 60Hz
-* increase AOD brightness
-* set swappiness to a lower of 60
-* Disable vSync for CPU-rendered apps
-* Disable skia tracing by default
-* wifi: Enable Optimized Power Management
-* silence some spam messages
-* Don't pin launcher in memory
-* Reduce LOWI debug level 
-* Disable display refresh rate override
-* prefer deep over s2idle for lahaina
-* Add BCR support again
-* Enable SurflaceFlinger's timers
-* Enable SurflaceFlinger's display power timers
-* Relax Refresh rate timers
-* Downgrade zram to 2GB
-* switch to lz4 for zram
-* Disable proximity usage during doze
-* Disable lift to check phone by default
-* move citsensorservice to background cpuset
-* configure TCP buffer sizes per network type
-* configure wifi TCP buffer sizes
-* Switch to AOSP WFD (to fix cast)
-* Force disable low ram config
-* Import Diag HAL
-* Fixed VoWiFi.
-* Import DC Dimming and HBM
-* Drop vm-bootsys from fstab
-* Set config_sustainedPerformanceModeSupported
-* switched kernel to FarFromStock (source:https://github.com/1xtAsh/kernel-xiaomi-sm8350/commits/FarFromStock/)
-
-Date - 08/07/2024
-=================
-• Inital Android 14 Build
+- Initial Build
+- Includes XiaomiParts
+- Dial Hal works
+- HBM, HTSR & DC Dimming works
+- GameBar v4.0 Included
+- Bypass Charging supported (Check Gamespace)
+- Dolby Included (With Sony Blobs)
+- Firmware included (HAYDNGlobal_OS1.0.18.0.UKKMIXM)
+- Leica Cam Included
