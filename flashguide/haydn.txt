@@ -1,0 +1,30 @@
+Device: Mi 11X Pro/Mi 11i/Redmi K40 Pro+ (haydnin/haydn)
+Recommended Recovery: https://t.me/Mi11XProOfficial/358065
+
+Flashing Instructions:
+
+* Clean Flash:
+
+1. Download and boot into Ofox/TWRP image using
+fastboot boot recovery.img OR fastboot boot twrp-3.7.1_12-v9.0_A15-haydn-skkk.img
+
+2. Wipe Data, Metadata, Cache, Dalvik-Cache
+
+3. Copy ROM to Internal Storage and Flash ROM & Recovery OR Sideload ROM
+
+4. Reboot Recovery (Not Needed if using TWRP A15 (Skkk 9.0) you can directly format data)
+
+5. Format Data
+
+6. Reboot System
+
+* Dirty Flash:
+
+1. Reboot to Recovery
+
+2. Flash ROM & Recovery(Advanced & Flash current recovery)
+
+3. Reboot System
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
