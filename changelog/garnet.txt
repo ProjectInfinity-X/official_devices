@@ -4,6 +4,21 @@ Device maintainer: bezke
 
 Date - 04/05/2025
 =================
+- Update Dolby from https://github.com/swiitch-OFF-Lab/hardware_dolby
+- Parts: Introduce PowerTools v3.0
+- Parts: Rework per-app thermal profile
+- Enable VoNR Calls support
+- Build missing Wi-Fi Display lib
+- Enable Dolby Vision in hwcomposer
+- Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
+- Enable support for IEEE80211AC
+- Switch to NCM USB tethering
+- Extract touchscreen firmware for recovery
+- Fix Vanilla Partition size
+- & many prop settings for better performance
+
+Date - 04/05/2025
+=================
 - Fixed voip audio routing issue using a monitoring service
 - Update Dolby to SONY DAX3_3.7 from reiryuku
 
