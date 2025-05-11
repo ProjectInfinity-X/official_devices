@@ -2,6 +2,11 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 11/05/2025
+=================
+• Synced with latest 2.8 source
+• Based on May security patch
+
 Date - 04/05/2025
 =================
 • Synced with latest 2.7 source
