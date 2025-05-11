@@ -2,6 +2,10 @@ Device: Xiaomi 11T Pro
 Device code name : vili
 Device maintainer: swiitchOFF
 
+Date - 11/05/2025
+=================
+- Thanks
+
 Date - 05/05/2025
 =================
 - dolby: The Last Dance
