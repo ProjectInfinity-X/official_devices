@@ -2,6 +2,15 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
 
+Date - 11/05/2025
+=================
+• Bumped to V2.8
+• Upstreamed electro kernel to v3.5
+• Added support for vanilla build
+• Muted HWUI and several other logspams
+• Added support for bypass charging(Use stock or ksu implemented kernel only)
+• Source Changelog - https://t.me/ProjectInfinityX/1110
+
 Date - 29/04/2025
 =================
 • Implemented rounded corners for overall SystemUI
@@ -78,7 +87,7 @@ Date - 11/12/2024
 
 Notes:
 • System-Ext build
-• Default shipped kernel hasn't been shipped with KernelSU-Next (For KernelSU-Next variant kernel:- Click Here (https://t.me/ak_builds_discussion/33301))
+• Default shipped kernel hasn't been shipped with KernelSU-Next (For KernelSU-Next variant kernel:- Click Here (https://t.me/ak_builds_discussion/38224))
 • Playstore certified by default and banking apps do work
 • Circle To Search is available
 • Dolby Atmos is included
