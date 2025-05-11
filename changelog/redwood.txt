@@ -2,7 +2,7 @@ Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: Priyanshu
 
-Date - 04/05/2025
+Date - 11/05/2025
 =================
-• Fixed high idle & active drain issue.
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1081)
+* No changes
+
