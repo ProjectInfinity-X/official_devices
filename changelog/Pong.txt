@@ -2,6 +2,26 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 12/05/2025
+=================
+- Switch back to prebuild audio blobs
+- Fix low mic sound
+- Switch to PowerShare AIDL
+- Set zram size to 40%
+- Checkout fstab from NOS 3.0
+- Add dlb_music_listener in music postprocess
+- Configure max values for background and dex2oat groups
+- Unset scheduler ratelimits
+- Switch BtAudio to AIDL
+- switch to common QCOM AIDL bootctrl HAL
+- Drop cpu interection changes
+- Tune uclamp values for efficiency
+- Tune down cpu launch duration value
+- Set volume steps to 15
+- Disable speaker audio spatializer by default
+- Tweak dolby dax config
+- Improvements to performance and system stability
+
 Date - 26/04/2025
 =================
 - Fix brightness issue
