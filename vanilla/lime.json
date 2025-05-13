@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-1.7-lime-20241202-1420-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/lime/14/vanilla/Project_Infinity-X-1.7-lime-20241202-1420-VANILLA-OFFICIAL.zip",
-			"timestamp": 1733149105,
-			"md5": "f4b966e285a1d761b7921feb55fea88c",
-			"size": 1550631793,
-			"version": "1.7"
+			"filename": "Project_Infinity-X-2.8-lime-20250513-1130-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/lime/15/vanilla/Project_Infinity-X-2.8-lime-20250513-1130-VANILLA-OFFICIAL.zip",
+			"timestamp": 1747135545,
+			"md5": "378e33df4f85207d53aa418dd9cec85e",
+			"size": 1493265430,
+			"version": "2.8"
 		}
 	]
 }
