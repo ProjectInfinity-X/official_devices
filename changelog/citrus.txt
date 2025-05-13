@@ -2,6 +2,11 @@ Device: POCO M3
 Device code name : citrus
 Device maintainer: pawelik001
 
+Date - 13/05/2025
+=================
+• Initial Android 15 release
+• May 2025 Security patch
+
 Date - 02/12/2024
 =================
 • Merged November 2024 Security Patch
