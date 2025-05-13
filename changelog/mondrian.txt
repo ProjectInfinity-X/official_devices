@@ -1,15 +1,93 @@
 Source Changelog:
 
-https://t.me/ProjectInfinityX/1081
+https://t.me/ProjectInfinityX/1110
+
+¡¡If DeskClock application crashes on dirty flash, just clear it's app data!!
 
 Device Changelog:
+
+(13/05/2025)
+Add support GameSpace Bypass charge
+Introduce PowerTools v3.0
+Fixed slow charging
+Apply dex2oat optimizations
+Switch to NCM USB tethering
+Migrate Lineage Health to soong_config_set
+Move libcameraservice extension lib to select()
+Move Lineage PowerShare HAL to select()
+Set vendor init lib via soong config
+Drop TARGET_RECOVERY_DEVICE_MODULES
+Dont ship source recovery with Rom
+rootdir: Move background cpuset to CPU0-1
+rootdir: Do not allow foreground tasks to run on CPU7
+rootdir: Move RLIMIT_MEMLOCK to system/core init.
+Enable allow_file_spec_access
+Add default affinity bootarg
+Configure PELT half-life to 8 at boot
+overlay: configure SQLite to operate in MEMORY mode
+dolby: Initialized Spatial Audio
+Reback shoebox soundfx
+Reback KernelOSS
+
+Kernel:
+Merge tag 'android12-5.10-lts'
+  ANDROID: GKI: Add bpf_redirect_info to virtual_device symbol list.
+  ANDROID: GKI: fix up crc issue in crypto_get_default_null_skcipher()
+  Revert "blk-cgroup: support to track if policy is online"
+  Revert "blk-iocost: do not WARN if iocg was already offlined"
+  Revert "net: defer final 'struct net' free in netns dismantle"
+  Revert "PCI: Introduce domain_nr in pci_host_bridge"
+  Revert "PCI: Coalesce host bridge contiguous apertures"
+  Revert "PCI: Assign PCI domain IDs by ida_alloc()"
+  Revert "PCI: Fix use-after-free in pci_bus_release_domain_nr()"
+  Revert "PCI: Fix reference leak in pci_register_host_bridge()"
+  Linux 5.10.237
+  media: venus: hfi_parser: Check for instance after hfi platform get
+  media: venus: Fix uninitialized variable count being checked for zero
+  soc: samsung: exynos-chipid: correct helpers __init annotation
+  PCI: Fix use-after-free in pci_bus_release_domain_nr()
+  nvme: fixup scan failure for non-ANA multipath controllers
+  MIPS: cm: Fix warning if MIPS_CM is disabled
+  xdp: Reset bpf_redirect_info before running a xdp's BPF prog.
+  crypto: atmel-sha204a - Set hwrng quality to lowest possible
+  comedi: jr3_pci: Fix synchronous deletion of timer
+  and more (295 commits)...
+
+Kernel Modules:
+Merge tag 'LA.VENDOR.1.0.r1-27400-WAIPIO.QSSI16.0' in wlan/qcacld-3.0 into
+  Release 2.0.9.23Z
+  qcacld-3.0: Update hdd APIs for kernel upgrade
+  Release 2.0.9.23Y
+  qcacld-3.0: Fix compile error when SDIO enabled
+
+Merge tag 'LA.VENDOR.1.0.r1-27400-WAIPIO.QSSI16.0' in wlan/qca-wifi-host-cmn 
+  qcacmn: Detect tracker list corruption during memory free
+  qcacmn: Drop 6 GHz beacon if best power type isn’t found
+  qcacmn: Handle invalid 6 GHz power type advertised by AP
+
+Merge tag 'LA.VENDOR.1.0.r1-27400-WAIPIO.QSSI16.0' in /wlan/fw-api:
+  fw-api: CL 28811455 - update fw common interface files
+  fw-api: CL 28805911 - update fw common interface files
+  fw-api: CL 28757294 - update fw common interface files
+  fw-api: CL 28748436 - update fw common interface files
+  fw-api: CL 28739491 - update fw common interface files
+  fw-api: CL 28727084 - update fw common interface files
+  fw-api: CL 28705885 - update fw common interface files
+  fw-api: CL 28686055 - update fw common interface files
+  fw-api: CL 28676060 - update fw common interface files
+  fw-api: CL 28639946 - update fw common interface files
+  fw-api: CL 28638758 - update fw common interface files
+  fw-api: CL 28611293 - update fw common interface files
+  fw-api: CL 28602565 - update fw common interface files
+  fw-api: CL 28584645 - update fw common interface files
+  fw-api: CL 28583592 - update fw common interface files
 
 (04/05/2025)
 Introduce GameBar v4.0
 Introduce High Brightness Mode (HBM) and Auto HBM QS tile
 Reback Xiaomi vibrator
 Limit AOD & Ambient Display refresh rate to 60Hz
-Added a fix for the problem in Whatsapp, Telegram, etc where the sound was very low.
+Added a fix for the problem in Whatsapp, Telegram, etc where the sound was very low in calls.
 Drop more blobs OMX
 Changed to Audio OSS
 Changed to Kernel Prebuilt
