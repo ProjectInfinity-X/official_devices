@@ -2,8 +2,11 @@ Device: Samsung Galaxy Note 10+ 5G
 Device code name : d2x
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 04/16/2025
-- Bumped FrEeRuNnErKeRnEl to v2.3
+Device Changelog 05/10/2025
+- Initial vanilla build
+- Bumped FrEeRuNnErKeRnEl to v2.5-r2
+- Update Susfs to v1.5.7
+- Under the hood kernel changes
 
 
-* Gapps build
+* Vanilla build
