@@ -2,6 +2,11 @@ Device: Google Pixel 7 Pro
 Device code name : cheetah
 Device maintainer: pyrtle93
 
+Date - 05/16/2025
+• Synced with latest 2.8 source
+• Based on May
+• Updated prebuilt kernel to r34
+
 Date - 04/19/2025
 • Synced with latest source changes
 • Various crash fixes
