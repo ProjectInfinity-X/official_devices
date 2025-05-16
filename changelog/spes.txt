@@ -2,6 +2,9 @@ Device: Redmi Note 11
 Device Code Name: spes/spesn  
 Device Maintainer: JassiV
 ---------------------------------------------------
+Update: 03/04/2025 - Version 2.8
+- Removed GameBar
+
 Update: 03/04/2025 - Version 2.6
 
 • Add init.spes.rc
