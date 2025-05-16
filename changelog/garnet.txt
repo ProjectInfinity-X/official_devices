@@ -2,7 +2,19 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
-Date - 04/05/2025
+Date - 16/05/2025 - HOTFIXXX
+=================
+- rootdir: Import init from stock
+- rootdir: Update to LA.VENDOR.1.0.r2-10200-WAIPIO.QSSI13.0
+- overlay: Enable multiple vibration strength levels support
+- overlay: Add vibration patterns
+- enable Dolby Vision in hwcomposer
+- Migrate Lineage Health to soong_config_set
+- fastcharge implementation
+- remove IRestricted from fastcharge
+- Full reworked audio blobs....
+
+Date - 11/05/2025
 =================
 - Update Dolby from https://github.com/swiitch-OFF-Lab/hardware_dolby
 - Parts: Introduce PowerTools v3.0
