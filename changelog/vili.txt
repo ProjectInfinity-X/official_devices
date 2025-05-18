@@ -2,6 +2,14 @@ Device: Xiaomi 11T Pro
 Device code name : vili
 Device maintainer: swiitchOFF
 
+Note:
+    * Can be flashed via recovery like TWRP/OFOX
+    * Ensure you are on latest available firmware for your device.
+
+Date - 18/05/2025
+=================
+- Dolby vision
+
 Date - 11/05/2025
 =================
 - Thanks
