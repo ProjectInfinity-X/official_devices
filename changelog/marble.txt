@@ -2,6 +2,15 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 18/05/2025
+=================
+- Add support for Dolby Atmos (credits: HellBoy)
+- Add support for Dolby Vision (credits: SwiitchOff)
+- Fix audio issue
+- Nuke powerhint and perf support
+- Enable support for IEEE80211AC
+- Increase size of unused array in _oem_msg to match stock padding
+
 Date - 09/05/2025
 =================
 - Enable PowerOffAlarmService
