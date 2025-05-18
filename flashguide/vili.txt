@@ -1,6 +1,9 @@
 Device: Xiaomi 11T Pro (vili)
 Recommended Recovery: https://sourceforge.net/projects/crdroid/files/vili/custom-recovery/
 
+Note:
+    * Make sure you have latest firmware available for your country.
+
 Flashing Instructions:
 
 Recovery Build - with custom recovery
