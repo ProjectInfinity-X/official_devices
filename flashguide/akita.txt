@@ -2,6 +2,21 @@ Device: Google Pixel 8a (akita)
 
 First Time Install (Note: These releases include firmware)
 
+••• MAY 2025 FIRMWARE IS ANTI-ROLLBACK •••
+Download link for Akita May-FW 
+• https://sourceforge.net/projects/infinity-x/files/akita/15/May-FW/
+
+•• WHETHER CLEAN OR DIRTY, THIS IS MANDATORY ••
+• Download bootloader & radio
+• Reboot to bootloader
+• fastboot flash bootloader_a bootloader.img
+• fastboot flash radio_a radio.img
+• fastboot reboot bootloader
+• fastboot flash bootloader_b bootloader.img
+• fastboot flash radio_b radio.img
+• fastboot reboot bootloader
+• Now proceed to install Infinity
+
 Download link for Akita IMGs 
 • https://sourceforge.net/projects/infinity-x/files/akita/15/IMGs/
 
@@ -22,11 +37,12 @@ Dirty Flash (when updating your infinity x version)
 • Apply update -> adb sideload
 • adb sideload romname.zip
 • Reboot
-• Or simply just update via ota updater in settings
+• Or simply just update via ota local updater in settings
 
 Download and Install Magisk apk
 
-• Unzip the factory image from here for example (https://developers.google.com/android/images), Extract the IMGs folder, copy the init_boot file to your Pixel device.
+• The init_boot.img is now provided in the IMGs folder.
+• Copy the init_boot file to your Pixel device.
 • Patch init_boot.img file, Open Magisk app on your device, tap on install and tap again on “Select and Patch a file” and browse the init_boot.img file you’ve just copied. It will patch the file and save it in the same folder. Now you’ve to transfer patched init_boot.img file to your PC to flash it using an adb command.
 • Reboot the device in Fastboot
 • On your PC, open the plaform tools folder, hold the Windows button and right click in the folder and select open command here. Type the following commands to flash the patch boot file, below is an example; fastboot flash init_boot magisk_patched-25200_xgjAS.img
