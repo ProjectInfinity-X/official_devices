@@ -2,6 +2,14 @@ Device: Realme 9 SE 5G
 Device code name : ice
 Device maintainer: Debarpan102
 
+Date - 21/05/2025
+===============
+• Decommonized Lineage Health Charging path
+• Merged Latest lineage-22.2 changes 
+• Highlighted Source Changes (https://t.me/ProjectInfinityX/1149)
+
+<<< Dirty flash from previous build possible >>>
+
 Date - 07/05/2025
 ===============
 • Highlighted Source Changes (https://t.me/ProjectInfinityX/1005)
