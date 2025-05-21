@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.8-aston-20250507-0856-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/aston/15/gapps/Project_Infinity-X-2.8-aston-20250507-0856-GAPPS-OFFICIAL.zip",
-			"timestamp": 1746608173,
-			"md5": "f1c7defac31df5a9ab5ce3ae7920c718",
-			"size": 2654927074,
+			"filename": "Project_Infinity-X-2.8-aston-20250520-1942-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/aston/15/gapps/Project_Infinity-X-2.8-aston-20250520-1942-GAPPS-OFFICIAL.zip",
+			"timestamp": 1747769991,
+			"md5": "72efd7986c9fff0ac5a468ed4850919f",
+			"size": 2655025627,
 			"version": "2.8"
-	    }
+		}
 	]
 }
