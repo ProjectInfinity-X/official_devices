@@ -2,7 +2,8 @@ Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: Priyanshu
 
-Date - 11/05/2025
+Date - 21/05/2025
 =================
-* No changes
-
+* Added support for Dolby Vision
+* Updated Dolby (fixed low sound issue when Volume Leveler is enabled)
+* Fixed duplicate number parsing when receiving calls
