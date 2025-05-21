@@ -2,13 +2,15 @@ Device: Google Pixel 8
 Device code name : shiba
 Device maintainer: Libra420T
 
-Date - 05/16/2025
+Date - 05/21/2025
 • Based on May { Anti-Rollback }
 • version 2.7 Depreciated
 • May 2025 Security Update
 • Synced with latest 2.8 source
 • Updated prebuilt kernel to r36
 
+
+{DEPRECIATED}
 Date - 04/21/2025
 • Initial Release
 • Android 15 QPR2 update + April 2025 Security Update
