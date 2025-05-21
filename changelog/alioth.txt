@@ -2,6 +2,48 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 21/05/2025
+=================
+- Dropped Miui Camera for now
+- Merged May 2025 Security Patches
+- Add complete and accurate translations for 9 mentioned languages (https://t.me/ProjectInfinityX/1104)
+- Add lock/pin app functionality in launcher recents
+- Redesign Recents Buttons View like OxygenOS (just like InfinityX v1.x releases)
+- Add More Settings icon styles
+- Add Private Dns tile
+- Fix lens shortcut crashing in All apps search bar
+- Fix restoring floating window after rotation 
+- Tune default freeform window sizes
+- Revamp Settings UI [with custom icon colors customisations] (https://t.me/ProjectInfinityX/1082)
+- Add option to customise Launcher App drawer and recents opacity/transparency
+- Improve Dock (Hotseat background) layout and corners on homescreen
+- Decrease length of Google search bar on homescreen and make it similar to that of Pixel launcher
+- Add toggle for transparent notification style
+- Add audio permission to AOSP Wfd (Screen Cast)
+- Added support for off-screen touch gestures (on supported devices)  
+- Fixed issue where Circle to Search Music detection was unable to detect music playing internally on the device  
+- Defaulted Google Messaging app (Fixes RCS Chats)  
+- Fixed app freeze when quickly calling app from recents while navigation hint is hidden
+- Improved functionality of depth wallpapers:  
+  = Resolved hollow depth wall displaying when expanding Quick Settings  
+  = Corrected misalignment during swipe and scroll interactions  
+- Depth wallpaper now hides when lockscreen media artwork is displayed  
+- Add launch boosts and game optimisation options in GameSpace
+- Included additional Google apps in GApps builds, replacing AOSP counterparts (e.g., DeskClockGoogle, CalculatorGoogle, Google Chrome)  [If DeskClock application crashes on dirty flash, just clear it's app data]
+- Restored Google WebView in GApps builds and few more day-to-day essential Google apps
+- Bring back Extended swipe action gestures
+- Bring back Hide IME space (Empty keyboard space) feature
+- Fix cloned apps not showing in launcher
+- Make visibility of settings style contextual random messages and wallpaper based header image below search bar toggleable
+- Extend custom translations to Infinity suite main page and About phone page
+- Add feature to resize clock size on statusbar and QS
+- Allow disabling bluetooth tile dialog on pressing bluetooth tile and let enable/disable it based on click
+- Add ambient music ticker feature
+- Add toggle to enable monet color based custom clock style text
+- Allow adjusting opacity of custom clock style
+- Add support for disabling non-system apps
+- Bring back the ! data disabled indicator instead of x
+
 Date - 27/04/2025
 =================
 - Merged April 2025 Security Patches
