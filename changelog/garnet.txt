@@ -2,6 +2,32 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 22/05/2025
+=================
+- Update Blobs from OS2.0.10.0.VNRMIXM Thx to Kleidione
+- Import media configs from stock Thanx to <٭'sᴡɪɪᴛᴄʜ''off٭'/>
+- Add support for Dolby Vision Thanx to <٭'sᴡɪɪᴛᴄʜ''off٭'/>
+- Audio Policy: Drop Max Open Count & Max Active Count (johnmart19, 2024-01-18)
+- audio: Move bluetooth A2DP back to primary audio module (Arian, 2024-04-16)
+- Audio Policy: Remove FM Tuner Leftovers (johnmart19, 2024-01-18)
+- audio: Nuke unsupported haptics output configuration (EcrosoftXiao, 2021-12-02)
+- audio: Add stereo out to supported VOIP RX channels (Arian, 2025-05-05)
+- audio: hal: Remove compress passthrough profile for HDMI (Faiz Nabi Kuchay, 2022-02-03)
+- Disable sdm rotator downscaler (Jorim Jaggi, 2023-02-13)
+- props: Remove Force triple frame buffers * Causing some apps laggy & UI performance regression (officialputuid, 2021-10-28)
+- Fix voip incall mic (EmanuelCN, 2024-04-05)
+- Enable display async powermode (madmax7896, 2022-09-21)
+- props: Kill IMS logspam with fire (Adithya R, 2021-09-14)
+- Disable logging sensors-hal events (pjgowtham, 2024-04-10)
+- Set debug.sf.frame_rate_multiple_threshold to 60 by default (Juhyung Park, 2022-05-22)
+- props: Enable config_avoidGfxAccel - This flag turns off GPU/CPU intensive UI effects and reduces the RAM footprint. (Jyotiraditya, 2025-02-26)
+- props: Disable vsync for CPU rendered Apps (PainKiller3, 2025-02-26)
+- props: Enable APK fs-verity (minaripenguin, 2025-02-18)
+- props: Increase audio HAL buffer size to 240 (Kim Le, 2024-12-31)
+- props: Set wide color display prop to false (AtlanPrime, 2024-09-03)
+- Add blur props (EmanuelCN, 2023-01-11)
+- LMK Props: Force disable low ram config (johnmart19, 2022-07-29)
+
 Date - 16/05/2025 - HOTFIXXX
 =================
 - rootdir: Import init from stock
