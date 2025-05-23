@@ -2,9 +2,16 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: Rik
 
+Date - 22/05/2025
+=================
+• v2.8 Build Update
+• Switched to N0 kernel (without ksu)
+• Added back task profiles
+• And a few minor changes on trees and source
+
 Date - 08/05/2025
 =================
-• v2.7 Build Update
+• v2.8 Initial Update
 • Dropped 90hz from the kernel
 • Added back 48MP camera sensor for K40S
 • And a few minor changes on trees and source
