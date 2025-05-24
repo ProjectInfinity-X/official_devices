@@ -6,6 +6,10 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+Date - 24/05/2025
+=================
+- Kernel Sernel 
+
 Date - 18/05/2025
 =================
 - Dolby vision
