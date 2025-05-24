@@ -2,6 +2,14 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 24/05/2025
+=================
+- Add support for LDAC & LHDC
+- Don't set battery saver power profile in low battery mode
+- Nuked inbuilt firmware
+- Migrate sensor-notifer config to soong_config_set
+- Fix wrong format specifier in libgf_hal.so
+
 Date - 18/05/2025
 =================
 - Add support for Dolby Atmos (credits: HellBoy)
