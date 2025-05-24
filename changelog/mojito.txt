@@ -1,7 +1,16 @@
-8/5/2025
+24/5/2025
+-Fix CPU-L3 frequency
+-Uprev audio HAL to V7
+-remove direct flag for VOIP RX
+-media: Update Codec2 configs
+-Introduce GameBar v4 (available in app setting)
+-Migrate some ‎BoardConfig flag to soong_config_set
+-partially fixed bluetooth ringtone bug
+
+08/5/2025
 - Some minor improvements
 
-3/5/2025
+03/5/2025
 - Remove unused overlay
 - overlay: Set default pin amount for home app
 - Enable Userfaultfd GC to improve memory management on 4GB RAM variant.
