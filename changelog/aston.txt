@@ -1,1 +1,13 @@
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1149)
+- Make play integrity pass by default again
+To pass play integrity without any modules or root by default in rom
+
+1. Go to Infinity Suite > Miscellaneous > Spoofing
+2. Enable "Spoof playstore to SDK 32" Toggle
+3. Reboot
+
+Integrity will be passed now and device will be certified again (Click fix device issue, if it shows not certified, don't clear playstore data)
+
+---- DON'T CLEAR PLAYSTORE DATA ONCE YOU HAVE YOUR INTEGRITY PASSING, YOU WILL LOSE IT AGAIN IF YOU DO -----
+
+- Disable Island Now Playing notification by default
+- Prevent monet clock or clock opacity to be applied on stylish custom clock styles
