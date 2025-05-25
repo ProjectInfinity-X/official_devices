@@ -2,6 +2,22 @@ Device: Mi 11x Pro/Mi 11i/Redmi K40 Pro+
 Device code name : haydn
 Device maintainer: Hexdare
 
+Date - 26/05/2025
+=================
+- Set VENDOR_SECURITY_PATCH to PLATFORM
+- parts: add ZRAM options
+- Move Lineage Health HAL to select()
+- Move Lineage PowerShare HAL to select()
+- Move libcameraservice extension lib to select()
+- Switch to NCM USB tethering
+- Push screen recorder max FPS to 90FPS
+- Enable support for IEEE80211AC
+- wifi: Enable support for IEEE80211AX
+- Removed High Touch Polling Rate
+- Many more Improvements
+- Kernel Changed to FarFromStock
+- Prerooted by default with KernelSU-Next
+
 Date - 11/05/2025
 =================
 - Initial Build
