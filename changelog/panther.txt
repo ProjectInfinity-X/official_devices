@@ -2,38 +2,24 @@ Device: Google Pixel 7
 Device code name : panther
 Device maintainer: pyrtle93
 
+Date - 05/25/2025
+• Dropped V4A
+• Fixed ambient display not working with tap
+• GO TO SETTINGS, DISPLAY, LOCKSCREEN, WAKE SCREEN FOR NOTIFICATIONS MUST BE ENABLED
+• Synced with latest 2.8 changes
+
+• Make play integrity pass by default again
+To pass play integrity without any modules or root by default in rom
+
+1. Go to Infinity Suite > Miscellaneous > Spoofing
+2. Enable "Spoof playstore to SDK 32" Toggle
+3. Reboot
+
+Integrity will be passed now and device will be certified again (Click fix device issue, if it shows not certified, don't clear playstore data)
+
+---- DON'T CLEAR PLAYSTORE DATA ONCE YOU HAVE YOUR INTEGRITY PASSING, YOU WILL LOSE IT AGAIN IF YOU DO -----
+
 Date - 05/16/2025
 • Synced with latest 2.8 source
 • Based on May
 • Updated prebuilt kernel to r34
-
-Date - 04/19/2025
-• Synced with latest source changes
-• Various crash fixes
-
-Date - 04/15/2025
-• Android 15 QPR2 update + April 2025 Security Update
-• Synced with recent 2.7 changes
---CLEAN FLASH IS REQUIRED--
-
-Date - 02/10/2025
-• Synced with recent 2.5 changes
-• Updated to Feb firmware
-• Fixed smart pixel not working
-• Various improvements/updates
-
-Date - 01/31/2025
-• Updated to Jan qpr1
-• Fix cutoff when enrolling udfps on setup
-• NGA works now
-• Added SoundPicker
-• Updated prebuilt kernel to 5.10/24Q4-12476354
-
-Date - 01/12/2025
-• Synced with recent source changes
-• Circle to Search works by default
-• Added Viper4Android
-• Hey Google is working
-• Fixed google battery drain
-• Fixed search icon not showing on lock screen for now playing
-• More improvements
