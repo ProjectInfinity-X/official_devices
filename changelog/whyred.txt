@@ -2,6 +2,58 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 27/05/2025
+=================
+- Synced with latest source
+- Set camera override format from reserved via soong config
+- Switch to open source sound trigger hal
+- Use AOSP USB audio configs
+- Unlocked additional camera framerates
+- Add ViPER4AndroidFX Redesign
+- Unset explicit 'resource_dirs' declaration
+- Move Lineage Health HAL to select()
+- Use QCOM implementation for audio effects
+- Disable DRC audio
+- Inherit non_ab_device.mk
+- Drop product_launched_with_*.mk
+- Import vibration pattern from curtana
+- Remove TARGET_VENDOR_PRODUCT_NAME
+- Switch to AIDL USB HAL
+- AOSP WFD doesn't support protected Wi-Fi Display buffers so dropped it
+- Build required Wi-fi Interfaces
+- Update IMS permissions in permissions-qti.xml
+- Add net_raw permissions for time_daemon service
+- Correct rmt_storage Service Name
+- Disable alpha compositing in WM
+- Don't pin camera app in memory
+- Remove obsolete rfs_access service
+- Remove useless nqnfcinfo service
+- Set default wifi country code to '00'
+- Change permissions for /dev/diag
+- Increase 5 GHz network signal tolerance
+- Inherit userspace_reboot.mk
+- Use the new auto network selection UI
+- Fix SBC/AAC A2DP offload
+- Extend buffer size to 256kb for offload playback
+- Sync boot image header with stock
+- Drop HMP Specific Kernel CMD Line.Because we are now using EAS
+- Update SELinux boot error
+- Give proper permissions for /dev/diag
+- Import more surface flinger flags
+- keylayout: Map Button Jack keylayout to fix headset button controls
+- Use QTI USB 1.3 HAL
+- Migrate to QTI USB Gadget 1.2 HIDL
+- Enable UVC support on sdm660
+- Switch to AIDL thermal HAL
+- build deviceaswebcam
+- Add usbd servicemanager permission
+- Add DeviceAsWebcam overlay
+- Set TARGET_USES_YCRCB_VENUS_CAMERA_ENCODE
+- Use emulated storage
+- Switch to AIDL USB GADGET hal
+- Switch to USB 1.3-basic HAL
+- Many more underhood changes and optimizations
+
 Date - 08/05/2025
 =================
 - Synced with latest source
