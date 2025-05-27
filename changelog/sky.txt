@@ -2,10 +2,20 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 27/05/2025
+=================
+• Update blobs from OS2.0.8.0.VMWEUXM
+• Fixes the Problem Of No Sound During a VoIP Call When Switch Earpiece to Speaker & Vice Versa
+• Add feature flag for IPSEC_TUNNEL_MIGRATION
+
+Credits
+• Thanks to @solocaptainblaze , @jendermine , @lostark13 , @redducc For base device tree and kernel
+• Thanks to @Karthik5697 For testing the rom
+
 Date - 07/05/2025
 =================
 • Initial Android 15 QPR2 Release
-• Update blobs from  OS2.0.5.0.VMWEUXM
+• Update blobs from OS2.0.5.0.VMWEUXM
 • Switch to Aidl BootCtrl
 • Extend audio offload buffer size to 256kb
 • Remove unnecessary display board flags
