@@ -2,6 +2,25 @@ Device: Google Pixel 8 Pro
 Device code name : husky
 Device maintainer: Libra420T
 
+Date - 05/27/2025
+<!--  MAY NO LONGER WORK
+• Make play integrity pass by default again
+To pass play integrity without any modules or root by default in rom
+
+1. Go to Infinity Suite > Miscellaneous > Spoofing
+2. Enable "Spoof playstore to SDK 32" Toggle
+3. Reboot
+
+Integrity will be passed now and device will be certified again (Click fix device issue, if it shows not certified, don't clear playstore data)
+
+---- DON'T CLEAR PLAYSTORE DATA ONCE YOU HAVE YOUR INTEGRITY PASSING, YOU WILL LOSE IT AGAIN IF YOU DO -----
+-->
+• Fixed ambient display not working with tap
+• GO TO SETTINGS, DISPLAY, LOCKSCREEN, "WAKE_SCREEN_FOR_NOTIFICATIONS" Option MUST BE ENABLED
+• Removed AOD Customizations "Always-On" Enabled Dependencies
+• Removed Alternate Boot Animations (Temporarily)
+
+
 Date - 05/21/2025
 • Based on May { Anti-Rollback }
 • version 2.7 Depreciated
