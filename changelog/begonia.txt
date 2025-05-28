@@ -2,6 +2,13 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 28/05/2025
+=================
+• Synced with latest 2.8 source
+• Based on May security patch
+• Battery Light Flickering fixed
+• Play Integrity Passes by default
+
 Date - 11/05/2025
 =================
 • Synced with latest 2.8 source
