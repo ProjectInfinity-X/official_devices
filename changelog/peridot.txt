@@ -1,7 +1,44 @@
-• HOS2 blobs
-• dirty flashable over previous release
-• Fixed vendor_boot issue
-• Gapps Already Included
-• switch to old fp implementation (faster)
-• fix top speaker buzzing during calls
-• Fixed inconsistent haptics and make intensity stronger
+Source changelog:
+https://t.me/ProjectInfinityX/1149
+https://t.me/ProjectInfinityX/1110
+
+Device:
+- May security patch (QPR2) ,HyperOS 2 based
+
+- Updated blobs from OS2.0.103.0.VNPMIXM
+
+- Updated firmware from OS2.0.102.0.VNPMIXM
+
+- TARGET_ARCH_VARIANT Switch to armv9-a ARCH variant
+
+- TARGET_CPU_VARIANT Switch to Kryo785
+
+- Dropped config_autoBrightnessAdjustmentMaxGamma
+
+- Touchfeature: Intoducing Xiaomi touch control via ITouchFeature aidl (settings/display/Touch control)
+
+- Touchfeature: Refactors the initialization logic for Double Tap to Wake and SoFOD features into standalone services—DoubleTapService and SoFodTouchService.
+
+- Touchfeature: DoubleTapService registers a content observer for the DOUBLE_TAP_TO_WAKE setting and applies the corresponding touch mode via ITouchFeature 14
+
+- Touchfeature: SoFodTouchService enables SoFOD-related touch modes via ITouchFeature 10 11 16
+
+- udfps: Enable HBM via disp_feature
+
+- udfps: Defer extCmd until fod ui is ready
+
+- udfps: Drop unnecessary setFingerDown on cancel
+
+- udfps: Fix wrong udfps debugging
+
+- udfps: Avoid partial reads on disp_feature
+
+- udfps: Fix stack memory address return in UdfpsHandler
+
+- Import missing feature_enabler_client.rc
+
+- Dropped libqti-perfd-client and power-libperfmgr
+
+- Switched to qti perf hal stack
+
+- fstab: Switch to ext4
