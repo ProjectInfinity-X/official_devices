@@ -4,6 +4,19 @@ Device maintainer: kAiF
 
 Date - 27/05/2025
 =================
+• Fixes the Problem Of No Sound During a VoIP Call When Switch Earpiece to Speaker & Vice Versa
+• Fixes the Problem of No Sound During a VoIP Call In Background Playback
+• Added Dolby Atmos Support
+• Configure SQLite to operate in MEMORY mode
+• Dropped ViPER4AndroidFX
+
+Credits
+• Thanks to @solocaptainblaze , @jendermine , @lostark13 , @redducc For base device tree and kernel
+• Thanks to @Mikeblogs For testing the rom
+
+
+Date - 27/05/2025
+=================
 • Update blobs from OS2.0.8.0.VMWEUXM
 • Fixes the Problem Of No Sound During a VoIP Call When Switch Earpiece to Speaker & Vice Versa
 • Add feature flag for IPSEC_TUNNEL_MIGRATION
