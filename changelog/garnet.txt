@@ -2,6 +2,24 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 31/05/2025
+=================
+- audio: fix mixer_paths_overlay_static.xml  
+- Build FastCharge  
+- parts: Don't set battery saver power profile in low battery mode  
+- parts: Implement turbo charging V1  
+- parts: TurboCharging: Refactor and add 8W charging option  
+- parts: Add RefreshRate  
+- parts: Welcome designed XiaomiParts  
+- rootdir: Import init from stock  
+- parts: add ZRAM options (its unstable now!!!, maybe will be with custom kernel...) 
+- Enable Client Composition Cache  
+- init: Make less cores available for background tasks  
+- init: Kill statsd service  
+- Enable frame pacing for smoother visual performance  
+- props: Enable `ro.hwui.render_ahead`  
+- props: perf: increase HWUI render ahead frames from 2 to 10  
+
 Date - 22/05/2025
 =================
 - Update Blobs from OS2.0.10.0.VNRMIXM Thx to Kleidione
