@@ -2,7 +2,15 @@ Device: Motorola G34
 Device code name : fogos
 Device maintainer: Dr.Opto
 
-Date - 07/01/2025
+Date - 01/06/2025
+=================
+• Fix dt2w
+• some underhood changes
+• Bug fixes
+
+Creadit for testing: A big thanks to my testers - @Nitissh0001
+
+Date - 07/05/2025
 =================
 • Drop moto dolby
 • Enabke elf changes
