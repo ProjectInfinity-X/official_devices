@@ -2,6 +2,12 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 07/06/2025
+=================
+- Sync latest meteotic kernel
+- Slightly bump min clamp boosting
+- Tone down CamX and CHIUSECASE logging
+
 Date - 12/05/2025
 =================
 - Switch back to prebuild audio blobs
