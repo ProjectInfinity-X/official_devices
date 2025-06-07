@@ -1,7 +1,1 @@
-- Fixed USB Tethering
-- Add proper Pixelworks Iris support for Ace 3
-- Audio improvements
-- Blobs updated
-- Kernel upstreamed to vx.xx.184
-- Fix gamespace fps meter blank in some scenarios
-- Drop some BS custom bootanimations
+Highlighted Source Changelog (https://t.me/ProjectInfinityX/1195)

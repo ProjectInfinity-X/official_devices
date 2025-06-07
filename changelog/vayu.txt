@@ -1,3 +1,1 @@
-- Minor changes throughout source
-- Fix gamespace fps meter blank in some scenarios
-- Drop some BS custom bootanimations
+Highlighted Source Changelog (https://t.me/ProjectInfinityX/1195)
