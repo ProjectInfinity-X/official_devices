@@ -2,7 +2,14 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
-Date - 27/05/2025
+Date - 07/06/2025
+=================
+• Enabled Window Level Blur
+
+Credits
+• Thanks to @solocaptainblaze , @jendermine , @lostark13 , @redducc For base device tree and kernel
+
+Date - 30/05/2025
 =================
 • Fixes the Problem Of No Sound During a VoIP Call When Switch Earpiece to Speaker & Vice Versa
 • Fixes the Problem of No Sound During a VoIP Call In Background Playback
