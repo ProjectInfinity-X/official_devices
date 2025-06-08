@@ -2,6 +2,14 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 08/06/2025
+=================
+- Synced with latest source
+- Added Xiaomi Dolby & v4a
+- Miui Camera available
+- Enable FM Radio without headset support
+- Enable full ART optimizations with VDEX/ODEX
+
 Date - 27/05/2025
 =================
 - Synced with latest source
