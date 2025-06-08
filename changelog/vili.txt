@@ -6,6 +6,10 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+Date - 08/06/2025
+=================
+- BOOM
+
 Date - 24/05/2025
 =================
 - Kernel Sernel 
