@@ -2,6 +2,16 @@ Device: Realme 9 SE 5G
 Device code name : ice
 Device maintainer: Debarpan102
 
+Date - 08/06/2025
+===============
+• Fixed Lineage Charging Control
+• Migrate to QTI USB Gadget AIDL HAL
+• Merged Latest Lineage Changes
+• Update Common Vendor Blobs from OOS 14.0.0.1910(EX01)
+• Highlighted Source Changes (https://t.me/ProjectInfinityX/1195)
+
+<<< Dirty flash from previous build possible >>>
+
 Date - 21/05/2025
 ===============
 • Decommonized Lineage Health Charging path
