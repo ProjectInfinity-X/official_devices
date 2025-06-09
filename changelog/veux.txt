@@ -2,13 +2,10 @@ Device: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
 Device code name : veux
 Device maintainer: Sdm695dev
 
-Date - 04/04/2025
+Date - 09/06/2025
 =================
-• Bumped to v2.6
-• Comes with March security patch
-• Viper4Androidfx × Sony dolby × Dirac And Miui Camera All included.
-• Fixed IR Blaster 
-• Gapps Build Only.
-• NFC works for all the variants.
-• Play Integrity passes out of the box.
-• Shipped With Paimon kernel and ksu enabled by default.
+• Bumped to v2.9
+• Comes with June security patch
+• Nebula kernel with ksu enabled by default.
+• miui cam dropped as it was crashing (will fix later on), till time it has agc cam.
+• Added Xiaomi dolby and dropped both sony dolby and viper
