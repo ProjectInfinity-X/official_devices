@@ -2,6 +2,20 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 09/06/2025
+=================
+- audio: Disable receiver profile for ultrasound-handset route - Fixes top speaker on Lockscreen and also for apps like Telegram
+- parts: add new icons Also fixxed with dark themes
+- Enable HWUI adpf
+- Disable dynamic fps
+- Disable idle time for hdr and video
+- Explicitly disable "Enable GL comp backpressure"
+- Enable usage of dex2oat64
+- parts: add aboutmeactivity
+- parts: add core control
+- Migrate Dolby Vision to soong_config_set
+- Use prebuilt boot.img - KSU integrated
+
 Date - 31/05/2025
 =================
 - audio: fix mixer_paths_overlay_static.xml  
