@@ -2,6 +2,23 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 08/06/2025
+=================
+- init: Configure max values for background and dex2oat groups
+- zram: Add writeback properties
+- Enable Client Composition Cache
+- Enable HWUI adpf
+- Build android.media.audio.common.types-V2-cpp
+- parts: Move GameBar to system settings and add Icon as well
+- overlay: Make the UI smoother
+- overlay: set config_wallpaperMaxScale to 1
+- overlay: Downscale task snapshots to 80%
+- overlay: Set config_use16BitTaskSnapshotPixelFormat to true
+- overlay: Use 4G instead of LTE icon for save statusbar space
+- Switch to common AIDL IR service
+- Add support for Dolby Spatial Audio
+- Switch back to old legacy Dolby Atmos UI
+
 Date - 24/05/2025
 =================
 - Add support for LDAC & LHDC
