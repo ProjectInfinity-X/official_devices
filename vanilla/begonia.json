@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.8-begonia-20250527-1628-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/begonia/15/vanilla/Project_Infinity-X-2.8-begonia-20250527-1628-VANILLA-OFFICIAL.zip",
-			"timestamp": 1748362884,
-			"md5": "427e21d92e108997f5799577ffe20e62",
-			"size": 1718041044,
-			"version": "2.8"
+			"filename": "Project_Infinity-X-2.9-begonia-20250608-1001-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/begonia/15/vanilla/Project_Infinity-X-2.9-begonia-20250608-1001-VANILLA-OFFICIAL.zip",
+			"timestamp": 1749376492,
+			"md5": "e9767a28f2d8fbd99570d6c0b2096bda",
+			"size": 1718281108,
+			"version": "2.9"
 		}
 	]
 }
