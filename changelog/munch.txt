@@ -2,6 +2,13 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: Rik
 
+Date - 11/06/2025
+=================
+• v2.9 Initial Build
+• Switched to Fusion-X kernel (with ksu-next)
+• Adjust display cutout to remove unnecessary space around front camera
+• And quite a few changes on trees and source
+
 Date - 22/05/2025
 =================
 • v2.8 Build Update
