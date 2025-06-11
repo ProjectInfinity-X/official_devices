@@ -2,10 +2,8 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 05/07/2024
+Date - 06/11/2024
 =================
-• Dolby: more efficient and less memory & CPU-intensive audio effects and graphic equalizer routines.
-• Fix Smart Charging control.
-• Fix some sepolicy errors
-• Ship KernelSuNext with Kernel
-• Misc Optimizations and Improvements
+• Sync with Latest Source
+• Merge June SPL
+• Update kernel with LineageOS-22.2
