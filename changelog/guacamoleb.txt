@@ -2,8 +2,8 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 06/11/2024
+Date - 06/12/2025
 =================
-• Sync with Latest Source
-• Merge June SPL
-• Update kernel with LineageOS-22.2
+• Add keybox import to spoofing
+• Ship non-root boot image(Drop kernel SU)
+• KernelSU boot image is available on sourceforge(infinity_ksu.img)
