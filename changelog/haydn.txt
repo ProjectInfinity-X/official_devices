@@ -2,6 +2,15 @@ Device: Mi 11x Pro/Mi 11i/Redmi K40 Pro+
 Device code name : haydn
 Device maintainer: Hexdare
 
+Date - 09/06/2025
+=================
+- June Patch
+- Updated blobs from haydn 1.0.12.0 CN
+- Fixed Haptics
+- Dropped NCM USB tethering
+- Many More Improvements
+- Prerooted with KernelSU-Next
+
 Date - 26/05/2025
 =================
 - Set VENDOR_SECURITY_PATCH to PLATFORM

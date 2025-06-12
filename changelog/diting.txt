@@ -1,0 +1,9 @@
+Device: Xiaomi 12T Pro / Redmi K50 Ultra
+Device code name : diting
+Device maintainer: Jezzay97
+
+Date - 10/06/2025
+=================
+- Initial official build
+- Dolby Audio Support
+- Xiaomi Camera by default

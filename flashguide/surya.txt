@@ -1,19 +1,26 @@
-Device: Poco X3/NFC
-Recommended Recovery: https://t.me/muichiroslair/18974
+Device: surya
 
 Flashing Instructions:
 
 * Clean Flash:
-- Format Data 
-- Flash ROM.zip
-- Flash GAPPS ( If you are flashing Vanilla Build - Recommended MindTheGapps)
-- Reboot System
+1. Reboot to recovery
+
+2. ADB Sideload
+
+3. adb sideload rom.zip
+
+4. Format data
+
+5. Reboot
 
 * Dirty Flash:
-- Flash ROM.zip
-- Reboot
+1. Reboot to recovery
+
+2. adb sideload
+
+3. adb sideload rom.zip
+
+4. Reboot
 
 * OTA:
 1. Simply upgrade via ota updater (either if pushed or via local update import)
-
-Happy Flashing!!!!

@@ -2,6 +2,45 @@ Device: Motorola G34
 Device code name : fogos
 Device maintainer: Dr.Opto
 
+Date - 10/09/2025
+=================
+• Define Correct CPU variant
+• Optimize native executables for Cortex-A76 CPU
+• Set arch variant to armv8-2a-dotprod
+• Move msm_irqbalance to device tree
+• Do not balance msm_drm and kgsl_3d0 IRQs
+• Move KGSL and MSM_DRM to cores 6 and 7
+• Label IRQs correctly
+• Make ZRAM setup same as stock
+• Implement some Holi specific optimization
+• Spoof localversion to be "-qgki" for netmgrd
+• Don't ignore DTS & Disable LTO
+• Fix simcard mobile data network and fix SIM detection
+• Fix all exported static symbols
+• Set vmstat at 30s
+• Disable page cluster for zram
+• Disable audit by default
+• Fix ld_flags missing for LTO
+• Restore x18 if it was corrupted
+• Force GPU idle timeout to 58 ms
+• Use power efficient workqueue
+• Inline sugov_policy_free()
+• Reduce polling interval to 50ms
+• Move helper functions for fractions from uvc to v4l2-common
+• Move uvc_format_desc to common header
+• Import uvc from android13-5.10
+• Enable CONFIG_USB_CONFIGFS_F_UVC
+• Enable CONFIG_USB_CONFIGFS_F_UVC
+• Silence some noisy clang warnings
+• Reduce LZ4 memory usage to 1KB
+• Allow overriding CPU frequency tables in DT
+• Disable HW tracing features
+
+Credit:
+• @AnandSuresh02 for base trees
+• A big thanks to my testers - @Nitissh0001
+• A big thanks to my brother @Amritokun for massive help. Really he is a pro in SD695.
+
 Date - 01/06/2025
 =================
 • Fix dt2w
@@ -58,12 +97,3 @@ Date - 25/09/2024
 Date - 07/09/2024
 =================
 • Initial official relese
-
-Known bugs:
------------
-• DT2W
-
-Credit:
--------
-• @AnandSuresh02 for base trees
-• @kartik01_g & @amritokun for kernel side improvements
