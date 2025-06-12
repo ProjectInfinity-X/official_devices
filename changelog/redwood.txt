@@ -2,6 +2,12 @@ Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: RDX463
 
+Date - 12/06/2025
+================
+* Added Gamebar
+* Added xiaomi mdss display config
+* Switched to lineage kernel 
+
 Date - 08/06/2025
 =================
 * Synced with latest source
