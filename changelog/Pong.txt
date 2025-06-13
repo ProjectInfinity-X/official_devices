@@ -2,6 +2,15 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 13/06/2025
+=================
+- Add initial nothing camera support
+- Set fixed size to 3GB instead of 40% of RAM
+- Update from NOS V3.0-250506-1805
+- Drop qvr/qxr
+- Declare WiFi Aware support to WiFi HAL
+- Slightly improvements in powerhint
+
 Date - 07/06/2025
 =================
 - Sync latest meteotic kernel
