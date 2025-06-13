@@ -2,6 +2,16 @@ Device: Redmi Note 7/7s
 Device code name : lavender
 Device maintainer: SpiDyNub
 
+Date - 13/06/2025
+=================
+• props: cleanup spammy logs services
+• Drop Duplicate BOARD_AVB_ENABLE flag
+• Set vendor init lib via soong config
+• Migrate Lineage Health to soong_config_set
+• Drop TARGET_RECOVERY_DEVICE_MODULES
+• gps: Avoid access of deprecated LocUnorderedSetMap entry
+• Remove IR rules moved to ROM's sepolicy
+
 Date - 10/05/2025
 =================
 • Highlighted Source Changelog (https://t.me/ProjectInfinityX/1110)
