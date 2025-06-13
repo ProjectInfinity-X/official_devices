@@ -1,10 +1,101 @@
 Source Changelog:
 
-https://t.me/ProjectInfinityX/1110
-
-¡¡If DeskClock application crashes on dirty flash, just clear it's app data!!
+https://t.me/ProjectInfinityX/1224
 
 Device Changelog:
+
+(13/06/2025)
+- Upgrading firmware and blobs Mondrian to OS2.0.8.0.VMNMIXM
+- Switch from Mondrian only blobs to Mondrian and Diting blobs (fixes overheating)
+- Dolby: Added AC3 codec support
+- Import LDAC and LHDC prebuilts
+- Sunset dolby vision support (The secure decoder is crashing in OTT apps like netflix, 
+while the regular decoder freezes when seeking video. Most OTT apps and dolby
+vision content support fallback to HDR10 anyway so let's get rid of
+it to continue using good ol' HDR10.)
+- Dynamically set IRQ affinity for KGSL and MSM_DRM
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- rootdir: Set restricted cpuset to the same CPUs as system-background
+- sensor: Increase size of unused array in _oem_msg to match stock padding
+- Fixed not applying thermals and PowerTools profiles
+- Drop libinit (Apparently it caused problems with the camera on the K60)?
+- Drop rootdir: Move background cpuset to CPU0-1
+- Drop rootdir: Do not allow foreground tasks to run on CPU7
+- Drop rootdir: Move RLIMIT_MEMLOCK to system/core init.
+- Drop Enable allow_file_spec_access
+- Drop Add default affinity bootarg
+- Drop Configure PELT half-life to 8 at boot
+
+Kernel:
+Credits: dopaemon, bachnxuan & ztc1997 by commits and base kernel
+
+Merge tag 'android12-5.10-lts'
+  Revert "ipv6: save dontfrag in cork"
+  UPSTREAM: tracing: Fix compilation warning on arm32
+  Revert "coredump: hand a pidfd to the usermode coredump helper"
+  Revert "tcp: bring back NUMA dispersion in inet_ehash_locks_alloc()"
+  Linux 5.10.238
+  perf/arm-cmn: Initialise cmn->cpu earlier
+  xen/swiotlb: relax alignment requirements
+  platform/x86: thinkpad_acpi: Ignore battery threshold change event notification
+  platform/x86: fujitsu-laptop: Support Lifebook S2110 hotkeys
+  tpm: tis: Double the timeout B to 4s
+  spi: spi-sun4i: fix early activation
+  um: let 'make clean' properly clean underlying SUBARCH as well
+  platform/x86: thinkpad_acpi: Support also NEC Lavie X1475JAS
+  nfs: don't share pNFS DS connections between net namespaces
+  HID: quirks: Add ADATA XPG alpha wireless mouse support
+  coredump: hand a pidfd to the usermode coredump helper
+  fork: use pidfd_prepare()
+  pid: add pidfd_prepare()
+  coredump: fix error handling for replace_fd()
+  net_sched: hfsc: Address reentrant enqueue adding class to eltree twice
+  and more (569 commits)...
+
+Merge tag 'KERNEL.PLATFORM.1.0.r1-18900-kernel.0' 
+  iommu: Fix invalid access in av8l_fast_unmap_public
+  pci: msm: GPIO deinitialization/initialization during pm_suspend/pm_resume
+  usb: dwc3: dwc3-msm-core: Notify PHY disconnect before doing flush_work
+  arm64:config: add regulator for anorak
+  msm: ep_pcie: Populate Max TRB capability
+  drivers: dcvs: mem_lat_prof: Update SCM STATS ID
+  iommu: Fix invalid access in av8l_fast_unmap_public
+  pci : msm : Enable timesync if EP populated the capability
+  msm: mhi_dev: Populate Time Sync capability on MHI Device
+  regulator: add max77720 regualtor
+  msm: ep_pcie: Add function to locate Qtimer capability offset
+  msm: ep_pcie: Store EP PCIe driver handle in HW driver handle
+  drivers: dcvs: mem_lat_prof: Change feature id for license check
+  arm64: config: Enable Bus Latency Profile
+  drivers: dcvs: mem_lat_prof: Add license check
+  drivers: dcvs: bus_stats: Add bus latency driver
+  dmaengine: gpi: fix to avoid null pointer access
+  msm: ep_pcie: Log CPU number and current process name for EP PCIe
+  FROMGIT: media: venus: hfi_parser: add check to avoid out of bound access
+  FROMGIT: media: venus: hfi: add a check to handle OOB in sfr region
+  and more (83 commits)...
+
+Merge tag 'KERNEL.PLATFORM.1.0.r3-06200-kernel.0'
+  FROMGIT: media: venus: hfi: add a check to handle OOB in sfr region
+  FROMGIT: media: venus: hfi_parser: add check to avoid out of bound access
+  FROMGIT: media: venus: hfi: add check to handle incorrect queue size
+  qcedev: Add required missing NULL check
+  msm: eva: Copy back the validated size to avoid security issue
+  msm: eva: Validating the SFR buffer size before accessing
+  dsp-kernel: Add attribute and flag checks during map creation
+  msm: kgsl: Pin a process in memory while creating a bind object
+  msm: kgsl: Remove duplicate bind operation code
+  msm: kgsl: Hold fault lock while accessing context faults
+  soc: qcom: smem: Add boundary checks for partitions
+  msm: kgsl: Allocate the VBO bind completion on the heap
+  serial: msm-geni-serial: Clear DMA IRQs
+  pci: msm: Decouple pci framework from pm ops
+  rpmsg: slatecom: Discard unaligned packet to read
+  Revert "defconfig: Clarence: gki: Enable CONFIG_BUS_AUTO_SUSPEND"
+  serial: msm_geni_serial: Disable wakeup irq in shutdown path
+  defconfig: Clarence: gki: Enable CONFIG_BUS_AUTO_SUSPEND
+  defconfig: Clarence: gki: Enable testmode config
+  and more (50 commits)...
 
 (13/05/2025)
 Add support GameSpace Bypass charge
