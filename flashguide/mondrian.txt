@@ -2,23 +2,50 @@ Device: Poco F5 Pro/Redmi K60 (mondrian)
 
 ¡I recommend flashing the rom via OrangeFox, you can use the Official version or any other versión.!
 
-Flashing Instructions:
+Recovery Infinity: https://sourceforge.net/projects/infinity-x/files/mondrian/15/recovery.img/download
+
+* Notes:
+- Firmware Incluided, !Do not flash firmware¡
+
+Flashing Instructions in OrangeFox:
 
 * Reboot to Recovery OrangeFox *
 
 * Clean Flash:
 - Wipe Dalvik, Cache, Metadata, Data
 - Flash ROM.zip
+- Flash Gapps (If you flashed vanilla and want google apps)
 - Format data
 - Reboot
 
 * Dirty Flash:
 - Wipe Dalvik, Cache
 - Flash ROM.zip
+- Flash Gapps (If you flashed vanilla and want google apps)
 - Reboot
+
+
+Flashing Instructions in Recovery Infinity:
+
+* Reboot to Recovery Infinity *
+
+- Apply update > Apply from ADB
+- adb sideload rom.zip (Replace rom.zip with the actual name of the file you are installing)
+
+After installing the ROM, the recovery may display a message like:
+
+“Install another package?”
+
+If your build is Vanilla and you want to install GApps, select Yes and repeat the adb sideload process with the GApps.zip file.
+
+otherwise, select No.
+
+* Return to the main menu
+- Factory Reset or Format Data
+
+*Confirm that you want to erase all data.
+
+- Reboot system now
 
 * OTA:
 1. Simply upgrade via ota updater (either if pushed or via local update import)
-
-* Notes:
-- Firmware Incluided, do not flash firmware
