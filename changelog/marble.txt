@@ -2,6 +2,11 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 12/06/2025
+=================
+- Fixup! Add support for Dolby Spatial Audio
+- Improved Dolby sound
+
 Date - 08/06/2025
 =================
 - init: Configure max values for background and dex2oat groups
