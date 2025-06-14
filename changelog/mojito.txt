@@ -1,3 +1,6 @@
+15/06/2025
+- Move thermal profiles to system category
+- Migrate libcameraservice extension lib via soong_config_set
 
 08/06/2025
 - Introduce GameBar v4 (available in app setting)
@@ -5,13 +8,13 @@
 - Enable Userfaultfd GC to improve memory management on 4GB RAM variant.
 
 24/05/2025
--Fix CPU-L3 frequency
--Uprev audio HAL to V7
--Remove direct flag for VOIP RX
--media: Update Codec2 configs
--Introduce GameBar v4 (available in app setting)
--Migrate some ‎BoardConfig flag to soong_config_set
--partially fixed bluetooth ringtone bug
+- Fix CPU-L3 frequency
+- Uprev audio HAL to V7
+- Remove direct flag for VOIP RX
+- media: Update Codec2 configs
+- Introduce GameBar v4 (available in app setting)
+- Migrate some ‎BoardConfig flag to soong_config_set
+- partially fixed bluetooth ringtone bug
 
 08/05/2025
 - Some minor improvements
