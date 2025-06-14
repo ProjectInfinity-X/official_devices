@@ -4,6 +4,16 @@ Device maintainer: GuneetAtwal
 
 Date - 05/09/2025
 =================
+• Merged June 2025 ASB
+• Upstreamed kernel source
+• Enable USB OTG by default
+• Fix lag in QuickSettings and while launching apps
+• Enabled HighTouchPollingRate by default
+• Reduce swappiness to 60
+• Other misc improvements
+
+Date - 05/09/2025
+=================
 • Merged May 2025 ASB
 • Added Dolby Sound
 • Added Per-app refresh rate control
