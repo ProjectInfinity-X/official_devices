@@ -1,8 +1,8 @@
 Device: OnePlus 7T (Hotdogb)
-Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/hotdogb/15/gapps/recovery.img/download
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/hotdogb/15/gapps/recovery/recovery_v2.9.img/download
 
-dtbo.img: https://sourceforge.net/projects/infinity-x/files/hotdogb/15/gapps/dtbo.img/download
-vbmeta.img: https://sourceforge.net/projects/infinity-x/files/hotdogb/15/gapps/vbmeta.img/download
+dtbo.img: https://sourceforge.net/projects/infinity-x/files/hotdogb/15/gapps/extras/dtbo_v2.9.img/download
+vbmeta.img: https://sourceforge.net/projects/infinity-x/files/hotdogb/15/gapps/extras/vbmeta_v2.9.img/download
 
 Flashing Instructions:
 
