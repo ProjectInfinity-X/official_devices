@@ -2,6 +2,12 @@ Device: Google Pixel 9
 Device code name : tokay
 Device maintainer: OscarM
 
+Date - 06/14/2025
+• Synced with latest 2.9 source
+• Based on June
+• fixed single tap for notifications
+• various tweaks and fixes
+
 Date - 05/18/2025
 • Synced with latest 2.8 source
 • Based on May
