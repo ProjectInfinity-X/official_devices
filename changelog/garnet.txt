@@ -2,6 +2,12 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 15/06/2025
+=================
+- Remove KSU for working Infi stock integrity hack
+- parts: fix (TurboCharging): correct turbocharging functionality issues
+- parts: add charging bypass toggle
+
 Date - 09/06/2025
 =================
 - audio: Disable receiver profile for ultrasound-handset route - Fixes top speaker on Lockscreen and also for apps like Telegram
