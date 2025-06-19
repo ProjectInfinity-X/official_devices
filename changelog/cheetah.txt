@@ -2,22 +2,16 @@ Device: Google Pixel 7 Pro
 Device code name : cheetah
 Device maintainer: pyrtle93
 
+Date - 06/19/2025
+• Synced with latest 2.9 source
+• Based on June
+• To pass strong integrity without root or any type of modules, follow this:- https://t.me/ProjectInfinityX/492
+
 Date - 05/25/2025
 • Dropped V4A
 • Fixed ambient display not working with tap
 • GO TO SETTINGS, DISPLAY, LOCKSCREEN, WAKE SCREEN FOR NOTIFICATIONS MUST BE ENABLED
 • Synced with latest 2.8 changes
-
-• Make play integrity pass by default again
-To pass play integrity without any modules or root by default in rom
-
-1. Go to Infinity Suite > Miscellaneous > Spoofing
-2. Enable "Spoof playstore to SDK 32" Toggle
-3. Reboot
-
-Integrity will be passed now and device will be certified again (Click fix device issue, if it shows not certified, don't clear playstore data)
-
----- DON'T CLEAR PLAYSTORE DATA ONCE YOU HAVE YOUR INTEGRITY PASSING, YOU WILL LOSE IT AGAIN IF YOU DO -----
 
 Date - 05/16/2025
 • Synced with latest 2.8 source
