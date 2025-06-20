@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.8-alioth-20250521-1728-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/alioth/15/gapps/Project_Infinity-X-2.8-alioth-20250521-1728-GAPPS-OFFICIAL.zip",
-			"timestamp": 1747848510,
-			"md5": "a04b4afa71e2281a9ba0595e96d7d8b0",
-			"size": 1878823335,
-			"version": "2.8"
+			"filename": "Project_Infinity-X-2.9-alioth-20250620-0816-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/alioth/15/gapps/Project_Infinity-X-2.9-alioth-20250620-0816-GAPPS-OFFICIAL.zip",
+			"timestamp": 1750407357,
+			"md5": "cc0565fd37e16486d2c153ef3cb14a27",
+			"size": 1855923795,
+			"version": "2.9"
 		}
 	]
 }
