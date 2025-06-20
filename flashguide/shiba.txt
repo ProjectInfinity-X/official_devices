@@ -2,21 +2,6 @@ Device: Google Pixel 8 (shiba)
 
 First Time Install (Note: These releases include firmware)
 
-••• MAY 2025 FIRMWARE IS ANTI-ROLLBACK •••
-Download link for Shiba May-FW 
-• https://sourceforge.net/projects/infinity-x/files/shiba/15/May-FW/
-
-•• WHETHER CLEAN OR DIRTY, THIS IS MANDATORY ••
-• Download bootloader & radio
-• Reboot to bootloader
-• fastboot flash bootloader_a bootloader.img
-• fastboot flash radio_a radio.img
-• fastboot reboot bootloader
-• fastboot flash bootloader_b bootloader.img
-• fastboot flash radio_b radio.img
-• fastboot reboot bootloader
-• Now proceed to install Infinity
-
 Download link for Shiba IMGs 
 • https://sourceforge.net/projects/infinity-x/files/shiba/15/IMGs/
 
@@ -37,7 +22,7 @@ Dirty Flash (when updating your infinity x version)
 • Apply update -> adb sideload
 • adb sideload romname.zip
 • Reboot
-• Or simply just update via ota updater in settings
+• Or simply just update via ota local updater in settings
 
 Download and Install Magisk apk
 
@@ -47,3 +32,19 @@ Download and Install Magisk apk
 • Reboot the device in Fastboot
 • On your PC, open the plaform tools folder, hold the Windows button and right click in the folder and select open command here. Type the following commands to flash the patch boot file, below is an example; fastboot flash init_boot magisk_patched-25200_xgjAS.img
 • Once complete and no errors are returned type fastboot reboot
+
+
+••• MAY 2025 FIRMWARE IS ANTI-ROLLBACK •••
+Download link for Shiba May-FW 
+• https://sourceforge.net/projects/infinity-x/files/shiba/15/May-FW/
+
+•• WHETHER CLEAN OR DIRTY, THIS IS MANDATORY ••
+• Download bootloader & radio
+• Reboot to bootloader
+• fastboot flash bootloader_a bootloader.img
+• fastboot flash radio_a radio.img
+• fastboot reboot bootloader
+• fastboot flash bootloader_b bootloader.img
+• fastboot flash radio_b radio.img
+• fastboot reboot bootloader
+• Now proceed to install Infinity
