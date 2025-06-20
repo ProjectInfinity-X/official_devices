@@ -2,6 +2,13 @@ Device: Google Pixel 8 Pro
 Device code name : husky
 Device maintainer: Libra420T
 
+
+Date - 06/20/2025
+• Synced with latest 2.9 source
+• Based on June
+• Fixed QS\Notification Panel(s) glitch during clear all
+• To pass strong integrity without root or any type of modules, follow this:- https://t.me/ProjectInfinityX/492
+
 Date - 05/27/2025
 <!--  MAY NO LONGER WORK
 • Make play integrity pass by default again
