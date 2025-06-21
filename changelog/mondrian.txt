@@ -4,6 +4,23 @@ https://t.me/ProjectInfinityX/1224
 
 Device Changelog:
 
+(20/06/2025)
+- Update blobs and firmware to OS2.0.9.0.VMNMIXM
+- fingerprint: Grant SYS_NICE capability to set SCHED_FIFO
+- audio: Configure stereo microphone for landscape camcorder
+- Switch to Touch AIDL
+
+Kernel:
+- Update KernelSU-Next to v1.0.8
+- ANDROID: fix kernelci build breaks for dcn_calcs
+- FROMGIT: f2fs: sysfs: export linear_lookup in features directory
+- FROMGIT: f2fs: sysfs: add encoding_flags entry
+- FROMGIT: f2fs: support to disable linear lookup fallback
+- Revert "ANDROID: usb: Optimization the transfer rate of accessory mode in USB3.2 mode"
+- BACKPORT: binder: Create safe versions of binder log files
+- UPSTREAM: binder: Refactor binder_node print synchronization
+- And another improvements in the kernel
+
 (13/06/2025)
 - Upgrading firmware and blobs Mondrian to OS2.0.8.0.VMNMIXM
 - Switch from Mondrian only blobs to Mondrian and Diting blobs (fixes overheating)
