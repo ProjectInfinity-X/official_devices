@@ -2,6 +2,12 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: Rik
 
+Date - 22/06/2025
+=================
+• v2.9 Build Update. Synced with source
+• Switched back to perf kernel
+• Dirty flash should be fine from previous builds (2.6 & later), but back up your data before attempting. 
+
 Date - 11/06/2025
 =================
 • v2.9 Initial Build
