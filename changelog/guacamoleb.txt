@@ -1,9 +1,0 @@
-Device: OnePlus 7
-Device code name : guacamoleb
-Device maintainer: H A R I S H
-
-Date - 06/12/2025
-=================
-• Add keybox import to spoofing
-• Ship non-root boot image(Drop kernel SU)
-• KernelSU boot image is available on sourceforge(infinity_ksu.img)

@@ -1,7 +1,0 @@
-Device: Motorola Edge 30 fusion
-Device code name : tundra
-Device maintainer: Shivam_Ingale
-
-Date - 13/11/2024 (Android 15)
-=================
-- Source Changelog (https://t.me/ProjectInfinityX/739)
