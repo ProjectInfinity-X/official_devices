@@ -3,6 +3,10 @@ Device code name : husky
 Device maintainer: Libra420T
 
 
+Date - 06/25/2025
+• Synced with latest pif
+• Fixed screen display dimming issue while udfps is being displayed
+
 Date - 06/20/2025
 • Synced with latest 2.9 source
 • Based on June
