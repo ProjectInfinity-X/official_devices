@@ -3,6 +3,9 @@ Device code name : akita
 Device maintainer: Libra420T
 
 
+Date - 06/26/2025
+• Fixed AOD/Ambient gray background while in light mode
+
 Date - 06/25/2025
 • Synced with latest pif
 • Fixed screen display dimming issue while udfps is being displayed
