@@ -6,6 +6,16 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+Date - 27/06/2025
+=================
+** Use New TWRP/OFOX v5 **
+- Kang Dolby Vision blobs from Redmi 
+* kill 32bit
+* switch to 64bit
+* Enable ELF Checks for c2.dolby.client
+- hidl Sync with Lineage
+[THE END - EOL/Final]
+
 Date - 16/06/2025
 =================
 - SEE
