@@ -1,2 +1,6 @@
-Highlighted Source Changelog (https://t.me/ProjectInfinityX/1224)
-To pass strong integrity without root or any type of modules, follow this:- https://t.me/ProjectInfinityX/492
+- July security CVE'S update (Lvl 1)
+- Add new default bootanimation (Thanks to alecxtra)
+- Update default pif once again (follow this to get integrity passing (https://t.me/ProjectInfinityX/492))
+- Add toggle to enable the Revamped (QPR2 / A16) QS Panel 
+- Avoid excessive power drain caused by GPS
+- Suppress mount errors when checking for encryption in recovery
