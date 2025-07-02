@@ -4,7 +4,7 @@ Device: Poco F5 Pro/Redmi K60 (mondrian)
 
 Recovery Infinity: https://sourceforge.net/projects/infinity-x/files/mondrian/15/recovery.img/download
 
-Boot KernelSU Next: https://t.me/MondrianDevelopment/5692/9578
+Boot KernelSU Next: https://t.me/MondrianDevelopment/5692
 
 * Notes:
 - Firmware Incluided, !!Do not flash firmware¡¡
