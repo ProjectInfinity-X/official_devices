@@ -2,6 +2,23 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 02/07/2025
+=================
+- Synced with latest source
+- Switch to uclamp
+- task_profiles: rework for better performance
+- init: enable sched_walt_rotate_big_tasks
+- power: use more advanced cgroup/task profile
+- Rework on lmk props
+- kernel: Do not add -cip and st to LOCALVERSION
+- Kernel: Switch to uclamp
+- Kernel: Update fastcharge value upto 3500mah
+- Implement torch light control
+- Adapt LED nodes for whyred
+- Add support for bypass charging
+- sepolicy: Address bypass charging denials
+- Many more underhood changes
+
 Date - 13/06/2025
 =================
 - Synced with latest source
