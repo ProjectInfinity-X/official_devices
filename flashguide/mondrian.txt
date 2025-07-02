@@ -4,8 +4,10 @@ Device: Poco F5 Pro/Redmi K60 (mondrian)
 
 Recovery Infinity: https://sourceforge.net/projects/infinity-x/files/mondrian/15/recovery.img/download
 
+Boot KernelSU Next: https://t.me/MondrianDevelopment/5692
+
 * Notes:
-- Firmware Incluided, !Do not flash firmware¡
+- Firmware Incluided, !!Do not flash firmware¡¡
 
 Flashing Instructions in OrangeFox:
 
@@ -14,14 +16,14 @@ Flashing Instructions in OrangeFox:
 * Clean Flash:
 - Wipe Dalvik, Cache, Metadata, Data
 - Flash ROM.zip
-- Flash Gapps (If you flashed vanilla and want google apps)
+- Flash Gapps (If you flashed Vanilla and want Google Apps)
 - Format data
 - Reboot
 
 * Dirty Flash:
 - Wipe Dalvik, Cache
 - Flash ROM.zip
-- Flash Gapps (If you flashed vanilla and want google apps)
+- Flash Gapps (If you flashed Vanilla and want Google Apps)
 - Reboot
 
 
@@ -43,7 +45,7 @@ otherwise, select No.
 * Return to the main menu
 - Factory Reset or Format Data
 
-*Confirm that you want to erase all data.
+*Confirm that you want to erase all data.*
 
 - Reboot system now
 

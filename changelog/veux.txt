@@ -2,10 +2,11 @@ Device: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
 Device code name : veux
 Device maintainer: Sdm695dev
 
-Date - 09/06/2025
+Date - 24/06/2025
 =================
 • Bumped to v2.9
 • Comes with June security patch
+• Keybox Included
 • Nebula kernel with ksu enabled by default.
 • miui cam dropped as it was crashing (will fix later on), till time it has agc cam.
 • Added Xiaomi dolby and dropped both sony dolby and viper

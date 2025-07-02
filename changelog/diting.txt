@@ -2,6 +2,21 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 18/06/2025
+=================
+- Volume control problem in voip calls has been fixed
+- zram added and optimized
+- New kernel added with improvements and optimizations
+- Configure stereo microphone for landscape camcorder
+- Switch to sm8475-common
+- Powertools support and new thermals added
+- HBM and screen saturation support added
+- Added the Flashlight Control feature
+- Xiaomi camera has been updated
+- Added sony dolby with improved audio quality
+- Gamebar overlay feature has been added
+- Many other internal improvements were added
+
 Date - 10/06/2025
 =================
 - Initial official build

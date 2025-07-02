@@ -2,6 +2,20 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
 
+Date - 15/06/2025
+=================
+• Bumped to V2.9
+• Upstreamed electro kernel to v4
+• Set swappiness to 60(Improves overall ram management)
+• Kang powerstats from crosshatch
+• Switched to pixel thermals AIDL
+• Implemented dynamic thermal profiles with pixel thermal-engine
+• Updated adreno blobs
+• Use prelude clang with kernel
+• Reduced ZRAM size to 25%
+• Switched back to light hals HIDL(Fixes rapid blink of notification led again)
+• Source Changelog - https://t.me/ProjectInfinityX/1224
+
 Date - 11/05/2025
 =================
 • Bumped to V2.8
@@ -87,7 +101,7 @@ Date - 11/12/2024
 
 Notes:
 • System-Ext build
-• Default shipped kernel hasn't been shipped with KernelSU-Next (For KernelSU-Next variant kernel:- Click Here (https://t.me/ak_builds_discussion/38224))
+• Default shipped kernel hasn't been shipped with KernelSU-Next (For KernelSU-Next variant kernel:- Click Here (https://t.me/ak_builds_discussion/41014))
 • Playstore certified by default and banking apps do work
 • Circle To Search is available
 • Dolby Atmos is included

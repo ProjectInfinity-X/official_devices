@@ -2,6 +2,35 @@ Device: POCO F3 / Redmi K40 / Mi 11X
 Device code name : alioth
 Device maintainer: pawelik001
 
+Date - 20/06/2025
+=================
+- Implemented patches for June 2025 Security CVEs
+- Fixed an issue where multiple system app clones were created themselves on cloning any app
+- Fixed gamespace's blank fps meter / navigation arrow button in some scenarios
+- Fixed no LTE+ symbol on statusbar even if carrier aggregation is active
+- Adapt recovery ui images to Infinity-X (Thanks to sreejith0491 for the designs)
+- Extend Rom translations to more pages and Add German translations
+- Bring back Extended swipe action gestures
+- Bring back Hide IME space (Empty keyboard space) feature
+- Fix cloned apps not showing in launcher
+- Make visibility of settings style contextual random messages and wallpaper based header image below search bar toggleable
+- Add feature to resize clock size on statusbar and QS
+- Allow disabling bluetooth tile dialog on pressing bluetooth tile and let enable/disable it based on click
+- Add ambient music ticker feature
+- Add toggle to enable monet color based custom clock style text
+- Allow adjusting opacity of custom clock style
+- Add support for disabling non-system apps
+- Bring back the ! data disabled indicator instead of x
+- Add In-rom keybox spoofing to pass strong integrity by default (https://t.me/ProjectInfinityX/492)
+- Extend statusbar action chip feature (Add compact progress indicator, media progress indicator, progress bar opacity and click actions to launch progress application or to skip tracks of ongoing media)
+- Hardcode more gamespace drawbles to WHITE color to prevent black camouflage
+- Improve Toast messages UI (Make it theme based instead of always white)
+- Skip AOD wake up on display timeout if lock screen is disabled
+- Fix some google clocks animations on ambient display
+- Fix QS Customizer toolbar color
+- Improve ripple effect and make it bigger and last longer
+- Make charging control only show notification if device is charging and not always after a reboot
+
 Date - 21/05/2025
 =================
 - Dropped Miui Camera for now

@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-2.8-panther-20250525-1947-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/panther/15/gapps/Project_Infinity-X-2.8-panther-20250525-1947-GAPPS-OFFICIAL.zip",
-			"timestamp": 1748202318,
-			"md5": "6c7ad8ae698891c466ffbd06564ec1e9",
-			"size": 2789829179,
-			"version": "2.8"
+			"filename": "Project_Infinity-X-2.9-panther-20250619-1027-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/panther/15/gapps/Project_Infinity-X-2.9-panther-20250619-1027-GAPPS-OFFICIAL.zip",
+			"timestamp": 1750328514,
+			"md5": "b0151efa3a56863e35d777885b06f347",
+			"size": 2854230481,
+			"version": "2.9"
 		}
 	]
 }

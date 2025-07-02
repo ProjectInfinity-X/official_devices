@@ -1,8 +1,42 @@
 Source Changelog:
 
-https://t.me/ProjectInfinityX/1224
+https://t.me/ProjectInfinityX/1295
 
 Device Changelog:
+
+(01/07/2025)
+-Fixed facial verification issue in bank applications
+-Adjust sepolicy camera
+-Update blobs from diting OS2.0.3.0.VLFMIXM
+-Config overlay to support 2 physical slots
+
+Kernel:
+- UPSTREAM: posix-cpu-timers: fix race between handle_posix_cpu_timers() and posix_cpu_timer_del()
+- More improvements added
+
+Kernel Modules:
+Merge tag 'LA.VENDOR.1.0.r1-27600-WAIPIO.QSSI15.0' in dataipa
+Merge tag 'VIDEO.LA.2.0.r1-11300-WAIPIO.0' in video-driver
+Merge tag 'LA.VENDOR.1.0.r1-27600-WAIPIO.QSSI15.0' in fw-api
+Merge tag 'LA.VENDOR.1.0.r1-27600-WAIPIO.QSSI15.0' in qca-wifi-host-cmn
+Merge tag 'LA.VENDOR.1.0.r1-27600-WAIPIO.QSSI15.0' in qcacld-3.0
+
+(20/06/2025)
+- Update blobs and firmware to OS2.0.9.0.VMNMIXM
+- fingerprint: Grant SYS_NICE capability to set SCHED_FIFO
+- audio: Configure stereo microphone for landscape camcorder
+- Switch to Touch AIDL
+
+Kernel:
+- Update KernelSU-Next to v1.0.8
+- ANDROID: fix kernelci build breaks for dcn_calcs
+- FROMGIT: f2fs: sysfs: export linear_lookup in features directory
+- FROMGIT: f2fs: sysfs: add encoding_flags entry
+- FROMGIT: f2fs: support to disable linear lookup fallback
+- Revert "ANDROID: usb: Optimization the transfer rate of accessory mode in USB3.2 mode"
+- BACKPORT: binder: Create safe versions of binder log files
+- UPSTREAM: binder: Refactor binder_node print synchronization
+- And another improvements in the kernel
 
 (13/06/2025)
 - Upgrading firmware and blobs Mondrian to OS2.0.8.0.VMNMIXM
