@@ -1,5 +1,5 @@
 Device: Xiaomi 11T Pro (vili)
-Recommended Recovery: https://sourceforge.net/projects/crdroid/files/vili/custom-recovery/
+Recommended Recovery: https://xdaforums.com/t/recovery-a15-a14-a13-orangefox-recovery-project-for-xiaomi-11t-pro-vili.4698915/post-90163397
 
 Note:
     * Make sure you have latest firmware available for your country.
