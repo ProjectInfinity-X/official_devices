@@ -3,6 +3,11 @@ Device code name : akita
 Device maintainer: Libra420T
 
 
+Date - 07/03/2025 {A15 VIC BP1A - FINALE RELEASE} 
+• Synced With Latest Source
+• New Bootanimation
+• New Revamped QS Panel (Toggle Available)
+
 Date - 06/26/2025
 • Fixed AOD/Ambient gray background while in light mode
 
