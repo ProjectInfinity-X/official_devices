@@ -3,7 +3,13 @@ Device code name : shiba
 Device maintainer: Libra420T
 
 
-Date - 07/03/2025 {A15 VIC BP1A - FINALE RELEASE} 
+Date - 07/05/2025 {A15 VIC BP1A - FINALE RELEASE}
+• Synced With Latest Source
+• New Bootanimation
+• New Revamped QS Panel (Toggle Available)
+• Fixed AOD/Ambient gray background while in light mode
+
+Date - 07/03/2025
 • Synced With Latest Source
 • New Bootanimation
 • New Revamped QS Panel (Toggle Available)
