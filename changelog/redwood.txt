@@ -2,6 +2,13 @@ Device: Poco X5 Pro 5G
 Device code name : redwood
 Device maintainer: RDX463
 
+Date - 05/07/2025
+=================
+* Updated Proprietary file
+* Fixed Wifi calling
+* Enabled Camerax extensions support
+* Import Xiaomi Misys Prebuilts
+
 Date - 12/06/2025
 ================
 * Added Gamebar
