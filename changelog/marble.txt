@@ -2,6 +2,19 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 05/07/2025
+=================
+- Update blobs & fingerprint form marble OS2.0.5.0.VMRMIXM
+- Disable HWC for VDS except wfd
+- overlay: Config overlay to support 2 physical slots
+- overlay: Drop ambient brightening/darkening thresholds
+- overlay: Screen Brightening/Darkening thresholds update
+- overlay: Convert screen brightening thresholds to ints
+- overlay: Fine tune screen brightening thresholds
+- Fix auto brightness after screen turn on
+- Override doze mode support
+- Ditch firmware from device tree
+
 Date - 12/06/2025
 =================
 - Fixup! Add support for Dolby Spatial Audio
