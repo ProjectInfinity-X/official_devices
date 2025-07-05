@@ -4,11 +4,41 @@ https://t.me/ProjectInfinityX/1295
 
 Device Changelog:
 
+(04/07/2025)
+- Hotfix Build. An apology, I made a mistake in the camera repository and the facial verification was not working in the banks :)
+
+Kernel:
+- Merge tag 'KERNEL.PLATFORM.1.0.r3-06400-kernel.0':
+  dma-mapping-fast: Fix PMD offset calculation for non-2M aligned start aperture
+  crypto-qti: fix UAF in crypto-qti driver
+
+- Merge tag 'android12-5.10-lts':
+  Revert "net: Rename ->stream_memory_read to ->sock_is_readable"
+  Revert "net: Fix TOCTOU issue in sk_is_readable()"
+  drm/amdgpu/gfx7: fix CSIB handling
+  media: uapi: v4l: Change V4L2_TYPE_IS_CAPTURE condition
+  drm/amdgpu/gfx10: fix CSIB handling
+  drm/msm/a6xx: Increase HFI response timeout
+  drm/amd/display: Add NULL pointer checks in dm_force_atomic_commit()
+  media: uapi: v4l: Fix V4L2_TYPE_IS_OUTPUT condition
+  drm/msm/hdmi: add runtime PM calls to DDC transfer function
+  exfat: fix double free in delayed_free
+  drm/bridge: analogix_dp: Add irq flag IRQF_NO_AUTOEN instead of calling disable_irq()
+  sunrpc: update nextcheck time when adding new cache entries
+  drm/amdgpu/gfx6: fix CSIB handling
+  ACPI: battery: negate current when discharging
+  PM: runtime: fix denying of auto suspend in pm_suspend_timer_fn()
+  ASoC: tegra210_ahub: Add check to of_device_get_match_data()
+  ACPICA: utilities: Fix overflow check in vsnprintf()
+  power: supply: bq27xxx: Retrieve again when busy
+  ACPICA: fix acpi parse and parseext cache leaks
+  ASoC: tas2770: Power cycle amp on ISENSE/VSENSE change
+
 (01/07/2025)
--Fixed facial verification issue in bank applications
--Adjust sepolicy camera
--Update blobs from diting OS2.0.3.0.VLFMIXM
--Config overlay to support 2 physical slots
+- Fixed facial verification issue in bank applications
+- Adjust sepolicy camera
+- Update blobs from diting OS2.0.3.0.VLFMIXM
+- Config overlay to support 2 physical slots
 
 Kernel:
 - UPSTREAM: posix-cpu-timers: fix race between handle_posix_cpu_timers() and posix_cpu_timer_del()
