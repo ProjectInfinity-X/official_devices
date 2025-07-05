@@ -2,6 +2,13 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 4/07/2025
+=================
+- Update blobs and firmware from OS2.0.3.0.VLFMIXM
+- Face verification is fixed
+- overlay: Config overlay to support 2 physical slots
+- Kernel improvements and fixes
+
 Date - 18/06/2025
 =================
 - Volume control problem in voip calls has been fixed
