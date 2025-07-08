@@ -2,6 +2,30 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 07/07/2025
+=================
+- OSS Build (thx to grewal)
+- Fixed FP HBM staying ON on FTS
+- Fixed FTS touch for some users
+- Fixed Ringer not working with BT
+- Properly Enable HDR support
+- Switch to AIDL IR
+- Switch to Miui color modes
+- KIll libinit
+- Fixed Top speaker on Lock screen
+- Some more FP stuff
+- Switch to source built kernel,dtb and dtbo 
+- Added support for single click gesture 
+- Enabled Touch in recovery
+- Dropped a bunch of 32 bit blobs
+- Switch to aidl bootctl
+- KIll libinit
+- parts: add simple Kernel Manager
+- parts: add simple GPU Manager
+- parts: powertools: adapt to garnet
+- parts: fix some icon and strings
+- many little fixments...
+
 Date - 15/06/2025
 =================
 - Remove KSU for working Infi stock integrity hack
