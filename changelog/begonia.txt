@@ -2,6 +2,15 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 08/07/2025
+=================
+• Synced with latest 2.9 source
+• Based on July security patch
+• Use HintManager for HWUI
+• Shut hwcomposer spam
+• Silence HWUI logspam
+• Drop debug.sf.disable_client_composition_cache
+
 Date - 10/06/2025
 =================
 • Synced with latest 2.9 source
