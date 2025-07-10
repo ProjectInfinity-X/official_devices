@@ -2,6 +2,12 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: Legendleo90
 
+Date - 08/07/2025
+=================
+• Upstreamed electro kernel to v5
+• Reworked lmkd props(Fixes random systemui freeze and crashes)(Thanks to @duckyduck616)
+• Fixed thermal engine(Thanks to @duckyduck616)
+
 Date - 15/06/2025
 =================
 • Bumped to V2.9
