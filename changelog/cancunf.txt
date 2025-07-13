@@ -1,0 +1,7 @@
+Device: Motorola G54/G64
+Device code name : cancunf
+Device maintainer: Sreejith S
+
+===== 13 july 2025 =====
+
+* Initial Official Build
