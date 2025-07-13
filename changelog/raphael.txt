@@ -2,6 +2,17 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael
 Device maintainer: YourDulavai
 
+Date - 14/07/2025
+=================
+- Switch back to qti thermal (enjoy fast charging)
+- Remove xiaomi Dolby
+- Include Sony Dolby Atmos
+- Sync with Spatial audio
+- Switch to common light HAL
+- Migrate away from TARGET_RECOVERY_DEVICE_MODULES
+- Move surfaceflinger UDFPS lib to select()
+- Move vendor_init lib to select()
+
 Date - 9/05/2025
 ================
 • Initial A15 release from my side
