@@ -4,8 +4,17 @@ Device maintainer: swiitchOFF
 
 Note:
     * Can be flashed via recovery like TWRP/OFOX
-    * Use New TWRP/OFOX v5
+    * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
+
+Date - 13/07/2025
+=================
+- Add blobs for QTI diag services support
+- Fixed charging bug
+- Nuke Spatial Audio from BT SCO
+- Ditched HyperOS blobs
+- vili tree based on miui 14 blobs 
+- sm8350-common tree based on miui 13 CN blobs
 
 Date - 03/07/2025
 =================
