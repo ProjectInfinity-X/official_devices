@@ -1,0 +1,34 @@
+Device: Poco M6 Pro 5G / Redmi 12 5G (sky)
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/sky/recovery.img/download
+Recommended Firmware: https://xmfirmwareupdater.com/download/?file=fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.9.0.VMWEUXM-user-15.0-89ce298b4d.zip
+Recommended Rooting Solution: https://t.me/VenGeance_Kernels
+Recommended Camera: https://t.me/Redmi125GPhotography/3240
+
+Flashing Instructions:
+
+* Clean Flash:
+1. Flash AOSP recovery recovery (get it from here https://sourceforge.net/projects/infinity-x/files/sky/recovery.img/download)
+ 
+2. fastboot flash recovery recovery.img  (note: A/B partition)
+
+3. fastboot reboot recovery
+
+4. Apply update -> adb sideload
+
+5. adb sideload rom.zip
+
+6. Format data
+
+7. Reboot
+
+* Dirty Flash:
+1. Reboot to recovery
+
+2. Apply update -> adb sideload
+
+3. adb sideload rom.zip
+
+4. Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
