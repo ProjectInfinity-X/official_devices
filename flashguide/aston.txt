@@ -1,12 +1,12 @@
 Device: OnePlus 12R / ACE 3 (aston)
-Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/aston/infinity_aston-recoveryimage.img
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/aston/16/infinity_aston-recoveryimage.img
 
 Flashing Instructions:
 
 --- MUST BE ON OxygenOS 15 or ColorOS 15 before flashing this ---
 
 * Clean Flash:
-1. Reboot to recovery [AOSP Recovery Recommended] (Get from here: https://sourceforge.net/projects/infinity-x/files/aston/infinity_aston-recoveryimage.img)
+1. Reboot to recovery [AOSP Recovery Recommended] (Get from here: https://sourceforge.net/projects/infinity-x/files/aston/16/infinity_aston-recoveryimage.img)
 
 2. Apply update -> adb sideload
 

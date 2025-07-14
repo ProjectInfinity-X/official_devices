@@ -1,8 +1,0 @@
-Device: Samsung Galaxy Tab A7 WIFI
-Device code name : gta4lwifi
-Device maintainer: CuriousNom
-
-Date - 30/08/2024
-=================
-• Initial Android 14 build
-• August patch

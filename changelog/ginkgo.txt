@@ -1,6 +1,0 @@
-- July security CVE'S update (Lvl 1)
-- Add new default bootanimation (Thanks to alecxtra)
-- Update default pif once again (follow this to get integrity passing (https://t.me/ProjectInfinityX/492))
-- Add toggle to enable the Revamped (QPR2 / A16) QS Panel 
-- Avoid excessive power drain caused by GPS
-- Suppress mount errors when checking for encryption in recovery

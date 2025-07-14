@@ -1,9 +1,0 @@
-Device: Realme GT neo 3t
-Device code name : spartan
-Device maintainer: abhix202
-
-
-Date - 06/28/2025
-• Bring back Ayaka addons
-• OOS cam and Dolby included
-• Non Ksu build and encrypted

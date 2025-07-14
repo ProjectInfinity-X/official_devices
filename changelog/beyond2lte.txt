@@ -1,9 +1,0 @@
-Device: Samsung Galaxy S10+
-Device code name : beyond2lte
-Device maintainer: FrEeRuNnEr4EvEr
-
-Device Changelog 06/14/2025
-- Bumped FrEeRuNnErKeRnEl to v2.6+
-
-
-* Gapps build
