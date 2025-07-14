@@ -1,0 +1,8 @@
+Device: Poco F5/ Redmi Note 12 Turbo
+Device code name : marble
+Device maintainer: PabloEscobar & SharmagRit
+
+Date - 14-07-2025
+=================
+* Initial A16 build
+* Global fw included
