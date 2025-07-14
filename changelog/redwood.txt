@@ -1,0 +1,7 @@
+Device: Poco X5 Pro
+Device code name : redwood
+Device maintainer: RDX463
+
+Date - 14/07/2025
+=================
+• Initial Android 16 Release
