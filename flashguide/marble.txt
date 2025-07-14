@@ -1,0 +1,45 @@
+**Before start flashing.....**
+
+- Always have backup of your internal storage
+- For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
+----
+
+## If already on HyperOS based custom rom
+
+## Gapps variant
+
+**Clean flash:**
+- Download the ROM
+- Boot into recovery
+- Wipe Dalvik/Art Cache, cache and data
+- Flash the ROM
+- Tap on format data, type yes and reboot to system
+
+**Dirty flash:**
+- Download the ROM
+- Boot into recovery
+- Wipe Dalvik/ArtCache and Cache
+- Flash the ROM
+- Reboot To System
+
+----
+
+## Vanilla variant
+
+**Clean flash:**
+- Download the ROM and Gapps package from nikgapps
+- Boot into recovery
+- Wipe Dalvik/Art Cache, cache and data
+- Flash the ROM and reboot to recovery
+- Flash the Nikgapps
+- Tap on format data, type yes and reboot to system
+
+**Dirty flash:**
+- Download the ROM
+- Boot into recovery
+- Wipe Dalvik/ArtCache and Cache
+- Flash the ROM and reboot to recovery
+- Flash the Nikgapps
+- Reboot To System
+
+----
