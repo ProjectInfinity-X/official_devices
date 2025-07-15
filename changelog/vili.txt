@@ -1,0 +1,12 @@
+Device: Xiaomi 11T Pro
+Device code name : vili
+Device maintainer: swiitchOFF
+
+Note:
+    * Can be flashed via recovery like TWRP/OFOX
+    * Use New TWRP/OFOX v6
+    * Ensure you are on latest available firmware for your device.
+
+Date - 15/07/2025
+=================
+• Initial Android 16 build
