@@ -1,0 +1,49 @@
+¡¡To flash the rom, it is necessary to use Infinity Recovery or OrangeFox Recovery Official.!!
+
+Infinity Recovery: https://sourceforge.net/projects/infinity-x/files/mondrian/16/recovery.img
+
+OrangeFox Recovery Official: https://orangefox.download/device/6574e52f7f9618c5be6930ab
+
+Boot KernelSU Next: https://t.me/MondrianDevelopment/5692/12010
+
+* Notes:
+- Firmware Incluided, !!Do not flash firmware¡¡
+- Per-App Thermal Profile is not working at the moment! You can use PowerTools
+
+Flashing Instructions in OrangeFox:
+
+* Reboot to Recovery OrangeFox *
+
+* Clean Flash:
+- Wipe Dalvik, Cache, Metadata, Data
+- Flash ROM.zip
+- Format data
+- Reboot
+
+* Dirty Flash:
+- Wipe Dalvik, Cache
+- Flash ROM.zip
+- Reboot
+
+Flashing Instructions in Recovery Infinity:
+
+* Reboot to Recovery Infinity *
+
+- Apply update > Apply from ADB
+- adb sideload rom.zip (Replace rom.zip with the actual name of the file you are installing)
+
+After installing the ROM, the recovery may display a message like:
+
+“Install another package?”
+
+Select No.
+
+* Return to the main menu
+- Factory Reset or Format Data
+
+*Confirm that you want to Erase All Data.*
+
+- Reboot system now
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)

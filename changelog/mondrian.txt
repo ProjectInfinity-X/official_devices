@@ -1,0 +1,7 @@
+Device: Poco F5 Pro / Redmi K60
+Device code name : mondrian
+Device maintainer: DqrKnz
+
+Date - 15-07-2025
+=================
+* Initial A16 Release
