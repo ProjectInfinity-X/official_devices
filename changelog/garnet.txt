@@ -2,6 +2,40 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 16/07/2025
+=================
+-Initial A16 Build
+-Set libinit via soong config
+-overlay: Disable NearbyMessagesService
+-init: Register and enable qcrild & data services on boot
+-prop: Allow SDR dimming
+-display: Fix HDR functionality by enabling Vulkan
+-prop: disable the GPU's specific processing for HDR10 content
+-prop: Add Qualcomm GPU driver for hardware rendering
+-Drop Lineage Health hal
+-parts: Implement Charging control
+-Enhance LE Audio and voice codec configurations
+-audio: Provide exact mixport for input raw flags
+-Stopped statsd once boot completed
+-Don't pin launcher app in memory
+-Set ro.netflix.bsp_rev
+-wifi: Disable all logging
+-rootdir: Restore I/O performance
+-rootdir: Restrict apps access to /proc/net/unix
+-overays: Enable 5G SA and NSA
+-props: disable use_layer_ext and use_smooth_motion
+-overlay: use hybrid prox sensor on keyguard
+-Shim libwfdservice with libaudioclient_shim
+-props: Set missing RKPD props
+-overlay: Remove PowerProfile.POWER_NONE
+-overlay: Drop MMS user agent overlays
+-Make libwfdservice use android.hardware.common-V2-ndk
+-Patch audio to load libaudioroute-v34.so
+-Configure config_num_physical_slots
+-Overlay: Enable config_screen_off_udfps_enabled
+-parts: GameBar: Introduce Ram temp and Ram clock speed overlay
+-parts: Refactor per app GameBar
+
 Date - 07/07/2025
 =================
 - OSS Build (thx to grewal)
