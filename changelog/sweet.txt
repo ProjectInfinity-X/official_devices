@@ -1,0 +1,7 @@
+Device: Redmi Note 10 Pro / Pro Max
+Device code name : sweet
+Device maintainer: Musafir1875
+
+Date - 17-07-2025
+=================
+* Initial A16 Release
