@@ -2,6 +2,13 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 17/07/2025 - HOTFIX BUILD
+=================
+- Fixxed OFOX Touch error
+- Parts: Removed Per app Refresh 
+- Parts: Fixxed Thermal settings 
+- Fixxed IR
+
 Date - 16/07/2025
 =================
 -Initial A16 Build
@@ -35,3 +42,276 @@ Date - 16/07/2025
 -Overlay: Enable config_screen_off_udfps_enabled
 -parts: GameBar: Introduce Ram temp and Ram clock speed overlay
 -parts: Refactor per app GameBar
+
+Date - 07/07/2025
+=================
+- OSS Build (thx to grewal)
+- Fixed FP HBM staying ON on FTS
+- Fixed FTS touch for some users
+- Fixed Ringer not working with BT
+- Properly Enable HDR support
+- Switch to AIDL IR
+- Switch to Miui color modes
+- KIll libinit
+- Fixed Top speaker on Lock screen
+- Some more FP stuff
+- Switch to source built kernel,dtb and dtbo 
+- Added support for single click gesture 
+- Enabled Touch in recovery
+- Dropped a bunch of 32 bit blobs
+- Switch to aidl bootctl
+- KIll libinit
+- parts: add simple Kernel Manager
+- parts: add simple GPU Manager
+- parts: powertools: adapt to garnet
+- parts: fix some icon and strings
+- many little fixments...
+
+Date - 15/06/2025
+=================
+- Remove KSU for working Infi stock integrity hack
+- parts: fix (TurboCharging): correct turbocharging functionality issues
+- parts: add charging bypass toggle
+
+Date - 09/06/2025
+=================
+- audio: Disable receiver profile for ultrasound-handset route - Fixes top speaker on Lockscreen and also for apps like Telegram
+- parts: add new icons Also fixxed with dark themes
+- Enable HWUI adpf
+- Disable dynamic fps
+- Disable idle time for hdr and video
+- Explicitly disable "Enable GL comp backpressure"
+- Enable usage of dex2oat64
+- parts: add aboutmeactivity
+- parts: add core control
+- Migrate Dolby Vision to soong_config_set
+- Use prebuilt boot.img - KSU integrated
+
+Date - 31/05/2025
+=================
+- audio: fix mixer_paths_overlay_static.xml  
+- Build FastCharge  
+- parts: Don't set battery saver power profile in low battery mode  
+- parts: Implement turbo charging V1  
+- parts: TurboCharging: Refactor and add 8W charging option  
+- parts: Add RefreshRate  
+- parts: Welcome designed XiaomiParts  
+- rootdir: Import init from stock  
+- parts: add ZRAM options (its unstable now!!!, maybe will be with custom kernel...) 
+- Enable Client Composition Cache  
+- init: Make less cores available for background tasks  
+- init: Kill statsd service  
+- Enable frame pacing for smoother visual performance  
+- props: Enable `ro.hwui.render_ahead`  
+- props: perf: increase HWUI render ahead frames from 2 to 10  
+
+Date - 22/05/2025
+=================
+- Update Blobs from OS2.0.10.0.VNRMIXM Thx to Kleidione
+- Import media configs from stock Thanx to <٭'sᴡɪɪᴛᴄʜ''off٭'/>
+- Add support for Dolby Vision Thanx to <٭'sᴡɪɪᴛᴄʜ''off٭'/>
+- Audio Policy: Drop Max Open Count & Max Active Count (johnmart19, 2024-01-18)
+- audio: Move bluetooth A2DP back to primary audio module (Arian, 2024-04-16)
+- Audio Policy: Remove FM Tuner Leftovers (johnmart19, 2024-01-18)
+- audio: Nuke unsupported haptics output configuration (EcrosoftXiao, 2021-12-02)
+- audio: Add stereo out to supported VOIP RX channels (Arian, 2025-05-05)
+- audio: hal: Remove compress passthrough profile for HDMI (Faiz Nabi Kuchay, 2022-02-03)
+- Disable sdm rotator downscaler (Jorim Jaggi, 2023-02-13)
+- props: Remove Force triple frame buffers * Causing some apps laggy & UI performance regression (officialputuid, 2021-10-28)
+- Fix voip incall mic (EmanuelCN, 2024-04-05)
+- Enable display async powermode (madmax7896, 2022-09-21)
+- props: Kill IMS logspam with fire (Adithya R, 2021-09-14)
+- Disable logging sensors-hal events (pjgowtham, 2024-04-10)
+- Set debug.sf.frame_rate_multiple_threshold to 60 by default (Juhyung Park, 2022-05-22)
+- props: Enable config_avoidGfxAccel - This flag turns off GPU/CPU intensive UI effects and reduces the RAM footprint. (Jyotiraditya, 2025-02-26)
+- props: Disable vsync for CPU rendered Apps (PainKiller3, 2025-02-26)
+- props: Enable APK fs-verity (minaripenguin, 2025-02-18)
+- props: Increase audio HAL buffer size to 240 (Kim Le, 2024-12-31)
+- props: Set wide color display prop to false (AtlanPrime, 2024-09-03)
+- Add blur props (EmanuelCN, 2023-01-11)
+- LMK Props: Force disable low ram config (johnmart19, 2022-07-29)
+
+Date - 16/05/2025 - HOTFIXXX
+=================
+- rootdir: Import init from stock
+- rootdir: Update to LA.VENDOR.1.0.r2-10200-WAIPIO.QSSI13.0
+- overlay: Enable multiple vibration strength levels support
+- overlay: Add vibration patterns
+- enable Dolby Vision in hwcomposer
+- Migrate Lineage Health to soong_config_set
+- fastcharge implementation
+- remove IRestricted from fastcharge
+- Full reworked audio blobs....
+
+Date - 11/05/2025
+=================
+- Update Dolby from https://github.com/swiitch-OFF-Lab/hardware_dolby
+- Parts: Introduce PowerTools v3.0
+- Parts: Rework per-app thermal profile
+- Enable VoNR Calls support
+- Build missing Wi-Fi Display lib
+- Enable Dolby Vision in hwcomposer
+- Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
+- Enable support for IEEE80211AC
+- Switch to NCM USB tethering
+- Extract touchscreen firmware for recovery
+- Fix Vanilla Partition size
+- & many prop settings for better performance
+
+Date - 04/05/2025
+=================
+- Fixed voip audio routing issue using a monitoring service
+- Update Dolby to SONY DAX3_3.7 from reiryuku
+
+Date - 02/05/2025
+=================
+- Update blobs from OS2.0.9.0.VNRMIXM
+- Build audio blobs from source
+- Fixxed lot of Dolby Blobs & stayed @ OPDOLBY
+- Use QCOM Implementation for Audio Effects from OnePlus 9R for better bass (import vendor blobs too)
+- Import Bluetooth Devices Encodings for Dolby Processing
+- Optimize ram management
+- Configure & Increase ZRAM size to 60% of Ram size
+- Fix screen record lag
+- Add Props to fix camera OIS
+- Make the UI smoother with overlays
+- Add dalvik heap configuration (for 8-12 gb devices too)
+- Enable the pre-rendering feature
+- Silence some log spam messages
+- Apply dex2oat optimizations
+- Disable ART debug
+- Adjust ambient light threshold configurations
+- Many rootdir optimalizations
+- Switch to use.voice.path.for.pcm.voip (it Fixes routing on VoIP apps)
+- parts: Add thermal profiles tile
+- parts: Introduce Display Satutaion Service and TileUtils
+- parts: Introduce High Brightness Mode (HBM) and Auto HBM QS tile
+- parts: Introduce GameBar v4.0
+
+Date - 14/04/2025 - HOTFIX
+=================
+- audio: Fix mic issues in apps like WhatsApp
+- Force enabling IMS capabilities (VOLTE)
+- Use HintManager for HWUI
+- Remove suffix in vulkan-related permissions
+- wifi: Disable all logging
+- Disable game_default_frame_rate override
+- Add missing layer buffer slots cache clear property
+- Enable usage of dex2oat64
+- Do not use phase offsets as duration
+- Revert to xiaomi vibrator
+
+Date - 13/04/2025
+=================
+- Update libs from OS2.0.9.0.VNREUXM
+- Update prebuilt kernel from OS2.0.9.0.VNREUXM
+- fully fixed xiaomi vibrator effects
+- fixed Whatsapp sounds..
+- added back parts (refreshrate, clearspeaker, thermal)
+
+Date - 05/04/2025
+=================
+- Fix Vibrator strengh
+- Fix mic issues in apps like WhatsApp
+- Fix top speaker on Lockscreen and also for apps like Telegram
+- Use dual-mic config as default for voice input
+- Enable ultrasound proximity sensor in audio hal
+- Switch to common QCOM AIDL bootctrl HAL
+- Patch nfc_nci.nqx.default.hw.v1 blob to load libbase_shim
+- Switch to AIDL thermal HAL
+- Add Wi-Fi 6 support
+- Fix stack memory address return in UdfpsHandler
+- MiuiCamera: Update all patches (thx to ramaadni)
+
+Date - 16/03/2025
+=================
+- Update Blobs from OS2.0.6.0.VNREUXM (thx to ramaadi & kleidione)
+- Switch to Sony Dolby (pdx237)
+- Add support for oem fast charger detection
+- Use HintManager for HWUI
+- Switch to SF phase offsets from gs201.
+- wifi: Disable all logging
+- Enable support for kernel idle timer
+- props: Set SF caching property to 0 (enable)
+- props: Disable game_default_frame_rate override
+- Explicitly disable "Enable GL comp backpressure"
+- props: Add missing layer buffer slots cache clear property
+- Enable usage of dex2oat64
+- Do not use phase offsets as duration
+- Generate qcrilNr.db during build
+- Set qcril persist.vendor.radio.poweron_opt to 0
+- Change modem profile from u-stable to v-stable
+- Enhance LE Audio and voice codec configurations
+- Unmount /firmware after fastbootd starts
+- audio: Import audio_effets.conf and microphone_characteristics.xml from stock
+- audio: Update audio_effects.conf and audio_effects.xml
+- overlay: Add Wi-Fi 6 support
+
+Date - 08/02/2025
+=================
+- Add OP Dolby
+- Switch to Xiaomi fingerprint AIDL
+- Optimize and improve auto brightness adjustment
+- Tune ambient display burn-in protection
+- Add burn-in protection for statusbar and navbar
+- Increase 5 GHz network signal tolerance
+- Enable Zram and set to 60% of ram
+- Lot of govenor and boost configs for better performance
+- Fix screen record lag
+- Fix Voip Calls commits added
+
+Date - 28/01/2025 - HOTFIX BUILD
+=================
+- Fix single sim card disconnecting bug
+- Fixed WhatsApp sound crash
+- Import QTI Power Hal
+- Updated Dolby App -Make bass enhancer available on speakers as well
+
+Date - 26/01/2025
+=================
+- Initial build rom bezke
+- Completely rebased DT and Vendor
+- Fixed L1 and L3 issues
+- Switch to SkiaGl
+- Added few activates optimizing compiler flags for HWUI
+- Added sim restart shell script
+- Import some audio configurations from stock vendor
+- Import haptic feedback configurations from Stock
+- Import performance configurations from Stock
+- Updated graphics and display configurations
+- Update Dalvik heap for Android 15 ( We have a 8gb device)
+
+Date - 09/12/2024
+=================
+- Completely rebased DT and Vendor
+- Updated Miuicamera to v816.0.17.0UNRMIXM
+- Updated blobs to v816.0.17.0UNRMIXM
+- Updated IlussionX kernel v2
+- Upstream to 5.10.230
+- Improvised Sound
+- Improvised many more things
+
+Date - 30/11/2024
+=================
+- Switch Illusion Kernel
+- Update last blobs
+- Synchronized with the latest changes
+
+Date - 14/10/2024
+=================
+- Switch Strix-Inline kernel
+- Switch XiaomiDolby
+- Update blobs v.816.0.12.0
+- Some more improvements and fixes
+
+Date - 13/09/2024
+=================
+- Update Horus Kernel 2.1 
+- KernelSU support
+- Switch XiaomiDolby
+- Fixed minimum brightness
+- Update thermals
+- 120hz support for screen recorder
+- Update blobs v.816.0.9.0
+- OTA support
+- Some more improvements
