@@ -1,0 +1,7 @@
+Device: Google Pixel 9 Pro XL
+Device code name : Komodo
+Device maintainer: Pyrtle93
+
+Date - 07/17/2025
+=================
+- Initial A16 Release
