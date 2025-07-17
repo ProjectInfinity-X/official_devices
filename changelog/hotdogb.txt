@@ -2,7 +2,15 @@ Device: OnePlus 7T
 Device code name : hotdogb
 Device maintainer: GuneetAtwal
 
-Date - 05/09/2025
+Date - 07/17/2025 (EOL Android 15)
+=================
+• Merged July 2025 ASB
+• Fixed Dolby sound not working for some users
+• Upstreamed kernel source to 4.14.356
+• Updated KSU-Next to latest v1.0.9
+• Other misc improvements
+
+Date - 06/14/2025
 =================
 • Merged June 2025 ASB
 • Upstreamed kernel source
