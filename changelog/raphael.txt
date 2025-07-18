@@ -1,0 +1,12 @@
+Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
+Device code name : raphael/in
+Device maintainer: YourDulavai
+
+Date - 19-07-2025
+=================
+- Initial A16 Release
+- Moto Dolby and Leica included
+- Based on OSS vendor and Soviet kernel (KSU NEXT+SUSFS)
+- Only Gapps varient available for now (vanilla will be in next release)
+- Dynamic partition and EROFS system
+- Clean Flashing is MANDATORY
