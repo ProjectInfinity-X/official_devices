@@ -1,0 +1,8 @@
+Device: Google Pixel 7a
+Device code name : Lynx
+Device maintainer: Pyrtle93
+
+Date - 07/18/2025
+=================
+- Initial A16 Release
+- Everything works except for fingerprint

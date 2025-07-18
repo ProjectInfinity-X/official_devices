@@ -1,0 +1,8 @@
+Device: Google Pixel 7 Pro
+Device code name : Cheetah
+Device maintainer: Pyrtle93
+
+Date - 07/18/2025
+=================
+- Initial A16 Release
+- Everything works except for fingerprint
