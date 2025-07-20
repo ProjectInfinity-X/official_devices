@@ -1,0 +1,7 @@
+Device: Redmi Note 10
+Device code name : mojito
+Device maintainer: KALCHAKRA|ROMGHARTI
+======================================
+
+20/7/2025
+- Initial Android 16 release
