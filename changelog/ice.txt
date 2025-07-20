@@ -1,0 +1,18 @@
+Device: Realme 9 SE 5G
+Device code name : ice
+Device maintainer: Debarpan102
+
+Date - 20/07/2025
+===============
+• Initial Android 16 release
+• Moved to QSSI (system) IMS Blobs
+• Fixed HeyMelody Crash
+• Drop Unused Packages
+• Update Carrierconfig from Nothing Phone1
+• Fixed Usb Tethering
+• Upstream Kernel to 5.4.292
+• Updated WiFi-Drivers to latest CLO tags
+• Updated Display Drivers to latest CLO tags
+• Updated Audio Drivers to latest CLO tags
+
+<<<Clean Flash From Previous Builds>>>
