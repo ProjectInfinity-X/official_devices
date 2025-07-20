@@ -1,0 +1,32 @@
+Device: Realme 9 SE 5G (ice)
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/ice/16/16-recovery.zip/download
+Kernel-SU-Next: Check Support Group
+
+----------FLASHING INSTRUCTIONS---------
+• MUST be on Rui4 (F.06)
+
+*ROM Flashing (clean)*
+- Reboot to Bootloader
+• Flash the extracted dtbo,vendor_boot,boot images from 16-recovery.zip
+- Go to bootloader
+  » fastboot flash dtbo dtbo.img
+  » fastboot flash boot boot.img 
+  » fastboot flash vendor_boot vendor_boot.img
+- Reboot to recovery
+- Flash F.06 firmware again on both slot
+   (https://github.com/lazymeao/InfinityOneFlash/releases/tag/Realme9_5G_SE_RMX3461)
+- apply update> adb method
+  adb sideload rom.zip  [adb sideload (drag and drop rom file)]
+- Reboot to recovery
+- Format data
+- Reboot to System
+
+*ROM Flashing (dirty)*
+- Reboot to Recovery
+- apply update> adb method 
+- adb sideload rom.zip  [adb sideload (drag and drop rom file)]
+- Reboot to Recovery
+- Reboot to System
+
+*OTA*
+- Simply upgrade via ota updater (either if pushed or via local update import)
