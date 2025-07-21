@@ -2,6 +2,8 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 06/12/2025
+Date - 07/21/2025
 =================
-• Final A15 release
+• Initial A16 release
+• Fixed Youtube and youtube music crashes
+• Note: Screen-off-FOD buggy for now.
