@@ -1,0 +1,19 @@
+#Flashing Instructions For Miatoll
+
+~Clean Flash~
+
+• Download & Flash Recovery
+• Reboot to recovery
+• Wipe cache, data, metadata, dalvik-cache
+• Flash rom.zip
+• Flash GAPPS if vanilla build
+• Format Data
+• Reboot System
+
+~Dirty Flash~
+
+• Reboot to recovery
+• Wipe dalvik-cache
+• Flash rom.zip
+• Reboot system
+• If using gapps or magisk before then reboot to recovery and flash zip.
