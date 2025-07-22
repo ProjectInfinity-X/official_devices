@@ -2,6 +2,30 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 22/07/2025
+=================
+• Import QCOM audio effects from OnePlus 9R
+• use QCOM Implementation for Audio Effects
+• overlay: Add FPS info support
+• overlay: set config_wallpaperMaxScale to 1
+• overlay: Downscale task snapshots to 80%
+• overlay: Set config_use16BitTaskSnapshotPixelFormat to true
+• props: Drop force triple frame buffers
+• props: Disable Skia tracing by default
+• props: Disable phantom process monitoring
+• props: Disable debug.sf.latch_unsignaled
+• props: Disable continuous transaction tracing on all build types
+• props: Allow more cached apps in the background
+• props: Add a property to enable prefetching video
+• props: Add missing layer buffer slots cache clear property
+• rootdir: Restrict apps access to /proc/net/unix
+• rootdir: Give proper permissions for /dev/diag
+• Fix lag in apps like chrome,twitter,etc..
+• Apply dex2oat optimizations
+• Enable HWUI adpf
+• Use HintManager for HWUI
+• And Many More Optimizations
+
 Date - 02/07/2025
 =================
 • Synced With Latest Source (https://t.me/ProjectInfinityX/1295)
