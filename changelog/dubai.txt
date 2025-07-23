@@ -1,0 +1,7 @@
+Device: Motorola Edge 30
+Device code name : dubai
+Device maintainer: NotDheeraj06
+
+Date - 23/07/2025
+=================
+- Initial Android 16 release
