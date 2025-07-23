@@ -1,0 +1,5 @@
+Device maintainer: Abhix202 & Amruth
+======================================
+
+23/7/2025
+- Initial Android 16 release
