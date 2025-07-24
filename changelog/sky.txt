@@ -2,6 +2,10 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 23/07/2025
+=================
+• Synced With Latest Source (https://t.me/ProjectInfinityX/1401)
+
 Date - 14/07/2025
 =================
 • Initial Android 16 Release
