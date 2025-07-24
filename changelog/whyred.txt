@@ -2,6 +2,28 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 24/07/2025
+=================
+- Synced with latest source
+- Switch to ScarletX Reborn kernel
+- rootdir: drop schedtune
+- Override kernel BPF version
+- props: Add HWUI properties from SLD_sprout
+- Build xiaomi-telephony-stub
+- Dropped old rounded corner values and imported from whyred stock
+- Updated status bar height
+- Remove status_bar_padding when large corner padding
+- Dropped old zram impl and switch to edwin one
+- rootdir: Don't configure zram in init.qcom.post_boot.sh
+- rootdir: Tune zram performance
+- Checkout CarrierConfig to LA.UM.9.1.r1-07300-SMxxx0.0
+- rootdir: Switch to 3gb zram
+- Dropped lineage fastcharge fully
+- Dropped bypass charging
+- Bring back ram based dalvik heap config
+- Dropped lmk from dt.Our kernel will handle it
+- Many more underhood changes
+
 Date - 15/07/2025
 =================
 - Initial android 16 release
