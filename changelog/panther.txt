@@ -2,6 +2,11 @@ Device: Google Pixel 7
 Device code name : Panther
 Device maintainer: Pyrtle93
 
+Date - 07/24/2025
+===============
+- Highlighted Source Changes (https://t.me/InfinityXGroup/149009)
+- Fixed udfps not working
+
 Date - 07/18/2025
 =================
 - Initial A16 Release
