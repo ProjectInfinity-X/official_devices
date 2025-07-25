@@ -2,6 +2,10 @@ Device: Google Pixel 9
 Device code name : Tokay
 Device maintainer: Pyrtle93
 
+Date - 07/24/2025
+===============
+- Highlighted Source Changes (https://t.me/InfinityXGroup/149009)
+
 Date - 07/17/2025
 =================
 - Initial A16 Release
