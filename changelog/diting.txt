@@ -1,0 +1,24 @@
+Device: Xiaomi 12T Pro / Redmi K50 Ultra
+Device code name : diting
+Device maintainer: Jezzay97
+
+Date - 25/07/2025
+=================
+- Enable frame pacing for smoother visual performance
+- Add missing layer buffer slots cache clear property
+- Build missing Wi-Fi Display lib
+- Build android.media.audio.common.types-V2-cpp
+- Disable HWC for VDS except wfd
+- Fixes Unable to set property "ctl.interface_start" to "android.hardware.secure_element@1.2::ISecureElement/eSE1"
+- Add libaudioclient_shim for libwfdservice
+- Fix overlay for custom ambient display
+- Don't explicitly build android.hardware.wifi.hostapd@1.0.vendor
+- AOD now displays the wallpaper
+- manifest: Drop wfdhdcp
+- Optimize native executables for Cortex-A510
+- Xiaomi camera Support
+- Dolby audio by default
+- Merge 'android12-5.10-lts' in kernel
+- Compile HWUI for performance
+- properties: Use HintManager for HWUI
+- overlay: Bring back QTI UIM GBA package
