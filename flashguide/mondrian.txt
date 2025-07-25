@@ -1,14 +1,15 @@
-¡¡To flash the rom, it is necessary to use Infinity Recovery or OrangeFox Recovery Official.!!
+¡¡To flash the ROM, you must use Infinity Recovery or OrangeFox Recovery specified here.!!
 
 Infinity Recovery: https://sourceforge.net/projects/infinity-x/files/mondrian/16/recovery.img
 
 OrangeFox Recovery Official: https://orangefox.download/device/6574e52f7f9618c5be6930ab
 
-Boot KernelSU Next: https://t.me/MondrianDevelopment/5692/12010
+OrangeFox Recovery Unofficial: https://github.com/ymdzq/OrangeFox-Action-Builder/releases/tag/16389633186
+
+Boot KernelSU Next: https://t.me/MondrianDevelopment/5692
 
 * Notes:
 - Firmware Incluided, !!Do not flash firmware¡¡
-- Per-App Thermal Profile is not working at the moment! You can use PowerTools
 
 Flashing Instructions in OrangeFox:
 

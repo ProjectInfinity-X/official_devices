@@ -2,6 +2,25 @@ Device: Poco F5 Pro / Redmi K60
 Device code name : mondrian
 Device maintainer: DqrKnz
 
-Date - 15-07-2025
+Date - 24/07/2025
+=================
+- Fix XiaomiParts (Droped PowerTools)
+- Remove fqname for vendor.qti.hardware.pal@1.0
+- Remove wifilearner HIDL entry from manifest
+- wlan: Apply xiaomi changes to wcnss config
+- wlan: Remove g_prefer_5g_scc_to_dbs
+- wlan: Use default value for assoc failure timeout
+- Don't explicitly build android.hardware.wifi.hostapd@1.0.vendor
+- Don't explicitly build libwfdaac_vendor
+- overlay: Remove deprecated config_mobile_tcp_buffers/networkAttributes
+- Build missing Wi-Fi Display lib
+- Build android.media.audio.common.types-V2-cpp
+- Drop ISecureElement/eSE1
+
+Kernel:
+- Merge 'android12-5.10-lts'
+- Merge 'KERNEL.PLATFORM.1.0.r1-19100-kernel.0'
+
+Date - 15/07/2025
 =================
 * Initial A16 Release
