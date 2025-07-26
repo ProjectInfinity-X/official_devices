@@ -1,1 +1,12 @@
-Initial Android 16 Release
+- Fixed youtube / youtube music (newer versions) / other media apps crash issues
+- Add Applock / App hide feature
+- Fixed VPN disconnection on various activities (like uninstalling an app)
+- Fixed storage manager crash while choosing different storage option
+- Fixed an issue of device rebooting when choosing preferred app for opening an external link / etc.
+- Add multiple three finger swipe gestures
+- Fix audio issues on some devices
+- Remove toast to remind about restarting systemui for infinity suite options to take effect, made it automatically convenient instead
+- Add colored notification icon feature
+- Resolve transparency issues with popup notifications when transparent notification style enabled
+- Add ability to change statusbar paddings
+- Add edge light on notification / ambient
