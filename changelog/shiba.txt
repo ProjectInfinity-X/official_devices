@@ -1,0 +1,11 @@
+Device: Google Pixel 8
+Device code name : Shiba
+Device maintainer: Libra420T
+
+Date - 07/26/2025
+===============
+- Initial A16 Release
+- Version 3.0
+- July Security
+- Highlighted Source Changes (https://t.me/InfinityXGroup/149009)
+- Highlighted Blur Fix (https://t.me/InfinityXGroup/149975)
