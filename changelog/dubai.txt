@@ -2,6 +2,17 @@ Device: Motorola Edge 30
 Device code name : dubai
 Device maintainer: NotDheeraj06
 
+Date - 26/07/2025
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1401
+- Add filecache_min_kb tuning for lmkd
+- Disable SF composition prediction model
+- Force device to treat 170M as sRGB in SF
+- Update surfaceflinger offsets from taro
+- wifi: Enable channel bonding for 2.4GHz
+- Enable wide color display
+- Disable backpressure propagation in SF
+
 Date - 23/07/2025
 =================
 - Initial Android 16 release
