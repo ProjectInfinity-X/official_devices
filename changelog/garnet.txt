@@ -2,6 +2,27 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 27/07/2025 - HOTFIX BUILD
+=================
+- Set renderengine backend to skiavk Signed-off-by: AhmedTohamy1<1ahmed.tohamy@gmail.com>
+- Disable skia tracing Signed-off-by: AhmedTohamy1<1ahmed.tohamy@gmail.com>
+- Set HWUI renderer to skiavk for Vulkan acceleration
+- parts: Refactor parts for A16
+- Revert "display: Fix HDR functionality by enabling Vulkan"
+- TMP!removed powertools Maybe later will readd , but now cause error with turbo charging...
+- parts: kernelmanager: Persist settings across reboots and app exits
+- parts: gpumanager: Persist settings across reboots and app exits
+- parts: kernelmanager: add footer informations
+- parts: dirac: Fix Dirac persistence and initialization on Android 16
+- overlay: Remove config_cellBroadcastAppLinks
+- Add SystemUI restart in restart advanced menu
+- Remove wifilearner HIDL entry from manifest
+- Build NXP NFC service from source
+- parts: Refactor and modernize TurboCharging implementation
+- parts:Implement robust bypass charging functionality
+- parts: bypasscharge: Add bypass charging support with comprehensive node detection
+- parts: kernelmanager: Add real-time CPU core monitoring
+
 Date - 17/07/2025 - HOTFIX BUILD
 =================
 - Fixxed OFOX Touch error
