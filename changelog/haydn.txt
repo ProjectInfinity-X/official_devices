@@ -1,15 +1,6 @@
-Device: Mi 11x Pro/Mi 11i/Redmi K40 Pro+
-Device code name : haydn
-Device maintainer: Hexdare
-
-Date - 15/07/2025
+Date - 27/07/2025
 =================
-• Initial A16 Release
-• parts: add core control
-• parts: add Kamis Stuff and shift some settings there
-• parts: add simple Kernel Manager
-• parts: add simple GPU Manager
-• Enable VoNR Calls support
-• Disable the usage of thumbnail_block_model (Fixes the gallery media not loading issue)
-• Patch audio to load libaudioroute-v34.so
-• Add libaudioclient_shim for libwfdservice
+• Add libinit for haydn (Fixes CN 64MP Cam)
+• Fixed wrong cam info on CN devices (108MP --> 64MP)
+• More source changes merged
+• Kernel updated to v5.4.296 (FarFromStock With KSU-Next)
