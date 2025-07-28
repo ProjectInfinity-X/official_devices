@@ -7,6 +7,11 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 28/07/2025
+=================
+• Fixed diag services on user build
+• Kernel updated
+
 Date - 15/07/2025
 =================
 • Initial Android 16 build
