@@ -2,6 +2,12 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 28/07/2025
+=================
+• Updated blobs from OS2.0.206.0.VMWEUXM
+• Updated prebuilt kernel to 5.10.226 from OS2.0.206.0.VMWEUXM
+• Updated Dolby
+
 Date - 22/07/2025
 =================
 • Import QCOM audio effects from OnePlus 9R
