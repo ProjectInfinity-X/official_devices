@@ -2,6 +2,47 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 30/07/2025
+=================
+- parts: kernelmanager: Persist settings across reboots and app exits  
+- parts: gpumanager: Persist settings across reboots and app exits  
+- parts: kernelmanager: add footer informations  
+- parts: dirac: Fix Dirac persistence and initialization on Android 16 (but not perfect yet...)  
+- overlay: Remove config_cellBroadcastAppLinks  
+- Add SystemUI restart in restart advanced menu  
+- Remove wifilearner HIDL entry from manifest  
+- Build NXP NFC service from source  
+- parts: Refactor and modernize TurboCharging implementation  
+- parts: kernelmanager: Add real-time CPU core monitoring  
+- parts: corecontrol: improve stability, file access and UI  
+- parts: Add logcatviewer  
+- overlay: Setup power button location  
+- overlay: Add SecureNfc support for garnet sku  
+- Switch to libperfmgr  
+- Remove QTI perf service  
+- Remove QTI poweropt service  
+- Remove QTI psiclient service  
+- Add back ro.vendor.extension_library definition  
+- Import power hint from PixelOS-Devices/device_xiaomi_sm8450-common  
+- powerhint: Adapt for parrot  
+- sepolicy: Allow powerhal write to /proc  
+- Add nonui notifier  
+- sensors: Cleanup code and drop unused dependencies  
+- sensors: Use wake-up version of nonui sensor  
+- sensors: Pass nonui value unmodified to touchscreen  
+- sensors: Use kernel provided xiaomi_touch.h  
+- sensors: Close touch dev fd after usage  
+- sensors: Convert nonui notifier into a generalized sensor based notifier  
+- sensors: Move to new xiaomi-touch  
+- Override doze mode support
+- Rebased kernel (thx all to grewal)
+- hwc_display: Support dolby vision
+- hwc_display: guard Dolby Vision support
+- display-kernel: sde: Allow video mode panels to reach LP2
+- display-kernel: sde: Opt out of all the mi layer stuff
+- display-kernel: dsi: Enable backlight on DPMS ON
+- Move to new xiaomi-touch driver (soo smoooooth :-)
+
 Date - 27/07/2025 - HOTFIX BUILD
 =================
 - Set renderengine backend to skiavk Signed-off-by: AhmedTohamy1<1ahmed.tohamy@gmail.com>
