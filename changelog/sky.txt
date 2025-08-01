@@ -2,6 +2,13 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 01/08/2025
+=================
+• Synced With Latest Source (https://t.me/ProjectInfinityX/1430)
+• Updated blobs from OS2.0.206.0.VMWEUXM
+• Updated prebuilt kernel to 5.10.226 from OS2.0.206.0.VMWEUXM
+• Updated Dolby & Misc Optimizations and Fixes
+
 Date - 23/07/2025
 =================
 • Synced With Latest Source (https://t.me/ProjectInfinityX/1401)
