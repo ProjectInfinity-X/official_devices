@@ -2,6 +2,11 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 02/08/2025
+=================
+• Fixed Google Voice Recorder input
+• Fixed Dolby effect initialization
+
 Date - 28/07/2025
 =================
 • Updated blobs from OS2.0.206.0.VMWEUXM
