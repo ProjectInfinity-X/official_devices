@@ -1,12 +1,10 @@
 Device: Poco X3/NFC
-Recommended Recovery: https://t.me/cunyuksite/8
 
 Flashing Instructions:
 
 * Clean Flash:
 - Format Data 
 - Flash ROM.zip
-- Flash GAPPS ( If you are flashing Vanilla Build - Recommended MindTheGapps)
 - Reboot System
 
 * Dirty Flash:
