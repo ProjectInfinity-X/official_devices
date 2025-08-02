@@ -3,6 +3,9 @@ Device code name : mojito
 Device maintainer: KALCHAKRA|ROMGHARTI
 ======================================
 
+02/08/2025
+- Minor changes and improvements
+
 24/7/2025
 - Fixed minor jitters on system UI.
 - Fixed low brightness of torch.
