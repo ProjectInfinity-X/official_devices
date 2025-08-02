@@ -1,0 +1,7 @@
+Device: Samsung Galaxy A52s 5G
+Device code name : a52sxq
+Device maintainer: NguyenPhong
+
+Date - 02/08/2025
+=================
+- Initial Official build for Samsung Galaxy A52s 5G
