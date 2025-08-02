@@ -2,6 +2,12 @@ Device: Poco F5 Pro / Redmi K60
 Device code name : mondrian
 Device maintainer: DqrKnz
 
+Source Changelog: https://t.me/ProjectInfinityX/1430
+
+Date - 01/08/2025
+=================
+- overlay: Enable Screen Off UDFPS
+
 Date - 24/07/2025
 =================
 - Fix XiaomiParts (Droped PowerTools)
