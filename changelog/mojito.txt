@@ -3,6 +3,15 @@ Device code name : mojito
 Device maintainer: KALCHAKRA|ROMGHARTI
 ======================================
 
+02/08/2025
+- Make strong integrity pass by default for everyone (without any pif json or keybox requirement)
+- Add translucent background shade to QS notifications on transparent QS Panel to fix notifications visibility/differentiation issues (Thanks to GhostRX89)
+- Fixed Apple music crash issues
+- Extend sidebar feature with more detailed customisation (Thanks to ph12nex)
+- Add status bar clock chip styles
+- Fixed Priority heads up
+- Fixed gamespace panel animation sluggishness
+
 24/7/2025
 - Fixed minor jitters on system UI.
 - Fixed low brightness of torch.
