@@ -2,6 +2,12 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 03/08/2025
+=================
+- added adblocker into Parts
+- added 12118 Kernelsu and 1.5.9 SUSFS into kernel
+- schedhorizon: Introduce schedhorizon cpufreq governor (use it in Parts) !
+
 Date - 30/07/2025
 =================
 - parts: kernelmanager: Persist settings across reboots and app exits  
