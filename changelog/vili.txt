@@ -7,6 +7,12 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 03/08/2025
+=================
+• AOSP WFD
+• Fixed mic issue
+• Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
+
 Date - 28/07/2025
 =================
 • Fixed diag services on user build
