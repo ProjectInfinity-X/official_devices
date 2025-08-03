@@ -2,6 +2,23 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 03-08-2025
+=================
+- Requires clean flash for this release due to tree rebase
+- Complete tree rebase over Penglezos and Hildo
+- Included all goodies from my tree
+- Enabled ELF check for certain blobs
+- Regenerated all blobs and included missing ones from stock
+- Fixed some SEPolicy issues and suppressed excessive log spamming
+- Adapt DisplayFeatures (FPS meter, HBM, DC dimming)
+- Reduced default haptics to 40% (1480)
+- Added Leica cam with SEPolicy fixup
+- Added prebuilt Dolby Atmos
+- Added charging control (if doesn't work just reboot once)
+- Adapted uclamp tuning according to Waffle kernel
+- Dropped aggressive powerhint and libperfmgr changes
+- Many more changes have been done—let’s not write a whole paragraph
+
 Date - 19-07-2025
 =================
 - Initial A16 Release
