@@ -2,6 +2,11 @@ Device: Google Pixel 8 Pro
 Device code name : Husky
 Device maintainer: Libra420T
 
+Date - 08/04/2025
+===============
+- A16 3.0 Update
+- Synced with latest source changes
+
 Date - 07/26/2025
 ===============
 - Initial A16 Release
