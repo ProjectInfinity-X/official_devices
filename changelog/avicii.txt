@@ -1,0 +1,7 @@
+Device: OnePlus Nord
+Device codename : avicii
+Device maintainer: Sreeshankar K
+
+Date - 05/08/2025
+=================
+- Initial Android 16 Official Build
