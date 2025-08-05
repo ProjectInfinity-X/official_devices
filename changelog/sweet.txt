@@ -2,6 +2,11 @@ Device: Redmi Note 10 Pro / Pro Max
 Device code name : sweet
 Device maintainer: Musafir1875
 
+Date - 05/08/2025
+* Added Leica Camera
+* Moved to TobrutExotic Kernel
+* By default KSU Kernel
+
 Date - 28/07/2025
 =================
 * Added Miui Camera 
