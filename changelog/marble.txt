@@ -2,6 +2,17 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 7-08-2025
+================
+* Restored high-touch polling rate
+* Reverted Dolby Vision (currently broken on AOSP 16)
+* Fixed MediaCodecVideoRenderer error when playing Dolby content
+* Kernel upstreamed to 5.10.237
+* Fixed Isecure Element crash
+* Fixed crash in Thermal Profiles section
+* Reverted PowerTools (not functioning as intended in A16)
+* Switched to common WFD stack
+
 Date - 14-07-2025
 =================
 * Initial A16 build
