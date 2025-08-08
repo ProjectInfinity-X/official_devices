@@ -1,6 +1,6 @@
 Device: Poco M6 Pro 5G / Redmi 12 5G (sky)
 Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/sky/recovery.img/download
-Recommended Firmware: https://t.me/sky_dumps/11
+Recommended Firmware: https://xmfirmwareupdater.com/download/?file=fw_sky_eea_global_sky_eea_global-ota_full-OS2.0.206.0.VMWEUXM-user-15.0-231b8422df.zip
 Recommended Rooting Solution: https://t.me/VenGeance_Kernels
 Recommended Camera: https://t.me/Redmi125GPhotography/3240
 
