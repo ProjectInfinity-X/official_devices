@@ -1,28 +1,24 @@
 Device: OnePlus Nord (avicii)
-AOSP Recovery: https://sourceforge.net/projects/infinity-x/files/avicii/16/infinity_avicii-recovery.img
+Recommended Recovery: https://pitchblackrecovery.com/avicii
 
 Clean Flash:
 ============
-1. Boot to recovery [AOSP Recovery Recommended]
+1. Boot to recovery
 
-2. Apply update -> adb sideload
+2. Flash the ROM.zip file from internal storage or USB OTG or via ADB sideload
 
-3. adb sideload <rom.zip>
+3. Format data
 
-4. Format data
-
-5. Reboot
+4. Reboot
 
 
 Dirty Flash:
 ============
 1. Reboot to recovery
 
-2. Apply update -> adb sideload
+2. Flash the ROM.zip file from internal storage or USB OTG or via ADB sideload
 
-3. adb sideload <rom.zip>
-
-4. Reboot
+3. Reboot
 
 
 OTA:
