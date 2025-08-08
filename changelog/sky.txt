@@ -2,6 +2,14 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 08/08/2025
+=================
+• wifi: Smarter decisions on whether to use a 2 or 5Ghz AP
+• wifi: Enable Optimized Power Management
+• Fixed Slow Internet Speed while using Bluetooth
+• Set Screen Recorder Max Framerate to 90Hz
+• Make Netflix select L1 instead of L3
+
 Date - 02/08/2025
 =================
 • Fixed Google Voice Recorder input
