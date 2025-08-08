@@ -2,6 +2,11 @@ Device: OnePlus Nord
 Device codename : avicii
 Device maintainer: Sreeshankar K
 
+Date - 08/08/2025
+=================
+- Support Vanilla (De-Googled) Variant of Project Infinity X
+- Allocated space for GApps package sideload in vanilla variant
+
 Date - 05/08/2025
 =================
 - Initial Android 16 Official Build
