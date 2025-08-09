@@ -1,0 +1,27 @@
+### Pre-installation:
+
+* Must have Android 13 OneUI 5.1 before the install
+* Orange Fox Recovery: https://github.com/saadelasfur/Action-Recovery-Builder/releases/download/20250615225415/OrangeFox-R11.3_0_A14-Stable-m52xq.tar
+* Odin3: https://undocumented.software/Odin_3.13.1.zip
+* Disabled VBMETA: https://github.com/saadelasfur/proprietary_vendor_samsung_sm7325/releases/download/M526BXXS7CYD2_OWO/M526BXXS7CYD2_patched_vbmeta.tar
+
+### First time installation (clean flash):
+
+* Remove all Google accounts from your device to avoid FRP (Factory reset protection).
+* Backup Data if needed.
+* Power off the phone, then enter Download Mode using Volume Down + Volume Up and connect phone to your computer, then press Volume Up.
+* In Odin3, select Orange Fox recovery file in the AP slot, and the VBMETA in USERDATA slot, then uncheck auto-reboot in Odin3 settings, then click start.
+* After the flash is done, hold Volume Down + Power until it reboots, then Volume Up + Power until in recovery.
+* In Orange Fox recovery, select Wipe, then Format data, type "yes"
+* After it's done, click on Reboot, then Reboot Recovery.
+* Back in recovery, select Install, select ROM files to flash Project Infinity X
+* After it's done, do the same steps to install any additional packages.
+* Reboot and enjoy.
+
+### Update installation:
+
+* Go to the system updater in the Settings app, and download the new update.
+* After the download is done, the update will be done automatically. 
+* Reboot.
+
+NOTE: If after OTA, some additional packages you had installed (e.g Magisk) are not there anymore, reflash them in recovery with Orange Fox Recovery
