@@ -1,10 +1,12 @@
+Date - 09/08/2025
+=================
+- Switch from time_daemon to TimeKeep
+- Decommonize libQnnHtpStub
+- Commonize citsensor stack
+- Move citsensorservice to background cpuset
+- CN Cam Broken
+
 Date - 28/07/2025
 =================
 • Fixed CN 64MP Cam
 
-Date - 27/07/2025
-=================
-• Add libinit for haydn (Fixes CN 64MP Cam)
-• Fixed wrong cam info on CN devices (108MP --> 64MP)
-• More source changes merged
-• Kernel updated to v5.4.296 (FarFromStock With KSU-Next)

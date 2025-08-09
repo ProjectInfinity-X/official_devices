@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.0-haydn-20250727-2208-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/haydn/16/gapps/Project_Infinity-X-3.0-haydn-20250727-2208-GAPPS-OFFICIAL.zip",
-			"timestamp": 1753654068,
-			"md5": "f44adf3f950e72f3f9f433d03d9d1f9a",
-			"size": 2592518754,
-			"version": "3.0"
+			"filename": "Project_Infinity-X-3.1-haydn-20250809-0429-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/haydn/16/gapps/Project_Infinity-X-3.1-haydn-20250809-0429-GAPPS-OFFICIAL.zip",
+			"timestamp": 1754713659,
+			"md5": "c19961afa8dc89506e07f34a45b7c015",
+			"size": 2615362153,
+			"version": "3.1"
 		}
 	]
 }
