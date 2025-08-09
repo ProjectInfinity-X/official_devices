@@ -1,8 +1,4 @@
-- Fixed GCam HDR issue yet again
-- Make strong integrity pass by default for everyone (without any pif json or keybox requirement)
-- Add translucent background shade to QS notifications on transparent QS Panel to fix notifications visibility/differentiation issues (Thanks to GhostRX89)
-- Fixed Apple music crash issues
-- Extend sidebar feature with more detailed customisation (Thanks to ph12nex)
-- Add status bar clock chip styles
-- Fixed Priority heads up
-- Fixed gamespace panel animation sluggishness
+- No device changelog
+- Source changelog -: https://t.me/ProjectInfinityX/1453
+
+- Strong integrity passes by default
