@@ -1,0 +1,7 @@
+Device: Samsung Galaxy M52 5G
+Device code name : m52xq
+Device maintainer: tilt-rgb
+
+Date - 02/08/2025
+=================
+- Initial Official build for Samsung Galaxy M52 5G
