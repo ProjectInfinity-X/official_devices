@@ -2,6 +2,10 @@ Device: OnePlus Nord
 Device codename : avicii
 Device maintainer: Sreeshankar K
 
+Date - 09/08/2025
+=================
+- Sync with latest Project Infinity X v3.1 source
+
 Date - 08/08/2025
 =================
 - Support Vanilla (De-Googled) Variant of Project Infinity X
