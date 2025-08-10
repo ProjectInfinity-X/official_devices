@@ -1,9 +1,4 @@
-Device: Poco X3 NFC
-Device code name : surya
-Device maintainer: erwinabs
-
-Date - 15-07-2025
 =================
-* Initial A16 build
-* Global fw included
-* LeicaCam Include
+* Fixed NFC
+* Include Dolby
+* Include Leica Camera
