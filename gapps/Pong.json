@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.0-Pong-20250723-1143-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/Pong/16/gapps/Project_Infinity-X-3.0-Pong-20250723-1143-GAPPS-OFFICIAL.zip",
-			"timestamp": 1753270813,
-			"md5": "2ce6f9c597d8b7dcf9f0acba0aae1e17",
-			"size": 2405587332,
-			"version": "3.0"
+			"filename": "Project_Infinity-X-3.1-Pong-20250810-1536-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/Pong/16/gapps/Project_Infinity-X-3.1-Pong-20250810-1536-GAPPS-OFFICIAL.zip",
+			"timestamp": 1754840190,
+			"md5": "a277e1d6f2497963bd8606b4cbe7a605",
+			"size": 2363542017,
+			"version": "3.1"
 		}
 	]
 }

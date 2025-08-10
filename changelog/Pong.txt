@@ -2,6 +2,13 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 10/08/2025
+=================
+- Switch to kryo300
+- Set AOD refreshrate to 60
+- Fixup dolby effect initialization
+- Switch to 676.69 adreno-t
+
 Date - 23/07/2025
 =================
 - Initial A16 build
