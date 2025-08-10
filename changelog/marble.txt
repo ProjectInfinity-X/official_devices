@@ -2,6 +2,11 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date – 10-08-2025
+=================
+* Merged latest upstream source changes
+* Known Issue: Wi-Fi Display (WFD) is currently non-functional
+
 Date - 7-08-2025
 ================
 * Restored high-touch polling rate
