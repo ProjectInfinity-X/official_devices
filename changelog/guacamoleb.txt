@@ -2,8 +2,10 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 07/21/2025
+Date - 08/10/2025
 =================
-• Initial A16 release
-• Fixed Youtube and youtube music crashes
-• Note: Screen-off-FOD buggy for now.
+• Fix alarm & notification sound not playing while using bluetooth earphones
+• Revert NFC changes [WIP fix for NFC crash]
+• Fix device over heating with mundane tasks
+• Improve screen-off-FOD [Wheen turned ON Ambient display stays on for 3-4sec before turning off screen]
+• Note: Clean Flash recommended from V3.0.

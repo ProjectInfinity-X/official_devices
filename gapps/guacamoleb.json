@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.0-guacamoleb-20250721-1529-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/guacamoleb/16/gapps/Project_Infinity-X-3.0-guacamoleb-20250721-1529-GAPPS-OFFICIAL.zip",
-			"timestamp": 1753111582,
-			"md5": "c4c8070085db7f78916ced3e513276dc",
-			"size": 2017638279,
-			"version": "3.0"
+			"filename": "Project_Infinity-X-3.1-guacamoleb-20250809-2004-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/guacamoleb/16/gapps/Project_Infinity-X-3.1-guacamoleb-20250809-2004-GAPPS-OFFICIAL.zip",
+			"timestamp": 1754769835,
+			"md5": "fa7b5e35a840b5f16bbae0fdb342b2d9",
+			"size": 1956371909,
+			"version": "3.1"
 		}
 	]
 }
