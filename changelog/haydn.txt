@@ -1,3 +1,8 @@
+Date - 11/08/2025
+=================
+- Fixed CN 64MP Cam
+- Fixed crackling sound issue upon notifications
+
 Date - 09/08/2025
 =================
 - Switch from time_daemon to TimeKeep
