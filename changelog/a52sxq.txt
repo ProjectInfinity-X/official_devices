@@ -2,7 +2,7 @@ Device: Samsung Galaxy A52s 5G
 Device code name : a52sxq
 Device maintainer: NguyenPhong
 
-Date - 02/08/2025
+Date - 10/08/2025
 =================
 - Update to Project Infinity X to version 3.1
 - Add vanilla version
