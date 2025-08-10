@@ -1,0 +1,13 @@
+Device: Redmi Note 8 Pro
+Device code name : begonia
+Device maintainer: ShantanuPC
+
+Date - 10/08/2025
+=================
+• Initial A16 build
+• Synced with latest 3.1 source
+• Based on August security patch
+
+Bugs:
+• 30fps video recording not working in Leica camera
+• Camera in Telegram not working
