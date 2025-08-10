@@ -2,6 +2,12 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 10/08/2025
+=================
+- props: modded cam props in settings (200/64MP)
+- parts: adblock: Updated english translate
+- parts: kernelmanager: Align Kernel Manager with device power profile
+
 Date - 03/08/2025
 =================
 - added adblocker into Parts
