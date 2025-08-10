@@ -2,6 +2,15 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 10-08-2025
+=================
+- Fixed VENDOR_SECURITY_PATCH date
+- Fixed some haptics
+- Configure default light sensor type
+- Move Lineage Health HAL to select()
+- Bring back vanilla build
+- Some minor changes
+
 Date - 03-08-2025
 =================
 - Requires clean flash for this release due to tree rebase
