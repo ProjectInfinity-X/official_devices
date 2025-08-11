@@ -3,6 +3,20 @@ Device code name : mojito
 Device maintainer: KALCHAKRA|ROMGHARTI
 ======================================
 
+11/8/2025
+- Added support for ViPER4AndroidFX
+- Minor changes and improvements
+- Camera changes:
+- Parallel processing enabled.
+- Removed unnecessary options: Steady video, Short film, and Supermoon.
+- Image stabilization disabled by default.
+- Automatic Documents Mode enabled.
+- Fixed a crash after shooting while zoomed in.
+- Enabled pocket mirror.
+- Removed unsupported slow motion at 960 fps; only 120 & 240 fps are supported as standard.
+- Themed icons supported.
+- Added Advanced Settings in Camera Settings.
+
 02/08/2025
 - Minor changes and improvements
 
