@@ -1,0 +1,7 @@
+Device: OnePlus 7T
+Device code name : hotdogb
+Device maintainer: GuneetAtwal
+
+Date - 08/11/2025
+=================
+• Initial A16 Release
