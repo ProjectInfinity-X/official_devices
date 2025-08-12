@@ -2,6 +2,15 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 12/08/2025
+=================
+- Update blobs and firmware from OS2.0.4.0.VLFMIXM
+- Don't explicitly build libwfdaac_vendo
+- Back to previous Dolby Audio
+- Import missing permissions for QCC app
+- perf: Set lmkd kill timeout value as 50
+- Minor changes to the kernel
+
 Date - 25/07/2025
 =================
 - Enable frame pacing for smoother visual performance
