@@ -1,0 +1,20 @@
+Device: POCO F1
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/beryllium/16/recovery/recovery.img/download
+
+Flashing Instructions:
+
+* Clean Flash:
+- Wipe Cache, Data
+- Flash/Sideload Firmware
+- Flash/Sideload ROM.zip
+- Format data
+- Reboot
+
+* Dirty Flash:
+- Wipe Cache
+- Flash/Sideload ROM.zip
+- Flash/Sideload dfe (only if decrypted before)
+- Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)

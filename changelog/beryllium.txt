@@ -1,0 +1,15 @@
+Device: POCO F1
+Device code name : beryllium
+Device maintainer: Legendleo90
+
+Date - 13/08/2025
+=================
+• Initial Android 16 release
+
+Notes:
+• 4.19 kernel based build
+• System_ext build
+• Use recommended recovery to flash
+• Playstore certified by default and banking apps do work
+• Circle To Search is available
+• Dolby Atmos is included
