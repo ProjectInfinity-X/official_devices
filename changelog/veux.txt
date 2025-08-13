@@ -1,1 +1,9 @@
--Initial release of Infinity X based on Android 16
+• August Security Patch Level
+• Nebula kernel with ksu enabled by default.
+• Gapps Build Only
+• Passes Basic, Device, Strong Integrity OUT-OF-THE-BOX
+• Miui Cam dropped (https://t.me/sdm695buildupdates/405) , Agc cam, Sony Dolby, Viper4Android FX all included.
+• NFC works for all the variants.
+• Use Keybox to pass basic/device/strong integrity.
+• Updated with latest sorce changes.
+• Dirty flash on v3.0 is possible.
