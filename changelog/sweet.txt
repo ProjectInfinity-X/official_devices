@@ -2,6 +2,11 @@ Device: Redmi Note 10 Pro / Pro Max
 Device code name : sweet
 Device maintainer: Musafir1875
 
+Date - 17/08/2025)
+* Added miui camera
+* Switched to Ventom kernel(non-ksu)
+* if you face QS then turn off blur in Settings>Display>Allow window-level blurs
+
 Date - 05/08/2025
 * Added Leica Camera
 * Moved to TobrutExotic Kernel
