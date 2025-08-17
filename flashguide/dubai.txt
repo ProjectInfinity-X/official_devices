@@ -23,3 +23,6 @@ Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/dubai/16
 2. Select Apply Update and Apply Update from ADB
 3. Connect your phone to PC and flash rom with ```adb sideload infinityX.zip```
 4. Reboot to system and enjoy :)
+
+**OTA**
+- Simply upgrade via ota updater (either if pushed or via local update import)

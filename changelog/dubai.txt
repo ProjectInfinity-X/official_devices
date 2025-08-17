@@ -2,6 +2,14 @@ Device: Motorola Edge 30
 Device code name : dubai
 Device maintainer: NotDheeraj06
 
+Date - 17/08/2025
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1453
+- Build Vanilla Variant as well
+- Update KernelSU Next to v1.0.9
+- Strong Integrity by default
+- Update Kernel from latest LineageOS Source
+
 Date - 26/07/2025
 =================
 - Source Changelog: https://t.me/ProjectInfinityX/1401
