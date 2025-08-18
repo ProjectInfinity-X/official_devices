@@ -2,6 +2,18 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 18/08/2025
+=================
+- Implement Leica camera (every functions working on poco / redmi too but need tune it in settings or check my support group for config files!)
+- Implement Mi Galery -with AI!
+- Implement Mi Video
+- parts: added performace / balance / powersave modes back (default is balanced with schedhorizon gov)
+- parts: added governor qs icon - U can change governors easy
+- parts: added performance mode qs icon ( all 3 mode changeable)
+- parts: dirac: more fixments, try it...
+- Modded kernel name for working bank apps
+- Fixxed partition problem with Vanilla build
+
 Date - 10/08/2025
 =================
 - props: modded cam props in settings (200/64MP)
