@@ -2,6 +2,12 @@ Device: Google Pixel 7a
 Device code name : Lynx
 Device maintainer: Pyrtle93
 
+Date - 08/17/2025
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1453
+- Added Google Face Unlock
+- Improvements/cleanups
+
 Date - 07/24/2025
 ===============
 - Highlighted Source Changes (https://t.me/InfinityXGroup/149009)
