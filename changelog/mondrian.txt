@@ -2,7 +2,38 @@ Device: Poco F5 Pro / Redmi K60
 Device code name : mondrian
 Device maintainer: DqrKnz
 
-Source Changelog: https://t.me/ProjectInfinityX/1430
+Source Changelog: https://t.me/ProjectInfinityX/1453
+
+Bugs: In certain applications, when sending a voice, the sound quality may be very poor. Disable voice match from the Google app!
+
+!Please back up your files, as a Clean Flash may be necessary. We apologize for any inconvenience!
+
+Date - 19/08/2025
+=================
+- Use RSA4096 keys for recovery and vbmeta_system
+- Fixing connecting BLE (bt 5.x) devices
+- Added sepolicy for SoterService, IFAAService and MlipayService (Let's hope it works properly now.)
+- Build IFAAService
+- Don't explicitly build 64bit version of modules and audio
+- Migrate to 64-bit only
+- Add missing Sepolicy
+- Import LDAC prebuilts
+- Disable HWC for VDS except wfd.
+- Inherit the common WFD stack (Dada blobs)
+- set permission for audio node
+- audio Start audio rpc daemon early to improve performance
+- Build audio 7.1
+- Introduce Xiaomi Dolby (Dropped Sony Dolby)
+- Set product shipping API level to 33
+- Don't explicitly build libwfdaac_vendor
+- Don't explicitly build android.hardware.wifi.hostapd@1.0.vendor
+- gps: Localise NTP to improve GPS TTFF
+- Dropped unnecessary services in init
+- Nuke ATFWD
+- CONFIG_IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
+
+Kernel:
+- Merge tag 'KERNEL.PLATFORM.1.0.r3-06500-kernel.0'
 
 Date - 01/08/2025
 =================
