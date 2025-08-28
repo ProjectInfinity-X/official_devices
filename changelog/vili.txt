@@ -7,6 +7,20 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 28/08/2025
+=================
+• dolby: Update MotoDolbyDax3.apk [White icon]
+• Move to MiuiCamera
+• Changed Dolby UI
+• vili: Update blobs to V816.0.24.0.UKDEUXM
+• sm8350-common: Update blobs from V816.0.24.0.UKDEUXM
+• Fixed Dolby crash on logs
+• Enabled ac4 on Dolby Atmos for Tidal/Hotstar (Sony supports ac4)
+• Switch to AOSP BT stack
+• Fixed vpn issue
+• Update Bluetooth blobs
+
+
 Date - 09/08/2025
 =================
 • Source upstream
