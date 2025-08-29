@@ -4,9 +4,31 @@ Device maintainer: DqrKnz
 
 Source Changelog: https://t.me/ProjectInfinityX/1453
 
-Bugs: In certain applications, when sending a voice, the sound quality may be very poor. Disable voice match from the Google app!
-
 !Please back up your files, as a Clean Flash may be necessary. We apologize for any inconvenience!
+
+Date - 28/08/2025
+- Microphone fixed!!
+- Upload blobs and firmware to OS2.0.203.0.VMNMIXM
+- Update blobs from diting OS2.0.202.0.VLFMIXM
+- media: Update from diting OS2.0.202.0.VLFMIXM
+- Move libQnnHtpV69Skel to adsp rfsa dir
+- Switch to armv9-a ARCH variant
+- Revert "sm8450-common: overlay: Drop QTI UIM GBA package"
+- Replace writepid with task_profiles command for cgroup migration
+- Remove software OMX blobs
+- overlay: Drop ambient brightening/darkening thresholds
+- overlay: Screen Brightening/Darkening thresholds update
+- overlay: Convert screen brightening thresholds to ints
+- overlay: Fine tune screen brightening thresholds
+- sepolicy: Allow camera hal to write flash_state
+- Run bpfix
+
+Kernel:
+- Merge tag 'KERNEL.PLATFORM.1.0.r3-06600-kernel.0'
+  - msm: ep_pcie: Update two PARF BUS_DISCONNECT register offsets
+  - msm: eva: Fix for kernel address exposure vulnerability to user
+  - sched/walt: Add support for multiple top-app cgroups
+  - kgsl: hwsched: Add support for GMU tracepoints logging
 
 Date - 19/08/2025
 =================
