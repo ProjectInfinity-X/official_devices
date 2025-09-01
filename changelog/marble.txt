@@ -2,6 +2,18 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 01-09-2025
+=================
+* Fixed random reboot issues
+* Resolved video call crashes in apps (e.g., Instagram)
+* Fixed crash when playing Dolby Vision content
+* Migrated to common libqti-perfd-client and power-libperfmgr
+* Adapted powerhint for Marble CPU frequencies
+* Integrated AOSPA Dolby for improved and enhanced sound
+* Unlocked 1000 nits brightness by default; removed HBM tiles
+* Misc Improvements
+* Known Issue: Wi-Fi Display (WFD) is currently non-functional
+
 Date – 10-08-2025
 =================
 * Merged latest upstream source changes
