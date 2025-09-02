@@ -2,6 +2,31 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 02-09-2025
+=================
+* Updated common blobs from Diting OS2.0.202.0.VLFMIXM
+* Updated device blobs and firmware from Marble OS2.0.205.0.VMRMIXM
+* Switched to AOSPA Dolby UI for better experience
+* Upstreamed source to 3.2
+* Improved gaming performance and GPU stability
+* Powerhint configuration updates:
+  - Added balanced sched_busy_hyst_ns value
+  - Included missing launch nodes
+  - Aligned configuration with Marble
+  - Adapted minimum frequency index
+  - Refactored and cleaned up powerhint setup
+* Kernel changes:
+  - mm: Increased vmstat interval to 10 seconds
+  - ANDROID: arm64: Lowered ARCH_DMA_MINALIGN to 64 bytes
+  - include: dcache: Bumped max inline dirent name size
+  - locking: Removed rcu_read_{,un}lock() for preempt_{dis,en}able()
+  - mbcache: Improved cache entry creation speed
+  - msm: kgsl: Used kmem_cache pool for draw objects
+  - msm: kgsl: Avoided waiting for already signaled fences
+  - msm: kgsl: Removed sync fence names
+  - msm: kgsl: Forced GPU idle timeout to 58 ms
+  - media: videobuf2: Synchronized wake for waiting processes
+
 Date - 01-09-2025
 =================
 * Fixed random reboot issues
