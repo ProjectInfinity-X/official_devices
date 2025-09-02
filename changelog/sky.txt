@@ -2,6 +2,19 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 02/09/2025
+=================
+• Synced With Latest Source (https://t.me/ProjectInfinityX/1494)
+• Added Support For LDAC and LHDC in Bluetooth
+• Fixed random app crash for apps like coc
+• Fixed some string issues on dirty flash update ROM zips
+• Build Widevine DRM HAL dependencies
+• Increase CPU Boost duration from 120ms to 200ms
+• Set max network scan search time to 254
+• Show the Preference for Adaptive connectivity
+• Avoid block binder thread on incoming calls
+• Updated Dolby & Misc Optimizations
+
 Date - 17/08/2025
 =================
 • Included Firmware in ROM itself (no need of external fw flash)
