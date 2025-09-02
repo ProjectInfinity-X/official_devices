@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.1-ginkgo-20250808-2129-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/ginkgo/16/gapps/Project_Infinity-X-3.1-ginkgo-20250808-2129-GAPPS-OFFICIAL.zip",
-			"timestamp": 1754688541,
-			"md5": "7f88f79300d620e7b6ebe5a35c073b90",
-			"size": 1931031476,
-			"version": "3.1"
+			"filename": "Project_Infinity-X-3.2-ginkgo-20250902-0844-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/ginkgo/16/gapps/Project_Infinity-X-3.2-ginkgo-20250902-0844-GAPPS-OFFICIAL.zip",
+			"timestamp": 1756802566,
+			"md5": "e7c99f10607f51ff600e3f7e7560beb7",
+			"size": 1948986866,
+			"version": "3.2"
 		}
 	]
 }
