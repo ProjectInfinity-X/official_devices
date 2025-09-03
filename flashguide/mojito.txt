@@ -17,6 +17,7 @@ CLEAN FLASH:
 10. Flash Gapps zip (For Vanilla user who wants flash nikgapps)
 11. Reboot to system
   
+
 DIRTY FLASH:
 
 1. Reboot to PBRP Recovery
@@ -25,4 +26,3 @@ DIRTY FLASH:
 4. Reboot to recovery
 5. Flash Gapps zip (For Vanilla user who wants flash nikgapps)
 6. Reboot to system
-

@@ -3,6 +3,10 @@ Device code name : mojito
 Device maintainer: KALCHAKRA|ROMGHARTI
 ======================================
 
+03/09/2025
+- Included a new interface IFastCharge alongside the existing IChargingControl interface.
+- Minor changes and improvements.
+
 11/8/2025
 - Added support for ViPER4AndroidFX
 - Minor changes and improvements
