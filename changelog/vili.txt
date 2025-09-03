@@ -7,6 +7,10 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 03/09/2025
+=================
+• Increase volume level steps to 30
+
 Date - 28/08/2025
 =================
 • dolby: Update MotoDolbyDax3.apk [White icon]
