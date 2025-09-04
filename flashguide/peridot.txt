@@ -1,5 +1,5 @@
 Device: POCO F6 (peridot)
-Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/peridot/15/recovery.img
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/peridot/16/recovery.img
 
 ---------------- Must be on HyperOS 2 or HyperOS 2 based rom before flashing this ----------------
 
