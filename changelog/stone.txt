@@ -1,0 +1,11 @@
+Date - 04/09/2025
+=================
+- Initial Official Release
+- September Security Patch
+- Clean flash needed from unofficial builds
+- Update blobs from OS2.0.4.0.UMQEUXM
+- Drop QCOM WFD and switch to AOSP WFD to fix wifi display (cast)
+- Replace writepid with task_profiles command for cgroup migration
+- Cleanup post boot script
+- Properly set cpu architecture 
+- Synced with latest sources
