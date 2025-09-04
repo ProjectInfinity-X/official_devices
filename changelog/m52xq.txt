@@ -2,6 +2,15 @@ Device: Samsung Galaxy M52 5G
 Device code name : m52xq
 Device maintainer: tilt-rgb
 
+Date - 04/09/2025
+=================
+- dolby: Update MotoDolbyDax3.apk [White icon]
+- Enabled ac4 on Dolby Atmos for Tidal/Hotstar (Sony supports ac4)
+- Updated Color Modes
+- LiveDisplay AIDL HAL
+- Dropped Samsung FastCharge & Switch to Lineage Health itself
+- Fixed charging info speed
+
 Date - 02/08/2025
 =================
 - Initial Official build for Samsung Galaxy M52 5G
