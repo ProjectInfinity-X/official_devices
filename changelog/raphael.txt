@@ -2,6 +2,18 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 04-09-2025
+=================
+- Fixed KProfile issue
+- Add single tap sensor
+- Bring back 32bit app support
+- Switch to Boolx kernel (no KSU)
+- Drop duplicate genfs_contexts
+- Bring back libperfmgr and powerhint changes
+- Rework on powrhint for efficiency and performance
+- Switch to complete EXT4 partitions for vanilla build
+- Some minor changes
+
 Date - 10-08-2025
 =================
 - Fixed VENDOR_SECURITY_PATCH date
