@@ -1,0 +1,7 @@
+Device: Google Pixel 6
+Device code name : oriole
+Device maintainer: xioyo
+
+Date - 03/09/2025
+=================
+- Initial A16 Official Build
