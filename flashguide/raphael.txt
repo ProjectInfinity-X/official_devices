@@ -2,6 +2,7 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro (raphael / raphaelin)
 Recommended Recovery: https://t.me/Al_Arabis_Cloud/301
 Recommended Firmware: https://t.me/Al_Arabis_Support/82443
 Legacy To Retrofit: https://t.me/Al_Arabis_Cloud/293
+KSU Next supported kernels: Waffle (https://t.me/Al_Arabis_Cloud/326). Boolx (https://t.me/Al_Arabis_Cloud/324)
 
 Flashing Instructions:
 
@@ -9,14 +10,13 @@ Flashing Instructions:
 - Flash Dynamic Recovery
 - Flash LegacyToRetrofit zip
 - Wipe Dalvik, Cache, Data, Metadata
-- Format data
-- Reboot to recovery
 - Flash A11 Firmware of your region (if coming from miui or older android version)
 - Flash ROM.zip
 - Flash Gapps (if vanilla build and want google apps)
-- Change cache and data partitions to F2FS
-- Reboot
-- Enjoy
+- Format Data
+- Change cache and data partitions to F2FS (if there is error just reboot to recovery once)
+- Reboot to system, then go back to recovery and format data again to avoid storage issues in some apps
+- Reboot and Enjoy
 
 * Dirty Flash
 - Wipe Dalvik, Cache
