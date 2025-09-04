@@ -1,4 +1,44 @@
-- No device changelog
-- Source changelog -: https://t.me/ProjectInfinityX/1453
+Device: POCO F6
+Device code name : peridot
+Device maintainer: Atharva Swamy & Shikhar
 
-- Strong integrity passes by default
+Date - 4/09/2025
+=================
+
+- Source changelog -: https://t.me/ProjectInfinityX/1494
+ 
+- Device Changelog
+ 
+* Upstreamed source to 3.2
+* Updated Blobs from OS2.0.202.0.VNPMIXM
+* Dropped QESDK,QSAP blobs
+* Cleaned up perf blobs
+* Dropped Thermal Profiles and Power Tools services
+* Updated GPU drivers to v819.02*
+* Imported LDAC and LHDC prebuilts
+* Powerhint optimizations
+* Improved gaming performance and GPU stability
+* Properties
+  - Enabled usage of dex2oat64
+  - Enabled frame pacing for smoother visual performance
+  - Dropped phase offsets duration props
+  - Cleaned up non-existent properties
+  - Enabled Perf hint window
+* Addressed multiple sepolicy denials
+* Switched default UI rendering to VULKAN
+* Enabled full ART optimizations with VDEX/ODEX
+* Optimized native executables for Cortex-A76 CPU
+* Enabled support for IEEE80211AC
+* Lower swappiness to 60
+* Restricted apps access to /proc/net/unix(Fixes some banking apps detecting root access)
+* IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
+* Dropped MMS user agent overlays
+* Allowed ussd over ims
+* Enabled aggressive DEX/ART optimizations for performance
+* Strong integrity passes by default (Must update playstore to latest version)
+
+Date - 9/08/2025
+=================
+* No device changelog
+* Source changelog -: https://t.me/ProjectInfinityX/1453
+* Strong integrity passes by default
