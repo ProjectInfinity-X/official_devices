@@ -1,3 +1,13 @@
+Date - 5/9/2025
+=================
+- [BUG]Crackling issue still there (But minimal)
+- [BUG]Screen Cast/WFD Dead
+- Increase max volume
+- Increase volume level steps to 30
+- Changed Dolby UI
+- Fixed Dolby crash in logs
+- More minimal dt changes
+
 Date - 11/08/2025
 =================
 - Fixed CN 64MP Cam
