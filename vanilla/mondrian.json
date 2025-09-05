@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.1-mondrian-20250829-0447-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/mondrian/16/vanilla/Project_Infinity-X-3.1-mondrian-20250829-0447-VANILLA-OFFICIAL.zip",
-			"timestamp": 1756442766,
-			"md5": "fc989795efaa1368fdeb377038af630d",
-			"size": 1987207288,
-			"version": "3.1"
+			"filename": "Project_Infinity-X-3.2-mondrian-20250905-0428-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/mondrian/16/vanilla/Project_Infinity-X-3.2-mondrian-20250905-0428-VANILLA-OFFICIAL.zip",
+			"timestamp": 1757046478,
+			"md5": "c4d7b288814ee53ec2aa7961a5764875",
+			"size": 2159764283,
+			"version": "3.2"
 		}
 	]
 }

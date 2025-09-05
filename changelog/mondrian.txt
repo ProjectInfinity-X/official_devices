@@ -2,11 +2,43 @@ Device: Poco F5 Pro / Redmi K60
 Device code name : mondrian
 Device maintainer: DqrKnz
 
-Source Changelog: https://t.me/ProjectInfinityX/1453
+Source Changelog: https://t.me/ProjectInfinityX/1494
 
 !Please back up your files, as a Clean Flash may be necessary. We apologize for any inconvenience!
 
+Date - 05/09/2025
+=================
+- Change Dolby Atmos blobs from Sony
+- Reback Spatial Audio
+- A few props for more fluidity
+
+Kernel:
+- Merge tag 'android12-5.10-lts
+  -BACKPORT: FROMGIT: f2fs: add sysfs entry for effective lookup mode
+  -BACKPORT: FROMGIT: f2fs: add lookup_mode mount option
+  -ANDROID: 16K: Allocate pad vma on the stack
+  -ANDROID: 16K: Don't copy data vma for maps/smaps output
+  -ANDROID: GKI: Update oplus symbol list
+  -ANDROID: vendor_hooks: add hooks in cpu_cgroup subsystem
+  -ANDROID: vendor_hooks: Add hooks in reweight_entity
+  -ANDROID: GKI: Export css_task_iter_start()
+  -UPSTREAM: regulator: core: Fix deadlock in create_regulator()
+  -UPSTREAM: coresight-etm4x: add isb() before reading the TRCSTATR
+  -UPSTREAM: usb: gadget: f_uac2: Fix incorrect setting of bNumEndpoints
+  -UPSTREAM: f2fs: fix to avoid use GC_AT when setting gc_mode as GC_URGENT_LOW or GC_URGENT_MID
+  -UPSTREAM: usb: typec: fix unreleased fwnode_handle in typec_port_register_altmodes()
+  -UPSTREAM: xhci: Mitigate failed set dequeue pointer commands
+  -ANDROID: refresh ABI following type change
+  -UPSTREAM: net/sched: Always pass notifications when child class becomes empty
+  -ANDROID: bpf: do not fail to load if log is full
+  -BACKPORT: Add support for PIO p flag
+
+- Merge tag 'android12-5.10'
+  -UPSTREAM: perf/core: Fix potential NULL deref
+  -UPSTREAM: net/packet: fix a race in packet_set_ring() and packet_notifier()
+
 Date - 28/08/2025
+=================
 - Microphone fixed!!
 - Upload blobs and firmware to OS2.0.203.0.VMNMIXM
 - Update blobs from diting OS2.0.202.0.VLFMIXM
