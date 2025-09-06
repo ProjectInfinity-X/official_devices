@@ -1,0 +1,7 @@
+Device: Nothing CMF Phone 1
+Device code name : tetris
+Device maintainer: schoosh
+
+Date - 06/09/2025
+=================
+- Initial A16 build
