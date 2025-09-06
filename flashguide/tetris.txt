@@ -4,19 +4,20 @@ Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/tetris/1
 **Before start flashing.....**
 - Backup all your internal storage
 - GApps are included, so you don't need to flash them
-- Download latest boot.img, vendor_boot.img, dtbo.img from here
+- Download latest boot.img, vendor_boot.img, dtbo.img, supee_empty.img from here
 - Links-: https://sourceforge.net/projects/infinity-x/files/tetris/16/recovery/
 
 **Clean flash**
 1. Reboot to fastboot
 2. ```fastboot flash dtbo dtbo.img```
 3. ```fastboot flash vendor_boot vendor_boot.img```
-4. ```fastboot flash boot boot.img``` 
-5. Reboot to recovery
-6. Select Factory reset and Format data/factory reset
-7. Select Apply Update and Apply Update from ADB
-8. Now connect your phone to PC and type ```adb sideload InfinityX.zip```
-9. Reboot to system and enjoy :)
+4. ```fastboot flash boot boot.img```
+5. ```fastboot wipe-super super_empty.img```
+6. Reboot to recovery
+7. Select Factory reset and Format data/factory reset
+8. Select Apply Update and Apply Update from ADB
+9. Now connect your phone to PC and type ```adb sideload InfinityX.zip```
+10. Reboot to system and enjoy :)
 
 **Dirty flash** 
 1. Reboot to recovery
