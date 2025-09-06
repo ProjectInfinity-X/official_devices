@@ -2,6 +2,11 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 07/09/2025
+=================
+- Synced with latest source
+- Fixed some minor issues
+
 Date - 02/09/2025
 ================
 - Synced with latest source
