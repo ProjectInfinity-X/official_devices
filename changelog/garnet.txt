@@ -2,6 +2,20 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 07/09/2025
+=================
+- Removed unused blobs from parts (dirac, turbo charging, bypass charging)
+- Update display from ingot UKQ1.240227.165
+- Drop QCOM WFD
+- Update from OS2.0.11.0.VNRMIXM
+- kernel: Merge remote-tracking branch 'upstream/linux-5.10.y' into innovation
+- kernel: Merge tag 'KERNEL.PLATFORM.1.0.r3-06600-kernel.0' into innovation
+- kernel: Merge remote-tracking branch 'common/android12-5.10' into innovation
+- dolby: Switched to OSS UI
+- dolby: Create missing dolby related directory
+- dolby: Patch vendor.dolby.media.c2@1.0-service with libshim_dolby
+- dolby: configs: Enable ac4
+
 Date - 18/08/2025
 =================
 - Implement Leica camera (every functions working on poco / redmi too but need tune it in settings or check my support group for config files!)
