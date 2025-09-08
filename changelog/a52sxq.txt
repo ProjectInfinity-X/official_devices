@@ -4,5 +4,9 @@ Device maintainer: NguyenPhong
 
 Date - 10/08/2025
 =================
-- Update to Project Infinity X to version 3.1
-- Add vanilla version
+- Update to Project Infinity X to version 3.2
+- Add FastCharge
+- Align audio flags with prebuilt hal
+- Ship prebuilt audio hal extensions
+- Migrate to LiveDisplay AIDL
+
