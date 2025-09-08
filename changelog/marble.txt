@@ -2,6 +2,44 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 08/09/2025
+=================
+Android 15 END-OF-LIFE (EOL) OFFICIAL UPDATE
+
+* Updated common blobs from Diting OS2.0.202.0.VLFMIXM
+* Updated device blobs and firmware from Marble OS2.0.205.0.VMRMIXM
+* Switched to AOSPA Dolby for better experience
+* Bring back Dolby Vision Support
+* Fixed high CPU usage while playing Dolby content
+* Fixed lag and jitters in Apps (chrome,x,tg)
+* Switched to common libqti-perfd-client
+* Improved gaming performance and GPU stability
+* Powerhint configuration updates:
+  - Added balanced sched_busy_hyst_ns value
+  - Included missing launch nodes
+  - Aligned configuration with Marble
+  - Adapted minimum frequency index
+  - Refactored and cleaned up powerhint setup
+  - Set duration for INTERACTION CPUBW boost
+  - Add CAMERA LAUNCH & CAMERA SHOT boosts
+  - Add GPU Boost for DISPLAY_UPDATE_IMMINENT
+  - Add ROTATION boost for smoother screen orientation changes
+  - Tune ROTATION hint for efficiency
+  - Tune DEVICE_IDLE to reduce wakeup stutters
+* Kernel changes:
+  - mm: Increased vmstat interval to 10 seconds
+  - ANDROID: arm64: Lowered ARCH_DMA_MINALIGN to 64 bytes
+  - include: dcache: Bumped max inline dirent name size
+  - locking: Removed rcu_read_{,un}lock() for preempt_{dis,en}able()
+  - mbcache: Improved cache entry creation speed
+  - msm: kgsl: Used kmem_cache pool for draw objects
+  - msm: kgsl: Avoided waiting for already signaled fences
+  - msm: kgsl: Removed sync fence names
+  - msm: kgsl: Forced GPU idle timeout to 58 ms
+  - media: videobuf2: Synchronized wake for waiting processes
+
+
+
 Date - 05/07/2025
 =================
 - Update blobs & fingerprint form marble OS2.0.5.0.VMRMIXM
