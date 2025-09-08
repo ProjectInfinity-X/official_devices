@@ -2,6 +2,15 @@ Device: Motorola Edge 30
 Device code name : dubai
 Device maintainer: NotDheeraj06
 
+Date - 
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1494
+- Drop KSU Next support by default
+- Add UDFPS Flag for In-Display FP Animations
+- Switch to AIDL LiveDisplay
+- Drop Viper4XAndroid Support
+- Strong Integrity by default
+
 Date - 17/08/2025
 =================
 - Source Changelog: https://t.me/ProjectInfinityX/1453
