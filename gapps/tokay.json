@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.1-tokay-20250817-1749-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/tokay/16/gapps/Project_Infinity-X-3.1-tokay-20250817-1749-GAPPS-OFFICIAL.zip",
-			"timestamp": 1755452715,
-			"md5": "1623867298aa8a2507168070b1843664",
-			"size": 2900398977,
-			"version": "3.1"
+			"filename": "Project_Infinity-X-3.2-tokay-20250908-2234-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/tokay/16/gapps/Project_Infinity-X-3.2-tokay-20250908-2234-GAPPS-OFFICIAL.zip",
+			"timestamp": 1757370589,
+			"md5": "f3f492dd2122cfff7517c2c1246bd53e",
+			"size": 3017590200,
+			"version": "3.2"
 		}
 	]
 }

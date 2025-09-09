@@ -2,6 +2,12 @@ Device: Google Pixel 7
 Device code name : Panther
 Device maintainer: Pyrtle93
 
+Date - 09/08/2025
+=================
+- Synced with 3.2 source
+- Updated prebuilt kernel
+- Various improvments/cleanups
+
 Date - 08/17/2025
 =================
 - Source Changelog: https://t.me/ProjectInfinityX/1453

@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.1-caiman-20250817-1627-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/caiman/16/gapps/Project_Infinity-X-3.1-caiman-20250817-1627-GAPPS-OFFICIAL.zip",
-			"timestamp": 1755447797,
-			"md5": "d310dae804e0a03f59a7231f95128cf5",
-			"size": 2906991160,
-			"version": "3.1"
+			"filename": "Project_Infinity-X-3.2-caiman-20250908-2147-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/caiman/16/gapps/Project_Infinity-X-3.2-caiman-20250908-2147-GAPPS-OFFICIAL.zip",
+			"timestamp": 1757367798,
+			"md5": "f6b571ee15605fdc1c3628c52d86b718",
+			"size": 3024473239,
+			"version": "3.2"
 		}
 	]
 }
