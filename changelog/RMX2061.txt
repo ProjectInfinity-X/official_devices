@@ -1,0 +1,8 @@
+Device: Realme 6 Pro
+Device code name : RMX2061
+Device maintainer: aminfauzi
+
+Date - 10-09-2025
+=================
+* Initial A16 build
+* Based on Kernel LTS 4.14.341

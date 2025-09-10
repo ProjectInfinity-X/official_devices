@@ -1,0 +1,20 @@
+Device: Realme 6 Pro (RMX2061)
+Recommended Recovery: https://drive.google.com/drive/folders/17VSXzItksOBFesknaKp0O-ixuMO5F2af
+
+Flashing Instructions:
+
+* CLEAN FLASH:
+- Clear data, metdata, dalvik-cache, cache 
+- Flash ROM.zip
+- Flash GAPPS ( If you are flashing Vanilla Build - Recommended MindTheGapps)
+- Format Data
+- Reboot System
+
+* DIRTY FLASH:
+- Flash ROM.zip
+- Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
+
+Happy Flashing!!!!
