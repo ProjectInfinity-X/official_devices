@@ -2,6 +2,17 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 11/09/2025
+=================
+- Update blobs and firmware from OS2.0.202.0.VLFMIXM
+- Screen density to 440
+- sepolicy: Allow camera hal to write flash_state
+- properties: Allow more cached apps in the background
+- Silence Codec2 spammy logs
+- Inherit the common WFD stack
+- Back to the LineageOS kernel
+- IFAAService: Simplify startBIOManager function
+
 Date - 12/08/2025
 =================
 - Update blobs and firmware from OS2.0.4.0.VLFMIXM
