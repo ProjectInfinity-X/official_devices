@@ -4,6 +4,7 @@ Device maintainer: H A R I S H
 
 Date - 09/13/2025
 =================
+• [HOT FIX]Add back Dolby
 • [VOIP]Fix call audio not working in apps like whatsapp and telegram
 • Update Oplus charger AIDL
 • Fix Alertslider default values being inverted
