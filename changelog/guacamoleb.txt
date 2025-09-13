@@ -2,10 +2,14 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 08/10/2025
+Date - 09/13/2025
 =================
-• Fix alarm & notification sound not playing while using bluetooth earphones
-• Revert NFC changes [WIP fix for NFC crash]
-• Fix device over heating with mundane tasks
-• Improve screen-off-FOD [Wheen turned ON Ambient display stays on for 3-4sec before turning off screen]
-• Note: Clean Flash recommended from V3.0.
+• [VOIP]Fix call audio not working in apps like whatsapp and telegram
+• Update Oplus charger AIDL
+• Fix Alertslider default values being inverted
+• Improve Alertslider handling code and major cleanup from YAAP
+• Improved frame update responsiveness and display performance by adjusting frame timing, reducing stuttering in games
+• Enabled composition caching for better UI performance and lower power consumption [Tested on 8gb and above Ram devices, feedback needed from 6gb Ram devices]
+• Improved Bluetooth connectivity for multiple simultaneous BLE devices
+• Misc. Improvements and fixes.....
+Note: Clean Flash recommended from V3.1
