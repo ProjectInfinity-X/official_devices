@@ -2,6 +2,11 @@ Device: OnePlus Nord
 Device codename : avicii
 Device maintainer: Sreeshankar K
 
+Date - 13/09/2025
+=================
+- Project Infinity X v3.2 Update with September security patch
+- Switch to non-rooted variant of NeverSettle Kernel
+
 Date - 09/08/2025
 =================
 - Sync with latest Project Infinity X v3.1 source
