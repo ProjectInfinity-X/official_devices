@@ -1,0 +1,31 @@
+How to Flash Recovery and ROM (Project Infinity X) on Exynos9820 devices
+
+Recommended Recovery: Infinity X recovery. Can be found [HERE](https://drive.google.com/drive/folders/11NNUxnmovsqIEF1axlK9dD1i4hiqaid2)
+
+1.Power off your device.
+
+2.Simultaneously press and hold Volume Up + Bixby + Power until recovery appears.
+
+3.In recovery, go to Advanced > Enter fastbootd.
+
+4.Connect device via USB and run:
+
+fastboot flash recovery recovery.img
+
+5.Reboot to recovery, then in recovery select Apply update > Apply from ADB > ADB sideload
+
+Flashing Instructions:
+Clean Flash
+Tap Factory reset > Format data/factory reset > Format data
+Format cache partition
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+Reboot
+
+Dirty Flash
+Tap Factory reset > Format data/factory reset > Format cache partition
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+
+Reboot
+
+OTA Update
+Simply upgrade via OTA updater (push or local update import)

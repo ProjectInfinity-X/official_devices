@@ -1,0 +1,9 @@
+Device: Samsung Galaxy F62
+Device code name : f62
+Device maintainer: FrEeRuNnEr4EvEr
+
+Device Changelog 09/13/2025
+- Reverted back to stock AOSP kernel
+
+
+* Gapps build and vanilla
