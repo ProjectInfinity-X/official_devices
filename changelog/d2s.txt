@@ -1,0 +1,9 @@
+Device: Samsung Galaxy Note 10+
+Device code name : d2s
+Device maintainer: FrEeRuNnEr4EvEr
+
+Device Changelog 09/13/2025
+- Reverted back to stock AOSP kernel
+
+
+* Gapps build and vanilla
