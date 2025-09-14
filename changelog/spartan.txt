@@ -3,3 +3,10 @@ Device maintainer: Abhix202 & Amruth
 
 23/7/2025
 - Initial Android 16 release
+
+14/9/2025
+- Reuse camera configs from old tree
+- Explicitly disable Enable GL comp
+- Update FPS props from dump
+- Encrypted by default
+- Oplus cam and dolby included
