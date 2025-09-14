@@ -1,12 +1,12 @@
-    {
-    	"response": [
-    		{
-    			"filename": "Project_Infinity-X-3.0-spartan-20250722-0503-GAPPS-OFFICIAL.zip",
-    			"download": "https://sourceforge.net/projects/infinity-x/files/spartan/16/gapps/Project_Infinity-X-3.0-spartan-20250722-0503-GAPPS-OFFICIAL.zip",
-    			"timestamp": 1753160120,
-    			"md5": "e6f0ddb6b07e901437c1ebb3ea2faa87",
-    			"size": 2449819237,
-    			"version": "3.0"
-    		}
-    	]
-    }
+{
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.2-spartan-20250914-0717-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/spartan/16/gapps/Project_Infinity-X-3.2-spartan-20250914-0717-GAPPS-OFFICIAL.zip",
+			"timestamp": 1757834097,
+			"md5": "ee0483fdf2ae10730d654582a8f7cb7b",
+			"size": 2578413159,
+			"version": "3.2"
+		}
+	]
+}
