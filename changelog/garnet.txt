@@ -2,6 +2,11 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 14/09/2025
+=================
+- Upstreamed kernel to 5.10.244
+- Fixxed TurboCharging
+
 Date - 07/09/2025
 =================
 - Removed unused blobs from parts (dirac, turbo charging, bypass charging)
