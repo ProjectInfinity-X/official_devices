@@ -1,0 +1,16 @@
+Device: Poco F3 | Mi 11x | K40
+Device code name : alioth
+Device maintainer: zenzer0s
+======================================
+
+
+Date - 16/09/2025
+=================
+- Initial Android 16 Official Build 
+- Project Infinity X v3.2 Update with September security patch
+- All Changes From My Previous Unoffcial Builds Applies 
+
+
+Notes :
+- Includes c2 Sony Dolby And Leica Cam
+- No kernelSU
