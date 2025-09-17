@@ -1,6 +1,17 @@
 Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
+Date - 17-09-2025
+================
+* Drop unused QTI VM manager blobs, rom boots faster
+* Switched to Strix Kernel, thnx to @known_name123 fiqri.
+* Strix Kernel version 5.10.244.
+* [OPT] refined interaction boosts for smoother UI.
+* [FIXUP] Unnecessary cpu/gpu goes aggressive on touch, cause unnecessary heat/drain issue.
+* Added some sepolicy/fixes related to alipay payment app freezes/problems.
+* Fixed selinux denial of WeChat fingerprint payment.
+* [STABILITY] Improved the thermal profiles.
+* [PERF] Refined boosts for the better gaming/performance.
 
 Date - 02-09-2025
 =================
