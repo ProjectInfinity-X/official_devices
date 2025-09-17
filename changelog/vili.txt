@@ -7,6 +7,10 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 17/09/2025
+=================
+• Thermals Updated (Phase 3 & 4)
+
 Date - 03/09/2025
 =================
 • Increase volume level steps to 30
