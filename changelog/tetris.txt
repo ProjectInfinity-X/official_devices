@@ -2,6 +2,13 @@ Device: Nothing CMF Phone 1
 Device code name : tetris
 Device maintainer: schoosh
 
+Date - 19/09/2025
+================
+* Fix oversaturated colours by setting colour saturation prop
+* Sed HWC to match AOSP UDFPS Dimlayer
+* Stop writing to HBM nodes directly as the goodix blobs did it
+* Shim hwcomposer with libprocessgroup_shim 
+
 Date - 06/09/2025
 =================
 - Initial A16 build
