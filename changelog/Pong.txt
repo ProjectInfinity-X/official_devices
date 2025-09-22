@@ -2,6 +2,17 @@ Device: Nothing Phone 2
 Device code name : Pong
 Device maintainer: GHOST
 
+Date - 22/09/2025
+=================
+- Initial a16 vanilla build
+- Update from NOS V3.2-250828-1921
+- Downgrade to ARMv8.2-A.
+- Use simulated shell temps for getting battery temp
+- Set default pin amount for home app
+- Enable hardware rounded corner feature
+- Make haptics a bit tighter
+- Enable AIDL fastboot HAL
+
 Date - 10/08/2025
 =================
 - Switch to kryo300
