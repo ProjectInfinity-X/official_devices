@@ -7,6 +7,11 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 23/09/2025
+=================
+• Declare 6ghz wifi support
+• CONFIG_IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
+
 Date - 17/09/2025
 =================
 • Thermals Updated (Phase 3 & 4)
