@@ -2,6 +2,25 @@ Device: Realme 9 SE 5G
 Device code name : ice
 Device maintainer: Debarpan102
 
+Date - 23/09/2025
+===============
+• Merged Latest source changes
+• Updated IMS blobs to LA.QSSI.15.0.r1-16100-qssi.0
+• Update alarm component to LA.QSSI.16.0.r1-06700-qssi.0
+• Update WFD (system) blobs to LA.QSSI.16.0.r1-06700-qssi.0
+• Ship Horae Service 
+• Ship Prebuilt Charger Libs
+• Upstreamed kernel to 5.4.296
+• Update Oplus drivers (kernel) to latest ziti release
+• Dropped Unused packages
+• Switch to AIDL livedisplay HAL
+• Disable Burn-in Display
+• Rework StatusBar Padding
+
+Known Issue: Dt2w not working (Double tap to wake)
+
+<<<Dirty Flash From Previous Build Possible>>>
+
 Date - 24/07/2025
 ===============
 • Highlighted Source Changes (https://t.me/InfinityXGroup/149009)
