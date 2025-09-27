@@ -1,3 +1,3 @@
-- Source changelog -: https://t.me/ProjectInfinityX/1494
-
-- Strong integrity passes by default (Must update playstore to latest version)
+- Final release
+- Fixed the incorrect mixed display of Turkish and Spanish language at some instances of Settings app after v3.2
+- Fixed issues with Launcher recents panel while app switching or multi-tasking the apps that were getting blank or reaching at home screen.
