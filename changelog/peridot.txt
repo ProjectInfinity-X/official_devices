@@ -2,6 +2,20 @@ Device: POCO F6
 Device code name : peridot
 Device maintainer: Atharva Swamy & Shikhar
 
+Date - 29/09/2025
+=================
+- Source changelog -: https://t.me/ProjectInfinityX/1494
+ 
+- Device Changelog
+
+* Updated to latest source
+* Updated blobs from peridot OS2.0.204.0.VNPMIXM - peridot_global-ota_full-OS2.0.204.0.VNPMIXM
+* Fixed Dolby audio not working in some cases
+* Fixed auido for fs19xx driver
+* Fixed Auto Brightness not working
+* Enabled single_tap sensor
+* Parts such as HBM/GAMEBAR/TURBO-CHARGING/DISPLAY-SATURATION are dropped for this build
+
 Date - 4/09/2025
 =================
 
