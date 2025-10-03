@@ -1,12 +1,21 @@
-Device: POCO F1
+Device: Pocophone F1
 Device code name : beryllium
-Device maintainer: Legendleo90
+Device maintainer: NotDheeraj06
+
+Date - 03/10/2025
+=================
+• Update Maintainer
+• Shift Back to 4.9 kernel
+• System_ext build, so use proper recommended recovery
+• Revert "props: Use Vulkan for HWUI rendering"
+• Update Adreno Blobs from LA.UM.9.3.r1-02700-sdm845.0
+• Misc Improvements
+• Dolby included
+• Device Certified by default
 
 Date - 13/08/2025
 =================
 • Initial Android 16 release
-
-Notes:
 • 4.19 kernel based build
 • System_ext build
 • Use recommended recovery to flash

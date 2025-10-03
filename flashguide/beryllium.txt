@@ -1,19 +1,20 @@
-Device: POCO F1
-Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/beryllium/16/recovery/recovery.img/download
+Device: Pocophone F1
+Recommended Recovery: https://www.pling.com/p/2117593/
 
 Flashing Instructions:
 
 * Clean Flash:
-- Wipe Cache, Data
-- Flash/Sideload Firmware
-- Flash/Sideload ROM.zip
+- Wipe Dalvik, Cache, Vendor, System, Data
+- Flash Firmware
+- Flash ROM.zip
 - Format data
 - Reboot
 
 * Dirty Flash:
-- Wipe Cache
-- Flash/Sideload ROM.zip
-- Flash/Sideload dfe (only if decrypted before)
+- Reboot to recovery
+- Flash ROM.zip
+- Wipe Cache, Dalvik
+- Flash dfe (only if decrypted before)
 - Reboot
 
 * OTA:
