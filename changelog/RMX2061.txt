@@ -2,6 +2,19 @@ Device: Realme 6 Pro
 Device code name : RMX2061
 Device maintainer: aminfauzi
 
+Date - 07-10-2025
+=================
+* Fix 3-button navigation layout spacing
+* Fix USB adb debugging cause screen freeze and reboot
+* Change Dolby Atmos sound enhancement to Moto Dolby UI
+* Clean-up & tuning for post-boot scripts.
+* Switched to dot product CPU variant for performance boost.
+* Added Bypass Charging ( working auto and manually ).
+* Modification on realmelabs (known as Realme Parts).
+* Zram support up to 4GB now.
+* Improve FPS. more stable now.
+* Some tuning on kernel source.
+
 Date - 10-09-2025
 =================
 * Initial A16 build
