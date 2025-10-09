@@ -2,6 +2,12 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 10/10/2025
+=================
+- When BT is connected events like alarm and calls don't play at all on speakers or buds just vibrates is Fixed
+- Updated Wifi Blobs
+- And Misc
+
 Date - 02/09/2025
 =================
 • Synced With Latest Source (https://t.me/ProjectInfinityX/1494)
