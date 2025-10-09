@@ -2,6 +2,15 @@ Device: Realme 6 Pro
 Device code name : RMX2061
 Device maintainer: aminfauzi
 
+Date - 09-10-2025
+=================
+* Fix dummy virtual lens for Aperture camera. No broken lens button.
+* Removed fingerprint scanner location indicator. Wrong location.
+* Improved EIS for camera. apply for 1080HD video.
+* Set dot product to CPU variant.
+* Set proper height for statusbar on lockscreen.
+* Change RealmePart to realme Lab.
+
 Date - 07-10-2025
 =================
 * Fix 3-button navigation layout spacing
