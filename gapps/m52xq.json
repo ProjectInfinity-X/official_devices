@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.2-m52xq-20250904-0955-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/m52xq/16/gapps/Project_Infinity-X-3.2-m52xq-20250904-0955-GAPPS-OFFICIAL.zip",
-			"timestamp": 1756979694,
-			"md5": "ff2d85d691a0c77ef2c8891ce5862f0f",
-			"size": 2308184413,
-			"version": "3.2"
+			"filename": "Project_Infinity-X-3.3-m52xq-20251009-2203-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/m52xq/16/gapps/Project_Infinity-X-3.3-m52xq-20251009-2203-GAPPS-OFFICIAL.zip",
+			"timestamp": 1760047288,
+			"md5": "0b13816ca830642a3d25b6e7462bd64a",
+			"size": 2173598067,
+			"version": "3.3"
 		}
 	]
 }
