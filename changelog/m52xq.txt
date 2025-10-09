@@ -2,6 +2,11 @@ Device: Samsung Galaxy M52 5G
 Device code name : m52xq
 Device maintainer: tilt-rgb
 
+Date - 09/10/2025
+=================
+- Introduce display saturation controller
+- Fixed VOIP Calling
+
 Date - 04/09/2025
 =================
 - dolby: Update MotoDolbyDax3.apk [White icon]
