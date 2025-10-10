@@ -1,3 +1,18 @@
+Device: Redmi Note 15 5G / Poco X5 5G
+Device code name : stone
+Device maintainer: Mayuresh
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/stone/16/infinity_stone-boot.img/download
+
+Date - 10/10/2025
+=================
+- October Security Patch
+- Clean Flash is HIGHLY RECOMMENDED due to source rebase
+- Import dirac from old tree (thanks kami for original impl)
+- Switch to global blobs and Update from OS2.0.4.0.UMQMIXM
+- Fix SMS not getting sent in some cases unless you reboot
+- Reduce boost duration to 1.5s
+- Synced with latest sources
+
 Date - 04/09/2025
 =================
 - Initial Official Release

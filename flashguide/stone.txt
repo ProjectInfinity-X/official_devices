@@ -4,7 +4,7 @@ Infinity-X for Redmi Note 12 5G / POCO X5 (stone)
 - Backup all important data to an external source. This process will erase your internal storage.
 - A clean flash is mandatory if you're switching from another ROM.
 - You must be on the latest firmware available for your device and region. Flash it manually if needed before proceeding.
-- Recommended recovery: AOSP recovery (Get from here: https://sourceforge.net/projects/infinity-x/files/stone/16/boot.img/download).
+- Recommended recovery: AOSP recovery (Get from here: https://sourceforge.net/projects/infinity-x/files/stone/16/infinity_stone-boot.img/download).
 
 *Clean Flash (Recommended for First-Time Install)
 1. Boot into Fastboot mode
