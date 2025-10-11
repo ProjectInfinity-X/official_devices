@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.2-haydn-20250905-0629-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/haydn/16/vanilla/Project_Infinity-X-3.2-haydn-20250905-0629-VANILLA-OFFICIAL.zip",
-			"timestamp": 1757053609,
-			"md5": "c9ac7e9fd080dc24bc0b57198745babb",
-			"size": 2107818015,
-			"version": "3.2"
+			"filename": "Project_Infinity-X-3.3-haydn-20251011-1818-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/haydn/16/vanilla/Project_Infinity-X-3.3-haydn-20251011-1818-VANILLA-OFFICIAL.zip",
+			"timestamp": 1760206639,
+			"md5": "827fd351b664a13f9ebb9ca18daa2bf9",
+			"size": 2122882902,
+			"version": "3.3"
 		}
 	]
 }

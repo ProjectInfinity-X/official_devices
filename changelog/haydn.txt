@@ -1,3 +1,9 @@
+Date - 12/10/2025
+=================
+- Crackling issue resolved
+- Kernel Upstreamed to 5.4.300
+- October Security Patch
+
 Date - 5/9/2025
 =================
 - [BUG]Crackling issue still there (But minimal)
