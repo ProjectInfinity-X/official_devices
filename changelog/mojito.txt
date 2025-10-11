@@ -3,6 +3,11 @@ Device code name : mojito
 Device maintainer: KALCHAKRA|ROMGHARTI
 ======================================
 
+11/10/2025
+- Add vendor prefix to sysfs_battery_supply
+- Update kernel config to meet VINTF
+- Minor changes and improvements.
+
 03/09/2025
 - Included a new interface IFastCharge alongside the existing IChargingControl interface.
 - Minor changes and improvements.
