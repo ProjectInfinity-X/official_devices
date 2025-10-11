@@ -2,7 +2,20 @@ Device: Motorola Edge 30
 Device code name : dubai
 Device maintainer: NotDheeraj06
 
-Date - 
+Date - 11/10/2025
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1503
+- Fix Adaptive Refresh Rate
+- Merge Latest Kernel Changes from LineageOS
+- Localise NTP to improve GPS TTFF
+- Extend audio offload buffer size to 256kb
+- Disable vendor.audio.feature.kpi_optimize.enable
+- Enable frame rate override feature
+- Drop force double frame buffers
+- Switch to AIDL NFC ST HAL
+- Strong Integrity by default
+
+Date - 08/09/2025
 =================
 - Source Changelog: https://t.me/ProjectInfinityX/1494
 - Drop KSU Next support by default
