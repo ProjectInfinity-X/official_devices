@@ -1,0 +1,60 @@
+Device: OnePlus Ace 3 Pro (corvette)
+super_empty image:https://pixeldrain.com/u/hzRTmvwE
+
+Flashing Instructions:
+
+--- MUST BE ON ColorOS 15 or using ColorOS 15 Firmware's ROM before flashing this ---
+
+* Clean Flash:
+1. Extract these images from payload.bin
+(boot init_boot vendor_boot recovery)
+
+2. Reboot to bootloader
+
+3. Flash boot, init_boot, vendor_boot and recovery like the example command
+fastboot flash vendor_boot vendor_boot.img  
+
+4. Press the volume key and power key to enter recovery
+
+5. In recovery mode, navigate to Factory reset -> Format data/factory reset and confirm to format the device.
+
+6. After formatting, return to the main menu and navigate to Apply update -> Apply from ADB.
+
+7. Sideload the ROM:
+adb sideload crDroid.zip 
+
+8. Go back to main menu and reboot to system
+
+* FAQ of Clean Flash
+• If you got Error applying update: 7(ErrorCode::kInstallDeviceOpenError), you can follow these steps
+
+1. Reboot to bootloader
+
+2. Flash super_empty
+fastboot wipe-super super_empty.img
+
+3. Press the volume key and power key to enter recovery
+
+4. In recovery mode, navigate to Apply update -> Apply from ADB.
+
+5. Sideload the ROM:
+adb sideload crDroid.zip
+
+6. Reboot to Recovery mode and sideload the ROM again
+
+7. In recovery mode, navigate to Factory reset -> Format data/factory reset and confirm to format the device.
+
+8. Reboot and Enjoy
+
+* Dirty Flash:
+1. Reboot to recovery
+
+2. Choose Apply update -> adb sideload
+
+3. Sideload the ROM:
+adb sideload rom.zip
+
+4. Reboot
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
