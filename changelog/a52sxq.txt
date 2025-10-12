@@ -4,9 +4,13 @@ Device maintainer: NguyenPhong
 
 Date - 10/08/2025
 =================
-- Update to Project Infinity X to version 3.2
-- Add FastCharge
-- Align audio flags with prebuilt hal
-- Ship prebuilt audio hal extensions
-- Migrate to LiveDisplay AIDL
-
+- Update to Project Infinity X to version 3.3
+- Update build to version 11.2.1
+- Move GameBar to system settings and add Icon as well
+- GameBar: Introduce Ram temp and Ram clock speed overlay
+- Refactor per app GameBar
+- Revamp per-app config UI with search and new layout
+- Add per-app refresh rate functionality
+- Introduce Display Satutaion Service and TileUtils
+- Adjust carrier text margin
+- Increase keyguard indication above fingerprint
