@@ -1,0 +1,8 @@
+Device: OnePlus Ace 3 Pro
+Device code name : corvette
+Device maintainer: SakuraKyuo
+
+Date - 12-10-2025
+=================
+* Project Infinity X v3.3 release
+* October Security Patch
