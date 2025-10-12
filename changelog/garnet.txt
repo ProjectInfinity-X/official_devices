@@ -2,6 +2,33 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 12/10/2025
+=================
+-overlay: Improve auto brightness
+-wifi: Smarter decisions on whether to use a 2 or 5Ghz AP
+-props: Enable persist.rcs.supported
+-Label more sysfs wakeup nodes
+-Silence minksocket error logs
+-prepare for Dolby Vision A16
+-sepolicy: Add sepolicy to compat ignore list
+-sepolicy: Allow system_suspend to read sysfs_wakeup files
+-sepolicy: Add missing wakeup genfscon rule for I2C device at a80000.i2c/i2c-3/3-0028
+-Import missing permission for QCC app
+-Declare WiFi Aware support to WiFi HAL
+-udfps: Workaround onFingerDown() race
+-Use prebuilt android.hardware.audio.common 7.0 util
+-Update from OS2.0.202.0.VNRMIXM
+-Update from OS2.0.202.0.VNRMIXM
+-Disable LSM audio feature
+-Import missing permission for QCC app
+-Use prebuilt android.hardware.audio.common 7.0 util
+-Update from OS2.0.202.0.VNRMIXM
+-Tune Adreno Gpu Driver and bump Vulkan version to 1.3
+-Update Adreno Gpu Driver v819.0.3
+-Drop c2
+-kernel: fs: Checkout SusFS 1.5.10
+-kernel: drivers: Update KernelSU-Next 1.1.1
+
 Date - 14/09/2025
 =================
 - Upstreamed kernel to 5.10.244

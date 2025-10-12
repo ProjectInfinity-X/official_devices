@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.2-garnet-20250914-1206-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/garnet/16/vanilla/Project_Infinity-X-3.2-garnet-20250914-1206-VANILLA-OFFICIAL.zip",
-			"timestamp": 1757851110,
-			"md5": "893f05cca05a1527ec0b5eb084945fbc",
-			"size": 2169906552,
-			"version": "3.2"
+			"filename": "Project_Infinity-X-3.3-garnet-20251012-1123-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/garnet/16/vanilla/Project_Infinity-X-3.3-garnet-20251012-1123-VANILLA-OFFICIAL.zip",
+			"timestamp": 1760267532,
+			"md5": "1b078c48d77944da8996cb3081769cb8",
+			"size": 2200868903,
+			"version": "3.3"
 		}
 	]
 }
