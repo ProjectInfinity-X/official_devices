@@ -1,33 +1,10 @@
-- Merged October 2025 Security CVEs (Level 1)
-- Add system-wide translations for 25+ more languages
-- Fix fingerprint getting bugged on creating cloned apps / multi-user / private space
-- Fix QS Panel getting occasionally blank on landscape when split shade enabled
-- Fix Glitchy QS tile popup window closing misplaced animation
-- Allow changing QS Panel columns and rows
-- Fix QS Panel janks while media playing
-- Add QS Tiles shape feature
-- Fix white statusbar icons on light mode causing visibility issues on qs panel
-- Add wallpaper blur styles feature
-- Fix pulse visualizer not working when lockscreen media art enabled
-- Re-design lockscreen pulse visualizer feature
-- Add long press / double tap actions on 3-button navigation
-- Add 3 button navigation layout settings
-- Add customization to adjust navigation bar length/radius
-- Add feature to enable taskbar
-- Add bottom corner swipe up actions
-- Rebased complete recovery.img (fix issues with ota or kernel flashing etc)
-- Fix issues with always on display (occasional blacking or stuff)
-- Introduce more AOD Fearures and customisations
-- Add FPS Info tile
-- Separate double tap to sleep for statusbar and lockscreen
-- Fix few missing tile icons on qs
-- Categorize each tile on relevant category
-- Add source side fixes for QCOM WFD to work
-- Add sensor block feature for apps
-- Allow disabling clipboard overlay
-- Add blink flashlight on incoming call feature
-- Add ambient music ticker feature
-- Allow force dark mode for unsupported apps
-- Add smart pixels tile
-- Update gapps packages to latest and also remove unwanted gapps
-- Fix app drawer search bar color camouflage with appdrawer color
+- Removed duplicate display cutout settings
+- Add notchbarkiller to display cutout options
+- Fix last recent app launching instead of home screen after few minutes of inactivity 
+- Restore chip layout for launcher recent buttons
+- Make calendar and clock app icon on launcher app drawer realtime updated
+- Add more grid options in launcher
+- Fix appdrawer searchbar color on light mode
+- Add recents/appdrawer blur customisation to launcher
+- Lmofreeform additions/fixes
+- Fix issues with transparent notification style & Introduce transparent notification style separately for lockscreen
