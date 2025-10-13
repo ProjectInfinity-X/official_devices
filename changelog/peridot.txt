@@ -2,6 +2,21 @@ Device: POCO F6
 Device code name : peridot
 Device maintainer: Atharva Swamy & Shikhar
 
+Date - 13/10/2025
+=================
+- Source changelog -: https://t.me/InfinityXGroup/1/185610
+ 
+- Device Changelog
+
+* Updated to latest source
+* Addressed sepolicy denials
+* Fixed screen flickering/dim in some cases
+* Silenced some log spam messages
+* Tuned Powerhal for better efficiency and smoothness
+* Configured uclamp values
+* Added PowerProfiles(Quick settings tile)
+* Brought back GameBar/Display Saturation/Refresh rate controls
+
 Date - 29/09/2025
 =================
 - Source changelog -: https://t.me/ProjectInfinityX/1494
