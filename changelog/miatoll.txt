@@ -1,6 +1,17 @@
 Device: Redmi note 9s/pro/pro max/10 lite/poco m2 pro
 Device code name : miatoll
-Device maintainer: AFIF x RainZ
+Device maintainer: AFIF
+
+Date - 14/10/2025
+=================
+- Synced With Latest Source
+- Inclide Miuicamera
+- Include Sony Dolby
+- Switch to AIDL LiveDisplay HAL
+- Enable config_avoidGfxAccel
+- Enable APK fs-verity Prop
+- Remove FM Tuner from audio input devices
+- Set config_wallpaperMaxScale to 1
 
 Date - 09/08/2025
 =================
