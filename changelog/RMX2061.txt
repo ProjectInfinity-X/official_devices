@@ -2,6 +2,19 @@ Device: Realme 6 Pro
 Device code name : RMX2061
 Device maintainer: aminfauzi
 
+Date - 14-10-2025
+=================
+* Removed duplicate display cutout settings.
+* Add notchbarkiller to display cutout options.
+* Fix last recent app launching instead of home screen after few minutes of inactivity.
+* Restore chip layout for launcher recent buttons.
+* Make calendar and clock app icon on launcher app drawer realtime updated.
+* Add more grid options in launcher.
+* Fix appdrawer searchbar color on light mode.
+* Add recents/appdrawer blur customisation to launcher.
+* Lmofreeform additions/fixes.
+* Fix issues with transparent notification style & Introduce transparent notification style separately for lockscreen.
+
 Date - 09-10-2025
 =================
 * Fix dummy virtual lens for Aperture camera. No broken lens button.
