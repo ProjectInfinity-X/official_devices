@@ -1,6 +1,20 @@
 Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
+
+Date - 14-10-2025
+=================
+* Powerhint: Adjust hints for improved performance and battery efficiency
+* AutoBrightness: Improve brightness handling for light theme in low ambient conditions
+* Fixed WFD
+* Fix blank AOD display issue
+* Upstream kernel to 5.10.240
+* Audio: Fix mic issue with Voice Match by enabling get_module_version
+* Bluetooth: Fix connection issue with certain smartwatches
+* Enabled Turn on display before resuming AOD
+* Enabled Bluetooth LE Audio
+* Misc improvements
+
 Date - 17-09-2025
 ================
 * Drop unused QTI VM manager blobs, rom boots faster
