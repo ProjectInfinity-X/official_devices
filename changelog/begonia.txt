@@ -2,6 +2,19 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 15/10/2025
+=================
+• Synced with latest 3.3 source
+• Based on October security patch
+• Fixed 30fps Video Recording issue in MIUI Camera
+• Switch to AIDL bluetooth service
+• Fixed WPA3 Hotspot loading issues
+• Enabled UFFD GC Support (Memory management related)
+• Switch to NCM USB tethering
+• Disabled Blur
+• Added FM Radio
+• Included latest PoWeR kernel
+
 Date - 10/08/2025
 =================
 • Initial A16 build
