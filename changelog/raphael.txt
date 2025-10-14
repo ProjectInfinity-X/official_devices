@@ -2,6 +2,25 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 15-10-2025
+=================
+- Fixed NFC config copy location
+- Switch to Waffle kernel
+- Removed duplicate genfs_contexts
+- Improved brightness behavior
+- Implement Torchlight control
+- Torchlight control: Set safe values
+- Drop legacy ANT remnants
+- Remove deprecated config_mobile_tcp_buffers/networkAttributes
+- Drop depricated lunaris cpu flags
+- Add webview pinning and set convenient value
+- Set default pin amount for home app
+- Drop obsolete HBM codes
+- Allow camera ID 2 for Aperture
+- Enable support for kernel idle timer
+- Set surface flinger min uclamp to ~20% and max to ~100%
+- Switch to EROFS partition for Gapps build
+
 Date - 04-09-2025
 =================
 - Fixed KProfile issue
