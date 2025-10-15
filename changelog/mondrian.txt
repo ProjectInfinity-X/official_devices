@@ -2,9 +2,24 @@ Device: Poco F5 Pro / Redmi K60
 Device code name : mondrian
 Device maintainer: DqrKnz
 
-Source Changelog: https://t.me/ProjectInfinityX/1494
+Source Changelog: https://t.me/ProjectInfinityX/1568
 
-!Please back up your files, as a Clean Flash may be necessary. We apologize for any inconvenience!
+!!CLEAN FLASH from v3.2 to v3.3 is MANDATORY¡¡
+
+Date - 15/10/2025
+=================
+- Enable get_module_version for hotword sound model config
+- Added powerhint and adapted it for Mondrian (Thanks @NextWorksGFX). 
+- Bluetooth: Fix connection issue with certain smartwatches
+- Enabled Bluetooth LE Audio
+- Update WFD system blobs from dada OS2.0.217.0.WOCMIXM
+- Enabled torch light control
+
+Kernel:
+- Merge android12-5.10
+- Merge android12-5.10-lts
+- Merge KERNEL.PLATFORM.1.0.r1-19400-kernel.0
+- And more...
 
 Date - 05/09/2025
 =================
