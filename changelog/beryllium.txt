@@ -1,6 +1,16 @@
-Device: Pocophone F1
+Device: POCO F1
 Device code name : beryllium
 Device maintainer: NotDheeraj06
+
+Date - 15/10/2025
+=================
+• Source Changelog: https://t.me/ProjectInfinityX/1503
+• Fix 4k camera 
+• Fix Video playback issues
+• Revert "Update Adreno Blobs from LA.UM.9.3.r1-02700-sdm845.0"
+• Set camera package name via soong
+• Misc Improvements
+• Device Certified by default
 
 Date - 03/10/2025
 =================
