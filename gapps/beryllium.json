@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.2-beryllium-20251003-0404-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/beryllium/16/gapps/Project_Infinity-X-3.2-beryllium-20251003-0404-GAPPS-OFFICIAL.zip",
-			"timestamp": 1759463364,
-			"md5": "16c4b6eb116ca6056fafeba236e795e1",
-			"size": 1882530082,
-			"version": "3.2"
+			"filename": "Project_Infinity-X-3.3-beryllium-20251015-0815-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/beryllium/16/gapps/Project_Infinity-X-3.3-beryllium-20251015-0815-GAPPS-OFFICIAL.zip",
+			"timestamp": 1760516133,
+			"md5": "ea880ca9879e1d9eee2ee0de82238a4b",
+			"size": 1741670429,
+			"version": "3.3"
 		}
 	]
 }
