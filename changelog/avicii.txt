@@ -2,6 +2,15 @@ Device: OnePlus Nord
 Device codename : avicii
 Device maintainer: Sreeshankar K
 
+Date - 15/10/2025
+================
+- Project Infinity X v3.3 Update with October security patch
+- Fixed VoIP calls volume control (eg: Whatsapp, Instagram, etc)
+- Fixed Lift to check phone
+- Introduced adaptive brightness for AOD
+- Introduced custom TFA98xx audio amplifier to enhance the audio output
+- Enable aptX(HD) offload
+
 Date - 13/09/2025
 =================
 - Project Infinity X v3.2 Update with September security patch
