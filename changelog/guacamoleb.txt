@@ -2,15 +2,17 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 09/13/2025
+Date - 10/15/2025
 =================
-• [HOT FIX]Add back Dolby
-• [VOIP]Fix call audio not working in apps like whatsapp and telegram
-• Update Oplus charger AIDL
-• Fix Alertslider default values being inverted
-• Improve Alertslider handling code and major cleanup from YAAP
-• Improved frame update responsiveness and display performance by adjusting frame timing, reducing stuttering in games
-• Enabled composition caching for better UI performance and lower power consumption [Tested on 8gb and above Ram devices, feedback needed from 6gb Ram devices]
-• Improved Bluetooth connectivity for multiple simultaneous BLE devices
+• Source Changelog: https://t.me/ProjectInfinityX/1503
+• Fix Dolby app contents being misaligned
+• Move AlertSlider to Sound Section
+• Fix AlertSlider default button values being inverted
+• Tune SurfaceFlinger timers for better power efficiency
+• Compile kernel with clang-r547379
+• Switch to source side cutout simulations
+• Enable Torch light control
+• Improved App launch and ART optimizations after an update installed
+• Sync kernel with LineageOS-23.0
 • Misc. Improvements and fixes.....
-Note: Clean Flash recommended from V3.1
+Note: Clean Flash Mandatory from V3.2
