@@ -7,6 +7,10 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 16/10/2025
+=================
+•
+
 Date - 23/09/2025
 =================
 • Declare 6ghz wifi support
