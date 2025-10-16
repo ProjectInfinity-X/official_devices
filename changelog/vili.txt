@@ -9,7 +9,8 @@ Note:
 
 Date - 16/10/2025
 =================
-•
+• Device side - none
+• Src changelog - https://t.me/ProjectInfinityX/1503
 
 Date - 23/09/2025
 =================
