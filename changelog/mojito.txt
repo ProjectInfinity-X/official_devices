@@ -3,6 +3,9 @@ Device code name : mojito
 Device maintainer: KALCHAKRA|ROMGHARTI
 ======================================
 
+17/10/2025
+- Reimplement flashlight strength control.
+
 11/10/2025
 - Add vendor prefix to sysfs_battery_supply
 - Update kernel config to meet VINTF
