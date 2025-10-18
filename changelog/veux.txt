@@ -1,8 +1,8 @@
-• September Security Patch Level
+• October Security Patch Level
 • Nebula kernel
 • Gapps Build Only
 • Passes Basic, Device, Strong Integrity OUT-OF-THE-BOX
 • Agc cam, Sony Dolby, Viper4Android FX all included.
 • NFC works for all the variants.
 • Updated with latest sorce changes.
-• Dirty flash on v3.1 is possible.
+• Dirty flash on v3.2 is possible.
