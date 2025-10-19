@@ -1,0 +1,8 @@
+Device: Samsung Galaxy M30s
+Device code name : m30s
+Device maintainer: NotDheeraj06
+
+Date - 18/10/2025
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1503
+- Initial Android 16 Build
