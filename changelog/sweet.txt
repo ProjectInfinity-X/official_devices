@@ -2,6 +2,11 @@ Device: Redmi Note 10 Pro / Pro Max
 Device code name : sweet
 Device maintainer: Musafir1875
 
+Date - 19-10-2025
+* clean flash recommended
+* Updated with Latest source
+* Fixed some bugs
+
 Date - 18-10-2025
 * clean flash recommended
 * use proper firmware
