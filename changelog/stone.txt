@@ -3,6 +3,10 @@ Device code name : stone
 Device maintainer: Mayuresh
 Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/stone/16/infinity_stone-boot.img/download
 
+Date - 19/10/2025
+=================
+- Source Changes: https://t.me/ProjectInfinityX/1583
+
 Date - 15/10/2025
 =================
 - Source Changes: https://t.me/ProjectInfinityX/1568
