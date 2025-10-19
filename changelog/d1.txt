@@ -2,8 +2,8 @@ Device: Samsung Galaxy Note 10
 Device code name : d1
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 09/13/2025
-- Reverted back to stock AOSP kernel
+Device Changelog 10/19/2025
+- Added dolby atmos support
 
 
-* Gapps build and vanilla
+* Gapps build
