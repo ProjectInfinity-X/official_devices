@@ -2,6 +2,12 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar & SharmagRit
 
+Date - 20-10-2025
+=================
+* Fix Auto brightness in light color
+* Drop thermal profile tile
+* Source upstream
+
 Date - 14-10-2025
 =================
 * Powerhint: Adjust hints for improved performance and battery efficiency
