@@ -2,6 +2,26 @@ Device: POCO F6
 Device code name : peridot
 Device maintainer: Atharva Swamy & Shikhar
 
+Date - 20/10/2025
+=================
+- Source changelog -: https://t.me/InfinityXGroup/164557/190214
+
+- Device Changelog
+* Addressed more denials
+* Fixed occaisonal janks and stutters
+* Switched to Radioactive kernel-v1
+  - Use LZ4 as deafult zram compression algorithim
+  - treewide use power efficient workingqueues
+  - Silence logger
+  - Added boeffla wake lock blocker
+  - Reduce cache pressure
+  - optimized memset/memmove/memcpy
+  - Do not periodically flush dirty pages
+  - Do not reduce perceived CPU capacity while idle
+  - Disable IRQ debugging by default
+  - power: enter sleep quicker
+  - Increase ratelimit pages value
+
 Date - 13/10/2025
 =================
 - Source changelog -: https://t.me/InfinityXGroup/1/185610
