@@ -2,6 +2,14 @@ Device: OnePlus 7T
 Device code name : hotdogb
 Device maintainer: GuneetAtwal
 
+Date - 10/19/2025
+=================
+• Merged October 2025 ASB
+• Bump kernel BPF version override to 5.4.299
+• Updated default Home app pin size for improved performance
+• Enable fp screen off unlock feature and turn off by default
+
+
 Date - 09/30/2025
 =================
 • Added LiveDisplay support
