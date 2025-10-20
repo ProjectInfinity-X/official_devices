@@ -1,6 +1,6 @@
 Device: POCO F6 (peridot)
 
-Flash Guide for 13/10/2025 build (0851-GAPPS-OFFICIAL)
+Flash Guide for 13/10/2025 build 3.3 - and above
 
 Clean Flash is recommended this time
 
