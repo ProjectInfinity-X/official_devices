@@ -7,6 +7,10 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 20/10/2025
+=================
+• Src changelog - https://t.me/ProjectInfinityX/1583
+
 Date - 16/10/2025
 =================
 • Device side - none
