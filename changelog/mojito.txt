@@ -3,6 +3,9 @@ Device code name : mojito
 Device maintainer: KALCHAKRA|ROMGHARTI
 ======================================
 
+20/10/2025
+- Minor changes and improvements
+
 17/10/2025
 - Reimplement flashlight strength control.
 
