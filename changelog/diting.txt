@@ -2,6 +2,12 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 21/10/2025
+=================
+- overlay: Remove PowerProfile.POWER_NONE
+- Revert Simplify partitions logic
+- Sync last source
+
 Date - 15/10/2025
 =================
 - Update blobs and firmware from OS2.0.203.0.VLFMIXM
