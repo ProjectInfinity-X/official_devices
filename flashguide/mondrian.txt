@@ -6,7 +6,7 @@ OrangeFox Recovery Official: https://orangefox.download/device/6574e52f7f9618c5b
 
 OrangeFox Recovery Unofficial: https://github.com/ymdzq/OrangeFox-Action-Builder/releases/tag/17353392959
 
-KernelSU Next Boot:  https://sourceforge.net/projects/infinity-x/files/mondrian/16/KernelSU-Next-boot.img
+KernelSU Next Boot with SUSFS: https://sourceforge.net/projects/infinity-x/files/mondrian/16/KernelSU-Next-SUSFS-boot.img
 
 * Notes:
 - Firmware Incluided, !!Do not flash firmware¡¡
