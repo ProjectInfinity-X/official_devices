@@ -2,9 +2,24 @@ Device: Poco F5 Pro / Redmi K60
 Device code name : mondrian
 Device maintainer: DqrKnz
 
-Source Changelog: https://t.me/ProjectInfinityX/1568
+Source Changelog: https://t.me/ProjectInfinityX/1583
 
-!!CLEAN FLASH from v3.2 to v3.3 is MANDATORY¡¡
+¡¡CLEAN FLASH from v3.2 to v3.3 is MANDATORY!!
+
+Date - 23/10/2025
+=================
+- Fixed WFD
+- Enable WLAN SSR recovery
+- Removed more memory debug modules
+- Disabled multiple kswapd threads
+- Reset Readahead values for 128 always
+- Use cortex-a510 as runtime variant (¡¡May need to Format Data.!!)
+- Build missing modules
+
+Kernel:
+- Implement sysfs show for recovery
+- Disable memory debugging
+- And more ...
 
 Date - 15/10/2025
 =================
