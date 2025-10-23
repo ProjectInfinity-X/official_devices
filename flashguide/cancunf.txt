@@ -1,0 +1,46 @@
+Device: Motorola G54/G64
+
+Keep in mind....
+___________________________________________
+-YOU MUST CLEAN FLASH if you are coming from any other ROM or stock.
+-Formatting with Recovery is MUST during clean flash.
+-You do NOT need to manually fill slots or flash Android 15 stock firmware beforehand, as Rom already includes Android 15 firmware. 
+-Only if your device is on firmware older than Android 14 May 2024 (U1TDS34.94-12-7-5), you must flash the ROM twice (second time WITHOUT formatting data) to ensure both slots have post-ARB firmware.
+-The initial install zip (e.g. infinity_gms_initial_install.zip or infinity_vanilla_initial_install.zip) already includes boot and vendor_boot images bundled together.
+___________________________________________
+
+Clean Flash (coming from a different ROM)
+___________________________________________
+-Download the following files:
+  • ROM zip (e.g. Project_Infinity-X-3.3-cancunf-20251023-0402-GAPPS-OFFICIAL.zip)
+  • Initial install zip (e.g. infinity_gms_initial_install.zip or infinity_vanilla_initial_install.zip) 
+
+-Boot to bootloader (Power + Volume Down).
+-Connect phone to PC.
+-Run:
+  fastboot reboot fastboot
+-Once in FastbootD mode, verify detection using:
+  fastboot devices
+-Flash the initial install zip:
+  fastboot --skip-reboot update infinity_gms_initial_install.zip
+  (or infinity_vanilla_initial_install.zip) 
+-After flashing completes:
+  fastboot reboot recovery
+-In recovery, format data (Wipe data / Factory reset).
+-Go to Apply update -> Apply from ADB.
+-Sideload the ROM zip:
+  adb sideload Project_Infinity-X-3.3-cancunf-20251023-0402-GAPPS-OFFICIAL.zip
+-Reboot to system.
+___________________________________________
+
+Dirty Flash / Update (No Data Loss)
+___________________________________________
+There will be no loss of data if everything goes well. Keep backups in case of any mishap. I will not be responsible for any loss of data.
+
+-Download the latest ROM zip.
+-Boot to recovery.
+-Click Apply update -> Apply from ADB.
+-Run:
+  adb sideload Project_Infinity-X*.zip
+-Reboot to system.
+___________________________________________

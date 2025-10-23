@@ -1,0 +1,87 @@
+Device: Motorola G54/G64
+Device code name : cancunf
+Device maintainer: Soviet(ussr_1674)
+Credits: @cyberknight777 & @sarthakroy2002 
+
+Date - 23/10/2025
+=================
+• Update blobs to V1TD35M.83-20-5.
+• Switch to AIDL imgtuner service.
+• Add dav1d software video decoder.
+• Update IMS patches ot V1TD35M.83-20-5.
+• Update blobs to V1TDS35M.83-20-5-3.
+• Add permissions for com.android.nfc_extras and com.nxp.mifare.
+• Switch to using phase offsets as durations for SurfaceFlinger to reduce jitter and improve vsync.
+• Drop vsync event props as they are not to be utilized with phase durations.
+• Unsignal buffer latching with AutoSingleLayer to reduce app jank while being unaffected by display freezes.
+• Enable GL comp backpressure to avoid jank due to HWC queue stuffing.
+• Update CarrierConfigOverlay to V1TDS35M.83-20-5-3.
+• Reduce max resolution for HEIF images to prevent HW overload issue.
+• Move kernel modules to a new DLKM vendor_ramdisk fragment to improve modularity.
+• Drop mtk_perf_common module as we don't need it.
+• Drop AEE and ATF modules as they are debugging modules.
+• Enable ELF checks for libimsma.
+• Drop BesLoudness as we don't need it.
+• Add permissions for com.mediatek.ims.config.xml.
+• Address more SEPolicy for wakeup nodes.
+• Patch mtkfusionrild to load libutils-v32 to fix RIL.
+• Switch to LZ4 compression for EROFS images to improve decompression speed substantially.
+• Add WifiResOverlay for G64Y (XT2431-2).
+• Ship full firmware within the ROM zip.
+• Label SEPolicy for persist.moto.vt.timegap.
+• Update VT system blobs from rothko A16 to fix VT.
+• Update AVB rollback index from V1TDS35M.83-20-5-3.
+• Install apex for clearkey service.
+• Switch to regular AIDL Wi-Fi HAL over the lazy HAL as we don't need to defer initialization of Wi-Fi.
+• Move to reference fastboot AIDL service.
+• Cleanup Lights AIDL HAL.
+• Build DisplayFeatures - A package that exposes toggles and QS tiles for HBM and CABC(page is located in display).
+• Update blobs and firmware to V1TDS35M.83-20-5-5.
+• Update AVB rollback index from V1TTDS35M.83-20-5-5.
+• Implement felicaDisabler() in MotoActions to disable FeliCa on non-Japan devices.
+• Grant required permissions for felicaDisabler().
+• Ship a prebuilt vendor_ramdisk fragment for dlkm to reduce build time.
+• Add Spanish and French Translations for DisplayFeatures.
+• Use OSS lib_driver_cmd_mt66xx to fix some crashes.
+• Bring back WPA3-SAE hotspot support.
+• Use new material switch in MotoActions to match with Settings.
+• Ship MediaTek GbaService implementation.
+• Enable RTT options found on MtkTeleService.
+• Set 4GB ZRAM for all RAM variants to provide an equally conservative experience.
+• Drop deprecated max_comp_streams attribute for ZRAM.
+• Set ramdisk type for DLKM vendor_ramdisk fragment.
+• Stop reserving space twice for journaling as we already do it in fstab.
+• Define rounded_corner_radius overlay to make biometric prompt be rounded.
+• Set biometric_dialog_corner_size to 155px to make the biometric prompt be even more rounded.
+• Rewrite Lights AIDL HAL to Rust.
+• Implement adjustable strength flashlight support.
+• Set SurfaceFlinger min uclamp to 30% to reduce janks.
+• Mark ACTION_UP events in TouchKeyHandler of MotoActions as handled to prevent a conflict with platform side actions.
+• Be efficient and accurate with wakelocks in TouchKeyHandler of MotoActions.
+• Switch to AIDL OSS Bluetooth service.
+• Decrease reserve_root value to 32768 to match Pixel behavior.
+• Set readahead_size_kb=128 to system, vendor, product, system_ext and data to avoid memory pressure.
+• Remove noflush_merge option from userdata as our UFS storage is not cheap.
+• Use HintManager for HWUI for better CPU scheduling.
+• Drop MTK RPS module.
+• Remove unused MTK audio codecs as AOSP's software codecs are objectively superior.
+• Disable Skia tracing by default to reduce jank.
+• Disable sf EGL image tracking as it is a surfaceflinger debugging feature.
+• Downscale task snapshots to 70% to save memory without a noticeable loss in quality.
+• Update blobs and firmware to V1TDS35M.83-20-5-6.
+• Update AVB rollback index from V1TDS35M.83-20-5-6.
+• Import Regulatory Info for XT2343-3.
+• Remove redundant usbotg actions from init.
+• Drop init.modem.rc as we have disabled RPS.
+• Remove leftover debugging connectivity services.
+• Stop changing dirty_writeback_centisecs with MediaTek's values.
+• Stop mmstat tracing.
+• Remove redundant engineering firmware dependencies.
+• Remove MediaTek gauge and power actions from init.
+• Stop waiting for hwserivcemanager.ready to be true as it is a relic from a prehistoric era.
+• Stop writing to race_marker just for knowing fstab mounting stage as bootprof handles that.
+• Stop starting inexistent services.
+• Stop setting permissions for inexistent files and folders.
+• Stop creating unused folders on /data/vendor.
+• Drop perfmgr and dramboost writes.
+• Drop /sdcard symlink.
