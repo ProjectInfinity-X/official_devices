@@ -7,6 +7,15 @@ Note:
     * Use New TWRP/OFOX v6
     * Ensure you are on latest available firmware for your device.
 
+Date - 27/10/2025
+=================
+• Everything from EEA
+• vili-firmware: from V816.0.26.0.UKDEUXM
+• vili: Update blobs from V816.0.26.0.UKDEUXM
+• sm8350-common: Update blobs from V816.0.26.0.UKDEUXM
+• sm8350-common: Use MIUI poweroff charging animation
+• Fixed stereo audio
+
 Date - 20/10/2025
 =================
 • Src changelog - https://t.me/ProjectInfinityX/1583
