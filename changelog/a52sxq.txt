@@ -2,15 +2,26 @@ Device: Samsung Galaxy A52s 5G
 Device code name : a52sxq
 Device maintainer: NguyenPhong
 
-Date - 10/08/2025
+Date - 28/10/2025
 =================
-- Update to Project Infinity X to version 3.3
-- Update build to version 11.2.1
-- Move GameBar to system settings and add Icon as well
-- GameBar: Introduce Ram temp and Ram clock speed overlay
-- Refactor per app GameBar
-- Revamp per-app config UI with search and new layout
-- Add per-app refresh rate functionality
-- Introduce Display Satutaion Service and TileUtils
-- Adjust carrier text margin
-- Increase keyguard indication above fingerprint
+- Fixed "Google pay can't be used on this device" issue by default 
+- Completely fixed issues with carrier name and icon (mis-alignment) on quicksettings in both portrait and landscape orientation (that were since v2.x)
+- Allow disabling the clock in launcher quickspace
+- Allow changing colour of the lead character of quickspace clock
+- Force disable all settings ui suggestion cards that occasionally used to appear like (complete your setup, enable night light schedule, enable now playing, touch some grass etc.)
+- Add Settings UI customisations/tunings
+- Fixed lockscreen big clock mis-alignment on some clock fonts
+- Fixed stock qs clock overlap on light/dark theme change when qs clock header style enabled
+- Re-tune searchbar dimens on launcher homescreen
+- Aggressive patches for launcher3 quickspace memory consumption reduction with proper handling
+- Add support for LTE+ / 4G+ icon when carrier aggregation enabled
+- Allow disabling media player squiggle animation 
+- Add media player compact design toggle with seekbar and player buttons
+- Moved quicksettings media player below brightness bar in un-expanded QS when brightness bar position is set at always bottom
+- Move sleepmode tile under utilities category
+- Revamped System Updater UI
+- Revamped team info UI
+- Remove broken duplicate navigation bar disable toggle
+- Remove lens icon from all apps searchbar if google app not found or not found as system app
+- Improve appdrawer searchbar color on light theme
+- Update default wallpaper without branding in middle
