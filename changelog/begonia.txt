@@ -2,6 +2,12 @@ Device: Redmi Note 8 Pro
 Device code name : begonia
 Device maintainer: ShantanuPC
 
+Date - 01/11/2025
+=================
+• Synced with latest 3.4 source
+• Based on November security patch
+• Fixed USB tethering
+
 Date - 22/10/2025
 =================
 • Synced with latest 3.3 source
