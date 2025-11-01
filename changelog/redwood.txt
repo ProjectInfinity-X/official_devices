@@ -1,7 +1,11 @@
-Device: Poco X5 Pro
+Device: Poco X5 Pro 5G / Redmi Note 12 Pro Speed
 Device code name : redwood
-Device maintainer: RDX463
+Device maintainer: 𝙷𝙰𝚁𝚂𝙷𝙸𝚃
 
-Date - 14/07/2025
+Date - 01/11/2025
 =================
-• Initial Android 16 Release
+- Initial Android 16 Update
+- Includes Xiaomi parts, MIUI Camera, and Moto Dolby
+- Updated blobs from OS2.0.11.0.UMSMIXM
+- Source Changelog: https://t.me/ProjectInfinityX/1606
+
