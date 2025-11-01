@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.3-ginkgo-20251018-2103-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/ginkgo/16/vanilla/Project_Infinity-X-3.3-ginkgo-20251018-2103-VANILLA-OFFICIAL.zip",
-			"timestamp": 1760821359,
-			"md5": "3fcc3f1ebf1e39a820c2a804ec5f64d2",
-			"size": 1391513950,
-			"version": "3.3"
+			"filename": "Project_Infinity-X-3.4-ginkgo-01.11.2025-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/ginkgo/16/vanilla/Project_Infinity-X-3.4-ginkgo-01.11.2025-VANILLA-OFFICIAL.zip",
+			"timestamp": 1761953534,
+			"md5": "6dec487416afc8ef01843253a3dc95e9",
+			"size": 1390935378,
+			"version": "3.4"
 		}
 	]
 }
