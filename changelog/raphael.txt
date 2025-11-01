@@ -2,6 +2,14 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 01-11-2025
+=================
+- Sync with latest source
+- Drop LMKD
+- Switch to SLMK (kernel side)
+- Improved zram behavior
+- Some minor changes
+
 Date - 15-10-2025
 =================
 - Fixed NFC config copy location
