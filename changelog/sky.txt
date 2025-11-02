@@ -2,6 +2,13 @@ Device: Redmi 12 5G / Poco M6 Pro 5G
 Device code name : sky
 Device maintainer: kAiF
 
+Date - 2/11/2025
+=================
+• Synced With Latest Source (https://t.me/ProjectInfinityX/1606)
+• Downgraded & Reverted Firmware and Blobs To OS2.0.9.0.VMWEUXM (coz OS2.0.208.0.VMWEUXM fw have some major bugs)
+• Added AOD Support
+• Disallow aux cam usage for Telegram & Telegram X
+
 Date - 19/10/2025
 =================
 • Synced With Latest Source (https://t.me/ProjectInfinityX/1583)
