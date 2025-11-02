@@ -2,6 +2,18 @@ Device: Xiaomi Redmi Note 13 Pro 5G
 Device code name : Garnet
 Device maintainer: bezke
 
+Date - 02/11/2025
+=================
+-Update from OS2.0.203.0.VNRMIXM
+-build audio blobs from source
+-garnet: Add dual AP/STA to wifi hal interface combinations
+-Enable SAP+SAP for wifi hal interface
+-CONFIG_IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
+-Parts: GpuManager: Improve codes
+-Parts: Improve PerformanceMode
+-Parts: Add Videoenhancer settings
+-Rebased kernel (thx to grewal)
+
 Date - 12/10/2025
 =================
 -overlay: Improve auto brightness
