@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.3-sky-20251019-1218-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/sky/16/gapps/Project_Infinity-X-3.3-sky-20251019-1218-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1760876161,
-                        "md5": "44c2d23ba753818c6162168fba208205",
-                        "size": 1630203098,
-                        "version": "3.3"
+                        "filename": "Project_Infinity-X-3.4-sky-02.11.2025-GAPPS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/sky/16/gapps/Project_Infinity-X-3.4-sky-02.11.2025-GAPPS-OFFICIAL.zip",
+                        "timestamp": 1762070419,
+                        "md5": "d242da03b85da3a8623dc28b414751d8",
+                        "size": 1631539737,
+                        "version": "3.4"
                 }
         ]
 }
