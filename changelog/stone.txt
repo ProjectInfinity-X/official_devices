@@ -3,6 +3,15 @@ Device code name : stone
 Device maintainer: Mayuresh
 Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/stone/16/infinity_stone-boot.img/download
 
+Date - 02/11/2025
+=================
+- Switch to 5.4.300 8350 LOS kernel
+- Fix cpu governor being performance
+- Set ZRAM size to be 4GB regardless of ram variant
+- Drop most of the parts
+- Update Viper4Android Driver and App
+- Synced with latest sources
+
 Date - 19/10/2025
 =================
 - Source Changes: https://t.me/ProjectInfinityX/1583
