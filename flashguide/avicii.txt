@@ -1,5 +1,5 @@
 Device: OnePlus Nord (avicii)
-Recommended Recovery: https://pitchblackrecovery.com/avicii
+Recommended Recovery: https://pitchblackrecovery.com/avicii or https://sourceforge.net/projects/infinity-x/files/avicii/16/recovery.img/download
 
 Clean Flash:
 ============
