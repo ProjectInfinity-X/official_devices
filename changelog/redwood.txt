@@ -2,6 +2,10 @@ Device: Poco X5 Pro 5G / Redmi Note 12 Pro Speed
 Device code name : redwood
 Device maintainer: 𝙷𝙰𝚁𝚂𝙷𝙸𝚃
 
+Date - 03/11/2025
+=================
+- Fixed an issue where tapping photo thumbnail in camera won't open the preview
+
 Date - 01/11/2025
 =================
 - Initial Android 16 Update
