@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.3-peridot-20251020-0849-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/peridot/16/gapps/Project_Infinity-X-3.3-peridot-20251020-0849-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1760950149,
-                        "md5": "a4573a278d2d69ea8fe92ab332161c32",
-                        "size": 3069369782,
-                        "version": "3.3"
+                        "filename": "Project_Infinity-X-3.4-peridot-02.11.2025-GAPPS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/peridot/16/gapps/Project_Infinity-X-3.4-peridot-02.11.2025-GAPPS-OFFICIAL.zip",
+                        "timestamp": 1762060113,
+                        "md5": "d7dd52005ecbb49a1e0281de5f708ca8",
+                        "size": 3091178408,
+                        "version": "3.4"
                 }
         ]
 }
