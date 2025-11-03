@@ -1,3 +1,8 @@
+Date - 03/11/2025
+=================
+- Expose aux cameras to com.snapchat.android
+- Allow aux camera package allowlist
+
 Date - 19/10/2025
 =================
 - No device side changes
