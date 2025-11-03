@@ -2,6 +2,16 @@ Device: OnePlus Nord
 Device codename : avicii
 Device maintainer: Sreeshankar K
 
+Date - 03/11/2025
+=================
+- Project Infinity X v3.4 Update with November security patch
+- Update vendor from OOS AC2003_11_F.24
+- Fixed mic issue during calls
+- Implement Alert Slider UI
+- Introduce HighBrightnessMode
+- Switched to AOSP WFD
+- Fixed AR Core support
+
 Date - 15/10/2025
 ================
 - Project Infinity X v3.3 Update with October security patch
