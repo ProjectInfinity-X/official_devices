@@ -2,6 +2,21 @@ Device: POCO F6
 Device code name : peridot
 Device maintainer: Atharva Swamy & Shikhar
 
+Date - 3/11/2025
+=================
+
+- Device Changelog
+
+* Mute serveral HWUI and other logspams
+* Restore I/O performance
+* Tuned LMKD
+* Disable Chimera.GmsIntentOperationService
+* Add DEVICE_IDLE hints for idle state optimization
+* RIL edits for battery life.
+* Added superfastcharge option
+* Fixed touch delay
+* Bumped to Radioactive kernel-v1.1(6.1.155)
+
 Date - 20/10/2025
 =================
 - Source changelog -: https://t.me/InfinityXGroup/164557/190214
