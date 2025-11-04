@@ -1,0 +1,11 @@
+Device: Poco F7/ Redmi Turbo 4 Pro
+
+1. Flash the provided recovery image and vendor boot image via fastboot using
+  "fastboot flash recovery recover.img" & "fastboot flash vendor_boot vendor_boot.img"
+2. Reboot to recovery using either volume + and power button combo or via fastboot command
+3. Navigate to Apply Update > Apply from ADB
+4. adb sideload the lineage zip using "adb sideload lineage-*.zip"
+5. Factory reset/format data
+6. Reboot to system
+
+- In case you want to use your own google apps package MindTheGapps is recomended, you can install this by rebooting back into recovery after step 4

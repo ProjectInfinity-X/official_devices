@@ -1,0 +1,7 @@
+Device: Poco F7/ Redmi Turbo 4 Pro
+Device code name : onyx
+Device maintainer: SharmagRit
+
+Date- 01/11/2025
+================
+Initial official build for onyx
