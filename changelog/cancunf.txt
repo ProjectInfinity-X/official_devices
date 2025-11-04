@@ -3,6 +3,12 @@ Device code name : cancunf
 Device maintainer: Soviet(ussr_1674)
 Credits: @cyberknight777 & @sarthakroy2002 
 
+Date - 04/11/2025
+=================
+• Update Wi-Fi HAL interfaces combination to match MediaTek BSP behaviour.
+• Remove Disable VRR toggle as it is redundant for us.
+• Kernel state at r2a1.
+
 Date - 23/10/2025
 =================
 • Update blobs to V1TD35M.83-20-5.
