@@ -3,6 +3,30 @@ Device code name : alioth
 Device maintainer: zenzer0s
 ======================================
 
+Date - 04/11/2025
+=================
+
+Changes:
+- Sync with Infinity-X 3.4
+- Rebased on latest LineageOS trees (sm8250)
+
+UI and features:
+- Redesigned Thermal Profiles UI
+- Removed device-side refresh rate QS tile (now provided by source)
+- Implemented HBM with Auto HBM support and DC dimming
+- Added additional vendor color options
+
+Fixes:
+- Fixed inability to change refresh rate caused by the device-side refresh rate QS tile
+- Fixed HBM and DC dimming not working due to permission issues
+
+OTA:
+- Optimized OTA updates
+
+Kernel:
+- Switched default kernel to E404; adds bypass charging support (RV Kernel Manager toggle [On/Off])
+
+
 Date - 21/10/2025
 =================
 - Sync with Infinity-X 3.3
