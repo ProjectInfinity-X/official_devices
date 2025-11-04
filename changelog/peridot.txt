@@ -1,3 +1,16 @@
+Device: POCO F6
+Device code name : peridot
+Device maintainer: Atharva Swamy & Shikhar
+
+Date - 4/11/2025
+=================
+
+- Device Changelog
+
+* Based on new trees
+
+=================
+
 - July security CVE'S update (Lvl 1)
 - Add new default bootanimation
 - Update default pif once again

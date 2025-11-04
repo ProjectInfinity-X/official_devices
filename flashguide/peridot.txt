@@ -1,4 +1,24 @@
 Device: POCO F6 (peridot)
+
+Flash Guide for 4/11/2025 build 2.9 - and above
+
+* Clean Flash is mandatory
+
+Download all files from: https://sourceforge.net/projects/infinity-x/files/peridot/15/recovery
+
+---------------- Use only HyperOS 2.0.202+ fw. ----------------
+
+1. Reboot to bootloader by "adb reboot bootloader" and type "fastboot -w"
+2. fastboot flash boot boot.img
+3. fastboot flash init_boot init_boot.img
+4. fastboot flash dtbo dtbo.img
+5. fastboot flash recovery recovery.img
+6. fastboot flash vendor_boot vendor_boot.img
+7. Reboot to recovery by "fastboot reboot recovery"
+8. Flash ROM in recovery by "Apply Update > adb sideload > adb sideload /path/to/rom.zip"
+9. Format data
+10. Reboot system
+
 Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/peridot/15/recovery.img
 
 ---------------- Must be on HyperOS 2 or HyperOS 2 based rom before flashing this ----------------
