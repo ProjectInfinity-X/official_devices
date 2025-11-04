@@ -2,6 +2,21 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 04/11/2025
+=================
+- Update blobs and firmware for diting from OS2.0.203.0.VMNMIXM
+- Update blobs from OS2.0.204.0.VLFMIXM
+- Fix auto brightness issues
+- Enable HW Rounded corner
+- Allow camera HAL to find quickcamera HAL
+- Drop unsed sepolicy
+- Align verified boot algorithms and rollback indices with stock
+
+Kernel:
+- Merge android12-5.10
+- Merge android12-5.10-lts
+- And More..
+
 Date - 21/10/2025
 =================
 - overlay: Remove PowerProfile.POWER_NONE
