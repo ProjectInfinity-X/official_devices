@@ -1,0 +1,11 @@
+Device: Poco F7 / Redmi Turbo 4 Pro
+
+1. Flash the provided recovery image (https://sourceforge.net/projects/infinity-x/files/onyx/16/recovery.img/download) and vendor boot image (https://sourceforge.net/projects/infinity-x/files/onyx/16/vendor_boot.img/download) via fastboot using
+  "fastboot flash recovery recovery.img" & "fastboot flash vendor_boot vendor_boot.img"
+2. Reboot to recovery using either volume + and power button combo or via fastboot command
+3. Navigate to Apply Update > Apply from ADB
+4. adb sideload the ROM zip using "adb sideload pathtozip"
+5. Factory reset/format data
+6. Reboot to system
+
+- GAPPS are already included
