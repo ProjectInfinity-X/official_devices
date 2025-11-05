@@ -1,5 +1,7 @@
 Device: Google Pixel 8 Pro (husky)
 
+Google Firmware: Must be on a Stock Stable Release
+
 First Time Install (Note: These releases include firmware)
 
 Download link for Husky IMGs 
