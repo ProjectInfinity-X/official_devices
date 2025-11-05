@@ -1,3 +1,16 @@
+Date - 05/11/2025
+=================
+- Enable automatic channel selection
+- Enable support for IEEE80211AC
+- Enable support for IEEE80211AX
+- CONFIG_IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
+- prop: Disable HWC for VDS except wfd.
+- Use MIUI poweroff charging animation
+- Remove obsolete SurfaceFlinger properties
+- Set debug.sf.auto_latch_unsignaled to 0
+- Drop debug.sf.disable_client_composition_cache
+- Remove debug.mdpcomp.logs
+
 Date - 03/11/2025
 =================
 - Expose aux cameras to com.snapchat.android
