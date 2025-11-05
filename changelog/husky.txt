@@ -2,6 +2,15 @@ Device: Google Pixel 8 Pro
 Device code name : Husky
 Device maintainer: Libra420T
 
+Date - 05/11/2025
+=================
+• Bump Version 3.4
+• November Sercurity (rom)
+• Synced with latest Source Chamges
+• https://t.me/ProjectInfinityX/1606
+• Generated Husky Vendor
+• Generated Husky Overlays
+
 Date - 08/04/2025
 ===============
 - A16 3.0 Update
