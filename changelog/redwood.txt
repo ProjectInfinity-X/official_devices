@@ -2,6 +2,16 @@ Device: Poco X5 Pro 5G / Redmi Note 12 Pro Speed
 Device code name : redwood
 Device maintainer: 𝙷𝙰𝚁𝚂𝙷𝙸𝚃
 
+Date - 08/11/2025
+=================
+- Kernel updated to Scarlet-v3.2-β-KSU-N
+- Strong Integrity now passes again by default
+- Fixed Play Store showing some apps not compatible
+- Fixed Google Pay Contactless Payment (tap to pay) by default, this may not last forever and always needs a valid keybox
+- Options to spoof Snapchat, Netflix, Google app to pixel model is added to spoofing settings 
+- Option to disable Play Store Spoof added
+- Disabling in-rom playintegrity fix is  more effective now, incase you want to use external modules for it
+
 Date - 03/11/2025
 =================
 - Fixed an issue where tapping photo thumbnail in camera won't open the preview
