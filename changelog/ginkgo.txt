@@ -1,1 +1,11 @@
-- Source changelog (https://t.me/ProjectInfinityX/1606)
+- Pass strong integrity by default once again
+- Fixed issue with playstore showing some apps (Eg. JioFinance etc.) as not compatible on the device
+- The fix for Google pay contactless payment (tap to pay) is also added by default but this may not last forever and always needs a valid unrevoked keybox to be imported in spoofing settings which you can find and import yourself in future
+- Add toggles to spoof Snapchat, Netflix, Google app to pixel model in spoofing settings
+- Add toggle to disable playstore spoof.
+- Disabling in-rom playintegrity fix is also made more effective now.. If you wish to apply playintegrityfix from external modules, you can disable in-rom playintegrityfix via disabling toggle "InfinitySuite > Miscellaneous > Spoofing > Play integrity fix"
+- Fixed hide screen capture status feature
+- Allow monet settings chroma factor / luminance sliders to achieve negative values
+- Add toggle for ambient media art
+- Enable "install available apps" in Settings
+- Add translations to LMOFreeForm
