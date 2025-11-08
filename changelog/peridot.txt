@@ -1,108 +1,11 @@
-Device: POCO F6
-Device code name : peridot
-Device maintainer: Atharva Swamy & Shikhar
-
-Date - 3/11/2025
-=================
-
-- Device Changelog
-
-* Mute serveral HWUI and other logspams
-* Restore I/O performance
-* Tuned LMKD
-* Disable Chimera.GmsIntentOperationService
-* Add DEVICE_IDLE hints for idle state optimization
-* RIL edits for battery life.
-* Added superfastcharge option
-* Fixed touch delay
-* Bumped to Radioactive kernel-v1.1(6.1.155)
-
-Date - 20/10/2025
-=================
-- Source changelog -: https://t.me/InfinityXGroup/164557/190214
-
-- Device Changelog
-* Addressed more denials
-* Fixed occaisonal janks and stutters
-* Switched to Radioactive kernel-v1
-  - Use LZ4 as deafult zram compression algorithim
-  - treewide use power efficient workingqueues
-  - Silence logger
-  - Added boeffla wake lock blocker
-  - Reduce cache pressure
-  - optimized memset/memmove/memcpy
-  - Do not periodically flush dirty pages
-  - Do not reduce perceived CPU capacity while idle
-  - Disable IRQ debugging by default
-  - power: enter sleep quicker
-  - Increase ratelimit pages value
-
-Date - 13/10/2025
-=================
-- Source changelog -: https://t.me/InfinityXGroup/1/185610
- 
-- Device Changelog
-
-* Updated to latest source
-* Addressed sepolicy denials
-* Fixed screen flickering/dim in some cases
-* Silenced some log spam messages
-* Tuned Powerhal for better efficiency and smoothness
-* Configured uclamp values
-* Added PowerProfiles(Quick settings tile)
-* Brought back GameBar/Display Saturation/Refresh rate controls
-
-Date - 29/09/2025
-=================
-- Source changelog -: https://t.me/ProjectInfinityX/1494
- 
-- Device Changelog
-
-* Updated to latest source
-* Updated blobs from peridot OS2.0.204.0.VNPMIXM - peridot_global-ota_full-OS2.0.204.0.VNPMIXM
-* Fixed Dolby audio not working in some cases
-* Fixed auido for fs19xx driver
-* Fixed Auto Brightness not working
-* Enabled single_tap sensor
-* Parts such as HBM/GAMEBAR/TURBO-CHARGING/DISPLAY-SATURATION are dropped for this build
-
-Date - 4/09/2025
-=================
-
-- Source changelog -: https://t.me/ProjectInfinityX/1494
- 
-- Device Changelog
- 
-* Upstreamed source to 3.2
-* Updated Blobs from OS2.0.202.0.VNPMIXM
-* Dropped QESDK,QSAP blobs
-* Cleaned up perf blobs
-* Dropped Thermal Profiles and Power Tools services
-* Updated GPU drivers to v819.02*
-* Imported LDAC and LHDC prebuilts
-* Powerhint optimizations
-* Improved gaming performance and GPU stability
-* Properties
-  - Enabled usage of dex2oat64
-  - Enabled frame pacing for smoother visual performance
-  - Dropped phase offsets duration props
-  - Cleaned up non-existent properties
-  - Enabled Perf hint window
-* Addressed multiple sepolicy denials
-* Switched default UI rendering to VULKAN
-* Enabled full ART optimizations with VDEX/ODEX
-* Optimized native executables for Cortex-A76 CPU
-* Enabled support for IEEE80211AC
-* Lower swappiness to 60
-* Restricted apps access to /proc/net/unix(Fixes some banking apps detecting root access)
-* IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
-* Dropped MMS user agent overlays
-* Allowed ussd over ims
-* Enabled aggressive DEX/ART optimizations for performance
-* Strong integrity passes by default (Must update playstore to latest version)
-
-Date - 9/08/2025
-=================
-* No device changelog
-* Source changelog -: https://t.me/ProjectInfinityX/1453
-* Strong integrity passes by default
+- Pass strong integrity by default once again
+- Fixed issue with playstore showing some apps (Eg. JioFinance etc.) as not compatible on the device
+- The fix for Google pay contactless payment (tap to pay) is also added by default but this may not last forever and always needs a valid unrevoked keybox >
+- Add toggles to spoof Snapchat, Netflix, Google app to pixel model in spoofing settings
+- Add toggle to disable playstore spoof.
+- Disabling in-rom playintegrity fix is also made more effective now.. If you wish to apply playintegrityfix from external modules, you can disable in-rom >
+- Fixed hide screen capture status feature
+- Allow monet settings chroma factor / luminance sliders to achieve negative values
+- Add toggle for ambient media art
+- Enable "install available apps" in Settings
+- Add translations to LMOFreeForm
