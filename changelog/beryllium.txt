@@ -1,34 +1,7 @@
-Device: POCO F1
-Device code name : beryllium
-Device maintainer: NotDheeraj06
-
-Date - 15/10/2025
-=================
-• Source Changelog: https://t.me/ProjectInfinityX/1503
-• Fix 4k camera 
-• Fix Video playback issues
-• Revert "Update Adreno Blobs from LA.UM.9.3.r1-02700-sdm845.0"
-• Set camera package name via soong
-• Misc Improvements
-• Device Certified by default
-
-Date - 03/10/2025
-=================
-• Update Maintainer
-• Shift Back to 4.9 kernel
-• System_ext build, so use proper recommended recovery
-• Revert "props: Use Vulkan for HWUI rendering"
-• Update Adreno Blobs from LA.UM.9.3.r1-02700-sdm845.0
-• Misc Improvements
-• Dolby included
-• Device Certified by default
-
-Date - 13/08/2025
-=================
-• Initial Android 16 release
-• 4.19 kernel based build
-• System_ext build
-• Use recommended recovery to flash
-• Playstore certified by default and banking apps do work
-• Circle To Search is available
-• Dolby Atmos is included
+- Source changelog (https://t.me/ProjectInfinityX/1610)
+- Upstreamed electro kernel to v6
+- Disable per-cgroup PSI accounting
+- Fixed carrier video calling
+- Adapted few props for better snappiness
+- Introduce Monitor system overlay(In system settings)
+- Disable pinner service
