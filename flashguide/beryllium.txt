@@ -1,4 +1,4 @@
-Device: Pocophone F1
+Device: POCO F1
 Recommended Recovery: https://www.pling.com/p/2117593/
 
 Flashing Instructions:
@@ -12,8 +12,8 @@ Flashing Instructions:
 
 * Dirty Flash:
 - Reboot to recovery
-- Flash ROM.zip
 - Wipe Cache, Dalvik
+- Flash ROM.zip
 - Flash dfe (only if decrypted before)
 - Reboot
 
