@@ -1,41 +1,6 @@
-Device: Nothing Phone 2
-Device code name : Pong
-Device maintainer: GHOST
-
-Date - 20/10/2025
-=================
-- Custom Call glyph pattern implementation
-- Add shake to toggle glyph torch
-- Tune powerhint
-- Add configurable ringer mode for flip to glyph
-- Import pinned service libs from AOSPA
-- Pin SDM Extension Library 
-- Move to 100 swappiness
-- Update from NOS V3.2-250917-1451
-- Don't latch unsignal buffers
+- Source changelog (https://t.me/ProjectInfinityX/1606)
+- Fix custom Glyph animation running even after end/pick
+- Introduce Glyph schedule feature
+- Enable WiFi 6E support
+- Drop KSU support
 - Set SurfaceFlinger uclamp.min to 20%
-
-Date - 22/09/2025
-=================
-- Initial a16 vanilla build
-- Update from NOS V3.2-250828-1921
-- Downgrade to ARMv8.2-A.
-- Use simulated shell temps for getting battery temp
-- Set default pin amount for home app
-- Enable hardware rounded corner feature
-- Make haptics a bit tighter
-- Enable AIDL fastboot HAL
-
-Date - 10/08/2025
-=================
-- Switch to kryo300
-- Set AOD refreshrate to 60
-- Fixup dolby effect initialization
-- Switch to 676.69 adreno-t
-
-Date - 23/07/2025
-=================
-- Initial A16 build
-- Fix statusbar padding for a16
-- Update from NOS V3.2-250708-2227
-- Optimize dalvik heap config for performance
