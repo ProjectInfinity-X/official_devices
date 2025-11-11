@@ -1,25 +1,9 @@
-Device: Google Pixel 8 Pro
-Device code name : Husky
-Device maintainer: Libra420T
-
-Date - 05/11/2025
+Date - 11/11/2025
 =================
-• Bump Version 3.4
+• Version 3.4
 • November Sercurity (rom)
-• Synced with latest Source Chamges
-• https://t.me/ProjectInfinityX/1606
-• Generated Husky Vendor
-• Generated Husky Overlays
+• Vanilla Builds Now Available
+• Synced with latest Source Changes
+• https://t.me/ProjectInfinityX/1610
 
-Date - 08/04/2025
-===============
-- A16 3.0 Update
-- Synced with latest source changes
-
-Date - 07/26/2025
-===============
-- Initial A16 Release
-- Version 3.0
-- July Security
-- Highlighted Source Changes (https://t.me/InfinityXGroup/149009)
-- Highlighted Blur Fix (https://t.me/InfinityXGroup/149975)
+Credit: @igram96 (Ionut) for Vanilla Experience

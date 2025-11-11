@@ -1,12 +1,19 @@
 Device: Google Pixel 8 (shiba)
 
-Google Firmware: Must be on a Stock Stable Release
-
-First Time Install (Note: These releases include firmware)
+First Time Install {{Note: These releases include firmware!!}}
+• Must be on a Stock STABLE Release
 
 Download link for Shiba IMGs 
-• https://sourceforge.net/projects/infinity-x/files/shiba/16/IMGs/
+# Gapps
+• https://sourceforge.net/projects/infinity-x/files/shiba/16/gapps/IMGs/
 
+# Vanilla
+• https://sourceforge.net/projects/infinity-x/files/shiba/16/vanilla/IMGs/
+
+# Recommended Gapps (sideload)
+• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/16-Jul-2025/
+
+Gapps/Vanilla
 • Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
 • Reboot to bootloader
 • fastboot flash boot boot.img
@@ -15,19 +22,24 @@ Download link for Shiba IMGs
 • fastboot flash vendor_boot vendor_boot.img
 • fastboot reboot recovery
 • While in recovery, navigate to Factory reset -> Format data/factory reset and confirm to format the device. When done formatting, go back to the main menu and then navigate to Apply update -> Apply from ADB
-• adb sideload rom.zip (replace "rom" with actual filename) 7 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
+• adb sideload rom.zip (replace "rom" with actual filename)
+•• (OPTIONAL)
+• Select "Yes" Reboot recovery (fully) to sideload any add-ons (e.g Gapps, Magisk)
 • Reboot to system
 
-Dirty Flash (when updating your infinity x version)
+Dirty Flash (when updating your Infinity-X version)
 
 • Reboot to recovery
 • Apply update -> adb sideload
 • adb sideload romname.zip
-• Reboot
-• Or simply just update via ota local updater in settings
+•• (OPTIONAL)
+• Select "Yes" Reboot recovery (fully) to sideload any add-ons (e.g Gapps, Magisk)
+• Reboot to system
+• Or simply just update via ota local updater in settings (Follow Magisk OTA Guide)
 
-Download and Install Magisk apk
 
+Install Magisk (root)
+• Download and Install Magisk apk
 • The init_boot.img is now provided in the IMGs folder.
 • Copy the init_boot file to your Pixel device.
 • Patch init_boot.img file, Open Magisk app on your device, tap on install and tap again on “Select and Patch a file” and browse the init_boot.img file you’ve just copied. It will patch the file and save it in the same folder. Now you’ve to transfer patched init_boot.img file to your PC to flash it using an adb command.
