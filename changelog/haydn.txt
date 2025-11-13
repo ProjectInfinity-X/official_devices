@@ -1,3 +1,7 @@
+Date - 13/11/2025
+=================
+No device side changes
+
 Date - 05/11/2025
 =================
 - Enable automatic channel selection
