@@ -1,43 +1,7 @@
-Device: Redmi Note 15 5G / Poco X5 5G
-Device code name : stone
-Device maintainer: Mayuresh
-Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/stone/16/infinity_stone-boot.img/download
-
-Date - 02/11/2025
-=================
-- Switch to 5.4.300 8350 LOS kernel
-- Fix cpu governor being performance
-- Set ZRAM size to be 4GB regardless of ram variant
-- Drop most of the parts
-- Update Viper4Android Driver and App
-- Synced with latest sources
-
-Date - 19/10/2025
-=================
-- Source Changes: https://t.me/ProjectInfinityX/1583
-
-Date - 15/10/2025
-=================
-- Source Changes: https://t.me/ProjectInfinityX/1568
-
-Date - 10/10/2025
-=================
-- October Security Patch
-- Clean Flash is HIGHLY RECOMMENDED due to source rebase
-- Import dirac from old tree (thanks kami for original impl)
-- Switch to global blobs and Update from OS2.0.4.0.UMQMIXM
-- Fix SMS not getting sent in some cases unless you reboot
-- Reduce boost duration to 1.5s
-- Synced with latest sources
-
-Date - 04/09/2025
-=================
-- Initial Official Release
-- September Security Patch
-- Clean flash needed from unofficial builds
-- Update blobs from OS2.0.4.0.UMQEUXM
-- Drop QCOM WFD and switch to AOSP WFD to fix wifi display (cast)
-- Replace writepid with task_profiles command for cgroup migration
-- Cleanup post boot script
-- Properly set cpu architecture 
-- Synced with latest sources
+- Source changelog (https://t.me/ProjectInfinityX/1610)
+- Rebased on latest 8350 common kernel
+- Update blobs from OS2.0.5.0.UMQMIXM
+- Move Recovery resources to vendor_boot
+- Bring back parts
+- Various tweaks in kernel for better performance and ram management
+- Synced with latest source
