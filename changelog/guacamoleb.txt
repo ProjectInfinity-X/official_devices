@@ -4,15 +4,13 @@ Device maintainer: H A R I S H
 
 Date - 10/15/2025
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1503
-• Fix Dolby app contents being misaligned
-• Move AlertSlider to Sound Section
-• Fix AlertSlider default button values being inverted
-• Tune SurfaceFlinger timers for better power efficiency
-• Compile kernel with clang-r547379
-• Switch to source side cutout simulations
-• Enable Torch light control
-• Improved App launch and ART optimizations after an update installed
+• Source Changelog: https://t.me/ProjectInfinityX/1610
+• Fix a bug where large file transfers via USB cable cancel mid-transfer
+• Revert a prop which was impacting display responsiveness
+• Fix some sepolicy denials
 • Sync kernel with LineageOS-23.0
+• Screen attention feature is dropped as source moved to settingintelligence package in GMS
+• Enable fbeV2 for f2fs data
+• Align fstab erofs props with the standard from AOSP
 • Misc. Improvements and fixes.....
-Note: Clean Flash Mandatory from V3.2
+Note: Clean Flash Mandatory from V3.3
