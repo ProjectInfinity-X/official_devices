@@ -1,66 +1,39 @@
-Device: Realme 6 Pro
-Device code name : RMX2061
-Device maintainer: aminfauzi
-
-Date - 25-10-2025
+Date - 15-11-2025
 =================
-* Fixed "Google pay can't be used on this device" issue by default 
-* Completely fixed issues with carrier name and icon (mis-alignment) on quicksettings in both portrait and landscape orientation (that were since v2.x)
-* Allow disabling the clock in launcher quickspace
-* Allow changing colour of the lead character of quickspace clock (https://t.me/ProjectInfinityX/1570)
-* Force disable all settings ui suggestion cards that occasionally used to appear like (complete your setup, enable night light schedule, enable now playing, touch some grass etc.)
-* Add Settings UI customisations/tunings (https://t.me/ProjectInfinityX/1572)
-* Fixed lockscreen big clock mis-alignment on some clock fonts
-* Re-tune searchbar dimens on launcher homescreen
-* Aggressive patches for launcher3 quickspace memory consumption reduction with proper handling
-* Add support for LTE+ / 4G+ icon when carrier aggregation enabled
-* Allow disabling media player squiggle animation 
-* Add media player compact design toggle with seekbar and player buttons
-* Moved quicksettings media player below brightness bar in un-expanded QS when brightness bar position is set at always bottom
-* Move sleepmode tile under utilities category
-* Revamped System Updater UI (https://t.me/ProjectInfinityX/1571)
-* Revamped team info UI
-* Remove broken duplicate navigation bar disable toggle
-* Remove lens icon from all apps searchbar if google app not found or not found as system app
-* Improve appdrawer searchbar color on light theme
-* Update default wallpaper without branding in middle
 
-Date - 14-10-2025
-=================
-* Removed duplicate display cutout settings.
-* Add notchbarkiller to display cutout options.
-* Fix last recent app launching instead of home screen after few minutes of inactivity.
-* Restore chip layout for launcher recent buttons.
-* Make calendar and clock app icon on launcher app drawer realtime updated.
-* Add more grid options in launcher.
-* Fix appdrawer searchbar color on light mode.
-* Add recents/appdrawer blur customisation to launcher.
-* Lmofreeform additions/fixes.
-* Fix issues with transparent notification style & Introduce transparent notification style separately for lockscreen.
+DEVICE SOURCE :
+* Now ship official build with no root and user variant. For the sake of banking apps.
+* Default kernel comes with new tweaks : Quantum16 kernel
+* Removed unused Dolby post-processing to clean up the audio stack
+* Exposed the aux camera globally for full third-party camera support
+* Preloaded the fingerprint HAL earlier to ensure smooth SetupWizard enrollment
+* Updated sepolicy to allow apps to read aux camera properties
+* Enabled HWUI performance compilation for a smoother UI
+* Explicitly disabled GL composition backpressure for more stable rendering
+* Enabled ADPF CPU hints to improve UI responsiveness
+* Enabled Client Composition Cache for better frame stability
+* Enabled ScrollOptimizer to make scrolling feel faster and more fluid
+* Simplified and enabled dexpreopt for quicker app launch times
+* Passed display ID to the fingerprint sensor for improved accuracy
+* Adjusted the status bar height to perfectly align with the Realme 6 Pro cutout
+* Improved signal strength through updated optimization properties
+* Cleaned up network mode conflicts by keeping only vendor side definitions
+* Removed unnecessary dependencies for a lighter device tree
+* Increased system partition size to support larger GApps packages
+* Decommonized the dynamic partition for cleaner device configuration
+* Removed duplicate Dolby declarations in the audio framework
+* Added full Dolby Atmos codec and framework support
+* Replaced disable_configstore with a proper capabilityconfigstore HAL implementation
 
-Date - 09-10-2025
-=================
-* Fix dummy virtual lens for Aperture camera. No broken lens button.
-* Removed fingerprint scanner location indicator. Wrong location.
-* Improved EIS for camera. apply for 1080HD video.
-* Set dot product to CPU variant.
-* Set proper height for statusbar on lockscreen.
-* Change RealmePart to realme Lab.
-
-Date - 07-10-2025
-=================
-* Fix 3-button navigation layout spacing
-* Fix USB adb debugging cause screen freeze and reboot
-* Change Dolby Atmos sound enhancement to Moto Dolby UI
-* Clean-up & tuning for post-boot scripts.
-* Switched to dot product CPU variant for performance boost.
-* Added Bypass Charging ( working auto and manually ).
-* Modification on realmelabs (known as Realme Parts).
-* Zram support up to 4GB now.
-* Improve FPS. more stable now.
-* Some tuning on kernel source.
-
-Date - 10-09-2025
-=================
-* Initial A16 build
-* Based on Kernel LTS 4.14.341
+ROM SOURCE: 
+- Pass strong integrity by default once again
+- Fixed issue with playstore showing some apps (Eg. JioFinance etc.) as not compatible on the device
+- The fix for Google pay contactless payment (tap to pay) is also added by default but this may not last forever and always needs a valid unrevoked keybox to be imported in spoofing settings which you can find and import yourself in future
+- Add toggles to spoof Snapchat, Netflix, Google app to pixel model in spoofing settings
+- Add toggle to disable playstore spoof.
+- Disabling in-rom playintegrity fix is also made more effective now.. If you wish to apply playintegrityfix from external modules, you can disable in-rom playintegrityfix via disabling toggle "InfinitySuite > Miscellaneous > Spoofing > Play integrity fix"
+- Fixed hide screen capture status feature
+- Allow monet settings chroma factor / luminance sliders to achieve negative values
+- Add toggle for ambient media art
+- Enable "install available apps" in Settings
+- Add translations to LMOFreeForm
