@@ -1,48 +1,13 @@
-Device: Motorola Edge 30
-Device code name : dubai
-Device maintainer: NotDheeraj06
-
-Date - 11/10/2025
+Date - 18/11/2025
 =================
-- Source Changelog: https://t.me/ProjectInfinityX/1503
-- Fix Adaptive Refresh Rate
-- Merge Latest Kernel Changes from LineageOS
-- Localise NTP to improve GPS TTFF
-- Extend audio offload buffer size to 256kb
-- Disable vendor.audio.feature.kpi_optimize.enable
-- Enable frame rate override feature
-- Drop force double frame buffers
-- Switch to AIDL NFC ST HAL
+- Source Changelog: https://t.me/ProjectInfinityX/1610
+- Improve Performance a little
+- sepolicy: Drop no longer used stflashtool rules
+- Use foreground cpuset/uclamp for gralloc
+- Use foreground uclamp for hwcomposer
+- Enable predicted load boosting for yupik
+- Switch hwcomposer to foreground CPU set
+- Do not balance msm_drm and kgsl-3d0 IRQs
+- Import MSM IRQ balancer configuration
+- Disable `thumbnail_block_model` of libstagefright
 - Strong Integrity by default
-
-Date - 08/09/2025
-=================
-- Source Changelog: https://t.me/ProjectInfinityX/1494
-- Drop KSU Next support by default
-- Add UDFPS Flag for In-Display FP Animations
-- Switch to AIDL LiveDisplay
-- Drop Viper4XAndroid Support
-- Strong Integrity by default
-
-Date - 17/08/2025
-=================
-- Source Changelog: https://t.me/ProjectInfinityX/1453
-- Build Vanilla Variant as well
-- Update KernelSU Next to v1.0.9
-- Strong Integrity by default
-- Update Kernel from latest LineageOS Source
-
-Date - 26/07/2025
-=================
-- Source Changelog: https://t.me/ProjectInfinityX/1401
-- Add filecache_min_kb tuning for lmkd
-- Disable SF composition prediction model
-- Force device to treat 170M as sRGB in SF
-- Update surfaceflinger offsets from taro
-- wifi: Enable channel bonding for 2.4GHz
-- Enable wide color display
-- Disable backpressure propagation in SF
-
-Date - 23/07/2025
-=================
-- Initial Android 16 release
