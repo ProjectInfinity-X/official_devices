@@ -2,8 +2,8 @@ Device: Samsung Galaxy Note 10 5G
 Device code name : d1x
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 10/19/2025
-- Added dolby atmos support
+Device Changelog 11/23/2025
+- Switched to FrEeRuNnErKeRnEl V3.4 (non rooted version)
 
 
 * Gapps build
