@@ -5,7 +5,7 @@ Recommended firmware: 1.0.2.0 (avoid 1.0.3.0, it might brick your phone)
 Flashing Instructions:
 
 * Clean Flash:
-- Wipe Data
+- Format Data
 - Flash ROM.zip
 - Flash Gapps (if you flashed vanilla and want google apps)
 - Reboot
