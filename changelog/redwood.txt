@@ -1,2 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1610)
-- Updated kernel to Scarlet-v3.2-β-KSU-N
+- Updated blobs from OS2.0.12.0.UMSMIXM
+- Updated kernel to Scarlet-v3.2.1-β-KSU-N
+- Fixed emergency call UI in Google Dialer
