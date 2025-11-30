@@ -1,9 +1,9 @@
-Date - 11/11/2025
+Date - 30/11/2025
 =================
 • Version 3.4
 • November Sercurity (rom)
-• Vanilla Builds Now Available
+• Pixel Framework fully Implemented
+• Fixed Bluetooth Audio "NO Alarm/Ringtone" while Connected 
 • Synced with latest Source Changes
-• https://t.me/ProjectInfinityX/1610
 
-Credit: @igram96 (Ionut) for Vanilla Experience
+Credit: @Pyrtle93 (Anthony) for Pixel Framework
