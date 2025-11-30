@@ -3,12 +3,8 @@ Device: Google Pixel 8 Pro (husky)
 First Time Install {{Note: These releases include firmware!!}}
 • Must be on a Stock STABLE Release
 
-Download link for Husky IMGs 
-# Gapps
-• https://sourceforge.net/projects/infinity-x/files/husky/16/gapps/IMGs/
-
-# Vanilla
-• https://sourceforge.net/projects/infinity-x/files/husky/16/vanilla/IMGs/
+Download link for Husky IMGs
+• https://sourceforge.net/projects/infinity-x/files/husky/16/IMGs/
 
 # Recommended Gapps (sideload)
 • https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/16-Jul-2025/
