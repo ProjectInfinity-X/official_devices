@@ -1,3 +1,7 @@
-- Updated blobs from OS2.0.12.0.UMSMIXM
-- Updated kernel to Scarlet-v3.2.1-β-KSU-N
-- Fixed emergency call UI in Google Dialer
+- Source Changelog (https://t.me/ProjectInfinityX/1618)
+- Enhanced audio
+- Updated display stack
+- Updated Camera blobs from latest stock
+- Fixed connecting BLE (bt 5.x) devices
+- Fixed broken mic when speaker is on during calls
+- Optimized power management and performance
