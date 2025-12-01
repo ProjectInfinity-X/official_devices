@@ -1,7 +1,33 @@
-Device: Poco F7/ Redmi Turbo 4 Pro
-Device code name : onyx
-Device maintainer: SharmagRit
+- Source Changelog (https://t.me/ProjectInfinityX/1618)
 
-Date- 01/11/2025
-================
-Initial official build for onyx
+- Device side:
+* onyx: Opt out of speaker_layout_channel_mask field
+* onyx: overlay: Remove config_cellBroadcastAppLinks
+* onyx: wifi: Enable Optimized Power Management
+* onyx: Declare WiFi Aware support to WiFi HAL
+* onyx: Build android.frameworks.sensorservice@1.0.vendor
+* onyx: Set VENDOR_SECURITY_PATCH to PLATFORM_SECURITY_PATCH
+* onyx: Don't explicitly set as an AB target
+* onyx: props: Disable FRP
+* onyx: overlay: Disable Smart Pixels on UDFPS
+* onyx: overlay: Enable Smart Pixels
+* onyx: init: Set dex2oat thread count and cpuset
+* onyx: overlay: Disable world_mode_enabled_bool
+* onyx: overlay: Set preferred refresh rate on lockscreen to 90
+* onyx: Implement DSPVolumeSynchronizer
+* onyx: dolby: Introduce Dolby Atmos
+* onyx: overlay: Set default dialer package name
+* onyx: overlay: Use the new auto network selection UI
+* onyx: props: Set debug.sf.latch_unsignaled to 1
+* onyx: props: Set debug.sf.auto_latch_unsignaled to 0
+* onyx: props: Set game refresh rate override to 120
+* onyx: overlay: Limit screen recorder's framerate to 120
+* onyx: overlay: Set preferred refresh rate on keyguard to 90
+* onyx: overlay: Show min/max refresh rate in settings
+* onyx: overlay: Provide MIUI color mode options
+* onyx: overlay: Disable turbulence noise
+* onyx: rootdir: Remove package cache on early boot
+* onyx: Migrate QTI power HAL to soong_config_set
+* onyx: Build Lineage Health HAL
+* onyx: Set default thermal profile
+* onyx: Update blobs & fingerprint from OS2.0.204.0.VOLMIXM
