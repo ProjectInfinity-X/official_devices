@@ -1,13 +1,14 @@
-Date - 18/11/2025
+Date - 02/12/2025
 =================
-- Source Changelog: https://t.me/ProjectInfinityX/1610
-- Improve Performance a little
-- sepolicy: Drop no longer used stflashtool rules
-- Use foreground cpuset/uclamp for gralloc
-- Use foreground uclamp for hwcomposer
-- Enable predicted load boosting for yupik
-- Switch hwcomposer to foreground CPU set
-- Do not balance msm_drm and kgsl-3d0 IRQs
-- Import MSM IRQ balancer configuration
-- Disable `thumbnail_block_model` of libstagefright
-- Strong Integrity by default
+- Source Changelog: https://t.me/ProjectInfinityX/1618
+- For play integrity, read this: https://t.me/ProjectInfinityX/1611
+- Commonize force_charging_disable sepolicy
+- Remove vendor/infinity device framework matrix inclusion
+- Enable R8 Java optimizations flag
+- Enable HWUI_COMPILE_FOR_PERF
+- Disable sf EGL image tracking
+- Enable AOSP surfaceflinger
+- Use HintManager for HWUI
+- perf: Enable the pre-rendering feature
+- Enable config_avoidGfxAccel 
+- Disable VSync for CPU rendered apps
