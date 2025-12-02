@@ -1,7 +1,8 @@
-- Source changelog (https://t.me/ProjectInfinityX/1610)
-- Rebased on latest 8350 common kernel
-- Update blobs from OS2.0.5.0.UMQMIXM
-- Move Recovery resources to vendor_boot
-- Bring back parts
-- Various tweaks in kernel for better performance and ram management
+- Source changelog (https://t.me/ProjectInfinityX/1618)
+- December Security Patch
+- Revert back to recovery in boot
+- Switch to minimal kernel
+- Fix custom recovery being broken
+- Disable unnecessary logging
+- Enable full ART optimizations with VDEX/ODEX
 - Synced with latest source
