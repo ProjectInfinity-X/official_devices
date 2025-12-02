@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.4-begonia-01.11.2025-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/begonia/16/vanilla/Project_Infinity-X-3.4-begonia-01.11.2025-VANILLA-OFFICIAL.zip",
-			"timestamp": 1762004070,
-			"md5": "5ea89b1d8835304770ec7ace4933523f",
-			"size": 1706120198,
-			"version": "3.4"
+			"filename": "Project_Infinity-X-3.5-begonia-01.12.2025-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/begonia/16/vanilla/Project_Infinity-X-3.5-begonia-01.12.2025-VANILLA-OFFICIAL.zip",
+			"timestamp": 1764608706,
+			"md5": "30ca2b188d4c743f80f614553b4ae02e",
+			"size": 1705980215,
+			"version": "3.5"
 		}
 	]
 }

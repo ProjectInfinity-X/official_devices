@@ -1,39 +1,4 @@
-Device: Redmi Note 8 Pro
-Device code name : begonia
-Device maintainer: ShantanuPC
-
-Date - 01/11/2025
-=================
-• Synced with latest 3.4 source
-• Based on November security patch
-• Fixed USB tethering
-
-Date - 22/10/2025
-=================
-• Synced with latest 3.3 source
-• Based on October security patch
-• Fixed Video Playback issues in some apps
-• Enabled Blur (You can disable it from Display Settings > Turn off "Window Level Blurs" if you feel UI laggy)
-
-Date - 15/10/2025
-=================
-• Synced with latest 3.3 source
-• Based on October security patch
-• Fixed 30fps Video Recording issue in MIUI Camera
-• Switch to AIDL bluetooth service
-• Fixed WPA3 Hotspot loading issues
-• Enabled UFFD GC Support (Memory management related)
-• Switch to NCM USB tethering
-• Disabled Blur
-• Added FM Radio
-• Included latest PoWeR kernel
-
-Date - 10/08/2025
-=================
-• Initial A16 build
-• Synced with latest 3.1 source
-• Based on August security patch
-
-Bugs:
-• 30fps video recording not working in Leica camera
-• Camera in Telegram not working
+Date: 02/12/2025
+- Source changelog (https://t.me/ProjectInfinityX/1618)
+- Synced with latest 3.5 Source
+- Based on December security patch
