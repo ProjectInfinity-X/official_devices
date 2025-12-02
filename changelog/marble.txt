@@ -1,7 +1,1 @@
-- Synced With Latest Source (https://t.me/ProjectInfinityX/1610)
-- Update blobs from OS2.0.210.0.VMRMIXM
-- Kernel upstream 5.10.245
-- Switch to armv8-2a-dotprod arch variant for better smoothness
-- Disable FRP
-- Fix the auto brightness
-- overlay: Turn on display before resuming AOD
+- Synced With Latest Source (https://t.me/ProjectInfinityX/1618)
