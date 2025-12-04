@@ -1,50 +1,6 @@
-Device: Redmi Note 10
-Device code name : mojito
-Device maintainer: KALCHAKRA|ROMGHARTI
-======================================
-02/11/2025
-- Minor changes and improvements
-
-20/10/2025
-- Minor changes and improvements
-
-17/10/2025
-- Reimplement flashlight strength control.
-
-11/10/2025
-- Add vendor prefix to sysfs_battery_supply
-- Update kernel config to meet VINTF
-- Minor changes and improvements.
-
-03/09/2025
-- Included a new interface IFastCharge alongside the existing IChargingControl interface.
-- Minor changes and improvements.
-
-11/8/2025
-- Added support for ViPER4AndroidFX
-- Minor changes and improvements
-- Camera changes:
-- Parallel processing enabled.
-- Removed unnecessary options: Steady video, Short film, and Supermoon.
-- Image stabilization disabled by default.
-- Automatic Documents Mode enabled.
-- Fixed a crash after shooting while zoomed in.
-- Enabled pocket mirror.
-- Removed unsupported slow motion at 960 fps; only 120 & 240 fps are supported as standard.
-- Themed icons supported.
-- Added Advanced Settings in Camera Settings.
-
-02/08/2025
-- Minor changes and improvements
-
-24/7/2025
-- Fixed minor jitters on system UI.
-- Fixed low brightness of torch.
-- Add missing permissions for fpc sysfs node.
-- Other more changes and improvements
-
-22/7/2025
-- Fix video recording in Leica cam
-
-20/7/2025
-- Initial Android 16 release
+Source changelog: (https://t.me/ProjectInfinityX/1618)
+Device changelog:
+04/12/2025
+- Fixed EIS video
+- Fixed lag when transitioning between menus, such as the Settings app
+- Other more changes and improvements.
