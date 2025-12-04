@@ -2,6 +2,20 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 04/12/2025
+=================
+Device:
+- Update blobs and firmware from OS2.0.205.0.VLFMIXM
+- Added missing sepolicy
+- Updated dax-default.xml
+- Fix overlay for custom ambient display
+- set 60hz refresh rate for AOD
+
+Kernel:
+- Merge android12-5.10
+- Merge android12-5.10-lts
+- And More...
+
 Date - 04/11/2025
 =================
 - Update blobs and firmware for diting from OS2.0.203.0.VMNMIXM
