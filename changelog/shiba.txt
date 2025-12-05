@@ -1,9 +1,6 @@
-Date - 30/11/2025
+Date - 04/12/2025
 =================
-• Version 3.4
-• November Sercurity (rom)
-• Pixel Framework fully Implemented
-• Fixed Bluetooth Audio "NO Alarm/Ringtone" while Connected 
+• Version 3.5
+• December Sercurity (rom) 
 • Synced with latest Source Changes
-
-Credit: @Pyrtle93 (Anthony) for Pixel Framework
+• Source changelog (https://t.me/ProjectInfinityX/1618)

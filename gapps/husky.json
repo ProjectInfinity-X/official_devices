@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.4-husky-30.11.2025-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/husky/16/gapps/Project_Infinity-X-3.4-husky-30.11.2025-GAPPS-OFFICIAL.zip",
-			"timestamp": 1764461700,
-			"md5": "b3588dcae5a9247d133acdb32a6e50e4",
-			"size": 2934118388,
-			"version": "3.4"
+			"filename": "Project_Infinity-X-3.5-husky-04.12.2025-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/husky/16/gapps/Project_Infinity-X-3.5-husky-04.12.2025-GAPPS-OFFICIAL.zip",
+			"timestamp": 1764865373,
+			"md5": "57a3e2d44a739b054145b993568ad256",
+			"size": 2917478902,
+			"version": "3.5"
 		}
 	]
 }
