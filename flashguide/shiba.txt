@@ -7,7 +7,7 @@ Download link for Shiba IMGs
 • https://sourceforge.net/projects/infinity-x/files/shiba/16/IMGs/
 
 # Recommended Gapps (sideload)
-• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/16-Jul-2025/
+• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/28-Nov-2025/
 
 Gapps/Vanilla
 • Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
