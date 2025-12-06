@@ -1,3 +1,4 @@
-- Synced With Latest Source (https://t.me/ProjectInfinityX/1610)
-- Updated all XiaomiParts [Thermal Profiles,hbm,dc dim etc..] UI to MD3 Expressive 
-- Added Revanced 
+- Source changelog (https://t.me/ProjectInfinityX/1618)
+- Removed Revanced Stuff
+- Added Bypass charging QS tile
+- Switch to FD 1.9 kernel with Bypass charging support
