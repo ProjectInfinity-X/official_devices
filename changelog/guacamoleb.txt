@@ -2,15 +2,11 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 10/15/2025
+Date - 12/06/2025
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1610
-• Fix a bug where large file transfers via USB cable cancel mid-transfer
-• Revert a prop which was impacting display responsiveness
-• Fix some sepolicy denials
+• Source Changelog: https://t.me/ProjectInfinityX/1618
+• Enable UXE
+• Update Pinner service
+• Update CarrierConfig from nabu OS1.0.6.0.TKXMIXM
 • Sync kernel with LineageOS-23.0
-• Screen attention feature is dropped as source moved to settingintelligence package in GMS
-• Enable fbeV2 for f2fs data
-• Align fstab erofs props with the standard from AOSP
 • Misc. Improvements and fixes.....
-Note: Clean Flash Mandatory from V3.3
