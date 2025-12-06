@@ -1,9 +1,8 @@
-• November Security Patch Level
+• December Security Patch Level
 • Positron kernel With Ksu Not enabled by default. To Enable KSU flash this (https://t.me/sdm695devbuilds/11582)
 • Gapps Build Only
 • Passes Basic, Device Integrity OUT-OF-THE-BOX
 • Added Oneplus Dolby
 • NFC works for all the variants.
 • Contains fully functional Miui Camera.
-• Dirty flashing will work, but due to tree changes i will recommend clean installation for best experience.
-• Read More Changelogs here (https://t.me/sdm695buildupdates/520)
+• Dirty flashing will work from latest 3.4 version.
