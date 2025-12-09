@@ -1,3 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
-- Fixed leica camera crash when enabling steady video mode
-- Fixed no alarm/ringtone sound when bluetooth device connected
+- Source changelog (https://t.me/ProjectInfinityX/1619)

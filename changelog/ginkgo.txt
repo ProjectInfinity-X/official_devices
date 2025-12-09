@@ -1,4 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
-- Fixed micam video recording mode freeze on 30fps quality or image stablization enabled (Sorry for taking so long to fix this, since i didn't have the functional device in my hand till date to fix it)
-- Fixed no alarm/ringtone sound when bluetooth device connected
-- Fixed CPU temp info values display being multiplied by 1000
+- Source changelog (https://t.me/ProjectInfinityX/1619)
