@@ -1,7 +1,7 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1618)
-- Enhanced audio
-- Updated display stack
-- Updated Camera blobs from latest stock
-- Fixed connecting BLE (bt 5.x) devices
-- Fixed broken mic when speaker is on during calls
-- Optimized power management and performance
+- Source Changelog (https://t.me/ProjectInfinityX/1619)
+- Tweaked Audio
+- Tweaked Memory Management
+- Disabled Blur
+- Switch to vendor-defined color modes
+- Disabled game default frame rate limiter
+- Changed default preferred network mode value
