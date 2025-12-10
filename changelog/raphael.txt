@@ -2,6 +2,14 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 10-12-2025
+=================
+- Sync with latest source
+- Fixed random reboot
+- Switch to boolx kernel
+- Rework on uclamp and powerhint
+- Some minor changes
+
 Date - 01-11-2025
 =================
 - Sync with latest source
