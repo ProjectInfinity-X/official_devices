@@ -1,8 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
-- Update Adreno GPU driver from v502.0 to v783.2
-- Update UDFPS pressed color
-- Fixed ringtone/alarm sound not working when connected to bluetooth device
-- Uprev audio hal to v7.0
-- Switch to prebuilt audio libs
-- Adjust UDFPS animation params
-
+- Source changelog (https://t.me/ProjectInfinityX/1619)
