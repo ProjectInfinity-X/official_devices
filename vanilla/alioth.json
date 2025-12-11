@@ -1,12 +1,12 @@
 {
-	"response": [
-		{
-			"filename": "Project_Infinity-X-3.5-alioth-06.12.2025-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/alioth/16/vanilla/Project_Infinity-X-3.5-alioth-06.12.2025-VANILLA-OFFICIAL.zip",
-			"timestamp": 1765042935,
-			"md5": "6d09e4954e9701066c0e04bce997cf7f",
-			"size": 1633290059,
-			"version": "3.5"
-		}
-	]
+        "response": [
+                {
+                        "filename": "Project_Infinity-X-3.5-alioth-11.12.2025-VANILLA-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/alioth/16/vanilla/Project_Infinity-X-3.5-alioth-11.12.2025-VANILLA-OFFICIAL.zip",
+                        "timestamp": 1765460281,
+                        "md5": "6093ce2cddfa0476044c646306337cb4",
+                        "size": 1631622563,
+                        "version": "3.5"
+                }
+        ]
 }
