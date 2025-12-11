@@ -1,4 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
-- Removed Revanced Stuff
-- Added Bypass charging QS tile
-- Switch to FD 1.9 kernel with Bypass charging support
+- Sync with latest Source (https://t.me/ProjectInfinityX/1619)
+- Fixed Double tap to ambient
+- Fixed Flashlight Intensity
