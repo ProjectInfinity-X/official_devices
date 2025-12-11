@@ -1,10 +1,10 @@
 Device: POCO F6 (peridot)
 
-Flash Guide for 3/11/2025 build 3.4 - and above
+Flash Guide for 11/12/2025 build 3.5 - and above
 
 * Clean Flash if you were facing random reboots on previous build
 
-Download all files from: https://sourceforge.net/projects/infinity-x/files/peridot/16/recovery/recovery-3.4
+Download all files from: https://sourceforge.net/projects/infinity-x/files/peridot/16/recovery/recovery/
 
 ---------------- Use only HyperOS 2.0.202+ fw. ----------------
 
