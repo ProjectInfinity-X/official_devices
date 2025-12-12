@@ -1,6 +1,7 @@
-Date - 04/12/2025
+Date - 11/12/2025
 =================
 • Version 3.5
-• December Sercurity (rom) 
+• December Sercurity (rom)
+• Fixed "deeptouch" issues
 • Synced with latest Source Changes
-• Source changelog (https://t.me/ProjectInfinityX/1618)
+• Source changelog (https://t.me/ProjectInfinityX/1619)
