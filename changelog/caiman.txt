@@ -2,6 +2,14 @@ Device: Google Pixel 9 Pro
 Device code name : Caiman
 Device maintainer: Pyrtle93
 
+Date - 12/13/2025
+=================
+- December Sercurity (rom) 
+- Synced with latest Source Changes
+- Source changelog (https://t.me/ProjectInfinityX/1618) -  (https://t.me/ProjectInfinityX/1619)
+- Added Pixel Frameworks
+- Various improvments/cleanups
+
 Date - 09/08/2025
 =================
 - Synced with 3.2 source
