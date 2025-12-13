@@ -6,7 +6,7 @@ Flashing Instructions:
 Recovery Build - with custom recovery
 
 • Flash custom recovery and boot to recovery
-• Flash latest FW (no need if already using latest)
+• Flash latest FW
 • Flash Rom zip (If face error flash super_empty.img or try merge snapshot)
 • Reboot to recovery
 • Flash Gapps package (if vanilla)

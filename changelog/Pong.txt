@@ -1,6 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1606)
-- Fix custom Glyph animation running even after end/pick
-- Introduce Glyph schedule feature
-- Enable WiFi 6E support
-- Drop KSU support
-- Set SurfaceFlinger uclamp.min to 20%
+- Source changelog (https://t.me/ProjectInfinityX/1619)
+- Update to Pong_B4.0-251119-1654
+- Update displayconfig and bringback sdrhdrRatio
+- Optimize dalvik vm heap parameters
+- Utilize MaxPerformance task_profile
