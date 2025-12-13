@@ -1,11 +1,16 @@
-- Pass strong integrity by default once again
-- Fixed issue with playstore showing some apps (Eg. JioFinance etc.) as not compatible on the device
-- The fix for Google pay contactless payment (tap to pay) is also added by default but this may not last forever and always needs a valid unrevoked keybox >
-- Add toggles to spoof Snapchat, Netflix, Google app to pixel model in spoofing settings
-- Add toggle to disable playstore spoof.
-- Disabling in-rom playintegrity fix is also made more effective now.. If you wish to apply playintegrityfix from external modules, you can disable in-rom >
-- Fixed hide screen capture status feature
-- Allow monet settings chroma factor / luminance sliders to achieve negative values
-- Add toggle for ambient media art (author: neobuddy89)
-- Enable "install available apps" in Settings (author: empratyush)
-- Add translations to LMOFreeForm
+- Merge tag 'android-security-16.0.0_r3' to multiple repos (Considerably huge changes)
+- Fix high battery drain / temperature rise in some normal-use instances that occured after v3.4 release
+- Fix higher idle drain loop in longer period of inactivity like at night
+- Allow user to enable glass blur effect system-wide, (its even better on qs panel which comes without any artefacts like that are present on default AOSP blur) (author: rmp22)
+- Fix a case where default dialer couldn't be opened and crashes repeatedly on some specific monet settings
+- Allow disabling HDR display boot (author: rmp22)
+- Allow controlling HDR display brightness (author: rmp22)
+- Don't remove gamespace app from recents on exit (author: neobuddy89)
+- Fix adaptive playback toggle reset on page exit
+- Smoothen animations and transitions 
+- Allow importing GIF too as custom header image (author: kamikaonashi)
+- Disable keybox spoofing too if user disables "play integrity fix" toggle
+- Attempt fixing some missing system languages on vanilla variant (couldn't test, since i never faced it on my device)
+- Add Volte Round font (author: drkphnx)
+- Fix file descriptor leak in dialer CallRecorderService (author: muhomorr)
+- Don't show UNKNOWN but actual values for device specs in about phone if aboutphone props not set
