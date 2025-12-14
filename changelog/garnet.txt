@@ -1,7 +1,1 @@
-garnet: Parts: Remove AdBlocker Temporary (it fisex private dns settings)
-garnet: Parts: Optimize codes to garnet GPU/CPU/Performance (it's a big work, now like a knife in butter)
-garnet: Parts : Add SMART ThermalProfile
-garnet: Parts: Improve Zram Settings 
-garnet: Fix Bluetooth SCO audio routing for legacy car kits
-garnet: wlan: Enable STA-SAP-P2P concurrency (hotspot and wifi works together)
-garnet: wlan: Enable self recovery
+No changes ins DT now... because its cool
