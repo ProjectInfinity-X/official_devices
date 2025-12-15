@@ -1,1 +1,4 @@
+- Tune powerhint for better performance & battery backup
+- Set debug.sf.disable_client_composition_cache to 0
+- Misc improvements
 - Synced With Latest Source (https://t.me/ProjectInfinityX/1618)
