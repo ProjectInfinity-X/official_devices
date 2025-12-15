@@ -2,6 +2,14 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 15-12-2025 (HOTFIX)
+=================
+- Fixed QR Scanner
+- Fixed pocket mode
+- Bring back KProfile
+- Revert back to uclamp/powerhint chnages
+- Fine tune the powerhint for better efficiency
+
 Date - 10-12-2025
 =================
 - Sync with latest source
