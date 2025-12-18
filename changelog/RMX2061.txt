@@ -1,39 +1,30 @@
-Date - 15-11-2025
-=================
+Changelog:
 
-DEVICE SOURCE :
-* Now ship official build with no root and user variant. For the sake of banking apps.
-* Default kernel comes with new tweaks : Quantum16 kernel
-* Removed unused Dolby post-processing to clean up the audio stack
-* Exposed the aux camera globally for full third-party camera support
-* Preloaded the fingerprint HAL earlier to ensure smooth SetupWizard enrollment
-* Updated sepolicy to allow apps to read aux camera properties
-* Enabled HWUI performance compilation for a smoother UI
-* Explicitly disabled GL composition backpressure for more stable rendering
-* Enabled ADPF CPU hints to improve UI responsiveness
-* Enabled Client Composition Cache for better frame stability
-* Enabled ScrollOptimizer to make scrolling feel faster and more fluid
-* Simplified and enabled dexpreopt for quicker app launch times
-* Passed display ID to the fingerprint sensor for improved accuracy
-* Adjusted the status bar height to perfectly align with the Realme 6 Pro cutout
-* Improved signal strength through updated optimization properties
-* Cleaned up network mode conflicts by keeping only vendor side definitions
-* Removed unnecessary dependencies for a lighter device tree
-* Increased system partition size to support larger GApps packages
-* Decommonized the dynamic partition for cleaner device configuration
-* Removed duplicate Dolby declarations in the audio framework
-* Added full Dolby Atmos codec and framework support
-* Replaced disable_configstore with a proper capabilityconfigstore HAL implementation
-
-ROM SOURCE: 
-- Pass strong integrity by default once again
-- Fixed issue with playstore showing some apps (Eg. JioFinance etc.) as not compatible on the device
-- The fix for Google pay contactless payment (tap to pay) is also added by default but this may not last forever and always needs a valid unrevoked keybox to be imported in spoofing settings which you can find and import yourself in future
-- Add toggles to spoof Snapchat, Netflix, Google app to pixel model in spoofing settings
-- Add toggle to disable playstore spoof.
-- Disabling in-rom playintegrity fix is also made more effective now.. If you wish to apply playintegrityfix from external modules, you can disable in-rom playintegrityfix via disabling toggle "InfinitySuite > Miscellaneous > Spoofing > Play integrity fix"
-- Fixed hide screen capture status feature
-- Allow monet settings chroma factor / luminance sliders to achieve negative values
-- Add toggle for ambient media art
-- Enable "install available apps" in Settings
-- Add translations to LMOFreeForm
+ * Added Calendar app to the build
+ * Added AudioFX support
+ * Fixed missing auxiliary camera lens in Aperture
+ * Enabled frame pacing for smoother visual performance
+ * Cleaned up leftover charging bypass components
+ * Removed Charging Control v2 implementation
+ * Removed QS tile changes related to charging and info panels
+ * Removed Sony Dolby Atmos integration
+ * Removed Spatial Audio synchronization changes
+ * Removed Dolby Atmos codec and framework support
+ * Removed duplicate Dolby audio declarations
+ * Removed unused Dolby post-processing audio effects
+ * Removed charging bypass support
+ * Removed manual charging bypass toggles
+ * Removed charging bypass sepolicy rules
+ * Removed charging bypass node fixes
+ * Removed system app permissions for charging bypass control
+ * Disabled blur features
+ * Reworked fingerprint HAL and enabled early preload for first-boot SetupWizard experience
+ * Adjusted navigation bar padding overlay values
+ * Adjusted status bar height overlay values
+ * Moved display density configuration from BoardConfig.mk to system.prop
+ * Added QTI Health AIDL service support (including recovery)
+ * Updated OMX dependencies to align with latest sources
+ * Removed redundant fingerprint system property
+ * Fixed NFC APEX platform availability check
+ * Tuned brightness values to better match stock ROM behavior
+ * Removed brightness optimization overlay parameters
