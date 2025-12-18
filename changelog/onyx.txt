@@ -1,26 +1,15 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1618)
+- Source Changelog (https://t.me/ProjectInfinityX/1619)
 
 Device side:
-- Opt out of speaker_layout_channel_mask field
-- Remove config_cellBroadcastAppLinks
-- Enable Optimized Power Management
-- Declare WiFi Aware support to WiFi HAL
-- Build [android.frameworks.sensorservice@1.0.vendor]
-- Set VENDOR_SECURITY_PATCH to PLATFORM_SECURITY_PATCH
-- Disable Smart Pixels on UDFPS
-- Disable world_mode_enabled_bool
-- Set preferred refresh rate on lockscreen to 90
-- Introduce Dolby Atmos
-- Use the new auto network selection UI
-- Set debug.sf.latch_unsignaled to 1
-- Set debug.sf.auto_latch_unsignaled to 0
-- Set game refresh rate override to 120
-- Limit screen recorder's framerate to 120
-- Set preferred refresh rate on keyguard to 90
-- Show min/max refresh rate in settings
-- Provide MIUI color mode options
-- Disable turbulence noise
-- Migrate QTI power HAL to soong_config_set
-- Build Lineage Health HAL
-- Set default thermal profile
-- Update blobs & fingerprint from OS2.0.204.0.VOLMIXM
+- Some mics changes in boosts
+- Disable Lift to check by default
+- Partially import parts from sm8350-common:
+* Thermals
+* Per-app refresh rate
+* Clear speaker
+* Doze
+- Force enable volte and wifi calling
+- Fixed USSD dial issue
+- Enabled 120Hz Keyguard
+- Optimize SurfaceFlinger properties for graphics performance(This should improve graphics performance, smoothness, and screen responsiveness)
+- Add Gcam by default
