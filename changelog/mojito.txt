@@ -1,6 +1,1 @@
-Source changelog: (https://t.me/ProjectInfinityX/1618)
-Device changelog:
-04/12/2025
-- Fixed EIS video
-- Fixed lag when transitioning between menus, such as the Settings app
-- Other more changes and improvements.
+Source changelog: (https://t.me/ProjectInfinityX/1619)
