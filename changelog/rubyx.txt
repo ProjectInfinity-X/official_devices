@@ -1,0 +1,12 @@
+Device code name : rubyx
+Device maintainer: aeronruless
+
+Date - 20/12/2025 (v3.5 Android 16 Stable)
+=================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1618)
+• Initial Official Release
+• Device As Webcam has been added
+• Viper4AndroidFX is included and works alongside Dolby Atmos
+• Firmware is included
+• MIUI Camera inbuilt
+• Dolby Atmos is included
