@@ -1,7 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1610)
-- Upstreamed electro kernel to v6
-- Disable per-cgroup PSI accounting
-- Fixed carrier video calling
-- Adapted few props for better snappiness
-- Introduce Monitor system overlay(In system settings)
-- Disable pinner service
+- Source changelog (https://t.me/ProjectInfinityX/1619)
+- Final QPR0 release
