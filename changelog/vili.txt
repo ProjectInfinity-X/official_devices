@@ -1,9 +1,7 @@
 Source Changelog: https://t.me/ProjectInfinityX/1610
 
 Device side:
-• Fixed System Updater crash
-• sm8350-common: prop: Expose aux cameras for Aperture
-• sm8350-common: Update display stack from sunstone
-• sm8350-common: Disable redir_party_num
-• sm8350-common: audio: Switch to source volumes
-• sm8350-common: Enabling sound trigger V2_3
+• sm8350-common: Update Display blobs
+• sm8350-common: audio: Use AOSP USB v2 audio HAL
+• sm8350-common: audio: Enable AOSP bluetooth audio HAL v2
+• sm8350-common: sepolicy: Label missing wakeup nodes
