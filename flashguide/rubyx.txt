@@ -1,0 +1,25 @@
+Device: Redmi Note 12 Pro/ Pro+ 5G/ Discovery Edition
+
+Use the recommended recovery that's provided in the rom post, or use this: https://pixeldrain.com/u/xoVsBpcm
+
+Flashing Instructions:
+
+* Clean Flash:
+- Go to fastboot mode
+- Flash the boot image (the recovery is in the boot image) using *fastboot flash boot <path_to_boot.img>*
+- After Flashing, go to recovery using *fastboot reboot recovery*
+- Click on Format Data and clear all data
+- Then click on Apply Update > ADB Sideload
+- Then sideload the rom.zip from pc using *adb sideload <path_to_rom.zip>*
+- For vanilla users, reboot to recovery again after sideloading if you wish to install GApps of your choice, else ignore
+- Click Reboot to System and done
+
+* Dirty Flash:
+- Go to recovery mode directly
+- Then click on Apply Update > ADB Sideload
+- Then sideload the rom.zip from pc using *adb sideload <path_to_rom.zip>*
+- For vanilla users who were using GApps of their choice before, you need to reflash that GApps so as to prevent crashings
+- Click Reboot to System and done
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
