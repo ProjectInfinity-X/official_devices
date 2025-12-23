@@ -1,2 +1,2 @@
 - Source changelog (https://t.me/ProjectInfinityX/1619)
-- Final QPR0 release
+- HOTFIX release(Fixed random reboots)
