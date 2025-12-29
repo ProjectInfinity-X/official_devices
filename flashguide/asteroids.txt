@@ -1,4 +1,4 @@
-Device: Redmi Note 8 Pro (begonia)
+Device: Nothing Phone 3a / 3a Pro (asteroids)
 
 Images: https://sourceforge.net/projects/infinity-x/files/asteroids/16/images/
 
