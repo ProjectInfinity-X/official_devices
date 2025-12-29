@@ -1,1 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1619)
+- Source changelog (https://t.me/ProjectInfinityX/1688)
+• Adapt dolby app layout to Material expressive
+• Ensure persisting value after toggling Dolby QS tile
