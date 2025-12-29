@@ -1,1 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1619)
+- Source changelog (https://t.me/ProjectInfinityX/1688)
+• Ship sm6125-common 4.14.356-openela-perf kernel by default
+• Drop XiaomiParts (nodes incompatible with new kernel plus pretty useless while every feature there is available src side or via utilities like livedisplay/dolby)
+• Enable UFFD Garbage Collection
+• Adapt dolby app layout to Material expressive
+• Ensure persisting value after toggling Dolby QS tile
