@@ -1,1 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1619)
+- Remove some broken toggles post QPR1
