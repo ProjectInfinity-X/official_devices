@@ -1,7 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
-- Initial Official Release
-- Device As Webcam has been added
-- Viper4AndroidFX is included and works alongside Dolby Atmos
-- Firmware is included
-- MIUI Camera inbuilt
-- Dolby Atmos is included
+- Source changelog (https://t.me/ProjectInfinityX/1688)
+- Drop 90Hz completely (90Hz makes the display have weird tint)
+- Device As Webcam has been added 
+- Viper4AndroidFX is dropped
+- LZ4 compression algorithm added for better ZRAM handling
