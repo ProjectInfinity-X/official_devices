@@ -2,6 +2,13 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 30/12/2025
+=================
+Device:
+- Xiaomi camera has been updated
+- Updated kernel and some fixes
+- Many optimizations and fixes were made.
+
 Date - 04/12/2025
 =================
 Device:
