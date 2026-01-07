@@ -1,12 +1,11 @@
-- Source changelog (https://t.me/ProjectInfinityX/16190)
-- Added per app HTSR and HTSR tile
-- Switch performance mode governor to walt 
-- Fixed AOD flickering
-- Disabled RX wakelock feature
-- Disabled dex2oat debugging
-- Suppressed selinux denials
-- Toned down bunc of useless log spams
-- Added support for more TCP algorithms
-- Switched default TCP to westwood
-- Bump cpu time percent for hintmanager to 40%
-  
+- Source changelog (https://t.me/ProjectInfinityX/1689)
+- Fixed XiaomiParts Crash
+- Fixed connecting BLE (bt 5.x) devices (smart watches, etc.)
+- Enabled Qualcomm TrueWireless™ Stereo
+- Disabled sdm rotator downscaler
+- Enabled 120 FPS for ScreenRecorder
+- Bumped some frequencies to fix occasional stutter and jitters
+- Reduced system server verbosity
+- Upstream kernel to 6.1.158
+- Upstream with latest clo tags 
+- Disabled backpressure propagation in SF  
