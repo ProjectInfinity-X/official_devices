@@ -1,3 +1,8 @@
+Date - 07/01/2025
+=================
+- Update Kernel to 5.4.302
+- Some more minimal changes in device trees
+
 Date - 10/12/2025
 =================
 - Added device as webcam support
@@ -43,21 +48,3 @@ Date - 5/9/2025
 - Changed Dolby UI
 - Fixed Dolby crash in logs
 - More minimal dt changes
-
-Date - 11/08/2025
-=================
-- Fixed CN 64MP Cam
-- Fixed crackling sound issue upon notifications
-
-Date - 09/08/2025
-=================
-- Switch from time_daemon to TimeKeep
-- Decommonize libQnnHtpStub
-- Commonize citsensor stack
-- Move citsensorservice to background cpuset
-- CN Cam Broken
-
-Date - 28/07/2025
-=================
-• Fixed CN 64MP Cam
-
