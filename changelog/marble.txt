@@ -1,4 +1,11 @@
-- Tune powerhint for better performance & battery backup
-- Set debug.sf.disable_client_composition_cache to 0
+- Infinity x 3.5 EOl Build
+- Improved overall ui smoothness and responce 
+- Drop libperf mgr and switched to stock qti perf, stock seems to have better performance
+- New dolby ui and improved dolby audio quality
+- Import perf lm and power blobs
+- Thermal-proflies : rewrite in kotlin
+- Disable doze brightness handling every time, this seems to fix the auto brightness issues 
+- Opt out of speaker_layout_channel_mask field
+- Update blobs from latest global (as of now OS2.0.211.0.VMRMIXM)
+- fixup! Do not balance msm_drm and kgsl_3d0 IRQs
 - Misc improvements
-- Synced With Latest Source (https://t.me/ProjectInfinityX/1618)
