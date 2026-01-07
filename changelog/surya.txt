@@ -1,4 +1,4 @@
-=================
-* Fixed NFC
-* Include Dolby
+* Source Changelog (https://t.me/ProjectInfinityX/1689)
+* Initial Build
 * Include Leica Camera
+* Misc improvements and changes
