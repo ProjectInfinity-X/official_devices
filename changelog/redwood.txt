@@ -1,7 +1,8 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1619)
-- Update blobs from OS2.0.13.0.UMSMIXM
-- Includes Firmware
-- Switched to Source Volumes
-- Enabled CameraX Extensions Support
-- Updated Kernel to Scarlet-v3.2.2-KSU-N
-- Adjusted Status Bar padding
+- Source Changelog (https://t.me/ProjectInfinityX/1689)
+- Restored blur and fixed QS lag when blur enabled
+- Fixed VoLTE and VoWifi on secondary SIM slot
+- Fixed Google Cast Audio
+- Updated blobs from OS2.0.16.0.UMSMIXM
+- Firmware Included
+- Fixed Night Light and Extra Dim brightness
+- Switched to Oneplus Dolby Atmos
