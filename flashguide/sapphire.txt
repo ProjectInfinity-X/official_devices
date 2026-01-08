@@ -1,0 +1,17 @@
+Device: Redmi Note 13 4G / NFC
+Recommended Recovery: https://orangefox.download/device/65a5a3287ac2a93129dc9543
+
+Flashing Instructions:
+
+* Clean Flash:
+- Download the ROM
+- Boot into recovery
+- Flash ROM.zip
+- Format data
+- Reboot
+
+* Dirty Flash:
+- Reboot to recovery
+- Flash ROM.zip
+- Wipe Cache, Dalvik
+- Reboot

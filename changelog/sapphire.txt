@@ -1,0 +1,8 @@
+Device: Redmi Note 13 4G / NFC
+Device code name : sapphire/sapphiren
+Device maintainer: Liekoo
+
+Date - 1/8/2026
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1688
+- Initial Android 16 Build
