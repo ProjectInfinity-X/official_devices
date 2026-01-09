@@ -1,1 +1,27 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618) & (https://t.me/ProjectInfinityX/1619)
+Date - 09/01/2026
+
+- Fixed SELinux denial for P3 color mode property
+- Fixed camera denial for proc_meminfo access
+- Allowed hal_camera_default to find QSPM HAL
+- Allowed access to system pressure and GPU nodes
+- Fixed audio zoom property denial for MiuiCamera
+- Fixed multiple property access denials for MiuiCamera
+- Labeled camera-related shims as same_process_hal_file
+- Centralized all camera-related SELinux policies in the device tree
+- Allowed rild to read default_prop
+- Allowed adbd to read persist.adb.tls_server.enable
+- Allowed vendor init to set SSR property
+- Allowed system_server to write to audioserver_tmpfs
+- Added sys_nice capability to hal_fingerprint_default
+- Disabled verbose camera logs
+- Updated blobs from OS2.0.206.0.VNRMIXM
+- Set VENDOR_SECURITY_PATCH to platform level
+- Forced disabling of low RAM configuration
+- Disabled FRP
+- Disabled EGL image tracking
+- Build / Configuration
+- Fixed keylayout installation path
+- Built XiaomiEuicc from hw/xiaomi
+- Removed vendor/Lineage device framework matrix inclusion
+- Dropped unused gpt-utils configuration in favor of BSG framework
+- Added module suffix to ADSP libQnnSaver
