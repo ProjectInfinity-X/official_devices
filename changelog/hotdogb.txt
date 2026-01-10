@@ -2,6 +2,22 @@ Device: OnePlus 7T
 Device code name : hotdogb
 Device maintainer: GuneetAtwal
 
+Date - 01/10/2026
+=================
+• Merged January 2025 ASB
+• Fixed mic and volume control issues in apps like WhatsApp
+• Optimized Bluetooth performance and power efficiency
+• ART optimizations to improve first-boot performance and app start latency
+• Added QTI vendor adaptations and memory optimizations
+• Imported QCOM audio effects from OnePlus 9R
+• Enabled UXE for improving performance
+• Added Zram writeback feature
+• Switched to LMKD
+• Enabled blurs
+• Dropped unsupported aptx codecs and rank aac below aptx
+• Bump clang version to r563880
+
+
 Date - 10/19/2025
 =================
 • Merged October 2025 ASB
