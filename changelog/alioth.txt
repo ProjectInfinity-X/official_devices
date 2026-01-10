@@ -1,3 +1,6 @@
-- Sync with latest Source (https://t.me/ProjectInfinityX/1619)
-- Fixed Double tap to ambient
-- Fixed Flashlight Intensity
+- Intial a16 qpr 1
+- New Dolby UI
+- Fixed any issue with auto brightness turn on reboot
+- Tune status bar paddings
+
+Note: Only BPF kernels supported
