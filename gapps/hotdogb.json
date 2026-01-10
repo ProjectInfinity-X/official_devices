@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.3-hotdogb-20251018-2209-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/hotdogb/16/gapps/Project_Infinity-X-3.3-hotdogb-20251018-2209-GAPPS-OFFICIAL.zip",
-			"timestamp": 1760825323,
-			"md5": "b14d8f283a2b456b09d7cbe01b2980e5",
-			"size": 1625652858,
-			"version": "3.3"
+			"filename": "Project_Infinity-X-3.6-hotdogb-09.01.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/hotdogb/16/gapps/Project_Infinity-X-3.6-hotdogb-09.01.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1767942493,
+			"md5": "192eaf2077d66fafac1c1c8eda352457",
+			"size": 1631058609,
+			"version": "3.6"
 		}
 	]
 }
