@@ -1,0 +1,6 @@
+Date - 10-01-2026
+- Initial Official build for RM6785 devices
+- Disable high performance transitions
+- Disable blurs by default
+- Drop blur support for 4GB variants
+- Source changelog (https://t.me/ProjectInfinityX/1689)

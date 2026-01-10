@@ -1,0 +1,20 @@
+Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G
+Recommended Recovery: https://telegra.ph/RM6685-PBRP-Downloads-09-03
+
+Flashing Instructions:
+
+* CLEAN FLASH:
+- Clear data, metdata, dalvik-cache, cache 
+- Flash ROM.zip
+- Flash GAPPS ( If you are flashing Vanilla Build - Recommended NikGapps Core)
+- Format Data
+- Format /data and /cache to f2fs
+- Reboot System
+
+* DIRTY FLASH:
+- Flash ROM.zip (flash GAPPS too only if previously using vanilla + gapps build)
+- Wipe dalvik-cache, cache
+- Reboot
+
+* OTA:
+- Simply upgrade via ota updater (either if pushed or via local update import)
