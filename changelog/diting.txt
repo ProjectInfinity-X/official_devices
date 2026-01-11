@@ -2,6 +2,27 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay97
 
+Date - 11/1/2026
+=================
+Device:
+- Update blobs and firmware from OS2.0.206.0.VLFMIXM
+- Update some soong config variables to bool type
+- Disable EGL image tracking
+- Patch qccsyshal to load versioned libprotobuf
+- Patch some blobs to depend on libtinyxml2-v34.so
+- overlay: Drop smooth display toggle
+- sepolicy: allow hal_dms_default to read vendor_audio_prop
+- dolby: add more sepolicy
+- sensors: Increase padding of _oem_msg struct to 264 bytes
+- Disable doze brightness handling every time
+- Opt out of speaker_layout_channel_mask field
+- Many optimizations and fixes were made.
+
+Kernel:
+- Merge android12-5.10
+- Merge android12-5.10-lts
+- And More...
+
 Date - 30/12/2025
 =================
 Device:
