@@ -1,7 +1,7 @@
 Device: Poco M6 Pro 5G / Redmi 12 5G (sky)
 
 Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/sky/recovery.img/download
-Recommended Rooting Solution: https://t.me/VenGeance_Kernels
+Recommended Rooting Solution: https://t.me/VenGeance_Kernels/43
 Recommended Camera: https://t.me/Redmi125GPhotography/3240
 
 NOTE: FW is already included in ROM.

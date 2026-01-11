@@ -1,17 +1,7 @@
-• Synced With Latest Source (https://t.me/ProjectInfinityX/1688)
-• Moved to Xiaomi fingerprint AIDL
-• Fixed keymint service
-• Built nxp service from Source
-• Disabled RescueParty
-• Muted heavy HWUI and other logspams
-• Updated Build Fingerprint from OS2.0.201.0.VMWINXM
-• Updated WFD system blobs from dada OS2.0.217.0.WOCMIXM
-• Shimed WFD with libinput_shim
-• Updated to Lunaris Dolby
-• Removed LHDC and LDAC support for bluetooth
-• Removed Some more stuffs related to bluetooth
-• Removed Some stuffs which are conflicting with A16 QPR1
-• Tried to Fix QS Lags (smooth if blurs are off)
-• Major Improvements & Optimization
-• Majorly Removed Unnecessary things from DT & Complete Rebase
-• Clean Flash Recommended
+• Synced With Latest Source (10.01.2026)
+• Most of the issue is fixed with Latest Source
+• Switched to armv8-2a-dotprod arch variant
+• Fixed Dolby HAL denial
+• Added LDAC & LHDC Support
+• Added BCR
+• Misc Improvements & Optimization
