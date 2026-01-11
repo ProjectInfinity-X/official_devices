@@ -2,6 +2,12 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date -11/11/2025
+================
+- Synced with latest source
+- Fully rebased kernel over los qcom
+- A lot of changes underhood
+
 Date - 02/11/2025
 - Synced with latest source
 
