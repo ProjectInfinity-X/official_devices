@@ -2,8 +2,9 @@ Device: Samsung Galaxy S10+
 Device code name : beyond2lte
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 11/23/2025
-- Switched to FrEeRuNnErKeRnEl V3.4 (non rooted version)
-
+Device Changelog 01/12/2026
+- Bumped FrEeRuNnErKeRnEl to V3.5 (non rooted version)
+- Fixed issues with NFC
 
 * Gapps build
+* Vanlla build
