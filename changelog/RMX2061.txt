@@ -1,30 +1,26 @@
-Changelog:
-
- * Added Calendar app to the build
- * Added AudioFX support
- * Fixed missing auxiliary camera lens in Aperture
- * Enabled frame pacing for smoother visual performance
- * Cleaned up leftover charging bypass components
- * Removed Charging Control v2 implementation
- * Removed QS tile changes related to charging and info panels
- * Removed Sony Dolby Atmos integration
- * Removed Spatial Audio synchronization changes
- * Removed Dolby Atmos codec and framework support
- * Removed duplicate Dolby audio declarations
- * Removed unused Dolby post-processing audio effects
- * Removed charging bypass support
- * Removed manual charging bypass toggles
- * Removed charging bypass sepolicy rules
- * Removed charging bypass node fixes
- * Removed system app permissions for charging bypass control
- * Disabled blur features
- * Reworked fingerprint HAL and enabled early preload for first-boot SetupWizard experience
- * Adjusted navigation bar padding overlay values
- * Adjusted status bar height overlay values
- * Moved display density configuration from BoardConfig.mk to system.prop
- * Added QTI Health AIDL service support (including recovery)
- * Updated OMX dependencies to align with latest sources
- * Removed redundant fingerprint system property
- * Fixed NFC APEX platform availability check
- * Tuned brightness values to better match stock ROM behavior
- * Removed brightness optimization overlay parameters
+* Initial Infinity X V3.6 QPR1 build.
+* Fixed statusbar height padding.
+* Switch to new Dolby Atmos apps.
+* Cleaned up SELinux policy by removing duplicate Oppo property type declarations
+* Fixed LiveDisplay build issues caused by Soong configuration type mismatches
+* Added Dolby Atmos proprietary blobs with full SoundFX support
+* Reserved 2GB of system partition space to better support GApps installation
+* Switched LiveDisplay implementation to Lineage AIDL
+* Added missing vendor power property definitions to fix vendor init SELinux references
+* Removed unused and obsolete SELinux secure element rules
+* Dropped unused protobuf lite library to reduce system clutter
+* Restored access to bootable and deprecated OTA build targets
+* Removed unused android.hardware.power 1.2 vendor HAL
+* Migrated device configuration to AIDL MultiHAL
+* Fixed missing aux camera lens selection in Aperture
+* Enabled frame pacing for smoother and more consistent visual performance
+* Cleaned up leftover charging bypass code paths
+* Fully reverted charging bypass feature and related UI, policy, and node changes for stability
+* Reworked and preloaded fingerprint HAL earlier to ensure reliable SetupWizard enrollment
+* Moved display density configuration to system properties for better consistency
+* Added and migrated to QTI health AIDL service including recovery support
+* Updated OMX dependencies to match latest source requirements
+* Removed redundant fingerprint-related system properties
+* Fixed NFC APEX platform availability detection
+* Tuned brightness values to better match stock ROM behavior
+* Reverted experimental brightness optimization overlay to maintain stability
