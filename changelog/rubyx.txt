@@ -1,4 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1688)
+- Source changelog (https://t.me/ProjectInfinityX/1689)
+- Flashlight Strength Controller has been added
+- UI Blur disabled by default
 - Drop 90Hz completely (90Hz makes the display have weird tint)
 - Device As Webcam has been added 
 - Viper4AndroidFX is dropped
