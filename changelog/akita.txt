@@ -1,6 +1,7 @@
-Date - 11/12/2025
+Date - 13/11/2025
 =================
-• Version 3.5
-• December Sercurity (rom) 
+• Version bump 3.6
+• BP3A QPR1
+• January Sercurity (rom)
 • Synced with latest Source Changes
-• Source changelog (https://t.me/ProjectInfinityX/1619)
+• Source changelog (https://t.me/ProjectInfinityX/1689)
