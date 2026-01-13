@@ -18,29 +18,17 @@ Tip 2: If your device is NOT detected by fastboot on windows, please install the
 Steps for Clean flashing:
 1. Reboot your device to fastboot mode (NOT bootloader) using "adb reboot fastboot"
 
-2. Wipe super:
-
-fastboot wipe-super super_empty.img
-
-3. Flash the following partitions:
-
-fastboot flash vendor_dlkm vendor_dlkm.img
-fastboot flash system_dlkm system_dlkm.img
-
-4. Flash the remaining images:
-
+2. Flash the recovery image:
 fastboot flash recovery recovery.img
-fastboot flash boot boot.img
-fastboot flash dtbo dtbo.img
-fastboot flash init_boot init_boot.img
-fastboot flash vendor_boot vendor_boot.img
 
-5. Reboot your device into the new recovery
+3. Reboot your device into the bootloader
+fastboot reboot bootloader
 
-fastboot reboot bootloader --> recovery mode
-OR
+4. Reboot to the new recovery (in fastbootd mode)
+fastboot reboot fastboot
 
-fastboot reboot recovery
+3. Wipe super:
+fastboot wipe-super super_empty.img
 
 6. In Recovery, choose Apply Update --> Apply from ADB
 
@@ -49,19 +37,26 @@ fastboot reboot recovery
 adb sideload CustomROM.zip
 
 8. Once complete, you will be asked if you have any additional files to install. if you do not, choose No.
-
 9. Factory reset from the main menu.
-
 10. Reboot to system from the main menu.
 
 * Steps for Dirty Flashing new version (From same rom only):
 1. Reboot to recovery: adb reboot recovery
-
 2. Sideload new version zip file: adb sideload Rom.zip
-
 3. Reboot to recovery: adb reboot recovery
-
 4. Reboot to System from recovery
+
+* Steps if you are coming from another custom rom:
+1. Enter Recovery
+2. Choose Apply Update -> Apply from ADB
+3. adb sideload Rom.zip
+4. Once complete, you will be asked if you have any additional files to install. if you do not, choose no
+5. Factory reset from the main menu
+6. Reboot to system from the Main Menu
 
 * OTA:
 1. Simply upgrade via ota updater (either if pushed or via local update import)
+
+Note: Always refer to the phone screen for completion (exit status 0) or errors. reaching only 47% on sideload is and /metadata/ota printing an error after formatting are normal!
+
+Note: If you are updating from an older version and want to root your device, let the device boot unrooted at least once before flashing any patched images!
