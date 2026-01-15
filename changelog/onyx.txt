@@ -1,29 +1,9 @@
 - Source Changelog (https://t.me/ProjectInfinityX/1689)
 
 Device side:
-- Fixing connecting BLE (bt 5.x) devices (smart watches, etc.)
-- Relax RSSI thresholds
-- Initialize High Touch Polling Rate support
-- Introduced TouchSamplingService
-- Set standard display color mode in AOD
-- Introduce displayfeature color service and use MIUI color modes
-- Provide MIUI color mode options
-- Import QCOM audio effects from OnePlus 9R
-- Enable Qualcomm TrueWireless Stereo
-- Switch to AOSPA dolby
-- Fix battery and USB OTG detection
-- Make the UI smoother
-- Define OEM fast charge sysfs node
-- Downscale task snapshots to 80%
-- Set config_wallpaperMaxScale to 1
-- Drop force triple frame buffer
-- Switch to armv8-2a dotprod arch
-- Drop spatial audio(thanks to Javi)
-- Add props to improve battery backup
-- Optimize auto brightness adjustment
-- Tune ambient display burn-in protection
-- [TEMP] Drop some parts:
-* Thermals
-* Per-app refresh rate
-* Clear speaker
-* Doze
+- Drop High Touch Polling Rate support
+- Add back XiaomiParts
+- Fixup fast charging(max upto 50watt)
+- Fixup VoNR on Jio 5G
+- Fixup QCOm audio effcts
+- Add bcr support
