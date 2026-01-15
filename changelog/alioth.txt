@@ -1,6 +1,2 @@
-- Intial a16 qpr 1
-- New Dolby UI
-- Fixed any issue with auto brightness turn on reboot
-- Tune status bar paddings
-
+Sync with latest source
 Note: Only BPF kernels supported
