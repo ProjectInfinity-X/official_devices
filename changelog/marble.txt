@@ -1,14 +1,11 @@
-- Initial Infinity x 3.6 qpr 1 
-- Fixed Bluetooth TWS call audio routing issue
-- Increase padding of _oem_msg struct to 264 bytes
+- dolby improvments
+- auto brightness improvments
+- switched to prebuilt audio hal
+- Use unique_ptr for _oem_msg to avoid memory leaks
+- Update vibrator soong config variable to bool type
+- Disable doze brightness handling every time
+- Import perf lm blobs
+- sensors: Increase padding of _oem_msg struct to 264 bytes
+- Opt out of speaker_layout_channel_mask field
 - Update some soong config variables to bool type
-- Shim WFD with libinput_shim
-- Improved overall ui smoothness and responce 
-- Drop libperf mgr and switched to stock qti perf, stock seems to have better performance
-- New dolby ui and improved dolby audio quality
-- Import perf lm and power blobs
-- Thermal-proflies : rewrite in kotlin
-- Disable doze brightness handling every time, this seems to fix the auto brightness issues 
-- Update blobs from latest global (as of now OS2.0.216.0.VMRMIXM)
-- fixup! Do not balance msm_drm and kgsl_3d0 IRQs
-- Misc improvements
+- update device blobs and camera from OS2.0.216.0.VMRMIXM
