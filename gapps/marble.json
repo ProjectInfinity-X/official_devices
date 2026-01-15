@@ -1,12 +1,12 @@
 {
-        "response": [
-                {
-                        "filename": "Project_Infinity-X-3.6-marble-08.01.2026-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/marble/16/gapps/Project_Infinity-X-3.6-marble-08.01.2026-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1767866449,
-                        "md5": "08743c8cd2431a7d4a0542931bdfbc86",
-                        "size": 2350326047,
-                        "version": "3.6"
-                }
-        ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.6-marble-14.01.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/marble/16/gapps/Project_Infinity-X-3.6-marble-14.01.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1768409898,
+			"md5": "6e4d1cf964684e76bf6e73dc5b4b886d",
+			"size": 2364633194,
+			"version": "3.6"
+		}
+	]
 }
