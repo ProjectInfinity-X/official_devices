@@ -1,1 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1689)
+- Source changelog (https://t.me/ProjectInfinityX/1690)
+- Fixed notification/battery led light & IR Blaster (remote app) with default kernel
