@@ -1,18 +1,7 @@
-Date: 14/01/2026
-- Source changelog (https://t.me/ProjectInfinityX/1689)
+Date: 20/01/2026
+- Source changelog (https://t.me/ProjectInfinityX/1690)
 - Synced with latest 3.6 Source
 - Based on January security patch
-- Fixed Panics and Random Reboots issue
-- Added Dolby Atmos
-- 12gb RAM devices are no longer limited to 8gb
-- Allowed LHBM at any refresh rate (fixes the fingerprint issues)
-- Enabled nothing charge service for offline charging
-- Fixed vibrator not stopping on time or interrupting previous requests
-- Update Firmware,vendor,fingerprints from Asteroids_B4.0-251229-2335
-- Correct panel gamma after using fingerprint (fixes green tint at lower refresh rates)
-- Add option to play animations in reverse
-- Add Glyph progress implementation (for media playback and progress bar notifications such as downloads)
-- Implement flip to glyph animation (plays notification animation forwards then backwards upon flipping)
-
-Bugs:
-- NFC not working
+- Fixed NFC (Switched to prebuilt NFC AIDL)
+- Fixed Glyph battery saver
+- Merged some minor fixes for Dolby UI
