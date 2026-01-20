@@ -1,9 +1,1 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1689)
-
-Device side:
-- Drop High Touch Polling Rate support
-- Add back XiaomiParts
-- Fixup fast charging(max upto 50watt)
-- Fixup VoNR on Jio 5G
-- Fixup QCOm audio effcts
-- Add bcr support
+- Source Changelog (https://t.me/ProjectInfinityX/1690)
