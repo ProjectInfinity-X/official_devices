@@ -1,8 +1,2 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1689)
-- Restored blur and fixed QS lag when blur enabled
-- Fixed VoLTE and VoWifi on secondary SIM slot
-- Fixed Google Cast Audio
-- Updated blobs from OS2.0.16.0.UMSMIXM
-- Firmware Included
-- Fixed Night Light and Extra Dim brightness
-- Switched to Oneplus Dolby Atmos
+- Source Changelog (https://t.me/ProjectInfinityX/1690)
+- Kernel Updated to Scarlet-v4.0.1-KSUN
