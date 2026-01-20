@@ -1,11 +1,2 @@
-- dolby improvments
-- auto brightness improvments
-- switched to prebuilt audio hal
-- Use unique_ptr for _oem_msg to avoid memory leaks
-- Update vibrator soong config variable to bool type
-- Disable doze brightness handling every time
-- Import perf lm blobs
-- sensors: Increase padding of _oem_msg struct to 264 bytes
-- Opt out of speaker_layout_channel_mask field
-- Update some soong config variables to bool type
-- update device blobs and camera from OS2.0.216.0.VMRMIXM
+- dolby improvments (fixed profile resetting)
+- Misc improvements
