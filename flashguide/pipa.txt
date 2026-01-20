@@ -1,0 +1,19 @@
+Device: Xiaomi Pad 6 (pipa)
+Recommended Recovery: https://github.com/PipaDB/OrangeFox-Action-Builder/releases/tag/20460939543
+Recommended firmware: Latest Firmware Already Included in rom.zip
+
+Flashing Instructions:
+
+* Clean Flash:
+- Format Data
+- Flash ROM.zip
+- Flash Gapps (if you flashed vanilla and want google apps)
+- Reboot
+
+* Dirty Flash:
+- Wipe Dalvik, Cache
+- Flash ROM.zip
+- Flash Gapps (Dont forget to reflash the Gapps you used else Gapps will crash )
+- Reboot
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
