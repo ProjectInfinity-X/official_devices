@@ -1,0 +1,14 @@
+Device: Xiaomi Pad 6
+Device code name : pipa
+Device maintainer: MufasaXz
+
+Date - 20/01/2026 (v3.6 Android 16 Stable)
+===================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1690)
+• Initial Official Build
+• Updated Blobls from pipa OS2.0.14.0.UMZCNXM
+• Added RKSU (KernelSU) support
+• Dropped Contacts and Messaging apps
+• Disabled unused telephony stack for tablet builds
+• Reduced system clutter
+• Added GameBar app v13.2
