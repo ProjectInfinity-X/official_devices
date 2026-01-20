@@ -1,4 +1,4 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
+- Source changelog (https://t.me/ProjectInfinityX/1690)
 - Added flashlight brightness control 
 - Introduce display saturation controller
 - Fixed VOIP Calling
