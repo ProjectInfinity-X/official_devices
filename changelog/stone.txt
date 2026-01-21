@@ -1,8 +1,7 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
-- December Security Patch
-- Revert back to recovery in boot
-- Switch to minimal kernel
-- Fix custom recovery being broken
-- Disable unnecessary logging
-- Enable full ART optimizations with VDEX/ODEX
+- Source changelog (https://t.me/ProjectInfinityX/1688)
+- Qpr1
+- January Security Patch
+- Switch to darkmoon kernel
+- Tweak powerhint for efficiency
+- Add soc detection
 - Synced with latest source
