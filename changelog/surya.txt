@@ -1,4 +1,7 @@
-* Source Changelog (https://t.me/ProjectInfinityX/1689)
-* Initial Build
-* Include Leica Camera
-* Misc improvements and changes
+* Source changelog (https://t.me/ProjectInfinityX/1688)
+* Fix Leica Camera issue
+* Include Dolby
+* Add Support for KSUN
+* surya: Update graphics firmware from sweet_k6a
+* surya: Update blobs from sweet_k6a OS1.0.28.0.THGMIXM
+* Misc improvements and fixes
