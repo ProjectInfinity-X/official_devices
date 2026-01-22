@@ -2,11 +2,13 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 12/06/2025
+Date - 01/21/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1618
-• Enable UXE
-• Update Pinner service
-• Update CarrierConfig from nabu OS1.0.6.0.TKXMIXM
-• Sync kernel with LineageOS-23.0
+• Source Changelog: https://t.me/ProjectInfinityX/1688
+• updated carrier list to LA.QSSI.16.0.r1-06700-qssi.0
+• Enabled smooth fade effect on edges of scrolling text
+• Match both UI and KeyHandler default values for alert slider [Revised Previous Fix]
+• kernel compiled with Clang 21
+• Sync with LineageOS 23.1 changes
 • Misc. Improvements and fixes.....
+Note: Clean is Recommended as Source is updated to QPR1
