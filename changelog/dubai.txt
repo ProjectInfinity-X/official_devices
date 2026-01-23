@@ -1,14 +1,14 @@
 Date - 02/12/2025
 =================
-- Source Changelog: https://t.me/ProjectInfinityX/1618
+- Source Changelog: https://t.me/ProjectInfinityX/1690
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Commonize force_charging_disable sepolicy
-- Remove vendor/infinity device framework matrix inclusion
-- Enable R8 Java optimizations flag
-- Enable HWUI_COMPILE_FOR_PERF
-- Disable sf EGL image tracking
-- Enable AOSP surfaceflinger
-- Use HintManager for HWUI
-- perf: Enable the pre-rendering feature
-- Enable config_avoidGfxAccel 
-- Disable VSync for CPU rendered apps
+- Initial QPR1 Build
+- Override kernel BPF version
+- Fix many sepolicy denials
+- Move to pixel powerhal
+- Import powerhint from coral and adapt for yupik
+- Set frame rate multiple threshold to 60
+- Tune ambient display burn-in protection
+- props: Optimize RAM management
+- Import performance tuning from aospa-lisa
+- rootdir: Optimize for Spatial Audio
