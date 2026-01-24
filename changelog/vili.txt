@@ -1,6 +1,13 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1689
+• https://t.me/ProjectInfinityX/1690
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• https://github.com/Spanish-or-Vanish
+• Kernel updated with bpf 5.10
+• Switch to Newer Dolby stack from motorola
+• sm8350-common: Shim WFD with libinput_shim
+• sm8350-common: qcril-database: Add migration to turn off redir_party_num
+• sm8350-common: Generate qcrilNr.db during build
+• sm8350-common: Update some soong config variables to bool type
+• sm8350-common: sepolicy: Remove commonized labels
+• sm8350-common: perf: Enable EXPENSIVE_RENDERING hint
