@@ -4,7 +4,7 @@ Infinity Recovery: https://sourceforge.net/projects/infinity-x/files/mondrian/16
 
 OrangeFox Recovery Official: https://orangefox.download/device/6574e52f7f9618c5be6930ab
 
-OrangeFox Recovery Unofficial: https://github.com/ymdzq/OrangeFox-Action-Builder/releases/tag/20506653030
+OrangeFox Recovery Unofficial: https://github.com/ymdzq/OrangeFox-Action-Builder/releases/tag/21142084476
 
 KernelSU Next Boot with SUSFS: https://sourceforge.net/projects/infinity-x/files/mondrian/16/KernelSU-Next-SUSFS-boot.img
 
