@@ -1,2 +1,1 @@
-- InfinityX QPR1 release
-- Source changelog (https://t.me/ProjectInfinityX/1689)
+- Source changelog (https://t.me/ProjectInfinityX/1690)
