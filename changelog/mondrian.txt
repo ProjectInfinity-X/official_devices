@@ -1,24 +1,5 @@
-- Source Changelog: https://t.me/ProjectInfinityX/1689
-
-¡¡Apologies, but formatting the data is necessary, as the Device Tree was rebased!!
+- Source Changelog: https://t.me/ProjectInfinityX/1690
 
 Device:
-- Update blobs and firmware OS2.0.209.0.VMNMIXM from mondrian
-- Update blobs OS2.0.206.0.VLFMIXM from diting
-- Disable EGL image tracking
 - Add more missing sepolicy
-- sensors: Increase padding of _oem_msg
-- Disable doze brightness handling every time
-- New dolby UI
-
-Kernel:
-- Merge 'android12-5.10-lts'
-- Merge 'KERNEL.PLATFORM.1.0.r1-19500-kernel.0'
-- Set default zram lz4
-
-Kernel Modules:
-Merge tag 'LA.VENDOR.1.0.r1-28900-WAIPIO.QSSI16.0' in wlan/qcacld-3.0
-Merge tag 'VIDEO.LA.2.0.r1-11900-WAIPIO.0' in video-driver
-Merge tag 'DISPLAY.LA.2.0.r1-13800-WAIPIO.0' in display-driver
-Merge tag 'LA.VENDOR.1.0.r1-28900-WAIPIO.QSSI16.0' in dataipa
-Merge tag 'CAMERA.LA.2.0.r1-13200-WAIPIO.0' in camera-kernel
+- Fix issues with the new Dolby
