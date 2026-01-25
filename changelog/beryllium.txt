@@ -1,2 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1619)
-- HOTFIX release(Fixed random reboots)
+- Source changelog (https://t.me/ProjectInfinityX/1690)
+- Initial A16 QPR1 release
+- Based on 4.19 kernel
