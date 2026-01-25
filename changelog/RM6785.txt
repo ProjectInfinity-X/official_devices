@@ -1,3 +1,8 @@
+Date - 25-01-2026
+- Synced With Latest Source (https://t.me/ProjectInfinityX/1690)
+- Disable slow blur effect to avoid laggish blur effect
+- Include KSU (backslashxx's fork)
+
 Date - 10-01-2026
 - Initial Official build for RM6785 devices
 - Disable high performance transitions
