@@ -1,0 +1,13 @@
+Device: Poco F6 Pro / Redmi K70
+Device codename : vermeer
+Device maintainer: Lunark
+
+Date - 25-01-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1690)
+- Initial Official Release
+- KernelOSS Upstream 5.15.197
+- Include Fw OS2.0.207.0.VNKMIXM
+- Include Ksu-next
+- Dolby atmos
+- Miuicamera
