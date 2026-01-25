@@ -1,4 +1,10 @@
-Date - 07/01/2025
+Date - 26/01/2026
+=================
+- Updated Kernel & added bpf patches (BPF version - v5.10.239)
+- KSUN v1.1.1 support added
+- Gamebar updated and added as an app (Thanks to Kenway214)
+
+Date - 07/01/2026
 =================
 - Update Kernel to 5.4.302
 - Some more minimal changes in device trees
@@ -39,12 +45,3 @@ Date - 12/10/2025
 - Kernel Upstreamed to 5.4.300
 - October Security Patch
 
-Date - 5/9/2025
-=================
-- [BUG]Crackling issue still there (But minimal)
-- [BUG]Screen Cast/WFD Dead
-- Increase max volume
-- Increase volume level steps to 30
-- Changed Dolby UI
-- Fixed Dolby crash in logs
-- More minimal dt changes
