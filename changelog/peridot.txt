@@ -1,11 +1,7 @@
-- Source changelog (https://t.me/ProjectInfinityX/1689)
-- Fixed XiaomiParts Crash
-- Fixed connecting BLE (bt 5.x) devices (smart watches, etc.)
-- Enabled Qualcomm TrueWireless™ Stereo
-- Disabled sdm rotator downscaler
-- Enabled 120 FPS for ScreenRecorder
-- Bumped some frequencies to fix occasional stutter and jitters
-- Reduced system server verbosity
-- Upstream kernel to 6.1.158
-- Upstream with latest clo tags 
-- Disabled backpressure propagation in SF  
+- Source changelog (https://t.me/ProjectInfinityX/1690)
+- Disable Battery Saver on Battery Mode
+- Addressed few more Denials
+- Fixed screen recording lag
+- Further improved smoothness and reduced occasional jitters
+- Added new Dolby UI
+- Merged KERNEL.PLATFORM.3.0.r1-12700-kernel.0
