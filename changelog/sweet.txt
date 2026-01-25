@@ -2,6 +2,11 @@ Device: Redmi Note 10 Pro / Pro Max
 Device code name : sweet
 Device maintainer: Musafir1875
 
+Date - 25-01-2026
+* Synced With Latest Source (https://t.me/ProjectInfinityX/1690)
+* Most of the issue is fixed with Latest Source
+* Added old Dolby
+
 Date - 11-01-2026
 * Initial a16 qpr 1
 * New Dolby UI
