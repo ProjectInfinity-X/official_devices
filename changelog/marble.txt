@@ -1,2 +1,9 @@
-- dolby improvments (fixed profile resetting)
-- Misc improvements
+- KsuNextSusfs enabled by default (5.10.247 kernel)
+- Introduce double-tap gestures on fingerprint sensor
+- Rework thermal profiles (fix CPU always stays at 2.91 GHz)
+- Rework stock Audio HAL
+- Switch to Qcomm v4 PowerHAL
+- Switch to new Dolby UI and fix profile reset issue
+- Fixup: add more reserved space for vanilla builds (allow flashing full GApps)
+- thermal-hal: use quiet_therm for skin sensor on taro
+- Miscellaneous improvements and under-the-hood changes
