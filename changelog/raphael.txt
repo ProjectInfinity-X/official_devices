@@ -2,6 +2,16 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 28-01-2026
+=================
+- Initial QPR1 build
+- Completely rebased tree over sm8150-common
+- Fixed wake-up delays and resolved broken UDFPS for replaced screens (UDFPS will work only if it's functional on the stock MIUI ROM)
+- All previously mentioned bugs should be fixed with the following updates
+- Leica Camera included
+- New revamped UI Dolby included
+- Numerous other changes and fixes (too many to mention in the changelog)
+
 Date - 15-12-2025 (HOTFIX)
 =================
 - Fixed QR Scanner
