@@ -3,11 +3,8 @@ Source Changelog:
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• Kernel updated with bpf 5.10
-• Switch to Newer Dolby stack from motorola
-• sm8350-common: Shim WFD with libinput_shim
-• sm8350-common: qcril-database: Add migration to turn off redir_party_num
-• sm8350-common: Generate qcrilNr.db during build
-• sm8350-common: Update some soong config variables to bool type
-• sm8350-common: sepolicy: Remove commonized labels
-• sm8350-common: perf: Enable EXPENSIVE_RENDERING hint
+• Dolby Atmos blobs updated from HyperOS 3.0
+• vili: Update some soong config variables to bool type
+• sm8350-common: Opt out of speaker_layout_channel_mask field
+• sm8350-common: Add MIUI/HyperOS Dolby Atmos Support
+• sm8350-common: Override kernel BPF version
