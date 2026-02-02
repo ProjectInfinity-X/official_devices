@@ -1,2 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1690)
-- Kernel Updated to Scarlet-v4.0.1-KSUN
+- Source Changelog (https://t.me/ProjectInfinityX/1774)
+- Initial A16 QPR2 Build
+- Updated blobs to OS2.0.17.0.UMSMIXM
+- Switched to KSU Legacy
