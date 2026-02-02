@@ -1,5 +1,6 @@
 Source changelog (https://t.me/ProjectInfinityX/1688)
-- Qpr1
-- Switch to WCS mod kernel
-- Adapt kernel for QPR1
+
+- Switch back to strix kernel.
+- Adapt kernel for QPR1.
+- Improve device performance.
 - Other more changes and improvements.
