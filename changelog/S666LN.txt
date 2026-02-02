@@ -1,0 +1,13 @@
+Device: Itel RS4
+Code Name: S666LN
+Device Maintainer: putrazxyo13
+
+Date - 10/02/2026
+* Synced with latest Infinity-X source
+* Initial Official Support
+* Official User & Signed Build (Secure)
+* Set proper min_free_kbytes for better RAM management
+* Shipped with Dolby Atmos (Fixes stock audio distortion/crackling)
+* Dropped force triple frame buffers for reduced latency
+* Switch to AOSP Health AIDL
+* Enabled Unsignal buffer latching with AutoSingleLayer for smoother UI
