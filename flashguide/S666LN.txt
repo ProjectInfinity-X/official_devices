@@ -1,0 +1,21 @@
+Device: Itel RS4 (S666LN)
+Recommended Recovery: https://t.me/itelrs4updates/164
+
+Flashing Instructions:
+
+* Clean Flash:
+- Wipe Dalvik, ART & Cache, Metadata, Data
+- Format Data
+- Flash ROM
+- Format data
+- Reboot
+- Install ofox
+- Reboot Recovery
+- Install nikgapps core (if youre using vanilla)
+- Reboot
+
+* Dirty Flash: 
+- Reboot to recovery
+- Flash ROM.zip
+- Wipe Cache, Dalvik
+- Reboot
