@@ -1,10 +1,3 @@
-• Synced With Latest Source (https://t.me/ProjectInfinityX/1690)
-• Most of the issue is fixed with Latest Source
-• Updated kernel to 5.10.236 from OS2.0.211.0.VMWEUXM
-• Updated blobs from OS2.0.211.0.VMWEUXM
-• Switched to armv8-2a-dotprod arch variant
-• Fixed Dolby HAL denials
-• Added LDAC & LHDC Support
-• Added BCR & Updated Dolby
-• Misc Improvements & Optimization
-• if panic to recovery or not booting then do clean flash!
+• Synced With Latest Source (https://t.me/ProjectInfinityX/1774)
+• Initial Android 16 QPR2 Release
+• if coming from v3.6 Jan 6 Release, you will likely face panic to recovery or not booting then do clean flash!
