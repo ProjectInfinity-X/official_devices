@@ -1,10 +1,8 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1690
+• https://t.me/ProjectInfinityX/1774
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• Dolby Atmos blobs updated from HyperOS 3.0
-• vili: Update some soong config variables to bool type
-• sm8350-common: Opt out of speaker_layout_channel_mask field
-• sm8350-common: Add MIUI/HyperOS Dolby Atmos Support
-• sm8350-common: Override kernel BPF version
+• Say hi 👋 to QPR2
+• vili: Patch some blobs to depend on libtinyxml2-v34.so
+• sm8350-common: Patch some blobs to depend on libtinyxml2-v34.so
