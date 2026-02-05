@@ -3,6 +3,5 @@ Source Changelog:
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• Say hi 👋 to QPR2
-• vili: Patch some blobs to depend on libtinyxml2-v34.so
-• sm8350-common: Patch some blobs to depend on libtinyxml2-v34.so
+• [Hotfix] Clean flash Whoever faced bootloop on previous update 
+• Others can dirty flash from twrp/ofox
