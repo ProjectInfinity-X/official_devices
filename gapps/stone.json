@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.6-stone-20.01.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/stone/16/gapps/Project_Infinity-X-3.6-stone-20.01.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1768934887,
-			"md5": "4734eac8dcbadd231b0395e07903732d",
-			"size": 1611171831,
-			"version": "3.6"
+			"filename": "Project_Infinity-X-3.7-stone-08.02.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/stone/16/gapps/Project_Infinity-X-3.7-stone-08.02.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1770549199,
+			"md5": "dc4889e4490701c6fa32152ba27f6018",
+			"size": 1585499745,
+			"version": "3.7"
 		}
 	]
 }
