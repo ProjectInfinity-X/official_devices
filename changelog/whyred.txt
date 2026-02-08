@@ -2,6 +2,11 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 09/02/2026
+=================
+- Sync with latest source.
+- Fix bt app crashing issue for some users.
+
 Date - 04/02/2026
 =================
 - Initial qpr2 release
