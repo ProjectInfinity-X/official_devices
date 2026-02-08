@@ -1,10 +1,1 @@
----- If you're about to update to v3.7 from ≤ v3.6 via OTA or dirty flash You may face Android Rescue Party trigger, Backing up of data before OTA / dirty flash is highly recommended ----
-
-- Source changelog (https://t.me/ProjectInfinityX/1774)
-• Fixed unable to boot issues for some devices occurred after qpr1
-• Replace Micam with GCAM for the time being
-• Ship new revamped dolby atmos
-• Improved idle drain
-• Fixed app drawer blur
-• Improve media playback
-• Update blobs from "ginkgo:11/RKQ1.201004.002/V12.5.12.0.RCOEUXM:user/release-keys"
+- Source changelog (https://t.me/ProjectInfinityX/1797)
