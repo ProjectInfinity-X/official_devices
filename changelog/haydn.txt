@@ -1,7 +1,5 @@
-Date - 07/02/2026
+Date - 08/02/2026
 =================
-- Android 16 QPR2 Update
-- Shim WFD with libinput_shim
-- Patch some blobs to depend on libtinyxml2-v34.so
-- overlay-lineage: Disable blurs by default
-- overlay: Reduce blur radius
+- Fixed Snapchat Lens issue (Macro as 2x-10x)
+- Synced with latest changelog https://t.me/ProjectInfinityX/1797
+- Revert "Expose aux cameras to com.snapchat.android"
