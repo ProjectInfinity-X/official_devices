@@ -1,3 +1,2 @@
-• Synced With Latest Source (https://t.me/ProjectInfinityX/1774)
-• Initial Android 16 QPR2 Release
+• Synced With Latest Source (https://t.me/ProjectInfinityX/1797)
 • if coming from v3.6 Jan 6 Release, you will likely face panic to recovery or not booting then do clean flash!
