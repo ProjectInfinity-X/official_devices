@@ -1,3 +1,12 @@
+Date - 08-02-2026
+- Synced With Latest Source (https://t.me/ProjectInfinityX/1797)
+- Initial QPR2 Release
+- Build mediaTek WiFi lib and enable OUI support on wpa_supplicant_8
+- Switch To Lunaris Dolby
+- Add drivers for both ViperFX and JamesDSP
+- Downscale task snapshots to 70%
+- Drop 32-bit NVRAM hal
+
 Date - 25-01-2026
 - Synced With Latest Source (https://t.me/ProjectInfinityX/1690)
 - Disable slow blur effect to avoid laggish blur effect
