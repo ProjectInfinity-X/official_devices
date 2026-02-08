@@ -1,21 +1,9 @@
-- Update builds to version 3.7 (QPR2)
-- Merge tag 'android-16.0.0_r4' (QPR2) [Complete source rebase]
-- Dropped some features due to incompatibility with QPR2 such as Custom launcher icon pack and ambient edgle light. That's all, everything else is still present and intact
-- Bring back nothingos style ringer tile from v3.5
-- Improve nothingos style ringer tile handling with DND mode (author: shutter-cat)
-- Refactor ongoing progress action chip to jetpack compose (author: shutter-cat)
-- Fix sluggish/laggy scrolling in Freeform window (author: kenway214)
-- Improved spacing above & below of settings style animated header
-- Fixed abnormal bootstate detection (author: neobuddy89)
-- Show lockscreen widgets preference and enable support for QPR2 lockscreen widgets feature (author: aswin7469)
-- Allow user to directly enable mobile data from data tile without warning popup (author: neobuddy89)
-- Fix an issue where icons/widgets couldn't be placed at Quickspace area even if at a glance disabled
-- Fix improper dock/row padding when homescreen search bar disabled
-- Fix ambient wallpaper only usable on AOD, and make it usable on ambient display too (author: neobuddy89)
-- Fix adaptive playback toggle
-- Bring back bluetooth timeout feature (author: Uldiniad, neobuddy89, idoybh)
-- Fix qs tiles camouflage when pure black qs theme enabled / blurs disabled
-- Use solid black/white color in keyguard bouncer (pin/password entering page) when blurs disabled
-- Bring back lockscreen clock fonts feature (author: neobuddy89)
-- Allow to hide battery icon from statusbar
-- Return AOSP messaging for all
+- Add Lockscreen Custom Clock Styles feature
+- Add NothingOS style Lockscreen Widgets feature 
+- Add Depth Wallpaper Feature
+- Bring back Per-App Volume Feature (author: NurKeinNeid)
+- Bring back custom launcher icon pack feature (author: neobuddy89)
+- Add toggle-able redesigned expandable volume panel (author: rmp22) (To use back stock AOSP volume panel, Disable "Use Expanded Volume Dialog" Toggle in "Infinity Suite > Buttons"
+- Allow Hold to open flashligh strength seekbar even in unexpanded flashlight tile
+- Restore media player play/pause icon to qpr1 style
+- Fix vtservice cpu hogging in some instances (author: bengris32)
