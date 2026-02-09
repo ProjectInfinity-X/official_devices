@@ -1,10 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1774)
-- Updated blobs from OS2.0.208.0.VNPMIXM
-- Dropped unused blobs and services
-- Fixed dolby denials
-- Enable PowerHint processing after boot
-- Fixed dolby getting reset
-- Fnabled uffd gc
-- Fixed bluetooth crash
-- Supressed some hardless qcom denials
-- Added BCR(Basic Call Recorder)
+- Source changelog (https://t.me/ProjectInfinityX/1797)
+- Updated GameBar to latest version
+- Dropped unnecessary GPU boosting
+- Decreased Interaction hint durations
+- Optimized some durations offsets
