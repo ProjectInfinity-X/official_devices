@@ -1,6 +1,8 @@
-* Source changelog (https://t.me/ProjectInfinityX/1774)
-* Initial QPR2 build
+* Source changelog (https://t.me/ProjectInfinityX/1797)
+* QPR2 build
 * Include Dolby & Leica Camera
 * Add Support for KSUN
-* Fixed some logspams
-* Misc improvements and fixes
+* Fixed more logspams
+* Update blobs from sweet_k6a OS1.0.33.0.THGMIXM
+* Update wcnss config
+* Misc changes and improvements
