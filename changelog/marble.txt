@@ -1,9 +1,11 @@
-- KsuNextSusfs enabled by default (5.10.247 kernel)
-- Introduce double-tap gestures on fingerprint sensor
-- Rework thermal profiles (fix CPU always stays at 2.91 GHz)
-- Rework stock Audio HAL
-- Switch to Qcomm v4 PowerHAL
-- Switch to new Dolby UI and fix profile reset issue
-- Fixup: add more reserved space for vanilla builds (allow flashing full GApps)
+- Completely rewrite XiaomiParts with Android expressive UI
+- KsuNext + SUSFS support: flash the provided ZIP to enable
+- Enable 120 FPS in the default Screen Recorder
+- Convert config_screenBrightnessDoze to float 
+- Disable AptX voice property (fixes Bluetooth no-audio issue)
+- Dolby: added swipe gestures to switch between Home / Equalizer / Advanced screens
+- Rework on stock Audio HAL
+- Switched to Qualcomm v6 PowerHAL
 - thermal-hal: use quiet_therm for skin sensor on taro
-- Miscellaneous improvements and under-the-hood changes
+- Fixed most known issues
+- Miscellaneous improvements and under-the-hood optimizations
