@@ -1,3 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1690)
-- Initial A16 QPR1 release
+- Source changelog (https://t.me/ProjectInfinityX/1774, https://t.me/ProjectInfinityX/1797)
+- Initial A16 QPR2 release
 - Based on 4.19 kernel
+
+
+Note: Do Not Flash over QPR1 Version, As this and the upcoming versions will be dynamic partitions, so clean Flash will be needed
