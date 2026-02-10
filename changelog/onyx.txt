@@ -1,1 +1,12 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1690)
+- Source Changelog (https://t.me/ProjectInfinityX/1797)
+
+- Device Chaneglogs:
+* Qpr2 build
+* Lowered default screen density
+* Switch to QTI Vibrator service
+* Switch to AOSP NXP authsecret service
+* Switch to AOSP NXP keymint service
+* Switch to libperfmgr
+* Updated blobs and fw from OS3.0.5.0.WOLMIXM
+* Drop more unused blobs and fw
+* Nuke dolby for temp

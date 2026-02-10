@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.6-onyx-20.01.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/onyx/16/vanilla/Project_Infinity-X-3.6-onyx-20.01.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1768922914,
-			"md5": "56f68f47a7dd51b95eb866459dd7d2fb",
-			"size": 3492938631,
-			"version": "3.6"
+			"filename": "Project_Infinity-X-3.7-onyx-10.02.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/onyx/16/vanilla/Project_Infinity-X-3.7-onyx-10.02.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1770696268,
+			"md5": "361698cf5b9aa817f4b988bdd48f76e8",
+			"size": 3648057468,
+			"version": "3.7"
 		}
 	]
 }
