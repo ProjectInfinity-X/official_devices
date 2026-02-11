@@ -1,6 +1,7 @@
-Source changelog (https://t.me/ProjectInfinityX/1688)
+Source Changelog (https://t.me/ProjectInfinityX/1797)
 
-- Switch back to strix kernel.
-- Adapt kernel for QPR1.
-- Improve device performance.
+- QPR2 build
+- Adjust override prop key names
+- Patch some blobs to depend on libtinyxml2-v34.so
+- Address Bluetooth sepolicy denials
 - Other more changes and improvements.
