@@ -1,11 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1689)
-- Fixed XiaomiParts Crash
-- Fixed connecting BLE (bt 5.x) devices (smart watches, etc.)
-- Enabled Qualcomm TrueWireless™ Stereo
-- Disabled sdm rotator downscaler
-- Enabled 120 FPS for ScreenRecorder
-- Bumped some frequencies to fix occasional stutter and jitters
-- Reduced system server verbosity
-- Upstream kernel to 6.1.158
-- Upstream with latest clo tags 
-- Disabled backpressure propagation in SF  
+- Source changelog (https://t.me/ProjectInfinityX/1797)
+- Updated GameBar to latest version
+- Dropped unnecessary GPU boosting
+- Decreased Interaction hint durations
+- Optimized some durations offsets

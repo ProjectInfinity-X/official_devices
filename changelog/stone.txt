@@ -1,8 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1618)
-- December Security Patch
-- Revert back to recovery in boot
-- Switch to minimal kernel
-- Fix custom recovery being broken
-- Disable unnecessary logging
-- Enable full ART optimizations with VDEX/ODEX
-- Synced with latest source
+- Source changelog (https://t.me/ProjectInfinityX/1797)
+- February Security Patch
+- QPR2 build
+- Switch back to Vertex kernel and default schedulers
+- Fix heating issue
+- Optimize for balanced performance and efficiency

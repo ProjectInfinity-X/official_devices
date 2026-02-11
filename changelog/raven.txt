@@ -1,2 +1,4 @@
-- InfinityX QPR1 release
-- Source changelog (https://t.me/ProjectInfinityX/1689)
+- Source changelog (https://t.me/ProjectInfinityX/1797)
+- Fixed issue in VANILLA build
+- Added Google Camera
+- Added Smart Pixel feature

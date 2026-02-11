@@ -1,26 +1,14 @@
-* Initial Infinity X V3.6 QPR1 build.
-* Fixed statusbar height padding.
-* Switch to new Dolby Atmos apps.
-* Cleaned up SELinux policy by removing duplicate Oppo property type declarations
-* Fixed LiveDisplay build issues caused by Soong configuration type mismatches
-* Added Dolby Atmos proprietary blobs with full SoundFX support
-* Reserved 2GB of system partition space to better support GApps installation
-* Switched LiveDisplay implementation to Lineage AIDL
-* Added missing vendor power property definitions to fix vendor init SELinux references
-* Removed unused and obsolete SELinux secure element rules
-* Dropped unused protobuf lite library to reduce system clutter
-* Restored access to bootable and deprecated OTA build targets
-* Removed unused android.hardware.power 1.2 vendor HAL
-* Migrated device configuration to AIDL MultiHAL
-* Fixed missing aux camera lens selection in Aperture
-* Enabled frame pacing for smoother and more consistent visual performance
-* Cleaned up leftover charging bypass code paths
-* Fully reverted charging bypass feature and related UI, policy, and node changes for stability
-* Reworked and preloaded fingerprint HAL earlier to ensure reliable SetupWizard enrollment
-* Moved display density configuration to system properties for better consistency
-* Added and migrated to QTI health AIDL service including recovery support
-* Updated OMX dependencies to match latest source requirements
-* Removed redundant fingerprint-related system properties
-* Fixed NFC APEX platform availability detection
-* Tuned brightness values to better match stock ROM behavior
-* Reverted experimental brightness optimization overlay to maintain stability
+- Initial Infinity X V3.7 QPR2 build.
+- Enabled battery cycle count in system overlay
+- Tuned display density to 420 for better UI scaling
+- Allowed games to run at 90fps where supported
+- Disabled high performance transitions for smoother visuals
+- Switched to the new auto network selection interface
+- Enabled ambient display notifications by default
+- Restored Saturated color mode for display
+- Disabled zram writeback for improved memory behavior
+- Removed unused init.recovery.com script
+- Corrected the libinit library path
+- Updated RealmeParts to use reflection for InputManager on Android 16 and above
+- Reverted access to bootable and deprecated OTA build targets 
+- Re-tune HyperFusionX-Ultra kernel for more stability and performance

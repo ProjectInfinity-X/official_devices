@@ -1,9 +1,12 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1689)
+- Source Changelog (https://t.me/ProjectInfinityX/1797)
 
-Device side:
-- Drop High Touch Polling Rate support
-- Add back XiaomiParts
-- Fixup fast charging(max upto 50watt)
-- Fixup VoNR on Jio 5G
-- Fixup QCOm audio effcts
-- Add bcr support
+- Device Chaneglogs:
+* Qpr2 build
+* Lowered default screen density
+* Switch to QTI Vibrator service
+* Switch to AOSP NXP authsecret service
+* Switch to AOSP NXP keymint service
+* Switch to libperfmgr
+* Updated blobs and fw from OS3.0.5.0.WOLMIXM
+* Drop more unused blobs and fw
+* Nuke dolby for temp

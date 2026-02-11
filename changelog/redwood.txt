@@ -1,8 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1689)
-- Restored blur and fixed QS lag when blur enabled
-- Fixed VoLTE and VoWifi on secondary SIM slot
-- Fixed Google Cast Audio
-- Updated blobs from OS2.0.16.0.UMSMIXM
-- Firmware Included
-- Fixed Night Light and Extra Dim brightness
-- Switched to Oneplus Dolby Atmos
+- Source Changelog (https://t.me/ProjectInfinityX/1774)
+- Initial A16 QPR2 Build
+- Updated blobs to OS2.0.17.0.UMSMIXM
+- Switched to KSU Legacy

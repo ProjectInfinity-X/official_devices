@@ -1,11 +1,11 @@
-- dolby improvments
-- auto brightness improvments
-- switched to prebuilt audio hal
-- Use unique_ptr for _oem_msg to avoid memory leaks
-- Update vibrator soong config variable to bool type
-- Disable doze brightness handling every time
-- Import perf lm blobs
-- sensors: Increase padding of _oem_msg struct to 264 bytes
-- Opt out of speaker_layout_channel_mask field
-- Update some soong config variables to bool type
-- update device blobs and camera from OS2.0.216.0.VMRMIXM
+- Completely rewrite XiaomiParts with Android expressive UI
+- KsuNext + SUSFS support: flash the provided ZIP to enable
+- Enable 120 FPS in the default Screen Recorder
+- Convert config_screenBrightnessDoze to float 
+- Disable AptX voice property (fixes Bluetooth no-audio issue)
+- Dolby: added swipe gestures to switch between Home / Equalizer / Advanced screens
+- Rework on stock Audio HAL
+- Switched to Qualcomm v6 PowerHAL
+- thermal-hal: use quiet_therm for skin sensor on taro
+- Fixed most known issues
+- Miscellaneous improvements and under-the-hood optimizations

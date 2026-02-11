@@ -1,3 +1,12 @@
-- Source changelog (https://t.me/ProjectInfinityX/1688)
-- Fix NFC denials
-- Fix WFD denials
+- Source changelog (https://t.me/ProjectInfinityX/1774)
+- miatoll: Implement torch light control
+- miatoll: Enable charging control bypass mode
+- miatoll: Reduce blur radius
+- miatoll: Move usage of USB MTP/PTP functionality with USB F_FS driver
+- miatoll: Migrate to QTI USB Gadget AIDL HAL
+- miatoll: Setup DeviceAsWebcam
+- miatoll: CarrierConfigOverlay: Update from sweet_k6a OS1.0.3.0.THGMIXM
+- miatoll: overlay: Globally enable LTE+ icon
+- miatoll: overlay: Enable VoLTE/VoWIFI For All Indian Carriers
+- miatoll: overlay: Disable high performance transitions
+- miatoll: overlay: Disable turbulence noise

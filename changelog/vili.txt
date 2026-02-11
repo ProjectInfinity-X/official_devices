@@ -1,6 +1,7 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1689
+• https://t.me/ProjectInfinityX/1774
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• https://github.com/Spanish-or-Vanish
+• [Hotfix] Clean flash Whoever faced bootloop on previous update 
+• Others can dirty flash from twrp/ofox

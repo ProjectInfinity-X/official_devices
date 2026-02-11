@@ -1,8 +1,8 @@
 Device: Xiaomi Mi 9T Pro / Redmi K20 Pro (raphael / raphaelin)
-Recommended Recovery: https://t.me/Al_Arabis_Cloud/301
+Recommended Recovery: https://t.me/redmik20proupdates/7760
+Recommended Recovery for replaced screen users: https://github.com/SOVIET-ANDROID/android_device_xiaomi_raphael-orangefox/releases
 Recommended Firmware: https://t.me/Al_Arabis_Support/82443
 Legacy To Retrofit: https://t.me/Al_Arabis_Cloud/293
-KSU Next supported kernels: Waffle (https://t.me/Al_Arabis_Cloud/326). Boolx (https://t.me/Al_Arabis_Cloud/324)
 
 Flashing Instructions:
 

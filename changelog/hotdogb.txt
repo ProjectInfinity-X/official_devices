@@ -2,9 +2,29 @@ Device: OnePlus 7T
 Device code name : hotdogb
 Device maintainer: GuneetAtwal
 
+Date - 02/10/2026
+=================
+• Merged February 2026 ASB
+• 10% increase in GPU performance due to new GPU drivers
+• Reduce GPU idle timeout from 80 -> 60 ms
+• Turn off 60fps cap on some games
+• Tune dalvik heap for 8GB RAM devices
+• Optimize auto brightness adjustment
+• New fixes to improve scrolling and UI transitions
+• Fixed 'OK Google' hotword issues
+• Disable high performance transitions
+• Fixed screen recording lag
+• Enable ADPF CPU hints for improved UI performance
+• Updated CarrierConfigs from nabu OS1.0.6.0.TKXMIXM
+• Enable Qualcomm TrueWireless™ Stereo
+• Improved vibration
+• bump clang version to r574158
+• Disable various debug logging
+
+
 Date - 01/10/2026
 =================
-• Merged January 2025 ASB
+• Merged January 2026 ASB
 • Fixed mic and volume control issues in apps like WhatsApp
 • Optimized Bluetooth performance and power efficiency
 • ART optimizations to improve first-boot performance and app start latency
