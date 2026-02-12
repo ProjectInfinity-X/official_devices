@@ -1,7 +1,7 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1774
+• https://t.me/ProjectInfinityX/1797
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• [Hotfix] Clean flash Whoever faced bootloop on previous update 
-• Others can dirty flash from twrp/ofox
+• Revert "sm8350-common: audio: Use AOSP USB v2 audio HAL"
+• Revert "sm8350-common: audio: Enable AOSP bluetooth audio HAL v2"
