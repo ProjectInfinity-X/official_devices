@@ -2,19 +2,15 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 02/05/2026
+Date - 02/12/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1774
-• Updated Bluetooth blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
-• Switched Bluetooth Audio HIDL revision to 2.1
-• AlertSlider> KeyHandler: Fixed alert slider scaling upon resolution changes
-• AlertSlider> KeyHandler: Fixed the text being cut off and allow using two lines to fit text.
-• kernel compiled with Clang r574158
-• Improvements to sound and fully operational Dolby.
-• Fix Hey Google partially.
+• Source Changelog: https://t.me/ProjectInfinityX/1797
+• Fully fix Hey Google both screen-off and ON
+• Fix WiFi Hal not being loaded when KernelSuNext patched boot image is flashed.
 • Sync with LineageOS 23.2 changes
 • Misc. Improvements and fixes.....
 
 Note: 
-• From this version we will be shipping KernelSu Next versions on  device group.
+• From this version we will be shipping KernelSu Next boot image on  sourceforge.
+• Flash rooted boot image to boot partition to get KernelSuNext and SuSFS
 • KernelSu Next 1.1.1 manager is recommended to be used with KernelSu Next build.
