@@ -1,7 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1689)
-- Flashlight Strength Controller has been added
-- UI Blur disabled by default
-- Drop 90Hz completely (90Hz makes the display have weird tint)
-- Device As Webcam has been added 
-- Viper4AndroidFX is dropped
-- LZ4 compression algorithm added for better ZRAM handling
+- Source changelog (https://t.me/ProjectInfinityX/1797)
+- Disabled high perf transitions
+- WPA3 wifi works
+- Tuned some stuff for reducing stutters and improve stability
+- Reduced memory pressure
+- Patched some blobs to depend on libtinyxml2-v34.so
