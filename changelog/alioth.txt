@@ -1,2 +1,1 @@
-Sync with latest source
-Note: Only BPF kernels supported
+- Intial QPR2 Update
