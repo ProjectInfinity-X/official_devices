@@ -1,14 +1,19 @@
-- Initial Infinity X V3.7 QPR2 build.
-- Enabled battery cycle count in system overlay
-- Tuned display density to 420 for better UI scaling
-- Allowed games to run at 90fps where supported
-- Disabled high performance transitions for smoother visuals
-- Switched to the new auto network selection interface
-- Enabled ambient display notifications by default
-- Restored Saturated color mode for display
-- Disabled zram writeback for improved memory behavior
-- Removed unused init.recovery.com script
-- Corrected the libinit library path
-- Updated RealmeParts to use reflection for InputManager on Android 16 and above
-- Reverted access to bootable and deprecated OTA build targets 
-- Re-tune HyperFusionX-Ultra kernel for more stability and performance
+Releaseed Date - 14/02/2026
+===========================
+- Synced with latest ROM source 13/02/2026 https://t.me/ProjectInfinityX/1799
+- Adjusted default screen brightness for a more balanced out of box experience
+- Launched boot animation earlier for a faster perceived boot time
+- Switched cache partition to F2FS for better performance and efficiency
+- Tuned status bar paddings for improved visual alignment
+- Optimized LMKD system properties for better memory management
+- Imported updated LMKD configurations from Google GKI sources
+- Tuned WiFi BMPS listening interval to improve idle power savings
+- Fixed SELinux denials related to HBM and DC dimming
+- Increased auto brightness levels and improved brightness precision
+- Accelerated auto brightness ramp up for quicker outdoor visibility
+- Refined RealmeParts interface with improved titles, icons, and adaptive icon colors
+- Implemented High Brightness Mode toggle inside RealmeParts
+- Added DC dimming support inside RealmeParts
+- Integrated camera related fixes into RealmeParts
+- Updated proximity wake sensor handling
+- Included default Calendar application

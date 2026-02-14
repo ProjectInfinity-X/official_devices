@@ -3,18 +3,19 @@ Recommended Recovery: https://drive.google.com/drive/folders/17VSXzItksOBFesknaK
 
 Flashing Instructions:
 
-* CLEAN FLASH:
+*** CLEAN FLASH:
 - Clear data, metdata, dalvik-cache, cache 
 - Flash ROM.zip
-- Flash GAPPS ( If you are flashing Vanilla Build - Recommended MindTheGapps)
-- Format Data
+- Flash GAPPS zip ( If you are flashing Vanilla Build - Recommended MindTheGapps)
+- Format Data (type 'YES')
 - Reboot System
 
-* DIRTY FLASH:
+*** DIRTY FLASH:
 - Flash ROM.zip
-- Reboot
+- Wipe Cache & Dalvik-Cache
+- Reboot Into System
 
-* OTA:
+*** OTA:
 1. Simply upgrade via ota updater (either if pushed or via local update import)
 
 Happy Flashing!!!!
