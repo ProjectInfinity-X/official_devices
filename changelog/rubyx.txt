@@ -1,7 +1,8 @@
-- Source changelog (https://t.me/ProjectInfinityX/1797)
+- Source changelog (https://t.me/ProjectInfinityX/1799)
+- Removed fpsgo module loading (used to increase battery drain with no improvement)
 - Hotfix: Fix bootlooping for devices with ln8000 drivers
+- Hotfix: Fix Jio simcard not working
 - Disabled high perf transitions
 - WPA3 wifi works
 - Tuned some stuff for reducing stutters and improve stability
 - Reduced memory pressure
-- Patched some blobs to depend on libtinyxml2-v34.so
