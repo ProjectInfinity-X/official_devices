@@ -1,11 +1,13 @@
-- Completely rewrite XiaomiParts with Android expressive UI
-- KsuNext + SUSFS support: flash the provided ZIP to enable
-- Enable 120 FPS in the default Screen Recorder
-- Convert config_screenBrightnessDoze to float 
-- Disable AptX voice property (fixes Bluetooth no-audio issue)
-- Dolby: added swipe gestures to switch between Home / Equalizer / Advanced screens
-- Rework on stock Audio HAL
-- Switched to Qualcomm v6 PowerHAL
-- thermal-hal: use quiet_therm for skin sensor on taro
-- Fixed most known issues
-- Miscellaneous improvements and under-the-hood optimizations
+- Properly handle HIDL return values to improve HAL stability
+- Allow Power HAL to access Thermal and Stats services
+- Dropped forced triple frame buffers
+- Disabled vendor.audio.feature.kpi_optimize.enable property
+- Tune cpu_dma_latency during app launch for better responsiveness
+- Tune launch and uclamp durations for improved performance bursts
+- Allow Power HAL to access cpu_dma_latency node
+- Migrate to common libqti-perfd-client and power-libperfmgr
+- Load goodix_3626 module (fixes Goodix fingerprint detection and restores FP gestures support)
+- Optimize Gaming and Default thermal profiles
+- Default profile: Allow Prime core to sustain 2.59 GHz until 43°C
+- Gaming profile: Lift all frequency restrictions until 50°C (was 46°C)
+- Added GameBar 
