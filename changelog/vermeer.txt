@@ -2,6 +2,21 @@ Device: Poco F6 Pro / Redmi K70
 Device codename : vermeer
 Device maintainer: Lunark
 
+Date - 15-02-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1799)
+- A16 Qpr2 Release
+- Update blobs to OS3.0.4.0.VMKCNXM(Socrates) and OS3.0.6.0.WNKMIXM(Vermeer)
+- Drop unused location services
+- properties: Allow games to use 120fps
+- Sort props and clean up audio props
+- Drop perf learning modules blobs
+- Drop QTI service tracker blobs
+- Drop qesdk, qesdhal blobs and ModemManager
+- Include Ksu-next V3.0.1 and SuSFS v2.0.0
+- KernelOSS Upstream 5.15.197
+- Includes Dolby and MiuiCamera
+
 Date - 25-01-2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1690)
