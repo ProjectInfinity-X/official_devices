@@ -1,7 +1,1 @@
-Source Changelog (https://t.me/ProjectInfinityX/1797)
-
-- QPR2 build
-- Adjust override prop key names
-- Patch some blobs to depend on libtinyxml2-v34.so
-- Address Bluetooth sepolicy denials
-- Other more changes and improvements.
+Source Changelog (https://t.me/ProjectInfinityX/1799)
