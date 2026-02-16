@@ -1,11 +1,11 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.7-sky-08.02.2026-VANILLA-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/sky/16/vanilla/Project_Infinity-X-3.7-sky-08.02.2026-VANILLA-OFFICIAL.zip",
-                        "timestamp": 1770567865,
-                        "md5": "dd7fe159996e726fc4b1b0af89e95c86",
-                        "size": 1304332688,
+                        "filename": "Project_Infinity-X-3.7-sky-16.02.2026-VANILLA-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/sky/16/vanilla/Project_Infinity-X-3.7-sky-16.02.2026-VANILLA-OFFICIAL.zip",
+                        "timestamp": 1771257315,
+                        "md5": "04726a8753025c90b81533ae6519c80f",
+                        "size": 1304320333,
                         "version": "3.7"
                 }
         ]
