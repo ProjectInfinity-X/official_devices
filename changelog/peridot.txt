@@ -1,5 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1797)
-- Updated GameBar to latest version
-- Dropped unnecessary GPU boosting
-- Decreased Interaction hint durations
-- Optimized some durations offsets
+- Source changelog (https://t.me/ProjectInfinityX/1799)
+- Toned down LMK process kills
+- Added GAME hints for GPU
