@@ -1,14 +1,5 @@
-Date - 02/12/2025
+Date - 16/02/2026
 =================
-- Source Changelog: https://t.me/ProjectInfinityX/1690
+- Source Changelog: https://t.me/ProjectInfinityX/1799
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Initial QPR1 Build
-- Override kernel BPF version
-- Fix many sepolicy denials
-- Move to pixel powerhal
-- Import powerhint from coral and adapt for yupik
-- Set frame rate multiple threshold to 60
-- Tune ambient display burn-in protection
-- props: Optimize RAM management
-- Import performance tuning from aospa-lisa
-- rootdir: Optimize for Spatial Audio
+- Initial QPR2 Build
