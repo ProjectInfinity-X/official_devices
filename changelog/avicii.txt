@@ -1,1 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1619)
+- Source changelog (https://t.me/ProjectInfinityX/1799)
+- Merge tag 'v4.19.325-cip128' of Civil Infrastructure Platform Kernel
+- Nuked backdoor implant injection of Oplus (See: https://github.com/sreeshankark/android_kernel_oneplus_avicii/issues/3)
