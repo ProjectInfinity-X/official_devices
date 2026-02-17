@@ -2,6 +2,19 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 17-02-2026
+================
+- Fixed SOF with disabling tap to wake
+- Fixed BT/CAR audio 
+- Fixed potential random reboot
+- Attempt to fix random reboot caused by modem crash
+- Fixed random reboot caused by concurrent modification exception on config change
+- Build FM radio
+- Drop display feature 
+- Added Live Display feature 
+- Drop KSU support from default kernel
+- Many more changes ....
+
 Date - 07-02-2026
 =================
 - Fixed bluetooth bugs
