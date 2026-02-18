@@ -16,6 +16,6 @@ Flashing Instructions:
 
 * Dirty Flash: 
 - Reboot to recovery
-- Flash ROM.zip
+- Flash ROM.zip (Reflash gapps if youre using vanilla version)
 - Wipe Cache, Dalvik
 - Reboot
