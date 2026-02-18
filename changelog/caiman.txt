@@ -2,6 +2,17 @@ Device: Google Pixel 9 Pro
 Device code name : Caiman
 Device maintainer: Pyrtle93
 
+Date - 02/18/2025
+=================
+- Feb Security (qpr2)
+- Initial QPR2 release
+- Various improvments/cleanups
+- Synced with latest source changes
+- Source changelog
+(https://t.me/ProjectInfinityX/1797)
+(https://t.me/ProjectInfinityX/1799)
+(https://t.me/ProjectInfinityX/1800)
+
 Date - 12/13/2025
 =================
 - December Sercurity (rom) 

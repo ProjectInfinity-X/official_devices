@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.5-komodo-10.12.2025-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/komodo/16/gapps/Project_Infinity-X-3.5-komodo-10.12.2025-GAPPS-OFFICIAL.zip",
-			"timestamp": 1765332855,
-			"md5": "d34d37dd1f9d95ffc32f3166f70125ed",
-			"size": 2931523648,
-			"version": "3.5"
+			"filename": "Project_Infinity-X-3.7-komodo-18.02.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/komodo/16/gapps/Project_Infinity-X-3.7-komodo-18.02.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1771438314,
+			"md5": "a99fdac537c9081be8e1b97f29a9e8b4",
+			"size": 2588423728,
+			"version": "3.7"
 		}
 	]
 }
