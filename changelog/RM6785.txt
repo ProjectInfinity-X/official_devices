@@ -1,3 +1,9 @@
+Date - 19-02-2026
+- Synced with Latest Source (https://t.me/ProjectInfinityX/1800)
+- Drop Blur support completly
+- Unlock 821Mhz GPU freq. in kernel
+- Enable Conservative CPU freq. governor
+
 Date - 08-02-2026
 - Synced With Latest Source (https://t.me/ProjectInfinityX/1797)
 - Initial QPR2 Release
