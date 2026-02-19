@@ -1,6 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1797)
-- February Security Patch
-- QPR2 build
-- Switch back to Vertex kernel and default schedulers
-- Fix heating issue
-- Optimize for balanced performance and efficiency
+- Source changelog (https://t.me/ProjectInfinityX/1800)
+- Fully rebased kernel which should have better performance, battery life, and thermal management
+- Tweaked lmkd to be less aggressive
+- Cleaned up various rootdir scripts (Thanks to kami)
+- Optimized for balanced performance and efficiency
