@@ -1,7 +1,6 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1797
+• https://t.me/ProjectInfinityX/1800
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• Revert "sm8350-common: audio: Use AOSP USB v2 audio HAL"
-• Revert "sm8350-common: audio: Enable AOSP bluetooth audio HAL v2"
+• sm8350-common: Update blobs from OS2.0.3.0.UKBMIXM
