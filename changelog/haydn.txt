@@ -1,5 +1,3 @@
-Date - 08/02/2026
+Date - 20/02/2026
 =================
-- Fixed Snapchat Lens issue (Macro as 2x-10x)
-- Synced with latest changelog https://t.me/ProjectInfinityX/1797
-- Revert "Expose aux cameras to com.snapchat.android"
+synced with latest source changelog - https://t.me/ProjectInfinityX/1800
