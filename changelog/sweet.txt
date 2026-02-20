@@ -2,6 +2,10 @@ Device: Redmi Note 10 Pro / Pro Max
 Device code name : sweet
 Device maintainer: Musafir1875
 
+Date - 20-02-2026
+* QPPR2 Build
+* Source changelog (https://t.me/ProjectInfinityX/1800)
+
 Date - 25-01-2026
 * Synced With Latest Source (https://t.me/ProjectInfinityX/1690)
 * Most of the issue is fixed with Latest Source
