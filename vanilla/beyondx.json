@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.6-beyondx-12.01.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/beyondx/16/vanilla/Project_Infinity-X-3.6-beyondx-12.01.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1768178809,
-			"md5": "77b8c1ca1f34c876d2db49f10467b442",
-			"size": 1433473211,
-			"version": "3.6"
+			"filename": "Project_Infinity-X-3.7-beyondx-20.02.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/beyondx/16/vanilla/Project_Infinity-X-3.7-beyondx-20.02.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1771563641,
+			"md5": "fb5543464133c1d31d66acf0345b873e",
+			"size": 1455373121,
+			"version": "3.7"
 		}
 	]
 }
