@@ -2,9 +2,9 @@ Device: Samsung Galaxy F62
 Device code name : f62
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 01/12/2026
-- Bumped FrEeRuNnErKeRnEl to V3.5 (non rooted version)
-- Fixed issues with NFC
+Device Changelog 02/20/2026
+- Bumped FrEeRuNnErKeRnEl to V3.6 (non rooted version)
+- Added DolbyAtmos UI from Lunaris
 
 * Gapps build
 * Vanlla build

@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.6-beyond2lte-12.01.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/beyond2lte/16/vanilla/Project_Infinity-X-3.6-beyond2lte-12.01.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1768177177,
-			"md5": "332bed182f8fe2c760473818eb041220",
-			"size": 1420662225,
-			"version": "3.6"
+			"filename": "Project_Infinity-X-3.7-beyond2lte-20.02.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/beyond2lte/16/vanilla/Project_Infinity-X-3.7-beyond2lte-20.02.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1771562075,
+			"md5": "b113f1a71104e14a540584669852fc0b",
+			"size": 1441223560,
+			"version": "3.7"
 		}
 	]
 }
