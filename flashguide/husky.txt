@@ -6,9 +6,12 @@ First Time Install {{Note: These releases include firmware!!}}
 Download link for Husky IMGs
 • https://sourceforge.net/projects/infinity-x/files/husky/16/IMGs/
 
-# Recommended Gapps (sideload)
-• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/28-Nov-2025/
-• https://github.com/MindTheGapps/16.0.0-arm64/releases/download/MindTheGapps-16.0.0-arm64-20250812_214353/MindTheGapps-16.0.0-arm64-20250812_214353.zip
+Recommended Gapps (sideload)
+# Basic
+• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/05-Feb-2026/NikGapps-basic-pixels-arm64-16-20260205-signed.zip/download
+
+# Full
+• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/05-Feb-2026/NikGapps-full-pixels-arm64-16-20260205-signed.zip/download
 
 Gapps/Vanilla
 • Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom

@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.6-shiba-12.01.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/shiba/16/vanilla/Project_Infinity-X-3.6-shiba-12.01.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1768256439,
-			"md5": "020b8b75403af854754856abf38e78d3",
-			"size": 2015640911,
-			"version": "3.6"
+			"filename": "Project_Infinity-X-3.7-shiba-20.02.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/shiba/16/vanilla/Project_Infinity-X-3.7-shiba-20.02.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1771613622,
+			"md5": "8d911fe3baa2957a33b27e1bdcecf012",
+			"size": 2024352782,
+			"version": "3.7"
 		}
 	]
 }

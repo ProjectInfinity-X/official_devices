@@ -1,7 +1,10 @@
-Date - 13/11/2025
+Date - 20/02/2026
 =================
-• Version bump 3.6
-• BP3A QPR1
-• January Sercurity (rom)
-• Synced with latest Source Changes
-• Source changelog (https://t.me/ProjectInfinityX/1689)
+• New Signing Keys
+**ADB SIDELOAD is RECOMMENDED**
+• Version bump 3.7
+• BP4A QPR2
+• Febuary Sercurity (rom)
+• Febuary Vendor (device)
+• Synced with Latest Source Changes
+• Source changelog (https://t.me/ProjectInfinityX/1800)
