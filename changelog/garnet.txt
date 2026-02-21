@@ -1,9 +1,16 @@
-Date - 09/02/2026
+Date - 21/02/2026
 
-- Switched to Upstreamed LunarisDolby (translated)
-- Parts: Added translations
-- Kernel: Updated to KSUN 3.0.1
-- Patch some blobs to depend on libtinyxml2-v34.so
-- Patch qccsyshal to load versioned libprotobuf
-- Drop qesdk blobs
-- Drop qguard blobs
+- Fix Hotspot
+- Fix Screenrecord
+- Fix HWUI
+- Fix 4k in video
+- Switch to leica
+- Parts: Remove VideoEnhancer Stuffs
+- overlay: Define config_screenRecorderAVCProfileLevel
+- Enable frame pacing for smoother visual performance
+- overlay: configure SQLite to operate in MEMORY mode
+- Allow to enable/disable ESIM (eUICC)
+- sepolicy: Address powerhal denials
+- Correct euicc feature permissions
+- overlay: Also check hardware sku for GL Esim overlay
+- other fixments in Parts...
