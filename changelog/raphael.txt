@@ -2,6 +2,13 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 20-02-2026
+=================
+- Synced with latest source changes
+- Import some missing overlays 
+- Added Charging control 
+- Some misc changes
+
 Date - 17-02-2026
 ================
 - Fixed SOF with disabling tap to wake
