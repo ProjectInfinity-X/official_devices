@@ -2,6 +2,13 @@ Device: Google Pixel 9
 Device code name : Tokay
 Device maintainer: Pyrtle93
 
+Date - 02/21/2025
+=================
+- Fixed wifi not working
+- Improved camera
+- Fixed calling issues
+- Charging/heating improvements
+
 Date - 02/18/2025
 =================
 - Feb Security (qpr2)
