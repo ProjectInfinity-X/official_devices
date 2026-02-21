@@ -1,3 +1,2 @@
-• Synced With Latest Source (https://t.me/ProjectInfinityX/1799)
-• Updated kernel to latest upstream (5.10.250)
-• if coming from v3.6 Jan 6 Release, you will likely face panic to recovery or not booting then do clean flash!
+• Synced With Latest Source (https://t.me/ProjectInfinityX/1800)
+• if coming from v3.6 Jan 6 Release, you will likely face panic to recovery or bootloop then do clean flash!
