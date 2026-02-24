@@ -1,4 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1774)
-- Initial A16 QPR2 Build
-- Updated blobs to OS2.0.17.0.UMSMIXM
-- Switched to KSU Legacy
+- Source Changelog (https://t.me/ProjectInfinityX/1800)
+- Switched to lineage power-libperfmgr
+- Disabled VSync for CPU rendered apps
+- Specified Ambient Color Temperature sensor
