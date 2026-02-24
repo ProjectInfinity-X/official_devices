@@ -1,6 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1774, https://t.me/ProjectInfinityX/1797)
-- Initial A16 QPR2 release
+- Source changelog (https://t.me/ProjectInfinityX/1800)
+- Fully Rebase the tree
+- Force disable hw overlays
+- Add some props for improving battery backup
+- Fix Youtube Lag in landscape mode and Camera delays
 - Based on 4.19 kernel
-
-
-Note: Do Not Flash over QPR1 Version, As this and the upcoming versions will be dynamic partitions, so clean Flash will be needed
