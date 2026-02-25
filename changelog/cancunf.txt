@@ -3,6 +3,56 @@ Device code name : cancunf
 Device maintainer: Soviet(ussr_1674)
 Credits: @cyberknight777 & @sarthakroy2002 
 
+Date - 25/02/2026
+=================
+• End INTERACTION hint on EXPENSIVE_RENDERING to improve fluidity.
+• Drop redundant props as they are unused on AOSP.
+• Drop phase durations as offsets as it is broken on Android 16 QPR1 on S GRF devices.
+• Drop framerate multi threshold as VSync takes care of framerate voting.
+• Raise the frequency of sampling regions in SurfaceFlinger to attain precise 120Hz for frame fluidity.
+• Allocate 6 buffers for SurfaceFlinger to use in FrameBufferSurface to prevent GC overhead.
+• Update blobs to V1TDS35M.83-20-5-7.
+• Convert MotoActions for M3E support.
+• Apply Expressive theme on MotoActions.
+• Enable blurs.
+• Switch to shared libs to MediaTek framework jars.
+• Update IMS patches for Android 16 QPR1.
+• Patch some blobs to depend on older libtinyxml2.
+• Bring back phase offsets from stock to improve the graphics rendering pipeline.
+• Remove references to TelephonyMetrics in IMS for Android 16 QPR2.
+• Update blobs to V1TDS35M.83-20-5-8.
+• Convert TapGestures for M3E support.
+• Remove setIconSpaceReserved on TapGestures.
+• Pin gsm0710muxd from bogota W1V036M.85.
+• Drop non-MT6855 VPUD blob.
+• Drop vpud binary as we utilize v3avpud.
+• Drop fpc_tee_test binary as it is utilized on factory firmware.
+• Drop non-MT6631 FM firmware.
+• Drop useless mali firmware.
+• Reduce QS blur radius to 23dp.
+• Reduce launcher blur radius to 15dp.
+• Tune up powerhint for blur.
+• Improve status bar padding for Android 16 QPR1.
+• Move IMS jars back to system_ext as we are on a modern device.
+• Switch to stub mediatek-common framework to drop unneeded IMS dependencies.
+• Allow games to use 120fps.
+• Build MediaTek WiFi lib to drop dependency on prebuilt libwifi-hal.so.
+• Update VT from bogota W1V036M.85.
+• Update blobs to V1TDS35M.83-20-5-9.
+• Stop setting iosched to bfq at init.
+• Drop mmi_relay as it is useless for us.
+• Tweak Media/Call volume steps.
+• Reorder Model Number activity in proper category on MotoActions.
+• Set group key for display settings IA on MotoActions.
+• Set group key for battery settings IA on MotoActions.
+• Set group key for display settings IA on DisplayFeatures.
+• Import system NPU libs from V1TDS35M.83-20-5-9.
+• Opt-out of advanced refresh rate page.
+• Drop MediaTek's task_profiles configuration.
+Kernel:
+• Kernel state at r2b3.
+• Drop mmi_relay.
+
 Date - 01/12/2025
 =================
 • Updated with latest source
