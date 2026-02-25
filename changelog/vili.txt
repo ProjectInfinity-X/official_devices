@@ -3,4 +3,7 @@ Source Changelog:
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• sm8350-common: Update blobs from OS2.0.3.0.UKBMIXM
+• I have killed DFE support intentionally [DO NOT USE]
+• Touch AIDL IHighTouchPollingRate
+• Revert "sm8350-common: Disable FRP"
+• sm8350-common: audio: split Dolby config and make it optional
