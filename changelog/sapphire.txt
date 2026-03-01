@@ -2,6 +2,11 @@ Device: Redmi Note 13 4G / NFC
 Device code name : sapphire/sapphiren
 Device maintainer: Liekoo
 
+Date - 27/02/2026
+- Patch some blobs to depend on libtinyxml2.
+- Migrate to libperfmgr
+- Removed deprecated perf scripts 
+
 Date - 09/02/2026
 =================
 - Source Changelog: (https://t.me/ProjectInfinityX/1797)
