@@ -2,15 +2,21 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 02/12/2026
+Date - 03/05/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1797
-• Fully fix Hey Google both screen-off and ON
-• Fix WiFi Hal not being loaded when KernelSuNext patched boot image is flashed.
-• Sync with LineageOS 23.2 changes
-• Misc. Improvements and fixes.....
+• Source Changelog: https://t.me/ProjectInfinityX/1819
+• Ship fully functional OOSCam and OOSGallery
+• Update kernel to be in sync with LOS•23.2
+• Update KernelSUNext support from V1.1.1 to V3.1.0 (Legacy, Update KSUNext Manager)
+• Hide the OOSCam active in background notification from QS
+• More Memory Management tweaks
+• Patch GPU blobs to fix critical vulnerability(thanks to @quince_dvb )
+• Fully fix USB tethering 
+• More kernel vulnerability fixes (thanks to @quince_dvb )
+• Fix CameraHelper not building from A12 days for our Pro series devices (We never noticed it cz we don't need it on op7)
+• [WIP] Fix for battery reporting skipping 
+
 
 Note: 
 • From this version we will be shipping KernelSu Next boot image on  sourceforge.
 • Flash rooted boot image to boot partition to get KernelSuNext and SuSFS
-• KernelSu Next 1.1.1 manager is recommended to be used with KernelSu Next build.
