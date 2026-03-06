@@ -1,5 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1800)
-- Fully rebased kernel which should have better performance, battery life, and thermal management
-- Tweaked lmkd to be less aggressive
-- Cleaned up various rootdir scripts (Thanks to kami)
+- Source changelog (https://t.me/ProjectInfinityX/1819)
+- More tweaks for better thermals
 - Optimized for balanced performance and efficiency
