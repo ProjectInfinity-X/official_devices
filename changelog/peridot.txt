@@ -1,3 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1799)
-- Toned down LMK process kills
-- Added GAME hints for GPU
+- Source changelog (https://t.me/ProjectInfinityX/1819)
+- Initial Release by kibria5
