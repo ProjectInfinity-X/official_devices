@@ -2,6 +2,14 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 07/03/2026
+=================
+- Sync with latest source
+- Updated kernel into v0.12.0
+- Added KsuNext legacy inbuilt
+- Fixed auto lock screen issue for some display panels
+- Many more underhood changes
+
 Date - 09/02/2026
 =================
 - Sync with latest source.
