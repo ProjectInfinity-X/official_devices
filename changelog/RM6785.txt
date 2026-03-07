@@ -1,3 +1,16 @@
+Date - 07-03-2026
+- Synced with Latest Source (https://t.me/ProjectInfinityX/1819)
+- Kernel: Add support for SUSFS 2.0.0
+- Rework on power init
+- Add dynamic sensors HAL support
+- Drop EngineerMode stack
+- Drop MediaTek remote submix HAL
+- Drop MediaTek USB audio HAL
+- Drop MediaTek dplanner blobs
+- Fixed 5GHz hotspot
+- Switch to Lunaris Dolby UI
+- Update dolby blobs from pdx237
+
 Date - 19-02-2026
 - Synced with Latest Source (https://t.me/ProjectInfinityX/1800)
 - Drop Blur support completly
