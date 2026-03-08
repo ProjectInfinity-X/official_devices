@@ -2,6 +2,19 @@ Device: Poco F6 Pro / Redmi K70
 Device codename : vermeer
 Device maintainer: Lunark
 
+Date - 08-03-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1819)
+- Remove /odm/bin/touch_report override
+- Stop building vndservice
+- Drop atrace HAL
+- Stop building automotive vehicle manager lib
+- Include Fw OS3.0.6.0.WNKMIXM
+- Adding Bluetooth Low Energy (BLE)
+- Switch to New Dolby Atmos UI
+- Include Ksu-next V3.0.1 and SuSFS v2.0.0
+- KernelOSS Upstream 5.15.197
+
 Date - 15-02-2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1799)
