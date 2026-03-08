@@ -1,0 +1,9 @@
+Device: OnePlus Ace 6
+Device codename : ktm
+Device maintainer: NullCode1337
+
+Date - 08/03/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1610)
+- Initial Release
+- Android 16 QPR2 update + March 2026 Security Update
