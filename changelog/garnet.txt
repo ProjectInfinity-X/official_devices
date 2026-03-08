@@ -1,10 +1,5 @@
-Date - 01/03/2026
+Date - 08/03/2026
 
-- fixed HWUI problems
-- fixed Esim
-- props: fix duplicates
-- display: Fix HDR functionality by enabling Vulkan
-- Use hwui and add some hwui props for improve perf
-- Enable ScrollOptimizer
-- Enable debug.performance.tuning
-- Enable Qualcomm TrueWireless™ Stereo
+- Upstreamed Kernel to 5.10.252
+- reoved unneccesary HWUI
+- Removed Miui Galery
