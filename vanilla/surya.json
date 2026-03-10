@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.7-surya-10.02.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/surya/16/vanilla/Project_Infinity-X-3.7-surya-10.02.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1770688782,
-			"md5": "88ad5d2df5a12f638b352fb0afc882ef",
-			"size": 1860130467,
-			"version": "3.7"
+			"filename": "Project_Infinity-X-3.8-surya-10.03.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/surya/16/vanilla/Project_Infinity-X-3.8-surya-10.03.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1773103339,
+			"md5": "06970e89e58329159dc45931b4fb9054",
+			"size": 1863015412,
+			"version": "3.8"
 		}
 	]
 }
