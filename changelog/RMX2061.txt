@@ -1,19 +1,24 @@
-Releaseed Date - 14/02/2026
+Releaseed Date - 10/03/2026
 ===========================
-- Synced with latest ROM source 13/02/2026 https://t.me/ProjectInfinityX/1799
-- Adjusted default screen brightness for a more balanced out of box experience
-- Launched boot animation earlier for a faster perceived boot time
-- Switched cache partition to F2FS for better performance and efficiency
-- Tuned status bar paddings for improved visual alignment
-- Optimized LMKD system properties for better memory management
-- Imported updated LMKD configurations from Google GKI sources
-- Tuned WiFi BMPS listening interval to improve idle power savings
-- Fixed SELinux denials related to HBM and DC dimming
-- Increased auto brightness levels and improved brightness precision
-- Accelerated auto brightness ramp up for quicker outdoor visibility
-- Refined RealmeParts interface with improved titles, icons, and adaptive icon colors
-- Implemented High Brightness Mode toggle inside RealmeParts
-- Added DC dimming support inside RealmeParts
-- Integrated camera related fixes into RealmeParts
-- Updated proximity wake sensor handling
-- Included default Calendar application
+- Synced with latest ROM v3.8 source 04/03/2026 (https://t.me/ProjectInfinityX/1819)
+- Implemented Dolby Atmos with updated audio configuration and proper effect mapping
+- Linked Dolby blobs against updated media framework libraries for better compatibility
+- Updated audio policy and effects configuration to improve routing and sound stability
+- Enabled LTO optimizations to improve overall system performance
+- Tuned screen brightness curve for a smoother and more natural brightness transition
+- Improved memory management by updating LMKD behavior and optimization properties
+- Enabled ScrollOptimizer for smoother scrolling performance
+- Reduced system blur radius to improve UI responsiveness
+- Updated pinner configuration to keep important system components in memory
+- Applied optimized Dalvik runtime properties for devices with 8GB RAM
+- Enabled Doze pickup gesture to wake the screen when lifting the device
+- Set improved default layout behavior for the home launcher
+- Fixed Bluetooth SELinux permissions to ensure proper system access
+- Updated charging threshold overlays for better charging behavior
+- Optimized data partition mount flags for improved storage performance
+- Enabled FUSE passthrough by default to improve file system performance
+- Migrated recovery initialization scripts to Soong build system
+- Switched to the common Health AIDL HAL implementation
+- Added default music player application
+- Fixed duplicate AVB rollback index locations to prevent boot issues
+- Included latest HyperFusionX kernel with KernelSU-Next V1.1.1
