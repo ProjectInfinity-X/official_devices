@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.7-redwood-24.02.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/redwood/16/gapps/Project_Infinity-X-3.7-redwood-24.02.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1771908083,
-			"md5": "25cc668424a3e43a3404575be2015bba",
-			"size": 2001774586,
-			"version": "3.7"
+			"filename": "Project_Infinity-X-3.8-redwood-10.03.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/redwood/16/gapps/Project_Infinity-X-3.8-redwood-10.03.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1773140423,
+			"md5": "94ec97c1c41a11490d4d357878b47342",
+			"size": 2037702319,
+			"version": "3.8"
 		}
 	]
 }

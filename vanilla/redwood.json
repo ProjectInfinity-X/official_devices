@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.7-redwood-24.02.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/redwood/16/vanilla/Project_Infinity-X-3.7-redwood-24.02.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1771910022,
-			"md5": "00b0fabe90efe48a4bb1a9c9dd16acc8",
-			"size": 1686973908,
-			"version": "3.7"
+			"filename": "Project_Infinity-X-3.8-redwood-10.03.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/redwood/16/vanilla/Project_Infinity-X-3.8-redwood-10.03.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1773146474,
+			"md5": "487b942499cf0ec80ca62b4d5c172efd",
+			"size": 1687944089,
+			"version": "3.8"
 		}
 	]
 }
