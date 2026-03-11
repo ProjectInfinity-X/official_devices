@@ -2,6 +2,22 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 11-03-2026
+=================
+- Fixed random reboots caused by modem crash finally (thanks to all who tested and reported)
+- Fixed color profiles
+- Fixed some minor jitters and lags
+- Reverted some carrier config changes
+- Parts: Added option to raise the dialog always before front camera pop-up
+- Added saturated color profile
+- Updated GPU blobs to the latest v797 from Mozoid
+- Overlay: Used the new auto network selection UI
+- Overlay: Disabled high-performance transitions
+- Overlay: Added missing radio configs
+- Imported media_codecs.xml
+- Kernel: Added some frequency changes from the CAF/Mozoid Konabess frequency table
+- Some minor changes here and there...
+
 Date - 20-02-2026
 =================
 - Synced with latest source changes
