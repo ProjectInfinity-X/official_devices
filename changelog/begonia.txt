@@ -1,4 +1,11 @@
-Date: 29/12/2025
-- Source changelog (https://t.me/ProjectInfinityX/1619)
-- Synced with latest 3.5 Source
-- Based on December security patch
+Date: 12/03/2026
+- Source changelog (https://t.me/ProjectInfinityX/1819)
+- Synced with latest 3.8 Source
+- Based on March security patch
+- Switched to Dynamic build (Use Unified TWRP recovery to flash)
+- Fixed camera in Telegram
+- Fixed vibrations
+- Update ImsServices in QPR2
+- Switched to Lunaris Dolby
+- Switched file system to EROFS
+- Applied dex2oat optimizations
