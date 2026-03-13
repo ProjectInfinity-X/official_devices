@@ -2,13 +2,22 @@ Device: Google Pixel 7a
 Device code name : Lynx
 Device maintainer: Pyrtle93
 
-Date - 02/21/2025
+Date - 03/14/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1819) (https://t.me/ProjectInfinityX/1824)(https://t.me/ProjectInfinityX/1829)
+- Based on March security patch
+- Gapps improvements
+- Setup Wizard improvements
+- More battery/heating improvements
+- Fixed screen off udfps not showing
+
+Date - 02/21/2026
 =================
 - Improved camera
 - Fixed calling issues
 - Charging/heating improvements
 
-Date - 02/18/2025
+Date - 02/18/2026
 =================
 - Feb Security (qpr2)
 - Initial QPR2 release
