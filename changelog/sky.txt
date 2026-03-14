@@ -1,1 +1,5 @@
 • Synced With Latest Source!
+• Updated kernel to latest upstream (5.10.252)
+• Switched OSS Audio HALs
+• Enable led based vibration effects
+• Other Changes & Improvements!
