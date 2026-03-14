@@ -1,3 +1,11 @@
+Releaseed Date - 14/03/2026
+===========================
+- Synced with latest ROM v3.8 source 13/03/2026 (https://t.me/ProjectInfinityX/1829)
+- Fixed flash GApps erorr on Vanilla build - Used dynamic partition size system
+- Fixed bluetooth audio play on bluetooth device
+- Fixed audio jack audio sound
+- Optimized Wi-Fi power management
+
 Releaseed Date - 10/03/2026
 ===========================
 - Synced with latest ROM v3.8 source 04/03/2026 (https://t.me/ProjectInfinityX/1819)
