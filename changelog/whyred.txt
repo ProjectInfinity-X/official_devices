@@ -2,6 +2,11 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 14/03/2026
+=================
+- Sync with latest source
+- Added torch strength control
+
 Date - 07/03/2026
 =================
 - Sync with latest source
