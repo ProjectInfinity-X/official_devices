@@ -1,9 +1,8 @@
-
 Device: Poco F6 / Redmi Turbo 3
 Device code name : peridot
 Device maintainer: kibria5|Atharva
 
-Date - 06/03/2026
+Date - 14/03/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1829)
 - Update sf duration to 12.3ms
