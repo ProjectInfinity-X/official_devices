@@ -1,6 +1,6 @@
-• February Security Patch Level
-• Starry kernel with ksu enabled by default. Just this Ksu apk (https://t.me/sdm695devbuilds/14086)
+• March Security Patch Level
+• Starry kernel with ksu enabled by default. For root install Ksu apk (https://t.me/sdm695devbuilds/14086)
 • Viper4Androidfx × Sony dolby × Miui Camera All included.
 • NFC works for all the variants.
+• Dirty flash is possible from 3.7
 • Use only default kernel. Flashing other kernels (Positron and Positron mod) can cause bootloop issues.
-• Dirty flash is possible from 3.5
