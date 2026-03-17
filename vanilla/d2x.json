@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.7-d2x-20.02.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/d2x/16/vanilla/Project_Infinity-X-3.7-d2x-20.02.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1771569919,
-			"md5": "54367c21774e509456453137698bc6a3",
-			"size": 1467316577,
-			"version": "3.7"
+			"filename": "Project_Infinity-X-3.8-d2x-17.03.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/d2x/16/vanilla/Project_Infinity-X-3.8-d2x-17.03.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1773761656,
+			"md5": "e99030cab460b760fd825c7ecd949c48",
+			"size": 1472542925,
+			"version": "3.8"
 		}
 	]
 }
