@@ -1,13 +1,6 @@
-- Properly handle HIDL return values to improve HAL stability
-- Allow Power HAL to access Thermal and Stats services
-- Dropped forced triple frame buffers
-- Disabled vendor.audio.feature.kpi_optimize.enable property
-- Tune cpu_dma_latency during app launch for better responsiveness
-- Tune launch and uclamp durations for improved performance bursts
-- Allow Power HAL to access cpu_dma_latency node
-- Migrate to common libqti-perfd-client and power-libperfmgr
-- Load goodix_3626 module (fixes Goodix fingerprint detection and restores FP gestures support)
-- Optimize Gaming and Default thermal profiles
-- Default profile: Allow Prime core to sustain 2.59 GHz until 43°C
-- Gaming profile: Lift all frequency restrictions until 50°C (was 46°C)
-- Added GameBar 
+- Update blobs from diting OS3.0.1.0.VLFMIXM
+- Import qcom perf boosts into powerhint.json
+- Fix sections of ca cert blobs
+- Update blobs from diting OS3.0.1.0.VLFMIXM
+- Kernel upstream to 5.10.252
+- Fixed some bugs and Misc Improvements
