@@ -1,6 +1,6 @@
 How to Flash Recovery and ROM (Project Infinity X) on Exynos9820 devices
 
-Recommended Recovery: Infinity X recovery. Can be found [HERE](https://drive.google.com/drive/folders/11NNUxnmovsqIEF1axlK9dD1i4hiqaid2)
+Recommended Recovery: Infinity X recovery. Can be found [HERE](https://drive.google.com/drive/folders/1Rliyy0IZTRk-c_3KvmJrVmJyvJ_Z_PDq)
 
 1.Power off your device.
 

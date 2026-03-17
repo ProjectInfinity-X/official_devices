@@ -2,9 +2,8 @@ Device: Samsung Galaxy Note 10+ 5G
 Device code name : d2x
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 02/20/2026
-- Bumped FrEeRuNnErKeRnEl to V3.6 (non rooted version)
-- Added DolbyAtmos UI from Lunaris
+Device Changelog 03/17/2026
+- Bumped FrEeRuNnErKeRnEl to V3.7 (rooted version KernelSU-Next V3.1.0 with SusFS v2.0.0)
 
 * Gapps build
 * Vanlla build
