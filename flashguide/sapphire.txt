@@ -4,14 +4,19 @@ Recommended Recovery: https://orangefox.download/device/65a5a3287ac2a93129dc9543
 Flashing Instructions:
 
 * Clean Flash:
-- Download the ROM
-- Boot into recovery
-- Flash ROM.zip
-- Format data
-- Reboot
+1. Flash firmware
+2. Wipe Cache/Dalvik
+3. Format Data
+4. Flash Rom (✅ Reflash Recovery)
+5. Reboot to Recovery (mandatory)
+6. Flash any other stuff you need (optional) (e.g. Magisk, KSU, Kernels, etc)
+7. Format Data (mandatory, to make sure storage protocols are properly applied)
+8. Reboot system
 
 * Dirty Flash:
-- Reboot to recovery
-- Flash ROM.zip
-- Wipe Cache, Dalvik
-- Reboot
+1. Flash Firmware
+2. Flash Rom (✅ Reflash Recovery)
+3. Wipe Cache & Dalvik
+4. Reboot Recovery
+5. Flash anything else you need (optional)
+6. Reboot system
