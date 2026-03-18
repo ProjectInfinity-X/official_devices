@@ -2,6 +2,43 @@ Device: Itel RS4
 Code Name: S666LN
 Device Maintainer: putrazxyo13
 
+Date - 18/03/2026
+- rootdir: bump zram to 70%
+- thermal: fix thermal_core SIGSEGV on cooling device availability race
+- thermal: drop dead inotify field post-genl migration
+- fstab: tune F2FS for longevity and efficiency
+- props: tune ro.hwui.render_ahead for better responsiveness
+- props: drop ro.limit_cache.support
+- props: switch ro.hardware.egl from meow to mali
+- IMS: switch to OEM MTK implementation
+- IMS: fix unregistered state on mobile data toggle
+- SurfaceFlinger: enable AOSP SurfaceFlinger
+- SurfaceFlinger: allocate 6 buffers for FrameBufferSurface
+- SurfaceFlinger: raise sampling region frequency
+- Display: allow games to use 120fps
+- Display: reduce QS blur radius to 23dp
+- powerhint: tune for blur
+- Import phase offsets from Motorola
+- Drop MediaTek MEOW EGL blobs
+- sepolicy: silence redundant audit entries from vendor blobs
+- power: fix destructor no-op; dlopen handle and calloc'd libpowerhal_t now released
+	symmetrically on teardown
+- thermal: fix nl_sock leak and double-close in ThermalWatcher; explicit destructor
+	with thermal_genl_fd_.release() before nl_socket_free()
+- vibrator: implemented Haptics Intelligence per-effect amplitude scaling via
+	gain = clamp(round(sf × ef × max_brightness), 1, max_brightness) across 21
+	effect-strength pairs; cancel-token bounded callback dispatch; duration range
+	widened to [0.70, 1.00] for perceptible ΔtimeMs ≥ 15ms threshold;
+	static-cached capability check and max_brightness for zero-overhead hot path
+- bluetooth: plug 3 dlopen leak paths in Open(); migrate hci_ and
+	firmware_startup_timer_ to unique_ptr for deterministic RAII teardown
+- lights: narrow mutex scope past sysfs I/O; fix scale_brightness underflow on
+	max_brightness=0 via saturating_sub; Path::join over format! for sysfs path
+	construction
+- memtrack: zero-init memSize before parse; fix pid==0 GPU heap
+	overwrite-vs-accumulate; cache mali procfs path as static atomic to eliminate
+	redundant access(2) on every getMemory call
+
 Date - 18/02/2026
 - Fixed IMS crash
 - Fixed Hotspot issues
@@ -10,3 +47,13 @@ Date - 18/02/2026
 - Add erofs compress hints
 - Drop DSPVolumeSynchronizer
 - Import volumes audio policy from raven
+
+Date - 10/02/2026
+* Synced with latest Infinity-X source
+* Initial Official Support
+* Official User & Signed Build (Secure)
+* Set proper min_free_kbytes for better RAM management
+* Shipped with Dolby Atmos (Fixes stock audio distortion/crackling)
+* Dropped force triple frame buffers for reduced latency
+* Switch to AOSP Health AIDL
+* Enabled Unsignal buffer latching with AutoSingleLayer for smoother UI
