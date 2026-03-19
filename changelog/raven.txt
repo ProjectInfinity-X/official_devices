@@ -1,4 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1797)
-- Fixed issue in VANILLA build
-- Added Google Camera
-- Added Smart Pixel feature
+- Source changelog (https://t.me/ProjectInfinityX/1829)
