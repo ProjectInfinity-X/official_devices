@@ -1,0 +1,31 @@
+1. Backup all your data to an external source. All your data will be wiped.
+2. Make sure to remove pin/password and logout of google accounts.
+3. You should have same firmware on both slots. If you are coming from OOS/COS you can either use regional/super flasher to flash oos/cos on both slots. If you are not comfortable with this, local install the current firmware version.
+4. Download the custom rom.zip.
+
+=Recovery Builds=
+1. Get the boot, init_boot, vendor_boot and recovery.img (& super_empty for Ace5 users ) from the sf folder.
+2. Connect to PC.
+3. Reboot to Fastboot - Press Both Power_button_key + Vol_down_key
+4. Flash the following partitions one by one:
+-fastboot flash boot boot.img
+-fastboot flash vendor_boot vendor_boot.img
+-fastboot flash init_boot init_boot.img
+-fastboot flash recovery recovery.img
+-fastboot wipe-super super_empty.img
+5. Reboot to recovery using "fastboot reboot recovery"
+6. Select Wipe Data/factory Reset & Confirm
+7. Select 'apply Update' From Adb and execute
+-adb sideload <drag-&-drop-rom.zip>
+8. Select Wipe Data/factory Reset & Confirm
+9. After Installation Complete, Reboot to System.
+
+=OTA update/dirty flash=
+If the custom ROM supports local install, you can do that from Settings > System Update > local install.
+If not,
+
+1. Reboot to recovery
+2. Apply update > Apply from ADB
+3. Open command prompt & sideload rom using command
+-adb sideload <drag-&-drop-rom.zip>
+4. Reboot.

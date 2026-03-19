@@ -1,6 +1,12 @@
-• February Security Patch Level
-• Starry kernel with ksu enabled by default. Just this Ksu apk (https://t.me/sdm695devbuilds/14086)
-• Viper4Androidfx × Sony dolby × Miui Camera All included.
+• March Security Patch Level
+• Positron Kernel and  Ksu enabled by default. further use this apk. (https://t.me/sdm695devbuilds/16257)
+• Fully Functional Miui-Camera
+• Includes Oneplus Dolby
 • NFC works for all the variants.
-• Use only default kernel. Flashing other kernels (Positron and Positron mod) can cause bootloop issues.
-• Dirty flash is possible from 3.5
+• Bluetooth audio reconnecting issue fixed.
+• Bluetooth audio crackling sound fixed.
+• fixed charging stucks at some specific percentage.
+• fixed overall lags while using system.
+• fixed random system restart issues.
+• battery drain issues are fixed.
+• Clean flash is Mandatory.

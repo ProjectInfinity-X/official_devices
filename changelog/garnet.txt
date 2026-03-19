@@ -1,5 +1,5 @@
-Date - 08/03/2026
+Date - 15/03/2026
 
-- Upstreamed Kernel to 5.10.252
-- reoved unneccesary HWUI
-- Removed Miui Galery
+- Fixed restart & Poweroff issues
+- Updated to V@762.36 OGL & VK driver from houji (Thx to @zylhdrXP)
+- Updated Miui Galery & MiuiEditor

@@ -1,4 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1800)
-- Switched to lineage power-libperfmgr
-- Disabled VSync for CPU rendered apps
-- Specified Ambient Color Temperature sensor
+- Source Changelog (https://t.me/ProjectInfinityX/1819)
+- Fixed 'fastboot flash modem modem.img'
+- Fixed battery and USB OTG detection in recovery mode
+- Updated kernel to Scarlet-v4.0-beta6

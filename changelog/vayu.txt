@@ -1,1 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1819)
+- Source changelog (https://t.me/ProjectInfinityX/1829)
+- Fix doze and dirac stucked enable toggle
+- More enhancements in Dolby app

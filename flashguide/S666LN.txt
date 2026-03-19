@@ -3,6 +3,8 @@ Recommended Recovery: https://t.me/itelrs4updates/164
 
 Flashing Instructions:
 
+Note: Due to many changes in HALs and the changelog, a clean flash is strongly recommended when updating from 3.7 to 3.8. Sorry for the inconvenience.
+
 * Clean Flash:
 - Wipe Dalvik, ART & Cache, Metadata, Data
 - Format Data

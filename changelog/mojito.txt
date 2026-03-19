@@ -1,1 +1,4 @@
-Source Changelog (https://t.me/ProjectInfinityX/1819)
+Source Changelog (https://t.me/ProjectInfinityX/1829)
+
+Device:
+- Add blur support for app drawer

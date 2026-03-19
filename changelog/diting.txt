@@ -1,6 +1,23 @@
 Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
-Device maintainer: Jezzay97
+Device maintainer: Jezzay097
+
+Date - 10/3/2026
+=================
+Device:
+- Tree completely re-based
+- Update blobs and firmware from OS3.0.1.0.VLFMIXM
+- overlay: adjust keyguard indication bottom margin
+- overlay: Fixed status bar glitch for apps that access internal resource dimen
+- audio: Fix invalid voice recognition stream KVs
+- It was changed to Sony Dolby, and support for ac4 codecs was also added.
+- Import missing libjnihelper.so for CACertService app
+- Disable aptX voice codec
+- We return to the qti powerhal
+- Many optimizations and fixes were made.
+
+Kernel:
+- We now use the LineageOS kernel.
 
 Date - 11/1/2026
 =================

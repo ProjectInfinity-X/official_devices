@@ -1,1 +1,2 @@
-- Source changelog -: https://t.me/ProjectInfinityX/1494
+- Source changelog -: https://t.me/ProjectInfinityX/1819
+- Android 16 QPR2 Release, Clean flash (Data format) from v3.2 is must, else you will face navigation related issues
