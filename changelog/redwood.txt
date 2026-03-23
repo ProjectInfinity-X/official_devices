@@ -1,4 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1819)
-- Fixed 'fastboot flash modem modem.img'
-- Fixed battery and USB OTG detection in recovery mode
-- Updated kernel to Scarlet-v4.0-beta6
+- Source Changelog (https://t.me/ProjectInfinityX/1829)
+- Adjusted media volume steps
+- Switched to Sony Dolby Atmos
+- Shipped with Scarlet-v4.1 kernel
