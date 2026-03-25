@@ -1,3 +1,37 @@
 Device: OnePlus Ace 5 5G
 Device code name : giuliac
 Device maintainer: Arijit Saha
+
+Date - 25/03/2026
+=================
+- Sync with latest source
+- switch to user build
+- Properly disable phantom process killing
+- Disable GPU protected composition
+- Disable MTE on system_server and apps
+- Allocate 6 buffers for SurfaceFlinger to use in FrameBufferSurface
+- Enable screen off udfps
+- Set ro.netflix.bsp_rev
+- Remove QTI perfd
+- Drop I/O prefetcher
+- Use common libqti-perfd-client and power-libperfmgr
+- Import powerhint.json
+- Adapt powerhint for cliffs
+- Update sf duration to 12.3ms
+- powerhint: increase TA interaction boosting
+- init: Enable PowerHAL hint processing
+- Enable adpf cpu hint session for SurfaceFlinger and HWUI
+- Fixed recovery screen size
+- Setup speed profile services and wifi-service to reduce RAM and storage
+- init: Rm package cache on early boot
+- Disable backpressure prop
+- Remove Force triple frame buffers
+- Update alert slider position
+- overlay: Update screen brightness configuration
+- Make KeyHandlerResTarget product specific
+- displayconfig: properly calculate sdrHdr ratio map
+- Add support for high touch polling rate toggle
+- Add support for glove mode
+- Remove fwk-detect lib
+- Address more sepolicy denials
+- Many more underhood changes
