@@ -3,8 +3,10 @@ Source Changelog:
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• Kernel updated and overclocked to 855MHz
-• Oneplus ir blaster
-• dolby: Add Dolby spatial audio support
-• dolby: Update dax-default's
+• dolby: DSPVolumeSynchronizer: Migrate to privapp_allowlist
+• dolby: DSPVolumeSynchronizer: Add icon
+• Fixed Game crash and freezing
+• Game Launcher Present
+• Fixup Spatial
+• Kernel update
 Note: MIUI/HyperOS camera and Dolby Included
