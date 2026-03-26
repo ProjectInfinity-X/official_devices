@@ -2,6 +2,16 @@ Device: OnePlus 7T
 Device code name : hotdogb
 Device maintainer: GuneetAtwal
 
+Date - 03/25/2026
+=================
+• Merged March 2026 ASB
+• Initial OnePlus Camera support for 7T
+• OnePlus Gallery included
+• Patched CVE-2025-27038 
+• KSU updated to v3.1
+• Additional NFC fixes
+• Address some sepolicy denials
+
 Date - 02/10/2026
 =================
 • Merged February 2026 ASB
