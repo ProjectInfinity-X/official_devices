@@ -2,21 +2,19 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 03/05/2026
+Date - 03/27/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1819
-• Ship fully functional OOSCam and OOSGallery
-• Update kernel to be in sync with LOS•23.2
-• Update KernelSUNext support from V1.1.1 to V3.1.0 (Legacy, Update KSUNext Manager)
-• Hide the OOSCam active in background notification from QS
+• Source Changelog: https://t.me/ProjectInfinityX/1829
+• Add more OOSCam related blobs 
+• Added 757MHz freq to GPU
+• Restored reserve partition ueventd rules for current OOS blobs
+• Updated AlertSlider Icons and added sepolicy fixes for fingerprint vendor data creation/ioctl access plus ro.oplusupgrade.alpha.version labeling.
 • More Memory Management tweaks
-• Patch GPU blobs to fix critical vulnerability(thanks to @quince_dvb )
-• Fully fix USB tethering 
-• More kernel vulnerability fixes (thanks to @quince_dvb )
-• Fix CameraHelper not building from A12 days for our Pro series devices (We never noticed it cz we don't need it on op7)
+• Added CVP and OmxVpp camera blobs (device and vendor, 32+64 bit)
+• Added new sensor mappings for Thermal HAL and disabled excessive thermal logging 
+• Vendor: allowed gettid in wfdhdcphalservice seccomp policy to avoid Android 16 seccomp filter failures
 • [WIP] Fix for battery reporting skipping 
 
 
 Note: 
-• From this version we will be shipping KernelSu Next boot image on  sourceforge.
 • Flash rooted boot image to boot partition to get KernelSuNext and SuSFS
