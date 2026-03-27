@@ -2,6 +2,28 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay097
 
+Date - 28/3/2026
+=================
+Device:
+- Pin Euicc apps from OnePlus 11
+- Build XiaomiEuicc
+- Declare eUICC permission
+- Add euicc overlay for global variant
+- Update blobs and firmware from OS3.0.3.0.VLFMIXM
+- Import xiaomi fp location and size properties
+- Commonize udfps sensor configuration
+- Allow to enable/disable ESIM (eUICC)
+- udfps: Workaround onFingerDown() race
+- sensors: Use stack alloc for _oem_msg to avoid memory leaks
+- Add support for udfps long press sensor
+- Enable fp screen off unlock feature
+- Bluetooth: Set "bluetooth.auto_connect_profiles.enabled" to true
+- Bluetooth: Move PAN properties to system_ext
+
+Kernel:
+- Merge 5.10.252 into android12-5.10-lts
+- KernelSU-Next Supoort
+
 Date - 10/3/2026
 =================
 Device:
