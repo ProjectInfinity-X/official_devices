@@ -1,23 +1,17 @@
-- Fix notifications/media player not appearing on lockscreen with custom clock styles
-- Add feature to adjust height of  lockscreen clock styles
-- Allow to change color of lockscreen clock styles
-- Allow to adjust transparency of lockscreen clock styles
-- Fix high ram usage while using custom lockscreen clock styles
-- Add toggle for translucent notifications on lockscreen/QS (author: rmp22 & neobuddy89)
-- Add scroll optimizer implementation (author: rmp22)
-- Fix security & privacy settings preferences crash
-- Hide navigation bar on lockscreen/AOD/doze/bouncer
-- Allow disabling private DNS for VPN (author: idoybh)
-- Fix a rare black screen freeze issue after unlocking device 
-- Fix 1st app row clipping when app drawer bottom sheet disabled
-- Make circle battery icons appear red on lower battery level (author: luk1337)
-- Fix right statusbar logo appearing before battery icon (author: neobuddy89)
-- Add charging bolt indicator for text-only battery style (author: Ghosuto)
-- Improve statusbar burn-in protection
-- Allow to use lockscreen carrier name while custom lockscreen clock styles in use
-- Fix invert navbar layout on taskbar (author: neobuddy89)
-- Use seekbar to allow setting arbitrary animation values (author: hyperb1iss)
-- Reset mobile data always on developer setting correctly (author: adithya2306)
-- Allow to enable hotspot as a hidden network ssid (author: cjybyjk)
-- Fix long pressing private dns tile pointing nowhere (author: idoybh)
-- Tonnes of improvements for QuickTap feature (author: someone5678 & NurKeinNeid)
+- Add new homescreen QPR1 style revamped search bar with toggle to switch b/w old and new (author: NurKeinNeid for new searchbar outer shape, Icons, Ai search button Implementation)
+- Redesigned App drawer search bar to Pixel style 
+- Revamp Ongoing progress chip and Ongoing Media Progress chip (author: neobuddy89, Ghosuto, shutter-cat, NurKeinNeid) 
+- Revamp brighntess slider styles and add toggle to enable minimal brightness slider (author: Ghosuto, rmp22)
+- Fixed recent apps scrolling animation skips
+- Add slider to adjust space between homescreen searchbar and 1st app row
+- Fix stock qpr volume panel ring/vibrate/silent) switches not working in landscape mode (author: shutter-cat)
+- Address a battery/cpu hogging scenario
+- Fixed media not resuming even if volume increased from 0 when adaptive playback enabled
+- Increase net traffic right margin a bit more
+- Add 2 new custom clock styles (author: kshitij-bhale)
+- Add Recursive Casual font (author: kdrag0n)
+- Add remaining battery indicator in cutout progress (author: Ghosuto)
+- Fix backup settings crash occured in last release
+- Update settings app illustrations from Android Canary Release (author: aswin7469)
+- Fix launcher crash on early boot
+- Fix a reported "account suspend" issue in a game named "Free Fire" when higher fps game spoofing enabled, and also fix fps spoof in the particular game
