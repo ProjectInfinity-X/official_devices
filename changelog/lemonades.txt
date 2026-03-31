@@ -1,0 +1,15 @@
+Device: OnePlus 9R
+Device code name : lemonades
+Device maintainer: MufasaXz
+
+Date - 21/03/2026 (v3.8 Android 16 Stable)
+===================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1829)
+• Initial Official Build 
+• ​Introduced powerhint.json and configured Power HAL.
+​• Optimized battery efficiency and thermals by nerfing touch boost.
+​• Imported Maple I/O scheduler.
+​• Introduced Adreno Idler to reduce idle battery drain.
+​• Disabled RT_RUNTIME_SHARE by default to prevent task starvation.
+•​ Improved WALT scheduler and core_ctl tracing.
+
