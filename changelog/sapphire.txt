@@ -2,6 +2,12 @@ Device: Redmi Note 13 4G / NFC
 Device code name : sapphire/sapphiren
 Device maintainer: Liekoo
 
+
+Date - 31/03/2026
+- Tune perf to stability and more smoothness
+- Fix more known bugs
+- Label more sepolicy
+
 Date - 17/03/2026
 - Introduce Charge Control Limit
 - Fix Audio Stuttering in Games
