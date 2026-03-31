@@ -4,11 +4,14 @@ Recommended Recovery: https://orangefox.download/device/65a5a3287ac2a93129dc9543
 Flashing Instructions:
 
 * Clean Flash:
-- Download the ROM
-- Boot into recovery
-- Flash ROM.zip
+- Flash the correct firmware (if not already done)
+- Wipe cache/dalvik
 - Format data
-- Reboot
+- Flash ROM
+- Reboot recovery [absolutely crucial]
+- Do whatever else (if any you want/need to do)
+- Format data (again - so that the new ROM's encryption protocols are in place) [absolutely crucial]
+- Reboot to Android.
 
 * Dirty Flash:
 - Reboot to recovery
