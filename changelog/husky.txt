@@ -1,5 +1,9 @@
-Date - 24/03/2026
+Date - 30/03/2026
 =================
+  [HOTFIX]
+• Fixed Hotspot functionality & WPA3/6GHz
+• Settings > System > Reset options > Reset Bluetooth & Wi-Fi
+
 • Version bump 3.8
 • March Sercurity (rom)
 • Febuary Vendor (device)
