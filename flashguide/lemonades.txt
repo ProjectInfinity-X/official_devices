@@ -1,0 +1,47 @@
+Device: OnePlus 9R (lemonades)
+Recommended Recovery: Provided in the rom post 
+Recommended firmware:  OOS 14.0.0.603(EX01)
+
+
+### **Flashing Instructions:**
+
+* **Pre-requisites:**
+  - **Download** the latest ROM build.
+  - **Download** the latest [Platform Tools](https://developer.android.com/studio/releases/platform-tools), extract the zip, and **add the folder to your PATH**.
+  - **Enable USB debugging** via developer options on your phone and connect your phone via USB to PC.
+  - **Extract only the `recovery.img`** file from the ROM zip.
+
+* **Clean Flash:**
+  1. Open a command prompt window where the extracted `recovery.img` is present.
+  2. Enter the following commands one by one to boot into recovery:
+     ```bash
+     adb reboot bootloader
+     fastboot boot recovery.img
+     ```
+  3. From the phone's recovery page, navigate to: **Factory reset -> Format data/factory reset -> Format data**.
+  4. Go back to the main recovery page.
+  5. Select **"Apply Update -> Apply from ADB"**.
+  6. From the command window, **sideload the ROM** using:
+     ```bash
+     adb sideload <ROM>.zip
+     ```
+
+* **Updating (Dirty Flash):**
+  1. Open a command prompt window where the new ROM zip is present.
+  2. Reboot to recovery by executing:
+     ```bash
+     adb reboot recovery
+     ```
+  3. Select **"Apply Update -> Apply from ADB"**.
+  4. **Sideload the ROM** using:
+     ```bash
+     adb sideload <ROM>.zip
+     ```
+
+* **Rooting (Optional):**
+  1. If you want to root, after the first successful boot, **reboot to recovery again**.
+  2. Select **"Apply Update -> Apply from ADB"**.
+  3. Open a command prompt window where the Magisk zip is located and execute:
+     ```bash
+     adb sideload <MagiskFileName>.zip
+     ```
