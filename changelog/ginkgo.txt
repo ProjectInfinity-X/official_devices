@@ -1,3 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1829)
-- Lots of changes to improve camera quality especially video recording
-- More enhancements in Dolby app
+- Source changelog (https://t.me/ProjectInfinityX/1847)
