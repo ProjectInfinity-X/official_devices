@@ -1,4 +1,2 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1829)
-- Adjusted media volume steps
-- Switched to Sony Dolby Atmos
-- Shipped with Scarlet-v4.1 kernel
+- Source Changelog (https://t.me/ProjectInfinityX/1847)
+- Tuned dax-default
