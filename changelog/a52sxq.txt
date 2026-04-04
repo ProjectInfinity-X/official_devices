@@ -1,17 +1,29 @@
-- Add new homescreen QPR1 style revamped search bar with toggle to switch b/w old and new (author: NurKeinNeid for new searchbar outer shape, Icons, Ai search button Implementation)
-- Redesigned App drawer search bar to Pixel style 
-- Revamp Ongoing progress chip and Ongoing Media Progress chip (author: neobuddy89, Ghosuto, shutter-cat, NurKeinNeid) 
-- Revamp brighntess slider styles and add toggle to enable minimal brightness slider (author: Ghosuto, rmp22)
-- Fixed recent apps scrolling animation skips
-- Add slider to adjust space between homescreen searchbar and 1st app row
-- Fix stock qpr volume panel ring/vibrate/silent) switches not working in landscape mode (author: shutter-cat)
-- Address a battery/cpu hogging scenario
-- Fixed media not resuming even if volume increased from 0 when adaptive playback enabled
-- Increase net traffic right margin a bit more
-- Add 2 new custom clock styles (author: kshitij-bhale)
-- Add Recursive Casual font (author: kdrag0n)
-- Add remaining battery indicator in cutout progress (author: Ghosuto)
-- Fix backup settings crash occured in last release
-- Update settings app illustrations from Android Canary Release (author: aswin7469)
-- Fix launcher crash on early boot
-- Fix a reported "account suspend" issue in a game named "Free Fire" when higher fps game spoofing enabled, and also fix fps spoof in the particular game
+- Update builds to version 3.9
+- Add statusbar/lockscreen dynamic bar implementation (author: rmp22)
+- Add App drawer customizations and tunings (author: shutter-cat, pbzinwindows, ChrisCatto)
+- Add Toggle to launch notification apps in bubble or floating screen (author: shutter-cat)
+- Add optional toggleable Classic style QS Panel along with tile shapes and ability to hide labels (author: neobuddy89)
+- Allow switching to default Android 16 brightness slider style
+- Add detailed Idle manager with advanced per-app control (author: Ghosuto)
+- Add 11 more Lockscreen custom clock styles (author: IDontCare-05, spkal01, Ghosuto)
+- Fix custom clock styles disappearing on tablets or landscape rotation
+- Allow applying volume panel gradient customization to extended volume panel style
+- Allow showing Volume percentage on extended and expanded volume panel style 
+- Add toggle to kill Flash SMS messages (author: adithya2306)
+- Simplify Always-on-Display charging checks (author: NurKeinNeid)
+- Remove QS boost hints that lead to battery drain / heat
+- Remove unnecessary scrolling boost hints that lead to battery drain / heat
+- Add back lockscreen weather wind and humidity info from v3.7
+- Remove ongoing media chip // Fixes systemui crash issues while media was playing with media chip enabled
+- Add optional Glow effect in notch ring (author: hxreborn)
+- Add music playback progress in cutout ring  (author: Ghosuto)
+- Improve padding for search icon in app drawer search bar when google app disabled
+- Add launcher wallpaper carousel (author: MrSluffy)
+- Fix default fonts display for regular and headline in QS Panel
+- Fix NPE in CallListener Gamespace (author: neobuddy89)
+- Fix scrolling in recovery image when touch is rotated (author: AnierinBliss)
+- Allow changing size of custom clock styles (author: Ghosuto)
+- Fix PlanesLockGuard buffer lock leak in av (author: jsebechlebsky)
+- Fix preferences in launcher3 icon pack fragment turning purple upon clicking (author: neobuddy89)
+- Hide VmTerminal fragment if device doesn't support it (author: luk1337)
+- Improvements on memory usage and battery backup
