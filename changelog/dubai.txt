@@ -1,5 +1,11 @@
 Date - 16/02/2026
 =================
-- Source Changelog: https://t.me/ProjectInfinityX/1799
+- Source Changelog: https://t.me/ProjectInfinityX/1847
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Initial QPR2 Build
+- Shift to Lineage PowerHal
+- Drop `debug.sf.latch_unsignaled` property
+- Remove fwk-detect lib from PRODUCT_PACKAGES
+- Update DolbyUI with LunarisDolbyUI
+- Declare WiFi Aware support to WiFi HAL
+- Move ro.vendor.radio.imei.sv to device
+- Update Powerhint for more battery backup
