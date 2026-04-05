@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-akita-30.03.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/akita/16/gapps/Project_Infinity-X-3.8-akita-30.03.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1774907799,
-			"md5": "827a22eafabf3dddf1349b2ad2ba2ae9",
-			"size": 2667152876,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.9-akita-04.04.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/akita/16/gapps/Project_Infinity-X-3.9-akita-04.04.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1775343198,
+			"md5": "867cda7b2427f6c84fd834e70bffe43e",
+			"size": 2668920833,
+			"version": "3.9"
 		}
 	]
 }
