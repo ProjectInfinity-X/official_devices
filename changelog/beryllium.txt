@@ -1,6 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1800)
+- Source Changelog: https://t.me/ProjectInfinityX/1847
+- For play integrity, read this: https://t.me/ProjectInfinityX/1611
 - Fully Rebase the tree
-- Force disable hw overlays
-- Add some props for improving battery backup
-- Fix Youtube Lag in landscape mode and Camera delays
-- Based on 4.19 kernel
+- Update DolbyUI with LunarisDolbyUI
+- Use sm8250 HALs for vendor namespace imports
+- Fix some sepolicy stuff related to 4.19 kernel
