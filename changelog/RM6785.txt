@@ -1,3 +1,13 @@
+Date - 05-04-2026
+- Synced With Latest Source (https://t.me/ProjectInfinityX/1847)
+- Don't enable f2fs iostat by default
+- Build audio stack as 32-bit only
+- Build libmtkperf_client as 64-bit only
+- Switch to AOSP Health AIDL
+- Build bt audio interface from source
+- Adjust reserved size for MicroG
+- Kernel: Merge latest openela upstream changes
+
 Date - 07-03-2026
 - Synced with Latest Source (https://t.me/ProjectInfinityX/1819)
 - Kernel: Add support for SUSFS 2.0.0
