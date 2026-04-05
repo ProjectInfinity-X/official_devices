@@ -1,11 +1,7 @@
-Date - 30/03/2026
+Date - 05/04/2026
 =================
-  [HOTFIX]
-• Fixed Hotspot functionality & WPA3/6GHz
-• Settings > System > Reset options > Reset Bluetooth & Wi-Fi
-
-• Version bump 3.8
-• March Sercurity (rom)
+• Version bump 3.9
+• April Sercurity (rom)
 • Febuary Vendor (device)
 • Synced with Latest Source Changes
-• Source changelog (https://t.me/ProjectInfinityX/1829)
+• Source changelog (https://t.me/ProjectInfinityX/1847)
