@@ -1,5 +1,6 @@
-Date - 15/03/2026
+Date - 06/04/2026
 
-- Fixed restart & Poweroff issues
-- Updated to V@762.36 OGL & VK driver from houji (Thx to @zylhdrXP)
-- Updated Miui Galery & MiuiEditor
+- Added modded fastcharge
+- Added Parts widget (Beta)
+- Update MiuiGallery to 4.3.0.64
+- Update MiuiGallery Editor to 2.2.0.2.4 
