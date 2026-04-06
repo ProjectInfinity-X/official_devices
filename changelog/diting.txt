@@ -2,6 +2,11 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay097
 
+Date - 6/4/2026
+=================
+Kernel:
+- Update KernelSU-Next
+
 Date - 28/3/2026
 =================
 Device:
