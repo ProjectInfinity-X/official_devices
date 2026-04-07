@@ -1,25 +1,8 @@
-Date: 16/03/2026
-- Source changelog (https://t.me/ProjectInfinityX/1829)
-- Synced with latest 3.8 Source
-- Based on March security patch
-- Update firmware/vendor from NOS B4.0-260225-1824
-- Fix SF dropping to 90hz on transitions
-- Potentially fix bluetooth call audio issue
-- Enable haptic effect when moving text selection handle
-- Switch to slider preference for glyph brightness
-- Build audio stack from source
-- Build graphics/display stack from source
-- Fix UDFPS animation vertical offset
-- Vibrator shouldn't skip some effects anymore (e.g: keyboard presses)
-- Slightly raise strength for "light" haptic effects
-- Add option to live preview glyph animations
-- Import icon for glyph torch QS tile
-- Fix glyph battery saver toggle being checked by default
-- Glyph: Fix torch turning off when device goes to sleep
-- Glyph: Fix torch tile sometimes reporting being enabled when it isn't
-- Glyph: Fix essential notification after using torch
-- Dolby: introduce mid frequency enhancer
-- Dolby: fix restoring settings after audio focus loss
-- Dolby: Import new tab bar
-- Dolby: Import translations (polish, indonesian)
-- Dolby: Move per-app audio profiles to home tab
+Date: 07/04/2026
+- Source changelog (https://t.me/ProjectInfinityX/1847)
+- Synced with latest 3.9 Source
+- Based on April security patch
+- Fixed Screen crashing or going black in direct sunlight or if the device gets warm (added proper thermal dimming)
+- Improved HBM for better outdoor visibility
+- Improved HDR brightness
+- Possibly fixing the Ghost Charging Bug (Charging Visual Bug)
