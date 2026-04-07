@@ -1,12 +1,6 @@
-• March Security Patch Level
+• April Security Patch Level
 • Positron Kernel and  Ksu enabled by default. further use this apk. (https://t.me/sdm695devbuilds/16257)
 • Fully Functional Miui-Camera
 • Includes Oneplus Dolby
 • NFC works for all the variants.
-• Bluetooth audio reconnecting issue fixed.
-• Bluetooth audio crackling sound fixed.
-• fixed charging stucks at some specific percentage.
-• fixed overall lags while using system.
-• fixed random system restart issues.
-• battery drain issues are fixed.
-• Clean flash is Mandatory.
+• Dirty flash will work.
