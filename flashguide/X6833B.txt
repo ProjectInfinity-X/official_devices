@@ -1,0 +1,24 @@
+Recommended Recovery: Infinity X recovery. Can be found [HERE](https://t.me/romlar31/220)
+
+1.Reboot your device into fastboot
+
+2.Connect device via USB and run:
+
+fastboot flash vendor_boot vendor_boot_X6833B.img
+
+3.Reboot to recovery, then in recovery select Apply update > Apply from ADB > ADB sideload
+
+Flashing Instructions:
+Clean Flash
+Tap Factory reset > Format data/factory reset > Format data
+Format cache partition
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+Reboot
+
+Dirty Flash
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+
+Reboot
+
+OTA Update
+Simply upgrade via OTA updater
