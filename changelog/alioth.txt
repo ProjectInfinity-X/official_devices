@@ -1,1 +1,1 @@
-- Intial QPR2 Update
+- Added Quick Thermal Change QS Tile
