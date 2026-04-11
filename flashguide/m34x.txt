@@ -1,0 +1,25 @@
+Recommended Recovery: Infinity X recovery. Can be found [HERE](https://t.me/Floppy1280_Chat/13050/21254)
+
+1.Reboot your device into download mode
+
+2.Connect device via USB and open Odin and flash disable vbmeta by flashing this to BL slot
+https://t.me/Exy1280_dis/313925
+
+3.Flash recovery to AP slot 
+
+4.Reboot to recovery, then in recovery select Apply update > Apply from ADB > ADB sideload
+
+Flashing Instructions:
+Clean Flash
+Tap Factory reset > Format data/factory reset > Format data
+Format cache partition
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+Reboot
+
+Dirty Flash
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+
+Reboot
+
+OTA Update
+Simply upgrade via OTA updater
