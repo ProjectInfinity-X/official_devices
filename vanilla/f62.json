@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-f62-17.03.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/f62/16/vanilla/Project_Infinity-X-3.8-f62-17.03.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1773763208,
-			"md5": "4be42266a73f98fd34e76f90130e2f57",
-			"size": 1453884632,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.9-f62-10.04.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/f62/16/vanilla/Project_Infinity-X-3.9-f62-10.04.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1775814391,
+			"md5": "7083bc6244add011b84cbd5c6d2a9402",
+			"size": 1459326806,
+			"version": "3.9"
 		}
 	]
 }

@@ -2,8 +2,8 @@ Device: Samsung Galaxy F62
 Device code name : f62
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 03/17/2026
-- Bumped FrEeRuNnErKeRnEl to V3.7 (rooted version KernelSU-Next V3.1.0 with SusFS v2.0.0)
+Device Changelog 04/11/2026
+- Bumped FrEeRuNnErKeRnEl to V3.7-r2 (synced latest version of KernelSU-Next changes with SusFS v2.1.0)
 
 * Gapps build
 * Vanlla build
