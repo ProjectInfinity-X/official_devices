@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-d2s-17.03.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/d2s/16/gapps/Project_Infinity-X-3.8-d2s-17.03.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1773745159,
-			"md5": "ad239b46b194dd09df3d4de1199e7533",
-			"size": 1821307969,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.9-d2s-10.04.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/d2s/16/gapps/Project_Infinity-X-3.9-d2s-10.04.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1775795154,
+			"md5": "17cc8cba5ef8be8b04cc24ecedde896d",
+			"size": 1825035342,
+			"version": "3.9"
 		}
 	]
 }
