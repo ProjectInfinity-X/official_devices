@@ -1,2 +1,2 @@
 - Source changelog (https://t.me/ProjectInfinityX/1847)
-- Initial Official Build
+- Media Issues Related To C2 Have Been Fixed
