@@ -2,6 +2,22 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 12-04-2026
+=================
+- Fixed flickering issues 
+- Fixed boot issues for k20 pro premium 
+- Fixed frp issues after clean flash
+- Fixed slow/pd charging
+- Revert back to stock gpu drivers
+- Switch to prebuilt Dolby Atmos
+- audio: refine volume curves and step configuration
+- Add qti vibrator effects
+- Label more volume up/down keys
+- parts: Introduce haptic feedback level adjustment
+- parts: Vibrate when changing haptic feedback level
+- Tune powerhint for better efficiency 
+- Add some missing frequencies in kernel
+
 Date - 11-03-2026
 =================
 - Fixed random reboots caused by modem crash finally (thanks to all who tested and reported)
