@@ -1,3 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1829)
-- Added SONY Dolby
-- Fixed Display Colours (Vivid, Natural, Cinematic [Display P3])
+- Source changelog (https://t.me/ProjectInfinityX/1847)
+- Merge kernel 4.19.325-cip130-st14 patches
