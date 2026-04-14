@@ -2,6 +2,15 @@ Device: Google Pixel 9
 Device code name : Tokay
 Device maintainer: Pyrtle93
 
+Date - 04/14/2026
+=================
+Version bump 3.9
+- April Security (rom)
+- Febuary Vendor (device)
+- Fixed backup crashing in settings, system
+- Synced with Latest Source Changes
+- Source changelog (https://t.me/ProjectInfinityX/1847)
+
 Date - 03/14/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1819) (https://t.me/ProjectInfinityX/1824)(https://t.me/ProjectInfinityX/1829)
