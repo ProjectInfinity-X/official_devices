@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-whyred-14.03.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/whyred/16/vanilla/Project_Infinity-X-3.8-whyred-14.03.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1773470060,
-			"md5": "0d947608eb020b90ce757e5bac895432",
-			"size": 1390227789,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.9-whyred-14.04.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/whyred/16/vanilla/Project_Infinity-X-3.9-whyred-14.04.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1776184888,
+			"md5": "1e4b54bbd6a80e4bc45f0b218c4c165c",
+			"size": 1401965775,
+			"version": "3.9"
 		}
 	]
 }
