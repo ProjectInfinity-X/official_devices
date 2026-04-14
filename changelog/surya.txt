@@ -1,1 +1,2 @@
-*Source Changelog - (https://t.me/ProjectInfinityX/1829)
+*Source Changelog - (https://t.me/ProjectInfinityX/1847)
+* Misc fixes and changes
