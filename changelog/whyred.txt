@@ -2,6 +2,42 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 14/04/2026
+=================
+- Sync with latest source
+- Compile the kernel without GCC
+- Update implementation of torch light control
+- overlay: Remove Dialer overlay
+- Enable asynchronous library events in WPA supplicant
+- Drop useless commits and cleanup
+- Drop dex prop and flags
+- Apply dex2oat optimizations
+- props: Drop duplicate dirac props
+- rro_overlays: Reduce blur radius
+- rro_overlays: Update rounded corner values and statur bar icon paddings
+- Remove custom VSYNC offsets
+- WifiOverlay: Disable WPA2 -> WPA3 upgrade
+- overlay: Convert config_screenBrightnessDoze to float
+- sepolicy: Remove duplicate /dev/lirc0 label
+- rootdir: Switch to wahoo cpuset setup
+- rootdir: Update cpusets tunables
+- rootdir: Optimize vfs cache pressure
+- rootdir: Drop mkdir /data/system
+- rootdir: Clean-up early boot script
+- powerhint: Set screen-off schedutil ratelimits
+- init: Decrease swappiness to 100 for better ZRAM utilization
+- Drop OMX.qcom.video.decoder.avc.secure
+- Drop Prefer 'cache' backing storage
+- audio: Remove deprecated audio daemon
+- audio: Remove unused hdmi_in_test
+- audio: Remove unsupported QAHW
+- audio: Remove disabled HW accelerated effects
+- audio: Remove OMX components
+- audio: Remove autoconf/automake files
+- audio-hal: oob read when doing the typecase
+- audio-hal: Fix kw issue
+- Many more underhood changes
+
 Date - 14/03/2026
 =================
 - Sync with latest source
