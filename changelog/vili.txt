@@ -1,12 +1,28 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1829
+• https://t.me/ProjectInfinityX/1847
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• dolby: DSPVolumeSynchronizer: Migrate to privapp_allowlist
-• dolby: DSPVolumeSynchronizer: Add icon
-• Fixed Game crash and freezing
-• Game Launcher Present
-• Fixup Spatial
-• Kernel update
+• sm8350-common: overlay: Forcefully disable Smart Pixels
+• sm8350-common: audio: Update volumes from OOS 16
+• sm8350-common: rro_overlays: Add system ui restart option
+• sm8350-common: Move c2_manifest_vendor.xml to common
+• sm8350-common: Include ViPER4AndroidFX
+• fixup! sm8350-common: Convert overlays to RROs
+• sm8350-common: rro_overlays: Beautify RROs
+• sm8350-common: Use SPDX copyright headers
+• sm8350-common: Convert overlays to RROs
+• sm8350-common: overlay: Set default pin amount for home app
+• sm8350-common: overlay: Remove deprecated config_mobile_tcp_buffers/networkAttributes
+• sm8350-common: overlay: Drop MMS user agent overlays
+• sm8350-common: overlay: drop sw372dp dimens
+• sm8350-common: rro_overlays: WifiOverlay: Move to vendor
+• sm8350-common: rro_overlays: Rename & simplify RROs usage
+• Revert "dolby: Update MotoDolbyDax3.apk"
+• dolby: Enable volume leveler for SpatialAudio and Mobility's
+• dolby: Update dax-default.xml from Motorola
+• dolby: Fixup dax-default-spatializer.xml path
+• dolby: Update Spatial blobs from oriole
+• dolby: Update Spatial blobs from BP4A.251205.006
+• Reapply "dolby: Update daxService
 Note: MIUI/HyperOS camera and Dolby Included
