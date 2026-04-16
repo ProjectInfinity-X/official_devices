@@ -2,19 +2,17 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 03/27/2026
+Date - 04/15/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1829
-• Add more OOSCam related blobs 
-• Added 757MHz freq to GPU
-• Restored reserve partition ueventd rules for current OOS blobs
-• Updated AlertSlider Icons and added sepolicy fixes for fingerprint vendor data creation/ioctl access plus ro.oplusupgrade.alpha.version labeling.
-• More Memory Management tweaks
-• Added CVP and OmxVpp camera blobs (device and vendor, 32+64 bit)
-• Added new sensor mappings for Thermal HAL and disabled excessive thermal logging 
-• Vendor: allowed gettid in wfdhdcphalservice seccomp policy to avoid Android 16 seccomp filter failures
-• [WIP] Fix for battery reporting skipping 
-
+• Source Changelog: https://t.me/ProjectInfinityX/1847
+• Reworked battery SOC smoothing again to follow stock OOS behavior more closely, eliminating visible catch-up jumps and keeping the status bar drop in cleaner 1% steps
+• Enabled BBRv2 with fq as the default TCP stack on SM8150
+• Backported the vmscan critical-process throttle bypass so direct reclaim no longer stalls system-critical tasks, including binder-spawned workers that inherit a critical oom_score_adj
+• Brought up the NXP eSE / NFC off-host stack, shipped the matching OOS eSE config and added the required HAL cross-lookup SELinux rules
+• Audio/Dolby: restored offload policy profiles, fixed profile-specific GEQ preset storage and restored session-scoped playback effects
+• Bumped vendor.oplus.hardware.subsys_interface.subsys_radio to V9
+• Adjust statusbar paddings to visually improve compatibility with dynamic notification bar in statusbar
+• Misc. improvements
 
 Note: 
 • Flash rooted boot image to boot partition to get KernelSuNext and SuSFS
