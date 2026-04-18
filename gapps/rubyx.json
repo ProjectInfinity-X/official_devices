@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-rubyx-05.03.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/rubyx/16/gapps/Project_Infinity-X-3.8-rubyx-05.03.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1772684208,
-			"md5": "9687420e15bda953936dbf201f80a685",
-			"size": 2040909062,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.9-rubyx-18.04.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/rubyx/16/gapps/Project_Infinity-X-3.9-rubyx-18.04.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1776532512,
+			"md5": "cf4b5fe0e93dc83da3bc97cf6b47bf76",
+			"size": 2073770986,
+			"version": "3.9"
 		}
 	]
 }
