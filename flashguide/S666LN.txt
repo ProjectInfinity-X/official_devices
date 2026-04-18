@@ -1,5 +1,6 @@
 Device: Itel RS4 (S666LN)
 Recommended Recovery: https://t.me/itelrs4updates/164
+IMG Files: https://sourceforge.net/projects/infinity-x/files/S666LN/16/img
 
 Flashing Instructions:
 

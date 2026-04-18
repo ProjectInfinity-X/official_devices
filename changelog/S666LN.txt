@@ -2,6 +2,28 @@ Device: Itel RS4
 Code Name: S666LN
 Device Maintainer: putrazxyo13
 
+Date - 18/04/2026
+- Added new GameBar
+- rootdir: kang EAS utilization clamp from cancunf
+- rootdir: migrate dev permissions to ueventd and resolve cgroup conflicts
+- prop: Disable gl backpressure
+- init: Remove usbotg actions from init.project.rc
+- prop: enable cached app freezer via cgroup v2
+- drop unused bemakeup assets & enable EROFS lz4hc compression
+- powerhint: set top-app uclamp.min baseline to 10
+- Switch to GS101 memtrack
+- Set PELT HALFLIFE to 8ms before early init boot stage
+- Switch from the BFQ to the mq-deadline I/O scheduler
+- overlay: Enable Fast bss transition config
+- rootdir: fix vts filesystem security violations
+- BoardConfig: drop AOSP_SURFACEFLINGER
+- powerhint: add PM QoS and cpuset idle restriction from yunluo
+- powerhint: Revamp INTERACTION tuning for efficiency
+- optimize dalvik VM heap parameters for 8GB
+- overlay: reduce shade blur radius to 17dp
+- init: match cgroup tuning with malachite
+- init: match cpuset with pixel layout
+
 Date - 18/03/2026
 - rootdir: bump zram to 70%
 - thermal: fix thermal_core SIGSEGV on cooling device availability race
