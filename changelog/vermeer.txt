@@ -2,6 +2,51 @@ Device: Poco F6 Pro / Redmi K70
 Device codename : vermeer
 Device maintainer: Lunark
 
+Date - 19-04-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1847)
+- Clean flash required!!!
+- sepolicy: Allow hal_fingerprint_default to set vendor_fp_prop
+- Update Mlipay blobs from diting OS3.0.1.0
+- Allow system_app to access Mlipay service
+- Replace isolated_app with isolated_app_all
+- sepolicy: Allow apps to read Mlipay and IFAA props
+- sepolicy: Initial mlipay sepolicy
+- Use hardware/xiaomi FCM
+- Drop useless qms
+- Drop useless otrpagent
+- Drop useless qegahal
+- vintf: Remove unused SLA and EID HALs
+- overlay: Enable fp screen off unlock feature
+- Add a condition for udfps
+- Fixup Lineage Health charge control
+- Add batterysecret to usb group
+- init: Move init and fstab copy rule to Soong
+- configs: Remove duplicate DRM service property
+- init: Add ultrasound socket to sensors hal
+- init: Add "system" group to Audio HAL
+- init: Add oem_291 group and ultrasound socket to audio hal
+- init: Add ntag and qcom-battery permissions to ueventd
+- init: Add mi display permissions to ueventd
+- init: Import xiaomi changes in separate file
+- init: Set media_variant properties
+- init: Add a vendor directory for audio data collector
+- ueventd: Add group permissions for LED repeat and hw_pattern sysfs
+- ueventd: Modify DWC3 MSM mode file settings
+- ueventd: Modify USB root hub authorize setting
+- ueventd: Change ownership of USB device power control settings
+- ueventd: Add group permissions for haptics class sysfs files
+- ueventd.qcom.rc: Reassign Type-C sysfs node ownership
+- Add ipa_events node permissions
+.
+.
+.
+- init: Checkout kernel scripts to LA.VENDOR.13.2.0.r1-11000-KAILUA.0-1
+- init: Checkout init kalama specific scripts to LA.VENDOR.13.2.0.r1-15000-KAILUA.0
+- Update from OS3.0.5.0.VMKCNXM(Socrates) and OS3.0.7.0.WNKMMIXM(Vermeer)
+- KernelOSS Upstream 5.15.202
+- Not include Ksu
+
 Date - 08-03-2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1819)
