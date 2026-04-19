@@ -2,6 +2,13 @@ Device: OnePlus Ace 5 5G
 Device code name : giuliac
 Device maintainer: Arijit Saha
 
+Date - 19/04/2026
+=================
+- Sync with latest source
+- Update some blobs from .700*
+- Improve ram management
+- Many more underhood changes
+
 Date - 25/03/2026
 =================
 - Sync with latest source
