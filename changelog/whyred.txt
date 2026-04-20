@@ -2,6 +2,28 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 20/04/2026
+=================
+- Synced with latest source
+- Switch into latest sw kernel 0.14.2
+- props: Increase LMK threshold
+- rootdir: change backing device size to 1G
+- Drop unused libmm-omxcore
+- Switch into source based cgroup & task_profile
+- Drop libhypv_intercept
+- Switch to new media hal
+- rootdir: dont stop statsd anymore
+- rootdir: Mount debugfs
+- Drop TARGET_USES_INTERACTION_BOOST
+- device: Keep building health HIDL interface lib in vendor
+- Added Lineage Health HAL
+- Updated lineage health hal into v2
+- Update powerhint according to my useage
+- whyred: Put tftp in a group
+- Fixed libperfmgr crash
+- Fixed 1080p60fps video lag systemwide
+- Many more underhood changes
+
 Date - 14/04/2026
 =================
 - Sync with latest source
