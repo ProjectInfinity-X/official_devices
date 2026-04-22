@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.8-RMX2061-14.03.2026-VANILLA-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/RMX2061/16/vanilla/Project_Infinity-X-3.8-RMX2061-14.03.2026-VANILLA-OFFICIAL.zip",
-                        "timestamp": 1773457045,
-                        "md5": "62bdb265893e5d7d13b7272cc39eeeb3",
-                        "size": 1472135255,
-                        "version": "3.8"
+                        "filename": "Project_Infinity-X-3.9-RMX2061-22.04.2026-VANILLA-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/RMX2061/16/vanilla/Project_Infinity-X-3.9-RMX2061-22.04.2026-VANILLA-OFFICIAL.zip",
+                        "timestamp": 1776856260,
+                        "md5": "c61384986951a59bd7ddfcc944fbcc64",
+                        "size": 1477329984,
+                        "version": "3.9"
                 }
         ]
 }
