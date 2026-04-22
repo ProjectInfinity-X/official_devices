@@ -1,4 +1,9 @@
-Releaseed Date - 14/03/2026
+Released Date - 22/04/2026
+===========================
+- Synced with latest ROM v3.9 source (https://t.me/ProjectInfinityX/1847)
+- Optimized power management
+
+Released Date - 14/03/2026
 ===========================
 - Synced with latest ROM v3.8 source 13/03/2026 (https://t.me/ProjectInfinityX/1829)
 - Fixed flash GApps erorr on Vanilla build - Used dynamic partition size system
@@ -6,7 +11,7 @@ Releaseed Date - 14/03/2026
 - Fixed audio jack audio sound
 - Optimized Wi-Fi power management
 
-Releaseed Date - 10/03/2026
+Released Date - 10/03/2026
 ===========================
 - Synced with latest ROM v3.8 source 04/03/2026 (https://t.me/ProjectInfinityX/1819)
 - Implemented Dolby Atmos with updated audio configuration and proper effect mapping
