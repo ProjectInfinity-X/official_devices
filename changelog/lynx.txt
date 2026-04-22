@@ -1,6 +1,12 @@
 Device: Google Pixel 7a
 Device code name : Lynx
-Device maintainer: Pyrtle93
+Device maintainer: Javi
+
+Date - 22/04/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1847)
+- Based on april security patch
+- Import generated overlays from BP4A.260205.001
 
 Date - 03/14/2026
 =================
