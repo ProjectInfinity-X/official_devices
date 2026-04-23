@@ -1,0 +1,25 @@
+Recommended Recovery: Infinity X recovery. Can be found [HERE](https://t.me/romlar31/238)
+
+1.Reboot your device into fastboot
+
+2.Connect device via USB and run:
+
+fastboot flash recovery recovery_gemini.img
+
+3.Reboot to recovery, then in recovery select Apply update > Apply from ADB > ADB sideload
+
+Flashing Instructions:
+Clean Flash
+Tap Factory reset > Format data/factory reset > Format data
+Format cache partition Format system partition
+Sideload Firmware (https://codeberg.org/rewoaP/Gemini/src/branch/main/FW_Gemini_MIUI_GEMINI_Global_8.11.22_8.0.zip)
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+Reboot
+
+Dirty Flash
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+
+Reboot
+
+OTA Update
+Simply upgrade via OTA updater
