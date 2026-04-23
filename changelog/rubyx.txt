@@ -1,4 +1,4 @@
 - Source changelog (https://t.me/ProjectInfinityX/1847)
 - Included kaeru lk and preloader for bootloader spoofing
-- Fixed audio call being lower than it actually shows
-- Minor tweaks and performance enhancements
+- MIUI Camera lag has been Fixed
+- Bluetooth disconnectivity has been Fixed
