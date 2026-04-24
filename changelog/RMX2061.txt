@@ -1,3 +1,12 @@
+Released Date - 24/04/2026
+===========================
+- Fixed some apps and games stuck/crashed when open.
+- Fixed DRM settings in developer option.
+- Tweak memory pressure for 8GB ram device.
+- Tuned and alligned status bar size.
+- Switch sound effect to Viper4Android FX.
+- Optimize Wi-Fi connection for more stability.
+
 Released Date - 22/04/2026
 ===========================
 - Synced with latest ROM v3.9 source (https://t.me/ProjectInfinityX/1847)
