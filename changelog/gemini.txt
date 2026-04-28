@@ -1,2 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1847)
-- Initial Official Build
+- Fix: Capacitive hardware key preferences not saving.
+- Fix: Inability to adjust button backlight timeout (added slider).
