@@ -1,2 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1847)
-- Media Issues Related To C2 Have Been Fixed
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- 5GHz Fixed In Hotspot
