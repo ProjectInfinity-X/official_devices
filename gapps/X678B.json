@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-X678B-10.04.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/X678B/16/gapps/Project_Infinity-X-3.9-X678B-10.04.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1775833092,
-			"md5": "76f4b3175415f26b3decbdd53745b11e",
-			"size": 2129894363,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-X678B-04.05.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/X678B/16/gapps/Project_Infinity-X-3.10-X678B-04.05.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1777899422,
+			"md5": "d560972198c843dd3c767e1adbf4d90f",
+			"size": 2224262206,
+			"version": "3.10"
 		}
 	]
 }
