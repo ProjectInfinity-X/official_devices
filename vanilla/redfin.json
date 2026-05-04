@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-redfin-08.04.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/redfin/16/vanilla/Project_Infinity-X-3.9-redfin-08.04.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1775611024,
-			"md5": "bce07e4741ede7da3e6614da4ec4c985",
-			"size": 1431496898,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-redfin-04.05.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/redfin/16/vanilla/Project_Infinity-X-3.10-redfin-04.05.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1777908288,
+			"md5": "5843b5625d32911a37276f4b8973a5e2",
+			"size": 1509515490,
+			"version": "3.10"
 		}
 	]
 }

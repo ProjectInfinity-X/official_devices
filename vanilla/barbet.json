@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-barbet-08.04.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/barbet/16/vanilla/Project_Infinity-X-3.9-barbet-08.04.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1775623142,
-			"md5": "4730ac3daebc02cc5cc376740137bac5",
-			"size": 1430636894,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-barbet-04.05.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/barbet/16/vanilla/Project_Infinity-X-3.10-barbet-04.05.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1777911233,
+			"md5": "801414415120d4fbf9f7ff0628d7b58b",
+			"size": 1509645090,
+			"version": "3.10"
 		}
 	]
 }

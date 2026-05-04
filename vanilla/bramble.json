@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-bramble-08.04.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/bramble/16/vanilla/Project_Infinity-X-3.9-bramble-08.04.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1775622059,
-			"md5": "bc4ce5d88db53561770aae0edd9be58b",
-			"size": 1431104768,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-bramble-04.05.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/bramble/16/vanilla/Project_Infinity-X-3.10-bramble-04.05.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1777909814,
+			"md5": "bbabf4de43a4e9476b8102fbae335538",
+			"size": 1509130773,
+			"version": "3.10"
 		}
 	]
 }
