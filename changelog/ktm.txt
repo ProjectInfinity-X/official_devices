@@ -2,6 +2,11 @@ Device: OnePlus Ace 6
 Device codename : ktm
 Device maintainer: NullCode1337
 
+Date - 04/05/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- Update to InfinityX 3.10
+
 Date - 03/04/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1847)
