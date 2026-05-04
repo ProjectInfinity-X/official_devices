@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-alioth-11.04.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/alioth/16/vanilla/Project_Infinity-X-3.9-alioth-11.04.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1775903614,
-			"md5": "a738a65a882e78d924a1704a42b9d507",
-			"size": 1674361280,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-alioth-04.05.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/alioth/16/vanilla/Project_Infinity-X-3.10-alioth-04.05.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1777899387,
+			"md5": "8cfa8a00621ab3650a381beaf5aa08ce",
+			"size": 1754164472,
+			"version": "3.10"
 		}
 	]
 }
