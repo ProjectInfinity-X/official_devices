@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-sweet-03.04.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/sweet/16/vanilla/Project_Infinity-X-3.9-sweet-03.04.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1775229628,
-			"md5": "bf83e53c3afb81231a717bfdc1852535",
-			"size": 1647411804,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-sweet-05.05.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/sweet/16/vanilla/Project_Infinity-X-3.10-sweet-05.05.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1777989453,
+			"md5": "d977b04b172c4edb39bc5ddb2492fc1a",
+			"size": 1742870641,
+			"version": "3.10"
 		}
 	]
 }

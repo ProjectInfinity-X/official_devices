@@ -2,6 +2,13 @@ Device: Redmi Note 10 Pro / Pro Max
 Device code name : sweet
 Device maintainer: Musafir1875
 
+Date - 05-05-2026
+* Source changelog (https://t.me/ProjectInfinityX/1877)
+* Ventom kernel
+* MIUI Camera
+* Added Viper4a
+* Sony Dolby vision
+
 Date - 04-04-2026
 * Source Changelog (https://t.me/ProjectInfinityX/1847)
 
