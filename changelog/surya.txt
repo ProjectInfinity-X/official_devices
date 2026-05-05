@@ -1,2 +1,3 @@
-*Source Changelog - (https://t.me/ProjectInfinityX/1847)
-* Misc fixes and changes
+*Source Changelog - (https://t.me/ProjectInfinityX/1877)
+* Kang surfaceflinger from zumapro
+* Misc changes and fixes
