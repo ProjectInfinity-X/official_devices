@@ -1,0 +1,8 @@
+Device: OnePlus 13 5G
+Device code name : dodge
+Device maintainer: Arijit Saha
+
+05/05/2026
+==========
+- Synced with latest source
+- Initial official release
