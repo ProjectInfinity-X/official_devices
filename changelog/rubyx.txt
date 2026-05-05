@@ -1,4 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1847)
-- Included kaeru lk and preloader for bootloader spoofing
-- MIUI Camera lag has been Fixed
-- Bluetooth disconnectivity has been Fixed
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- A34 blobs used for wifi and bluetooth so, wpa3 wifi will NOT work properly but bluetooth will have no issues
+- Fix few memory leaks
+- Improved performance in multiple sectors
+- Few memory improvement
