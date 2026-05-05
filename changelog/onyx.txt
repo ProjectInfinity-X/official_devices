@@ -1,4 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1847)
+- Source changelog (https://t.me/ProjectInfinityX/1877)
 
 - Device Changelogs:
 * Improve smoothness
