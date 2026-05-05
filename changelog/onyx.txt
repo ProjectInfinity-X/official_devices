@@ -1,11 +1,7 @@
 - Source Changelog (https://t.me/ProjectInfinityX/1847)
 
 - Device Changelogs:
-* Fixed FP in apps with more than two fingerprints registered
-* Added Toggle for HTSR
-* Bumped default TSR
-* Switched to MIUI color profiles
-* Improved Vibration haptics
-* Fixed Charging limit control
-* Show `Turbo charging` instead of `Charging rapidly` in lockscreen
-* Fix AOD brightness
+* Improve smoothness
+* Allow all filesystems for USB-OTG
+* Set BOOT_SECURITY_PATCH to PLATFORM_SECURITY_PATCH
+* Allow all filesystems for USB-OTG
