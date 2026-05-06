@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-gemini-28.04.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/gemini/16/vanilla/Project_Infinity-X-3.9-gemini-28.04.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1777377677,
-			"md5": "3392e615008ee99088029d71392e6a41",
-			"size": 1180491630,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-gemini-06.05.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/gemini/16/vanilla/Project_Infinity-X-3.10-gemini-06.05.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1778025521,
+			"md5": "bada3b836cc8afc2a835b471842cee1c",
+			"size": 1263899737,
+			"version": "3.10"
 		}
 	]
 }
