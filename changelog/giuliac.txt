@@ -1,6 +1,20 @@
 Device: OnePlus Ace 5 5G
 Device code name : giuliac
-Device maintainer: Arijit Saha
+Device maintainer: Genoxci
+
+Date - 06/05/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- Sync with latest source
+- Introduced haptic profiles picker
+- Switched Sony Dolby source
+- Regenerated and modified powerhint
+- More under the hood changes
+- Maintainer change, special thanks to Arijit Saha
+- This ROM ships with OOS 16.0.5.701 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
 
 Date - 19/04/2026
 =================
