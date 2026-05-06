@@ -1,13 +1,5 @@
-* Date: 06-04-2026
+* Date: 06-05-2026
 * ======================
 * Changelogs:
-* Bring back Dolby Vision and AC4 decoder support
-* Improve double-tap on fingerprint sensor gestures
-* Update blobs from OS3.0.3.0.VMRMIXM global (flash your region latest firmware)
-* Merge QCOM/CLO latest tags
-* Convert config_screenBrightnessDoze to float
 * Update powerhint configuration
-* Improve thermal profiles setting
-* Switch to advanced_offsets props fixing QS lag
-* vold: fix creating android/data folder for some apps
-* sensors: Use stack alloc for _oem_msg to avoid memory leaks
+* Revert back to old dolby ui
