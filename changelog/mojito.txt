@@ -1,1 +1,4 @@
 Source Changelog (https://t.me/ProjectInfinityX/1847)
+
+Device Changelog
+- Fixed USB-C earphone mic not working for recording and VoIP

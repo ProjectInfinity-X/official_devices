@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.9-mojito-03.04.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/mojito/16/gapps/Project_Infinity-X-3.9-mojito-03.04.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1775243070,
-			"md5": "3c0d808510904c4cf49465a32666d73e",
-			"size": 2116566241,
-			"version": "3.9"
+			"filename": "Project_Infinity-X-3.10-mojito-06.05.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/mojito/16/gapps/Project_Infinity-X-3.10-mojito-06.05.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1778041992,
+			"md5": "5c71d83ff4d1d43ba4676c0ba50782ec",
+			"size": 2206244048,
+			"version": "3.10"
 		}
 	]
 }
