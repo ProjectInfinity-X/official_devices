@@ -2,6 +2,18 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 07-05-2026
+=================
+- Revert back to old powerhint setup
+- Revert back to old fast charging setup
+- Fixed qs lag with adaptive color mode
+- Rework on qdcm display calibration 
+- Treat BT.601 170M as sRGB in SurfaceFlinger
+- Disable redir_party_num
+- Added some optimization props 
+- Improve overall ui smoothness and stability 
+- Sync with latest source changes
+
 Date - 12-04-2026
 =================
 - Fixed flickering issues 
