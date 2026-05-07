@@ -1,6 +1,37 @@
-Date - 06/04/2026
+Date - 07/05/2026
 
-- Added modded fastcharge
-- Added Parts widget (Beta)
-- Update MiuiGallery to 4.3.0.64
-- Update MiuiGallery Editor to 2.2.0.2.4 
+- Back to MiuiCamera
+- Fully fixxed E-sim on redmi devices
+- import C2 manifest (author: zerotwo-alt)
+- overlay: Disable high performance transitions (author: zerotwo-alt)
+ -overlay: Enable Smart Pixels (author: zerotwo-alt)
+- overlay: Add overlay to improve signal reception (author: zerotwo-alt)
+- powerhint: Fix screen record FPS drops (author: zerotwo-alt)
+- powerhint: Increase LAUNCH hint duration to 4000ms (author: zerotwo-alt)
+- Set SurfaceFlinger uclamp.min to 20% (author: Ghosuto)
+- overlay: Enable Smart 5G (author: myselly)
+- props: Disable debug.sf.latch_unsignaled (author notakbuzz)
+- enable tilt-to-wake doze pulse (author: zerotwo-alt)
+- enable 5G toggle in SystemUI (author: zerotwo-alt)
+- Implement TouchServices (author: kenway214 modded by bezke)
+- Build and configure xiaomi touch aidl (author Ariank16a modded by bezke)
+- properties: force Kawase2 blur filter (author: kamikaonashi)
+- prop: Add Qualcomm GPU driver and hardware rendering props (author: kenway214)
+- parts: Implement Charging control (author: kenway214 modded by bezke)
+- parts: add per app and system wide resolution setting (author: kamikaonashi modded by bezke)
+- Implement torch light control (author: sudo-joaopuser modded by bezke)
+- Set force_sysfs_fallback=1 sysctl via cmdline (author: moetayuko)
+- Remove virtual framebuffer (author: AKoskovich)
+- Move omapi permission to ODM too (author: AdarshGrewal)
+- Revert "garnet: Redefine phase offsets (author: AdarshGrewal)
+- Update sf duration to 12.3ms (author: AdarshGrewal)
+- vendor: Import media from OS3.0.2.0.WNRCNXM
+- vendor: adreno: Kang Adreno driver from aurora OS3.0.7.0.WNACNXM (author: zylhdrXP)
+- kernel: touch-drivers: Add read support for bump_sample_rate sysfs node (author  AdarshGrewal  modded by bezke)
+- kernel: touch-drivers: focaltech_3683g: Implement high touch polling rate support (author Ariank16a modded by bezke)
+- kernel: kernelsu: Update KernelSU-Next to v3.2.0 and Introduce SuSFS v2.1.0 (author: jinetty)
+- dolby: Add per-device Dolby state memory (author: MrTopia)
+- dolby: Fix permission issue (author: dkpost3)
+- dolby: Make per-device audio memory configurable (author:Ghosuto)
+- dolby: Multy languages by me
+
