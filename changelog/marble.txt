@@ -1,5 +1,7 @@
-* Date: 06-05-2026
+* Date: 07-05-2026
 * ======================
 * Changelogs:
-* Update powerhint configuration
-* Revert back to old dolby ui
+- Hotfix! 
+- fixed low volume with dolby
+- switch to stock dolby stack 
+- few misc improvements
