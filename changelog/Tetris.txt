@@ -1,6 +1,12 @@
 Device: Nothing CMF Phone 1
-Device code name : tetris
-Device maintainer: schoosh
+Device code name : Tetris
+Device maintainer: Ashwani
+
+07/05/2026
+==========
+- Synced with latest source
+- Initial official release
+- optimised powerhint
 
 Date - 19/09/2025
 ================
