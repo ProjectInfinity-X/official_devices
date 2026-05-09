@@ -3,6 +3,17 @@ Device code name : cancunf
 Device maintainer: Soviet(ussr_1674)
 Credits: @cyberknight777 & @sarthakroy2002 
 
+Date - 09/05/2026
+=================
+• Fixed an issue where USB stops working post boot.
+• Enable DeviceAsWebcam support on cancunf.
+• Import UVC resolution from stock and reduce streaming_maxpacket.
+• Remove references to Google C2 codecs.
+• Use current strength level when enabling torch with ChopChop gesture.
+• Convert TorchAction class to a singleton so as to not instantiate on every gesture trigger.
+• Cleanup redundant and duplicated SEPolicy rules.
+• Kernel state at r3b1.
+
 Date - 09/04/2026
 =================
 • Update VT vendor stack from bogota W1V036M.85.
