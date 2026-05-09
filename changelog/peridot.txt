@@ -1,10 +1,16 @@
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1847)
-• Removed ksu inbuilt
-• Added support for battery cycle count tracking
-• Massive improvements to Bluetooth connectivity and profile handling
-• Enabled advanced Bluetooth audio features (LE Audio, AptX support)
-• Updated touchscreen drivers for improved touch response
-• Improved Always-On Display (AOD) sensor behavior and doze brightness
-• Removed Viper4X audio engine
-• Cleaned up unused system overlays
-• Various under-the-hood system and security (sepolicy) fixes
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1880)
+- Merged with lineageOS device tree
+- debug.renderengine.blur_algorithm kawase2
+- Offload WM Shell to Another Thread
+- Disable alpha compositing in WM
+- Relax WiFi re-association RSSI thresholds
+- Disable turbulence noise
+- Disable debug.sf.disable_client_composition_cache
+- Disable HWC on virtual displays
+- Set ro.config.avoid_gfx_accel to false
+- Properly configure cpusets
+- Fix SDR dimming
+- Set SurfaceFlinger min uclamp to ~30%
+- Enable ADPF CPU hints for improved UI performance
+- Use HintManager for HWUI
+- Misc Changes & Improvements
