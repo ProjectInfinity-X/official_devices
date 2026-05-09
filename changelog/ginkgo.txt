@@ -1,1 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1877)
+- Source changelog (https://t.me/ProjectInfinityX/1880)
+- Fixed notification led light
