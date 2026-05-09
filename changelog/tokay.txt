@@ -2,6 +2,12 @@ Device: Google Pixel 9
 Device code name : Tokay
 Device maintainer: Pyrtle93
 
+Date - 05/08/2026
+- Version bump 3.10
+- May Security (rom)
+- Synced with Latest Source Changes
+- Source changelog (https://t.me/ProjectInfinityX/1880)
+
 Date - 04/14/2026
 =================
 Version bump 3.9
