@@ -1,7 +1,7 @@
-* Date: 07-05-2026
+* Date: 10-05-2026
 * ======================
 * Changelogs:
 - Hotfix! 
-- fixed low volume with dolby
+- Bluetooth: Fix incoming call ringtone routing to BT audio devices
 - switch to stock dolby stack 
 - few misc improvements
