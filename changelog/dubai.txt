@@ -1,11 +1,13 @@
-Date - 16/02/2026
-=================
-- Source Changelog: https://t.me/ProjectInfinityX/1847
+- Source Changelog: https://t.me/ProjectInfinityX/1877
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Shift to Lineage PowerHal
-- Drop `debug.sf.latch_unsignaled` property
-- Remove fwk-detect lib from PRODUCT_PACKAGES
-- Update DolbyUI with LunarisDolbyUI
-- Declare WiFi Aware support to WiFi HAL
-- Move ro.vendor.radio.imei.sv to device
-- Update Powerhint for more battery backup
+- Increase audio HAL buffer size to 240
+- Enforce 24-bit audio for offload playback
+- props: Reduce graphics memory consumption
+- Implement Torch Light Brightness Control
+- Tune dalvik-healp memory limits
+- Disable Smart Pixels on UDFPS
+- Force disable iorapd
+- Disable per-cgroup PSI accounting
+- Improve Idle Battery Drain
+- Enable support for kernel idle timer
+- Move to QTI health AIDL service
