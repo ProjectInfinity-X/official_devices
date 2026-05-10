@@ -2,6 +2,22 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 10/05/2026
+=================
+- Synced with latest source
+- Switch into leica camera
+- Add new adaptive Leica camera icon
+- Removed bogus tombstone directory directives
+- props: Do not use phase offsets as duration
+- vintf: add android.hardware.configstore@1.1
+- disable verbose camera logs
+- Explicitly disable "Enable GL comp backpressure"
+- Enable full ART optimizations with VDEX/ODEX
+- Enable ADPF CPU hints for improved UI performance
+- props: Drop ro.hwui.render_ahead
+- Fixed notification light
+- Many more underhoos changes & fixes
+
 Date - 05/05/2026
 =================
 - Synced with latest source
