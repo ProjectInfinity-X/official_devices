@@ -1,4 +1,4 @@
-Source Changelog (https://t.me/ProjectInfinityX/1877)
+Source Changelog (https://t.me/ProjectInfinityX/1880)
 
-Device Changelog
-- Fixed USB-C earphone mic not working for recording and VoIP
+Device Changelog:
+- Fixed different blur intensity level when unlocking device
