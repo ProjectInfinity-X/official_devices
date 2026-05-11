@@ -1,10 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1847)
-- Set short suspend threshold to 5 seconds
-- Disabled ART and dex2oat debugging
-- Reduced mi_thermald permissions in sysfs
-- Enabled asynchronous library events in WPA supplicant
-- Enabled support for IEEE80211AC
-- Switched to Xiaomi Dolby Atmos
-- Switched to KernelSU-Next
-- Migrated to QTI USB Gadget AIDL HAL
-- Switched to NCM USB tethering
+- Source Changelog (https://t.me/ProjectInfinityX/1877)
+- Set display idle timeout to 0
+- Shipped with Araxys-v2.0
+- Backported Susfs-v2.1.0
