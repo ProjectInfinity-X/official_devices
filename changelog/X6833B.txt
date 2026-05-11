@@ -1,2 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1877)
-- 5GHz Fixed In Hotspot
+- Source changelog (https://t.me/ProjectInfinityX/1880)
+- Camera Fixed
