@@ -1,8 +1,9 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1847
+• https://t.me/ProjectInfinityX/1877
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• Newer standalone Dolby Vision blobs
-• Fully working with Netflix, OTT apps, offline content
-• dolby: Add support for Dolby Vision
+• dolby: Enable volume leveler for Dynamic profile
+• dolby: Forcefully Enable bass-enhancer
+• Driver Updated
+• Kernel Updated
