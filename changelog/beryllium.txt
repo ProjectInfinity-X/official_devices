@@ -1,6 +1,15 @@
-- Source Changelog: https://t.me/ProjectInfinityX/1847
+- Source Changelog: https://t.me/ProjectInfinityX/1877
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Fully Rebase the tree
-- Update DolbyUI with LunarisDolbyUI
-- Use sm8250 HALs for vendor namespace imports
-- Fix some sepolicy stuff related to 4.19 kernel
+- Improve Idle Battery Drain
+- Set screen density to 420
+- qcdm: remove dummy colormodes
+- qdcm: Add RenderIntent for new display hal
+- Mark HDR profile as SDR
+- Move calib xml to device tree
+- props: Enable ro.audio.monitorRotation
+- Drop qti vendor.qti.hardware.cacert service
+- Disable gms components for better WiFi speeds
+- Enable support for kernel idle timer
+- props: Enable stereo speakers
+- Force disable iorapd
+- init: Rm package cache on early boot
