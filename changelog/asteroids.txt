@@ -1,8 +1,26 @@
-Date: 07/04/2026
-- Source changelog (https://t.me/ProjectInfinityX/1847)
-- Synced with latest 3.9 Source
-- Based on April security patch
-- Fixed Screen crashing or going black in direct sunlight or if the device gets warm (added proper thermal dimming)
-- Improved HBM for better outdoor visibility
-- Improved HDR brightness
-- Possibly fixing the Ghost Charging Bug (Charging Visual Bug)
+Date: 13/05/2026
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- Synced with latest 3.10 Source
+- Based on May security patch
+- Update vendor/firmware from NOS B4.1-260414-1749
+- Import another fix for auto brightness (Credit: @nayanyc23)
+- Import DeviceExtras (USB OTG compat toggle)
+- Glyph: ResourceUtils: Exclude hidden files from user animations
+- Glyph: AnimationSettingsFragment: Exclude applications that cannot send notifications
+- Glyph: Add quick save options on OggSettingsFragment
+- Glyph: Improve notification service dialog UX
+- Glyph: Fix top spacing on app call settings fragment
+- Glyph: Set configured animation as app summary when set
+- Glyph: Allow customizing notification animations per-app
+- Glyph: Allow customizing call animations for third party apps
+- Glyph: Switch to InCallService for CallReceiver
+- Glyph: SettingsFragment: Switch to MultiSelectListPreference for app lists
+- Glyph: SettingsFragment: Exclude utilities from glyph main switch filter
+- Glyph: OggSettingsFragment: Show a toast after the file is saved
+- Glyph: Rework icons for all clickable preferences
+- Glyph: Fix main switch state sync for flip to glyph
+- Glyph: Split ringer mode preference in flip to glyph screen
+- Glyph: Fix edge-to-edge padding in Glyph animation preview
+- Glyph: Improve default settings
+- Glyph: Import preview drawable for 3a pro 
+- Glyph: build as persistent
