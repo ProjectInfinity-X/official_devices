@@ -1,8 +1,3 @@
 • Synced With Latest Source
-• Updated blobs to OS2.0.202.0.VMWINXM
-• Updated In-Built FW with OS2.0.202.0.VMWINXM
-• Updated kernel modules from OS2.0.202.0.VMWINXM
-• Disabled led based vibration effects
-• Removed erofs type from fstab
-• Reworked on color modes
-• Other Changes & Improvements!
+• Updated kernel to 5.10.255
+• Enabled led based vibration effects
