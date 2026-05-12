@@ -2,6 +2,14 @@ Device: Redmi Note 13 4G / NFC
 Device code name : sapphire/sapphiren
 Device maintainer: Liekoo
 
+Date - 12/05/2026
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1877
+- For play integrity, read this: https://t.me/ProjectInfinityX/1611
+- Improve perfconfigstore configs
+- Reduce blur radius
+- Set 1 second timeout interaction for powerhint
+- Optimized BG app limit to less aggressive
 
 Date - 31/03/2026
 - Tune perf to stability and more smoothness
