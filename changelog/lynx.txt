@@ -2,6 +2,22 @@ Device: Google Pixel 7a
 Device code name : Lynx
 Device maintainer: Javi
 
+Date - 13/05/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- Synced with latest 3.10 Source
+- Based on May security patch
+- Fixed portrait mode in stock camera
+- Fixed boot animation after restart
+- Fixed connection Android Auto
+- Add PixelParts
+- Fix battery drain
+- Remove most proprietary Google apps
+- Add privapp permissions for EuiccGoogle (Esim)
+- Add privapp permissions for HbmSVManager
+- Add The full Google Pixel experience! (Thanks fuzzywave40!)
+- Bump kernel Security String to 2026-05-05
+
 Date - 22/04/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1847)
