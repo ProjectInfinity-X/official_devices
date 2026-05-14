@@ -2,16 +2,14 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 04/15/2026
+Date - 05/14/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1847
-• Reworked battery SOC smoothing again to follow stock OOS behavior more closely, eliminating visible catch-up jumps and keeping the status bar drop in cleaner 1% steps
-• Enabled BBRv2 with fq as the default TCP stack on SM8150
-• Backported the vmscan critical-process throttle bypass so direct reclaim no longer stalls system-critical tasks, including binder-spawned workers that inherit a critical oom_score_adj
-• Brought up the NXP eSE / NFC off-host stack, shipped the matching OOS eSE config and added the required HAL cross-lookup SELinux rules
-• Audio/Dolby: restored offload policy profiles, fixed profile-specific GEQ preset storage and restored session-scoped playback effects
-• Bumped vendor.oplus.hardware.subsys_interface.subsys_radio to V9
-• Adjust statusbar paddings to visually improve compatibility with dynamic notification bar in statusbar
+• Source Changelog: https://t.me/ProjectInfinityX/1880
+• [WIP] Reworked battery SOC smoothing again to follow stock OOS behavior more closely, eliminating visible catch-up jumps and keeping the status bar drop in cleaner 1% steps
+• Sepolicy: fixed Wi-Fi tombstone access; allowed thermal HAL to report stats
+• Exempted OnePlus camera service from cached app freezer
+• Synced with the crDroid kernel and LOS kernel changes
+• Pull Keyhandler improvements from LOS
 • Misc. improvements
 
 Note: 
