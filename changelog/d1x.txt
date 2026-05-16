@@ -2,8 +2,8 @@ Device: Samsung Galaxy Note 10 5G
 Device code name : d1x
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 04/11/2026
-- Bumped FrEeRuNnErKeRnEl to V3.7-r2 (synced latest version of KernelSU-Next changes with SusFS v2.1.0)
+Device Changelog 05/16/2026
+- Bumped FrEeRuNnErKeRnEl to V3.8 (Includes U-Clamp backports big thanks to Parbindar7)
 
 * Gapps build
 * Vanlla build
