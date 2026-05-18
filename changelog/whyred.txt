@@ -2,6 +2,29 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 19/05/2026
+================
+- Synced with latest source
+- overlay: Enable battery cycle count
+- rootdir: Disable Chimera.GmsIntentOperationService
+- rootdir: Disable collective Device administrators GMS components
+- Silence some spammy logging
+- overlay: Increase max fling velocity
+- overlay: Offload WM shell to another thread
+- Kill IMS logspam
+- Bump Keymaster to V4.0
+- Fixed integrity dead issue
+- Add erofs compress hints
+- Add more native executables for erofs compression
+- Build android.hardware.audio.sounddose-vendor-impl
+- Improved battery backup
+- Fixed random shutdown
+- Updated leica camera
+- Removed Documents & Slow motion mode from leica
+- Turned off all experimental features by default from leica
+- Turned off watermark by default from leica
+- Many more underhood changes
+
 Date - 10/05/2026
 =================
 - Synced with latest source
