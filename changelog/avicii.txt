@@ -1,2 +1,4 @@
-- Source changelog (https://t.me/ProjectInfinityX/1847)
-- Merge kernel 4.19.325-cip130-st14 patches
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- Switch to armv8-2a-dotprod variant
+- Optimize native executables for Cortex-A76 CPU
+- Increment audio input/output values by 8
