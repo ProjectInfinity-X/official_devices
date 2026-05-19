@@ -1,0 +1,38 @@
+WARNING-1: Ensure your device is strictly on firmware version 14.0.0.1902(EX01) before proceeding.
+
+WARNING-2: Do NOT restore your data via the Google Restore Tool during the initial setup wizard. Doing so will break internet connectivity for the restored applications.
+
+0.Download the necessary files from Here:
+(https://sourceforge.net/projects/infinity-x/files/lemonadep/16/firmware/)
+
+1.Reboot your device into fastboot
+
+2.Connect device via USB and run:
+
+fastboot flash boot boot.img
+
+fastboot flash dtbo dtbo.img
+
+fastboot flash vbmeta vbmeta.img
+
+fastboot flash vendor_boot vendor_boot.img
+
+3.Reboot to recovery, then in recovery select Apply update > Apply from ADB > ADB sideload
+
+Flashing Instructions:
+
+Clean Flash:
+
+Tap Factory reset > Format data/factory reset > Format data
+Format cache partition
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+Reboot
+
+Dirty Flash:
+
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+
+Reboot
+
+OTA Update
+Simply upgrade via OTA updater
