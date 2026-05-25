@@ -1,12 +1,3 @@
-Date - 17/05/2026
+Date - 25/05/2026
 
-- Revert adreno driver to  837.6.0 (author: zerotwo-alt)
-- Fix graphic glitches and fixx
-- !!! props: Tune SurfaceFlinger and HWUI for 120Hz fixed refresh - My BEST props settings ever. check blur & other renderings!!!
-- Improve  Kernel & Memory Optimizer (author: zerotwo-alt)
-- Add Kprofiles (author: zenin1504 & RealJohnGalt)
-- kernel: lib: Import LZ4KD compression algorithm from HUAWEI (author: slothnian)
-- kernel: lz4kd: Fix stddef error (author: zenin1504)
-- kernel: gki_defconfig: Enable LZ4KD (author: zenin1504)
-- kernel: zram: Increase zRAM size to 5GB (author: Tashar02)
-- kernel Add Kprofiles (author: RealJohnGalt)
+- Switch to leica cam with Mi Gallery - (Only install this version if you accept that some things need to be configured in the Leica settings for perfect operation)
