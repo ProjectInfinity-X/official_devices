@@ -3,7 +3,6 @@ Source Changelog:
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• dolby: Enable volume leveler for Dynamic profile
-• dolby: Forcefully Enable bass-enhancer
-• Driver Updated
-• Kernel Updated
+• Reapply "sm8350-common: Disable FRP"
+• Back to stock driver
+• Fixed camera issue with AI mode
