@@ -2,6 +2,23 @@ Device: Poco F6 Pro / Redmi K70
 Device codename : vermeer
 Device maintainer: Lunark
 
+Date - 25-05-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1880)
+- Drop 90Hz
+- Enable Wi-Fi 6 SoftAP support
+- overlay: Delete configs set to default values
+- audio: Nuke unsupported haptics output configuration
+- sepolicy: Remove already common nfc and mediacodec rules
+- Drop vendor radio build_region prop
+- Move default network property to vendor partition
+- Remove redundant and obsolete dalvik properties
+- Drop qemu.hw.mainkeys property
+- udfps: Workaround onFingerDown() race
+- Add source comment for SoterService
+- Build QSPA AIDL HAL
+- Update from OS3.0.303.0.WMKCNXM(Socrates) and OS3.0.301.WNKMIXM(Vermeer)
+
 Date - 19-04-2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1847)
