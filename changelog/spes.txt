@@ -1,1 +1,6 @@
-- Source changelog -: https://t.me/ProjectInfinityX/1847
+3.10 - 30/05/26
+- Removed Deprecated Intree HALS
+- Nightlight, Livedisplay,Extradim fixed 
+- Switched to sm8250 HALS
+- Updated dalvik Vm props & config 
+- Some misc change
