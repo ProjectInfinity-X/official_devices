@@ -2,6 +2,22 @@ Device: OnePlus Ace 5 5G
 Device code name : giuliac
 Device maintainer: Genoxci
 
+Date - 31/05/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1877)
+- Sync with latest source
+- Switched to Vulkan
+- Fixed haptic profile picker
+- Fixed high touch polling rate
+- Fixed high touch sensitivity
+- Increased brightness on doze
+- Kernel upstream to 6.1.170
+- More under the hood changes
+- This ROM ships with OOS 16.0.5.701 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
+
 Date - 06/05/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1877)
