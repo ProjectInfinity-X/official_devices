@@ -2,6 +2,14 @@ Device: OnePlus Ace 6
 Device codename : ktm
 Device maintainer: NullCode1337
 
+Date - 05/06/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1880)
+- Fixed Double Tap to Wake
+- Fixed Screen off gestures
+- Fixed Plus Key customization
+- Fixed recovery touch
+
 Date - 11/05/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1880)

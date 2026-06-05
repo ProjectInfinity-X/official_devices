@@ -8,8 +8,9 @@ Flashing Instructions:
 1. Reboot to recovery [AOSP Recovery Recommended] (Get from here: https://sourceforge.net/projects/infinity-x/files/ktm/16/infinity_ktm-recoveryimage.img)
 2. Apply update -> adb sideload
 3. adb sideload rom.zip
-4. Format data
-5. Reboot
+4. Reboot recovery
+5. Format data
+6. Reboot
 
 * Dirty Flash:
 1. Reboot to recovery
