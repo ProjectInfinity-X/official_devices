@@ -1,1 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1880)
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Floppy Kernel Updated To 6.3.2
+- Volte And VoWifi Fixed!
+(Note: It is highly experimental and may not work on some carriers so if you encounter any issues:
+Go To Settings->Network & Internet->SIMs->(Your SIM)->Turn Off Volte)
