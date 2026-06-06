@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-mojito-10.05.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/mojito/16/vanilla/Project_Infinity-X-3.10-mojito-10.05.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1778409153,
-			"md5": "4af75ba9e2c3924dd419975fbcb8c2ad",
-			"size": 1835219736,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-mojito-06.06.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/mojito/16/vanilla/Project_Infinity-X-3.11-mojito-06.06.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1780757815,
+			"md5": "c89b8bd2336fb14776a6ddef40978b84",
+			"size": 1850170932,
+			"version": "3.11"
 		}
 	]
 }
