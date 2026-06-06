@@ -1,2 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1880)
-- Fixed notification led light
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Fixed mic issues in some apps
+- Add per-audio-device dolby profiles feature

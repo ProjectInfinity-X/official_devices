@@ -1,4 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1880)
-- Fixed battery/notification led light
-- Fixed preferred network tile showing switch b/w 5G/4G, made it 4G/3G instead
-- Removed 5G newtorks from mobile networks selection page
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Add per-audio-device dolby profiles feature
