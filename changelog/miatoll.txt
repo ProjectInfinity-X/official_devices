@@ -1,4 +1,3 @@
 - Source changelog (https://t.me/ProjectInfinityX/1819)
-- miatoll: Workaround Qualcomm RIL disabling of cellular 464XLAT on IPv6-only carrier networks
-- miatoll: Improve post_boot tuning for performance
-- miatoll: audio: fixup audio io policy voip_rx flags
+- Move to LunarisDolby Manager
+- Backported eBPF 5.10
