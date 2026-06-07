@@ -1,2 +1,3 @@
-- Initial Build
-- Source changelog (https://t.me/ProjectInfinityX/1880)
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Dolby Added
+- Improvements In The Ram Management
