@@ -1,3 +1,8 @@
-Date - 25/05/2026
+Date - 07/06/2026
 
 - Switch to leica cam with Mi Gallery - (Only install this version if you accept that some things need to be configured in the Leica settings for perfect operation)
+- Update blobs from OS3.0.5.0.WNRMIXM (use last 3.0 HOS fw!) (author:AdarshGrewal)
+- Update GPU drivers to V837.0.7 (author:zylhdrXP)
+- Drop video filter LUTs and libraries (author:kleidione)
+- Rollback and pin video filter LUTs and libraries to OS2.0.11.0.VNRMIXM (author:kleidione)
+- dolby: Implement Fully working DolbyVision (author: swiitchOFF & ArianK16a)
