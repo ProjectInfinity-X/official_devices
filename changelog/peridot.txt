@@ -1,16 +1,7 @@
-• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1880)
-- Merged with lineageOS device tree
-- debug.renderengine.blur_algorithm kawase2
-- Offload WM Shell to Another Thread
-- Disable alpha compositing in WM
-- Relax WiFi re-association RSSI thresholds
-- Disable turbulence noise
-- Disable debug.sf.disable_client_composition_cache
-- Disable HWC on virtual displays
-- Set ro.config.avoid_gfx_accel to false
-- Properly configure cpusets
-- Fix SDR dimming
-- Set SurfaceFlinger min uclamp to ~30%
-- Enable ADPF CPU hints for improved UI performance
-- Use HintManager for HWUI
-- Misc Changes & Improvements
+Source Changelog (https://t.me/ProjectInfinityX/1882)
+- Initial official build
+- Addressed sepolicy denials
+- suppressed QESDK manager spam
+- Updated GPU drivers to v849
+- Upstreamed kernel to 6.1.170
+- set bbr as default tcp congestion control
