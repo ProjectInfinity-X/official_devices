@@ -1,7 +1,27 @@
 Device: Motorola G54/G64
 Device code name : cancunf
 Device maintainer: Soviet(ussr_1674)
-Credits: @cyberknight777 & @sarthakroy2002 
+Credits: @cyberknight777 & @sarthakroy2002
+
+Date - 08/06/2026
+=================
+• Drop remnants of FPC1020.
+• Drop remnants of egisfp.
+• Rewrite fingerprint init script.
+• Drop fingerprint ident binaries.
+• Rewrite insmod script.
+• Update blobs and firmware to V1TDS35H.83-20-5-11.
+• Cleanup MTK connectivity modules load init triggers.
+• Set ro.vendor.soc.* from init instead of props.
+• Cleanup duplicate sensor permissions.
+• Remove unused touchrec folder.
+• Remove Moto Modem RFS logs script.
+• Drop Moto wireless accessories permissions.
+• Drop Moto shutdown logging script.
+• Drop Moto kpgather/kpreadwrite binaries.
+• Drop Moto pstore_annotate script.
+• Drop Moto bootperf.rc.
+• Kernel state at r3b3.
 
 Date - 09/05/2026
 =================
