@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-lancelot-16.05.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/lancelot/16/gapps/Project_Infinity-X-3.10-lancelot-16.05.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1778939157,
-			"md5": "c06f9c105d14426fccfe4b7f432e0b65",
-			"size": 1821824635,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-lancelot-07.06.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/lancelot/16/gapps/Project_Infinity-X-3.11-lancelot-07.06.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1780866983,
+			"md5": "329671a95141d71d51096f473c1df4a0",
+			"size": 1859538463,
+			"version": "3.11"
 		}
 	]
 }
