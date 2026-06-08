@@ -1,5 +1,4 @@
 Source Changelog (https://t.me/ProjectInfinityX/1882)
-- Initial official build
 - Addressed sepolicy denials
 - suppressed QESDK manager spam
 - Updated GPU drivers to v849
