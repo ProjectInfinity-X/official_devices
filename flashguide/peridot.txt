@@ -1,10 +1,21 @@
 Device: POCO F6 (peridot)
 
-Flash Guide for 06/03/2026 build 3.8 - and above
+Flash Guide for 08/06/2026 build 3.11 - and above
 
-* Clean Flash is Mandatory for v3.8
+---------------- Must be on HyperOS 3.0+ rom/fw before flashing this ----------------
 
-Download all files from: https://sourceforge.net/projects/infinity-x/files/peridot/16/recovery/recovery.img/download
+* FW is not included
+
+* Clean Flash is Recommended from v3.10
+
+* Download all files from: https://sourceforge.net/projects/infinity-x/files/peridot/16/recovery/recovery/
+
+1. Flash the recovery images via fastboot using "fastboot flash recovery_ab recovery.img"
+2. Reboot to recovery using either volume + and power button combo or via fastboot command
+3. Navigate to Apply Update  > Apply from ADB
+4. adb sideload the lineage zip using "adb sideload *peridot*.zip"
+5. Factory reset/format data
+6. Reboot to system
 
 ---------------- Must be on HyperOS 2.0.202+ rom before flashing this ----------------
 
