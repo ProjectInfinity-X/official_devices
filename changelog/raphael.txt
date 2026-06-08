@@ -2,6 +2,14 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 08-06-2026
+=================
+- Add torch control 
+- Switch to Leica V6
+- Add anti flicker 
+- Some kernel side optimization 
+- Sync with latest source changes
+
 Date - 07-05-2026
 =================
 - Revert back to old powerhint setup
