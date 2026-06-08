@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-raphael-07.05.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/raphael/16/vanilla/Project_Infinity-X-3.10-raphael-07.05.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1778134254,
-			"md5": "3bd95ce184a1fec3d7cb56c9ca62668b",
-			"size": 1989760989,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-raphael-08.06.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/raphael/16/vanilla/Project_Infinity-X-3.11-raphael-08.06.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1780915382,
+			"md5": "7af1c6aff329ee55e56d4429fa6ab01f",
+			"size": 2036073969,
+			"version": "3.11"
 		}
 	]
 }
