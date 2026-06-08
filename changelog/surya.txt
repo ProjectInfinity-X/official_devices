@@ -1,2 +1,4 @@
-Synced with latest Source (https://t.me/ProjectInfinityX/1877)
-* Misc changes and fixes
+Synced with latest Source (https://t.me/ProjectInfinityX/1882)
+* Added Xiaomiparts
+* Fixed Download and gallery issue
+* Other minor fixes and changes

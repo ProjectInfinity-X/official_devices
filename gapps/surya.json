@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-surya-07.05.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/surya/16/gapps/Project_Infinity-X-3.10-surya-07.05.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1778144586,
-			"md5": "0e267fccd2723b3a36603aaaccc2adf2",
-			"size": 2359348199,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-surya-08.06.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/surya/16/gapps/Project_Infinity-X-3.11-surya-08.06.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1780946410,
+			"md5": "fc1328fd9c09042a4e486dbbc905b7f2",
+			"size": 2408013208,
+			"version": "3.11"
 		}
 	]
 }
