@@ -1,3 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1882)
-- Random Audio Cuts Are Fixed
-- UI Is Now Smoother
+- Force Close Problem Fixed
