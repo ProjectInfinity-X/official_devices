@@ -1,12 +1,11 @@
-* Date: 06-06-2026
-* ======================
+* Date: 10-06-2026
+* ================
 * Changelogs:
-- Switch to QTI Perf HAL for improved performance.
-- Fixed fingerprint gesture triggers from non-fingerprint input devices.
-- Updated display stack properties for improved display behavior.
-- Restored Dolby Vision support in OTT apps such as Netflix.
-- Increased maximum fling velocity for smoother scrolling.
-- Refined display timing by avoiding phase offsets as durations.
-- Added per-app auxiliary camera access controls.
-- Included various miscellaneous improvements and fixes.
+- Added power key input boost configuration
+- Included vendor/infinity.config in kernel config targets
+- Reduced system blur radius
+- Removed virtual framebuffer
+- Refactored thermal settings fragments
+- Updated common blobs from Diting OS3.0.4.0.VLFMIXM
+- Updated device blobs from Marble OS3.0.4.0.VMRMIXM
 - Improvements to performance and system stability
