@@ -2,6 +2,13 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 11/06/2026
+=================
+- Synced with latest source
+- Revert back into miui camera
+- Silence some ACDB errors
+- Many more underhood changes
+
 Date - 19/05/2026
 ================
 - Synced with latest source
