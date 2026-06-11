@@ -1,4 +1,5 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1877)
-- Set display idle timeout to 0
-- Shipped with Araxys-v2.0
-- Backported Susfs-v2.1.0
+- Source Changelog (https://t.me/ProjectInfinityX/1882)
+- Introduced init.lahaina.perf.rc for performance tuning
+- Allocated 6 buffers for SurfaceFlinger FrameBufferSurface
+- Disabled EGL image tracking
+- Disabled WLAN firmware loggings
