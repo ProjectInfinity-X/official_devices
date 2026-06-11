@@ -1,4 +1,15 @@
 Released Date - 24/04/2026
+==========================
+- Synced with latest ROM v3.11 source (https://t.me/ProjectInfinityX/1882)
+- realme lab : Implement GPU boost control
+- realme lab : Implement battery charging limit
+- realme lab : Migrated RealmeParts preference screens to a modern CollapsingToolbar layout.
+- Tuned post-boot script for better performance and responsiveness.
+- Updated HyperfusionX kernel up to 4.14.357.
+- Updated KernelSU-Next to V3.2.0 & SuSFS to V2.1.0.
+- More HyperfusionX kernel tuning and optimization for more stability.
+
+Released Date - 24/04/2026
 ===========================
 - Fixed some apps and games stuck/crashed when open.
 - Fixed DRM settings in developer option.
