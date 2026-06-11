@@ -2,14 +2,17 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 05/14/2026
+Date - 06/11/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1880
-• [WIP] Reworked battery SOC smoothing again to follow stock OOS behavior more closely, eliminating visible catch-up jumps and keeping the status bar drop in cleaner 1% steps
+• Source Changelog: https://t.me/ProjectInfinityX/1882
+• Drastically shortened system boot time by reducing the waiting time for sensors that do not exist in the OOS 12.1 firmware (2 seconds instead of 30).
+• Switched from Xiaomi Dolby to Lunaris Dolby
+• Re-enabled Bluetooth A2DP hardware offload
+• Backported QCA_NL80211_VENDOR_SUBCMD_USABLE_CHANNELS (198) to the SM8150 Wi-Fi kernel stack
+• Switched EROFS compression from LZ4 to LZ4HC with level 12.
 • Sepolicy: fixed Wi-Fi tombstone access; allowed thermal HAL to report stats
-• Exempted OnePlus camera service from cached app freezer
 • Synced with the crDroid kernel and LOS kernel changes
-• Pull Keyhandler improvements from LOS
+• Exempted OnePlus camera service from cached app freezer
 • Misc. improvements
 
 Note: 
