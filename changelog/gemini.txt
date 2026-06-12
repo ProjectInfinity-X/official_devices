@@ -1,1 +1,11 @@
-- Source changelog (https://t.me/ProjectInfinityX/1880)
+CRITICAL: Dynamic Partition (Retrofit) Transition
+
+This build introduces a major architecture shift to Dynamic Partitions.
+
+Clean Flash is MANDATORY. * Do NOT attempt to dirty flash from previous versions. It will result in a bootloop or non-bootable state.
+
+You MUST use the "Retrofit Kit" to convert your partition table before flashing this ROM.
+
+Please follow the updated installation instructions carefully to ensure a smooth transition.
+
+- Source changelog (https://t.me/ProjectInfinityX/1882)
