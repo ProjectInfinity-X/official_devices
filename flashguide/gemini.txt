@@ -1,23 +1,32 @@
-Recommended Recovery: Infinity X recovery. Can be found [HERE](https://t.me/romlar31/238)
+Recommended Recovery: Infinity X recovery. Can be found in the Retrofit Kit
 
-1.Reboot your device into fastboot
+Mandatory Pre-requisite: Download the Retrofit Kit, extract it, and run flash_retrofit.bat (or .sh) while in fastboot mode. The device will automatically boot into recovery. In the Recovery You Need To Format Data
 
-2.Connect device via USB and run:
+If The Recovery does not boot try booting again with: fastboot boot recovery.img
 
-fastboot flash recovery recovery_gemini.img
+Retrofit Kit Is Here: https://t.me/romlar31/290
 
-3.Reboot to recovery, then in recovery select Apply update > Apply from ADB > ADB sideload
+Reboot your device into fastboot
+
+Run the Retrofit Kit (as per instructions above)
 
 Flashing Instructions:
+
 Clean Flash
+
 Tap Factory reset > Format data/factory reset > Format data
-Format cache partition Format system partition
+
+Format cache partition > Format system partition
+
 Sideload Firmware (https://codeberg.org/rewoaP/Gemini/src/branch/main/FW_Gemini_MIUI_GEMINI_Global_8.11.22_8.0.zip)
-Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
-Reboot
+
+Sideload Infinity-X ROM zip via recovery (adb sideload .zip)
+
+Reboot (Note: First boot takes ~15-17 minutes, do not interrupt)
 
 Dirty Flash
-Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+
+Sideload Infinity-X ROM zip via recovery (adb sideload .zip)
 
 Reboot
 
