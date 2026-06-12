@@ -1,1 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1829)
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Switched to Lineage Kernel
