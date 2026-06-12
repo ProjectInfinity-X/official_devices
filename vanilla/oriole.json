@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-oriole-16.03.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/oriole/16/vanilla/Project_Infinity-X-3.8-oriole-16.03.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1773653594,
-			"md5": "18fc17152a0c60ad0bc52e16b5452ea1",
-			"size": 2016931862,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.11-oriole-10.06.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/oriole/16/vanilla/Project_Infinity-X-3.11-oriole-10.06.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1781093649,
+			"md5": "618ca80a45413b96f6d466fe5034c856",
+			"size": 2117164984,
+			"version": "3.11"
 		}
 	]
 }

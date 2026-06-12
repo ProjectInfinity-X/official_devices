@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.8-raven-16.03.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/raven/16/vanilla/Project_Infinity-X-3.8-raven-16.03.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1773643563,
-			"md5": "39433ea1a0a5e67b4c4ef179e7f51025",
-			"size": 2018143102,
-			"version": "3.8"
+			"filename": "Project_Infinity-X-3.11-raven-10.06.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/raven/16/vanilla/Project_Infinity-X-3.11-raven-10.06.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1781122031,
+			"md5": "d26ee90d76b50069adfb693d14f43aa6",
+			"size": 2118382269,
+			"version": "3.11"
 		}
 	]
 }
