@@ -2,6 +2,26 @@ Device: Itel RS4
 Code Name: S666LN
 Device Maintainer: putrazxyo13
 
+Date - 14/06/2026
+- Updated GameBar!
+- Updated splash logo
+- Re-import Engineering mode From stock
+- proprietary-files: Import epdg_wod binary for VoWiFi
+- thermal: fix cooling device mapping for mali-G57 MC2 GPU
+- sepolicy: resolve platform bus offsets and I2C routing in genfs_contexts
+  Correct platform bus offsets and address mappings to match actual sysfs node registration:
+   1. UFS: /devices/platform/ -> /devices/platform/soc/
+   2. Mali: /devices/platform/ -> /devices/platform/soc/
+   3. aw87xxx: /devices/platform/1101a000.i2c7/i2c-7/7-0058/vmax -> /devices/platform/soc/1101a000.i2c/i2c-6/6-0058/vmax
+- init: Reduce kernel printk logging
+- Enable zram writeback
+- configs: Ensure 1.5 GB free space before creating zram backing device
+- init: Make foreground and background I/O priority different
+- init: Kill Battery first_usage_date
+- libmtkperf_client: fix printf format specifiers for uint64_t
+- Add permissions for some more musb-hdrc nodes
+- Allow thermal_core to switch configs based on brightness
+
 Date - 18/04/2026
 - Added new GameBar
 - rootdir: kang EAS utilization clamp from cancunf
