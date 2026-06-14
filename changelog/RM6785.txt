@@ -1,3 +1,15 @@
+Date - 14-06-2026
+- Synced with latest Source (https://t.me/ProjectInfinityX/1882)
+- Shipped with kaeru patched lk
+- Shipped with Miku V2 kernel
+- Bring back blur support
+- Drop dolby atmos support
+- Import phase offsets from Motorola
+- Reduce idle battery drain
+- powerhint: Add some blur configuration
+- Enable wireguard support
+- ReSukiSU + SusFS 2.1.1 included
+
 Date - 06-05-2026
 - Synced with latest Source (https://t.me/ProjectInfinityX/1877)
 - Fixed some node permissions
