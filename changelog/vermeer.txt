@@ -2,6 +2,16 @@ Device: Poco F6 Pro / Redmi K70
 Device codename : vermeer
 Device maintainer: Lunark
 
+Date - 14-06-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Remove redundant disable_dma32=on from kernel cmdline
+- Set force_sysfs_fallback=1 sysctl via cmdline
+- Enable CameraX extensions support
+- Fixed camera in Redmi K70 model
+- Adding dolby atmos again
+- Kernel Upstream 5.15.207
+
 Date - 25-05-2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1880)
