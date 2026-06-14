@@ -2,7 +2,13 @@ Device: OnePlus 11 5G
 Device code name : salami
 Device maintainer: Brian_OP13
 
+06/14/2026
+==========
+- Source Changelog (https://t.me/ProjectInfinityX/1882)
+- Added Dolby
+
 05/10/2026
 ==========
 - Synced with latest source
 - Initial official release
+

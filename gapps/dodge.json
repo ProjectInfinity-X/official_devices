@@ -1,13 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-dodge-09.05.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/dodge/16/gapps/Project_Infinity-X-3.10-dodge-09.05.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1778338456,
-			"md5": "745ec8433e43ef89a96ffe5a090b07f0",
-			"size": 3841282191,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-dodge-13.06.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/dodge/16/gapps/Project_Infinity-X-3.11-dodge-13.06.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1781316061,
+			"md5": "4d6fef1af131ad47d8736817d1c15ce8",
+			"size": 3865833951,
+			"version": "3.11"
 		}
 	]
 }
-
