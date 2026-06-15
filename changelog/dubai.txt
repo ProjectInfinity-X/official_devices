@@ -1,13 +1,9 @@
-- Source Changelog: https://t.me/ProjectInfinityX/1877
+- Source Changelog: https://t.me/ProjectInfinityX/1882
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Increase audio HAL buffer size to 240
-- Enforce 24-bit audio for offload playback
-- props: Reduce graphics memory consumption
-- Implement Torch Light Brightness Control
-- Tune dalvik-healp memory limits
-- Disable Smart Pixels on UDFPS
-- Force disable iorapd
-- Disable per-cgroup PSI accounting
-- Improve Idle Battery Drain
-- Enable support for kernel idle timer
-- Move to QTI health AIDL service
+- props: Set debug.sf.enable_hwc_vds to 0
+- Nuke irsc_util
+- rootdir: audio Start audio rpc daemon early to improve performance
+- props: Set ro.config.media_vol_default to 10
+- overlay: Enable Wide Color Gamut support
+- props: Decommonize stereo speakers
+- Merge Kernel Changes from LineageOS
