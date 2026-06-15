@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-dubai-10.05.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/dubai/16/vanilla/Project_Infinity-X-3.10-dubai-10.05.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1778420775,
-			"md5": "59a00c443f49cde0bbf8848d1ae1e691",
-			"size": 1825728513,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-dubai-15.06.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/dubai/16/vanilla/Project_Infinity-X-3.11-dubai-15.06.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1781524376,
+			"md5": "e1c2fbe0549d67f2bae9c4151ea58838",
+			"size": 1843989511,
+			"version": "3.11"
 		}
 	]
 }
