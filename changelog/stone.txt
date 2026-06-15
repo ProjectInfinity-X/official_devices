@@ -1,10 +1,9 @@
-- Source changelog (https://t.me/ProjectInfinityX/1877)
-- May Security Patch
-- Switch to mq-deadline io scheduler
-- Disable pinner service
-- Add per app upscale (huge thanks to kami)
-- Cleanup props and sepolicy
-- More powerhint tweaks for better performance
-- Merge latest upstream kernel changes
-- More misc changes
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- June Security Patch
+- Kang graphic blobs from xperia 10 V
+- Kang display blobs from fogos_g
+- Declare missing zram algo and swapiness
+- Use BBR and FQ
+- Optimize I/O performance
+- Merge latest LOS kernel changes
 - Synced with latest sources
