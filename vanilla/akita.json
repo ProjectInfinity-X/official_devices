@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-akita-08.05.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/akita/16/vanilla/Project_Infinity-X-3.10-akita-08.05.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1778275528,
-			"md5": "c3b54e9020fc86a04f2d6fb9b6c8921d",
-			"size": 2104574537,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-akita-16.06.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/akita/16/vanilla/Project_Infinity-X-3.11-akita-16.06.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1781582065,
+			"md5": "a50d48651f55de5a65970f760e5104c9",
+			"size": 2134943421,
+			"version": "3.11"
 		}
 	]
 }
