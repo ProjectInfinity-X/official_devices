@@ -2,6 +2,17 @@ Device: Google Pixel 9 Pro XL
 Device code name : Komodo
 Device maintainer: Pyrtle93
 
+Date - 06/16/2026
+=================
+- June security (rom)
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Synced with 3.11
+- Esim improvements
+- Add privapp permissions for EuiccGoogle (Esim)
+- Add privapp permissions for HbmSVManager
+- Add The full Google Pixel experience
+- Bump kernel Security String to 2026-06-05
+
 Date - 05/08/2026
 - Version bump 3.10
 - May Security (rom)
