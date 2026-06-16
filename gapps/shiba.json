@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.10-shiba-08.05.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/shiba/16/gapps/Project_Infinity-X-3.10-shiba-08.05.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1778268009,
-			"md5": "b59b3565dae3c921eecd04d1978ea4eb",
-			"size": 3092567333,
-			"version": "3.10"
+			"filename": "Project_Infinity-X-3.11-shiba-16.06.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/shiba/16/gapps/Project_Infinity-X-3.11-shiba-16.06.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1781573636,
+			"md5": "5bae4eb8e7e524fd189832225aad28aa",
+			"size": 3100429509,
+			"version": "3.11"
 		}
 	]
 }

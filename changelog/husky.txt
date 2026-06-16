@@ -1,6 +1,7 @@
-Date - 08/05/2026
+Date - 15/06/2026
 =================
-• Version bump 3.10
-• May Sercurity (rom)
+• Version Bump 3.11
+• June Sercurity (rom)
 • Synced with Latest Source Changes
-• Source changelog (https://t.me/ProjectInfinityX/1880)
+• Source Changelog (https://t.me/ProjectInfinityX/1882)
+• Fix Device Hotspot Connection Issues
