@@ -2,6 +2,13 @@ Device: Redmi Note 13 4G / NFC
 Device code name : sapphire/sapphiren
 Device maintainer: Liekoo
 
+
+Date - 16/06/2026
+=================
+- Source Changelog: https://t.me/ProjectInfinityX/1882
+- Fixed FastChargeMode(slow,fast,superfast)
+- Increase MinGPU freq in certain event
+
 Date - 12/05/2026
 =================
 - Source Changelog: https://t.me/ProjectInfinityX/1877
