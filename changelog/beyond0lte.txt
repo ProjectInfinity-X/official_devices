@@ -2,8 +2,8 @@ Device: Samsung Galaxy S10e
 Device code name : beyond0lte
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 05/16/2026
-- Bumped FrEeRuNnErKeRnEl to V3.8 (Includes U-Clamp backports big thanks to Parbindar7)
+Device Changelog 06/17/2026
+- Revert to FrEeRuNnErKeRnEl v-3.7-R3 as uclamp was causing issues
 
 * Gapps build
 * Vanlla build
