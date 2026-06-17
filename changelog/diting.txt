@@ -2,6 +2,22 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay097
 
+Date - 16/6/2026
+=================
+- Update blobs and firmware from OS3.0.4.0.VLFMIXM
+- Support for Dolby Vision has been added
+- Xiaomi parts were added
+- Added screen saturation and thermal profiles
+- overlay: Drop ambient brightening/darkening thresholds
+- overlay: Screen Brightening/Darkening thresholds update
+- overlay: Convert screen brightening thresholds to ints
+- overlay: Fine tune screen brightening thresholds
+- overlay: Set fixed refresh rate on keyguard
+- fixed delay of auto brightness mode.
+- overlay: Update pixel pitch
+- overlay: Turn on display before resuming AOD
+- overlay: Downscale task snapshots to 80%
+
 Date - 6/4/2026
 =================
 Kernel:
