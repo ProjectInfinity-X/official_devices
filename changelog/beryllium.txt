@@ -1,15 +1,3 @@
-- Source Changelog: https://t.me/ProjectInfinityX/1877
+- Source Changelog: https://t.me/ProjectInfinityX/1882
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Improve Idle Battery Drain
-- Set screen density to 420
-- qcdm: remove dummy colormodes
-- qdcm: Add RenderIntent for new display hal
-- Mark HDR profile as SDR
-- Move calib xml to device tree
-- props: Enable ro.audio.monitorRotation
-- Drop qti vendor.qti.hardware.cacert service
-- Disable gms components for better WiFi speeds
-- Enable support for kernel idle timer
-- props: Enable stereo speakers
-- Force disable iorapd
-- init: Rm package cache on early boot
+- Vanilla Users Please Read This: https://t.me/NotDheeraj06_Builds/74560
