@@ -1,57 +1,35 @@
-- Update builds to version 3.10
-- Add QS Panel styles (HyperOS/OxygenOS/InfinityX Style)
-- Add statusbar icon packs, signal-wifi icon styles, battery icon styles and charging animations (author: rmp22)
-- Fixed MyAirtel app and DigiLocker app crash and fixed other tons of banking apps
-- Switch GameSpace implementation to AxionOS 's gamespace (author: neobuddy89)
-- Allow changing system emoji styles to iOS or Samsung (author: TwistedVision518)
-- Make lockscreen notifications appear over depth wallpaper (author: yusufnoor786)
-- Add OmniJaws frontend inbuilt weather app (author: rmp22)
-- Fixed Firefox/browsers SystemUI crash on media playing when dynamic bar enabled
-- Fixed headsup dialer notification on incoming calls when dynamic bar enabled (author: neobuddy89)
-- Fixed dynamic bar download/other progress bars not updating on click to show expanded event & re-design dynamic bar lockscreen media popup view (author: rmp22)
-- Improve dynamic bar battery view on lockscreen along with actual charging info stats also allow to disable (author: neobuddy89)
-- Fixed dynamic bar messed up statusbar padding for some devices (eg. overlapping with statusbar or touching statusbar clock etc.)
-- Align dynamicbar lockscreen chip with keyguard indication margin (author: bijoyv9)
-- Suppress Dynamic Bar notifications when Danmaku notification is active (author: Saikrishna1504)
-- Added more screenrecorder options (author: rmp22)
-- Add QS Tiles animation styles (author: neobuddy89)
-- Enable statusbar burn-in protection for all devices by default
-- Restore stock android lockscreen bottom shortcut buttons along with size and paddings
-- Allow single tap behaviour instead of hold for lockscreen bottom shortcut buttons (author: prochy-exe)
-- Allow applying Monet colors to the lockscreen PIN and pattern screen (bouncer) view
-- Add feature to allow launching app in freeform window by swiping and holding it up in recents panel (author: ZL114514, zylhdrXP, DrDisagree)
-- Fixed smart pixels complete device freezing on use and improve logic
-- Make expanded volume panel ringer button shape completely circular
-- Add 2 new pulse styles along with toggle to configure bass haptics playback (author: neobuddy89)
-- Fixed QS tile inconsistent gradient colors with single tone tile style
-- Fixed camouflaging notifications footer buttons when alternate notification color enabled
-- Allow to show pure black/white qs notifications when alternate notification color disabled
-- Make statusbar display on lockscreen when media album art in use
-- Force disable all annoying inconsistent qs tile squish effects
-- New customizations for sidebar (author: kenway214)
-- Allow hiding lockscreen clock
-- Make volume slider haptics toggle work on expanded volume style too
-- Make idle manager more consistent and aggressive
-- Add toggle to prevent apps from launching the \"Get this app from Play\" screen when not installed from Play Store (author: joshuah345)
-- Live circle battery style colors based on events like low battery or charging (author: mikooomich)
-- Improve animations performance and system fluidity
-- Improve QS Panel janks/lag scenarios with plenty of notifications 
-- Disable unnecessary logging and overhead conditions impacting performance and leading to battery drains
-- Fixes for few issues that occurred right after v3.10 are pushed:
-
-* Fixed issues with alert slider / notification led light / device hardware keys / fingerprint wake up impl
-* Fixed no fingerprint icon on Always on Display which was showing a lock icon instead 
-* Fixed "do it later" button overlapping with fingerprint icon on settings udfps enrollment page on some devices
-* Fixed no pulse visualizer on ambient display
-* Fixed "Edit QS" section crash when OxygenOS icon pack applied
-* Fixed no haptics on extended volume panel style when changing volume from physical keys, also make expanded volume panel style follow volume panel timeout  settings
-* Fixed refresh rate qs tile mis-function
-
-- Few improvements too along side are as follows:
-* Improvements for HyperOS style QS panel and more proper separate notifications panel
-* Add haptics for connectivity tiles on HyperOS/OxygenOS QS style
-* Bring back system animation styles from v3.5, along with the fixed-style MediaTek transition animations as a selectable option.
-* Improve UDFPS unlocking speed and overall system speed when device unlocked
-* Performance and load improvements for dynamic bar
-* Improve app drawer searchbar
-* Hide lockscreen widgets when dynamic bar media player popup view showing
+- Merged June 2026 security patch
+- Add recents panel styles (OOS, iOS, Scale etc.) (author: kamikaonashi, elpaablo, zylhdrXP)
+- Switch to inbuilt trickystore implementation for playintegrityfix (author: rmp22, Dakkshesh, reveny, joeyhuab, neobuddy89)
+- Add app sandbox, private file vault and custom password app lock feature replacing traditional applock and hideapplist features (author: rmp22, Saikrishna1504)
+- Bring back statusbar swipe brightness control feature and add support for lockscreen statusbar too (author: neobuddy89, ergdevops)
+- Add peek AOD feature to briefly show ambient display for a few seconds after screen off (author: shutter-cat)
+- Fixed no transition to homescreen when unlocked with fingerprint in AOD
+- Fix small (ill-formed) wifi/network icons in theme styles (author: rmp22)
+- Make app icon shapes work in appdrawer even when themed icons disabled (author: nnn950711)
+- Fix extremely low signal strength display for 5g network connection (author: rajdeep-3305)
+- Increase connectivity coverage for LTE+
+- Bluetooth connectivity improvements
+- Add new lockscreen clockstyles (author: Ghosuto)
+- Improve new lockscreen clockstyles layouts and preview (author: neobuddy89)
+- Fix full screen apps feature on tablets
+- Allow using split shade qs feature (separate qs/notification panel) on all qs panel styles (author: TwistedVision518 for certain improvements)
+- Improve app opening animations like Stock roms (author: rmp22)
+- Add recents panel app hold gestures feature to open in freeform/split screen (author: zylhdrXP)
+- Fix default google sans flex font characteristics (rounded edges and correct variable weights) (author: joeyhuab)
+- Apply drag lock to dynamic bar expanded media panel seekbar also use waveform seekbar style with refinements (author: Ghosuto, neobuddy89)
+- Fix some music apps shuffle button icon in dynamic bar expanded media panel
+- Improve clock styles and AOD view
+- Improvements for QS Panel smoothness under heavy load
+- Enable power button assistant invocation effect (author: ralph950412)
+- Add custom carrier text and location customization (author: Claymore1297, neobuddy89)
+- Add partial screenshot as custom action for gestures (author: luk1337)
+- Re-design freeform window to pill based (tap pill to to back, swipe bottom to top to close, top to bottom to open app) (author: zylhdrXP)
+- Add feature to auto hide sidebar pill when gamespace active (author: kenway214)
+- Remove some useless bloated fonts
+- Fixed ota updates that got broke for some A only devices in first 3.10 release 
+- Fixed awkward search icon placement in app drawer searchbar when homescreen searchbar disabeld
+- Preserve locked rotation during screen state changes (author: ArKT-7)
+- Fixed no haptics on extended volume panel style when changing volume from physical keys, also make expanded volume panel style follow volume panel timeout settings
+- Bring back system animation styles from v3.5, along with the fixed-style MediaTek transition animations as a selectable option.
+- Improve UDFPS unlocking speed and overall system speed when device unlocked
