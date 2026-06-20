@@ -1,0 +1,14 @@
+• Download vendor_boot.img (https://t.me/c/3864256969/9)
+• Boot into fastboot mode, type the command below use platformtools (https://t.me/PocoX8ProINA/25840) :
+fastboot flash vendor_boot --slot=all vendor_boot.img
+• fastboot reboot
+!!! DO NOT USE FASTBOOT REBOOT RECOVERY OR ELSE YOUR DEVICE IS POTENTIALLY TO BRICK !!!
+• After reboots, quickly hold volume up       button to boot into recovery
+• Factory reset -> Format data
+Select Apply Update -> Apply from ADB
+• Flash the rom using sideload, the adb    command is on below:
+adb sideload Project_Infinity-X-xxxxxxxx-OFFICIAL.zip
+(or just drag and drop the zip file into terminal window after adb sideload command)
+• Choose yes after sideloading (reboots into recovery)
+( Skip if you flash the GApps ROM. ) Flash GApps or magisk (optional, MindTheGapps recommended or anything u want)
+• Reboot system
