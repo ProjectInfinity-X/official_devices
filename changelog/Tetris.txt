@@ -2,6 +2,14 @@ Device: Nothing CMF Phone 1
 Device code name : Tetris
 Device maintainer: Ashwani
 
+23/06/2026
+==========
+- Optimized dex2oat cpu affinity.
+- Enabled games to use 120fps.
+- Removed duplicate HWC VDS property.
+- Powerhint: Tune up for blur.
+- Refined interaction and expensive rendering hint.
+
 07/05/2026
 ==========
 - Synced with latest source
