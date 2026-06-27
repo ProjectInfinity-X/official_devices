@@ -3,8 +3,8 @@ Source Changelog:
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• dolby: Switch to Newer Standalone Dolby Vision Stack taken from A16
-• dolby: Add Dolby vision Service support
-• dolby: sepolicy: Initial rules for DVS
-• dolby: Guard Dolby App & Dolby Vision
-• Replaced Ambient Display with Always on Display
+• dolby: Add Standalone Dolby Spatial Audio support
+• dolby: sepolicy: Rewrite dolby rules
+• sm8350-common: audio: Sync with Dolby Spatial Audio
+• sm8350-common: hidl: Sync with Lineage
+• sm8350-common: hidl: split Dolby Vision manifest and Guard it
