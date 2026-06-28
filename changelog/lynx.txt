@@ -1,81 +1,14 @@
 Device: Google Pixel 7a
 Device code name : Lynx
-Device maintainer: Javi
+Device maintainer: Pyrtle93
 
-Date - 13/05/2026
+Date - 06/28/2026
 =================
-- Source changelog (https://t.me/ProjectInfinityX/1877)
-- Synced with latest 3.10 Source
-- Based on May security patch
-- Fixed portrait mode in stock camera
-- Fixed boot animation after restart
-- Fixed connection Android Auto
-- Add PixelParts
-- Fix battery drain
-- Remove most proprietary Google apps
+- June security (rom)
+- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Synced with 3.11
+- Esim improvements
 - Add privapp permissions for EuiccGoogle (Esim)
 - Add privapp permissions for HbmSVManager
-- Add The full Google Pixel experience! (Thanks fuzzywave40!)
-- Bump kernel Security String to 2026-05-05
-
-Date - 22/04/2026
-=================
-- Source changelog (https://t.me/ProjectInfinityX/1847)
-- Based on april security patch
-- Import generated overlays from BP4A.260205.001
-
-Date - 03/14/2026
-=================
-- Source changelog (https://t.me/ProjectInfinityX/1819) (https://t.me/ProjectInfinityX/1824)(https://t.me/ProjectInfinityX/1829)
-- Based on March security patch
-- Gapps improvements
-- Setup Wizard improvements
-- More battery/heating improvements
-- Fixed screen off udfps not showing
-
-Date - 02/21/2026
-=================
-- Improved camera
-- Fixed calling issues
-- Charging/heating improvements
-
-Date - 02/18/2026
-=================
-- Feb Security (qpr2)
-- Initial QPR2 release
-- Various improvments/cleanups
-- Synced with latest source changes
-- Source changelog
-(https://t.me/ProjectInfinityX/1797)
-(https://t.me/ProjectInfinityX/1799)
-(https://t.me/ProjectInfinityX/1800)
-
-Date - 12/13/2025
-=================
-- December Sercurity (rom) 
-- Synced with latest Source Changes
-- Source changelog (https://t.me/ProjectInfinityX/1618) -  (https://t.me/ProjectInfinityX/1619)
-- Added Pixel Frameworks
-- Various improvments/cleanups
-
-Date - 09/08/2025
-=================
-- Synced with 3.2 source
-- Updated prebuilt kernel
-- Various improvments/cleanups
-
-Date - 08/17/2025
-=================
-- Source Changelog: https://t.me/ProjectInfinityX/1453
-- Added Google Face Unlock
-- Improvements/cleanups
-
-Date - 07/24/2025
-===============
-- Highlighted Source Changes (https://t.me/InfinityXGroup/149009)
-- Fixed udfps not working
-
-Date - 07/18/2025
-=================
-- Initial A16 Release
-- Everything works except for fingerprint
+- Add The full Google Pixel experience
+- Bump kernel Security String to 2026-06-05
