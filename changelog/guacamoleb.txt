@@ -2,17 +2,18 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 06/11/2026
+Date - 07/01/2026
 =================
 • Source Changelog: https://t.me/ProjectInfinityX/1882
-• Drastically shortened system boot time by reducing the waiting time for sensors that do not exist in the OOS 12.1 firmware (2 seconds instead of 30).
-• Switched from Xiaomi Dolby to Lunaris Dolby
-• Re-enabled Bluetooth A2DP hardware offload
-• Backported QCA_NL80211_VENDOR_SUBCMD_USABLE_CHANNELS (198) to the SM8150 Wi-Fi kernel stack
-• Switched EROFS compression from LZ4 to LZ4HC with level 12.
-• Sepolicy: fixed Wi-Fi tombstone access; allowed thermal HAL to report stats
-• Synced with the crDroid kernel and LOS kernel changes
-• Exempted OnePlus camera service from cached app freezer
+• Dolby Atmos and DTS:X Ultra can now run together on the music stream, so both effects are applied at once
+expanded DTS:X Ultra headphone support from the newest ZTE/• RedMagic dumps:
+    - refreshed the accessory tuning database with the RedMagic 11 Pro (NX809J) set, so more headphones get their dedicated tuning profile
+    - refreshed the bundled headphone catalog from the RedMagic 11 Air (NX799J, DTS:X Ultra 16.0), 491 -> 513 models - now lists e.g. Sony WH-1000XM3, Bose Noise Cancelling 700, HyperX Cloud Alpha and the Asus ROG headsets
+    - patched the DtsUltra offline-database integrity check so the newer catalog loads cleanly (one ZTE entry is mistyped as Standard in DTS's own data)
+• synced with the crDroid kernel and device changes.
+• Imported the DTS:X Ultra from the ZTE A2020G Pro (P855A01), based on the module by Reiryuki, later modified by ShadoV
+• Keep spatial audio off the built-in speaker
+• Ship Vanilla Build also
 • Misc. improvements
 
 Note: 
