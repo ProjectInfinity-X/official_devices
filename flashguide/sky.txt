@@ -11,7 +11,7 @@ Flashing Instructions:
 Clean Flash:
 
 1. Flash AOSP recovery recovery (get it from here https://sourceforge.net/projects/infinity-x/files/sky/recovery.img/download)
-2. fastboot flash recovery recovery.img  (note: A/B partition)
+2. fastboot flash recovery recovery.img (note: A/B partition)
 3. fastboot reboot recovery
 4. Apply update -> adb sideload
 5. adb sideload rom.zip
