@@ -2,6 +2,24 @@ Device: OnePlus 9R
 Device code name : lemonades
 Device maintainer: MufasaXz
 
+Date - 04/07/2026 (v3.12 Android 16 Stable)                                                                                                                                                                                     
+===================
+• Highlighted Source Changelog (https://t.me/ProjectInfinityX/1886)
+• Added Bypass charging 
+• Added New Dolby 
+• Added Zen, SIO, FIOPS, and Maple I/O schedulers for better storage performance
+• Switched default Zram algorithm to lz4
+• Fixed bugs in block elevator and scheduler code
+• Fixed Zen scheduler parameter handling
+• Integrated KernelSU Next (Legacy) for root access support
+• Updated KernelSU version fallback to 33150
+• Fixed schgm-flash compilation error with Clang
+• Modernized ARM64 assembly function annotations
+• Added position independent function support for ARM64
+• Introduced new macros for assembler symbol definitions
+• Added GLOBAL() macro to linkage header
+• Fixed weak symbol alignment in linkage.h
+
 Date - 21/03/2026 (v3.8 Android 16 Stable)
 ===================
 • Highlighted Source Changelog (https://t.me/ProjectInfinityX/1829)
