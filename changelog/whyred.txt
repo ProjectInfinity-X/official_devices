@@ -2,6 +2,12 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 04/07/2026
+=================
+- Synced with latest source
+- Updated blur configs
+- Improved ui smoothness
+
 Date - 11/06/2026
 =================
 - Synced with latest source
