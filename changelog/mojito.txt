@@ -1,4 +1,5 @@
-Source Changelog (https://t.me/ProjectInfinityX/1882)
+Source Changelog (https://t.me/ProjectInfinityX/1886)
 
 Device Changelog:
-- Minor changes and improvements
+- fixed gapps installation on vanilla build
+
