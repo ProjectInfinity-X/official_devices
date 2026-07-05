@@ -1,1 +1,4 @@
-- Initial Build
+- Source changelog (https://t.me/ProjectInfinityX/1886)
+- JamesDSP Removed
+- Dolby Added
+- Fenrir Added
