@@ -2,6 +2,21 @@ Device: Xiaomi Mi 9T Pro / Redmi K20 Pro
 Device code name : raphael/in
 Device maintainer: YourDulavai
 
+Date - 06-07-2026
+=================
+- Swith to AIDL NFC
+- Bump kernel BPF version override to 5.10.239
+- Disable the property debug.sf.enable_gl_backpressure
+- msm_irqbalance: Correct the arch_mem_timer interrupt
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- rootdir: Clean up init_qcom_post_boot script
+- powerhint: Convert adaptive CPU throtlle hints to static hints
+- Add some missing carrier_config
+- Add Lunaris Dolby
+- Add HBM and DC Dimming tile
+- Merge latest los kernel changes
+- Sync with latest source changes
+
 Date - 08-06-2026
 =================
 - Add torch control 
