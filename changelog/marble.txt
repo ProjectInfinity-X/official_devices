@@ -1,11 +1,17 @@
 * Date: 10-06-2026
 * ================
 * Changelogs:
-- Added power key input boost configuration
-- Included vendor/infinity.config in kernel config targets
-- Reduced system blur radius
-- Removed virtual framebuffer
-- Refactored thermal settings fragments
-- Updated common blobs from Diting OS3.0.4.0.VLFMIXM
-- Updated device blobs from Marble OS3.0.4.0.VMRMIXM
-- Improvements to performance and system stability
+- Allow init to write to `/proc` in recovery mode for improved recovery compatibility
+- Introduce a new Performance Monitor, inspired by GameBar
+- Enable SurfaceFlinger client composition cache for better rendering performance
+- Configure devices to reboot directly into recovery after fatal init failures
+- Tune scheduler PELT half-life to 8 for improved CPU load tracking
+- Add default CPU affinity boot arguments for Waipio devices
+- Enable `allow_file_spec_access` policy on Waipio
+- Refactor auxiliary camera control state handling for improved reliability
+- Improve overall system stability and performance
+- Apply kernel optimizations for better battery life
+
+* Know Bugs:
+- Peek AOD ( will fix later )
+
