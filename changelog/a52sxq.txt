@@ -1,35 +1,37 @@
-- Merged June 2026 security patch
-- Add recents panel styles (OOS, iOS, Scale etc.) (author: kamikaonashi, elpaablo, zylhdrXP)
-- Switch to inbuilt trickystore implementation for playintegrityfix (author: rmp22, Dakkshesh, reveny, joeyhuab, neobuddy89)
-- Add app sandbox, private file vault and custom password app lock feature replacing traditional applock and hideapplist features (author: rmp22, Saikrishna1504)
-- Bring back statusbar swipe brightness control feature and add support for lockscreen statusbar too (author: neobuddy89, ergdevops)
-- Add peek AOD feature to briefly show ambient display for a few seconds after screen off (author: shutter-cat)
-- Fixed no transition to homescreen when unlocked with fingerprint in AOD
-- Fix small (ill-formed) wifi/network icons in theme styles (author: rmp22)
-- Make app icon shapes work in appdrawer even when themed icons disabled (author: nnn950711)
-- Fix extremely low signal strength display for 5g network connection (author: rajdeep-3305)
-- Increase connectivity coverage for LTE+
-- Bluetooth connectivity improvements
-- Add new lockscreen clockstyles (author: Ghosuto)
-- Improve new lockscreen clockstyles layouts and preview (author: neobuddy89)
-- Fix full screen apps feature on tablets
-- Allow using split shade qs feature (separate qs/notification panel) on all qs panel styles (author: TwistedVision518 for certain improvements)
-- Improve app opening animations like Stock roms (author: rmp22)
-- Add recents panel app hold gestures feature to open in freeform/split screen (author: zylhdrXP)
-- Fix default google sans flex font characteristics (rounded edges and correct variable weights) (author: joeyhuab)
-- Apply drag lock to dynamic bar expanded media panel seekbar also use waveform seekbar style with refinements (author: Ghosuto, neobuddy89)
-- Fix some music apps shuffle button icon in dynamic bar expanded media panel
-- Improve clock styles and AOD view
-- Improvements for QS Panel smoothness under heavy load
-- Enable power button assistant invocation effect (author: ralph950412)
-- Add custom carrier text and location customization (author: Claymore1297, neobuddy89)
-- Add partial screenshot as custom action for gestures (author: luk1337)
-- Re-design freeform window to pill based (tap pill to to back, swipe bottom to top to close, top to bottom to open app) (author: zylhdrXP)
-- Add feature to auto hide sidebar pill when gamespace active (author: kenway214)
-- Remove some useless bloated fonts
-- Fixed ota updates that got broke for some A only devices in first 3.10 release 
-- Fixed awkward search icon placement in app drawer searchbar when homescreen searchbar disabeld
-- Preserve locked rotation during screen state changes (author: ArKT-7)
-- Fixed no haptics on extended volume panel style when changing volume from physical keys, also make expanded volume panel style follow volume panel timeout settings
-- Bring back system animation styles from v3.5, along with the fixed-style MediaTek transition animations as a selectable option.
-- Improve UDFPS unlocking speed and overall system speed when device unlocked
+- Bump Security Patch Level to July 2026
+- Re-design Lockscreen media dynamic bar as Samsung NowBar
+- Add toggle to switch between Pixel Themed Icons and LawnIcons for app icons
+- Add automatic depth wallpaper subject image generation feature (author: rmp22, Ghosuto)
+- Fix sandbox applock issues after 3.11 where the password was repeatedly requested in the same app during different activities, also other fixes/improvements for apps sandbox / file vault / applock issues (author: rmp22, neobuddy89)
+- Fixed issue of bluetooth controllers/keyboards that stopped working after 3.11 (author: ArKT-7)
+- Fixed issues with expanded volume panel where the call volume slider was not displayed during calls in some instances
+- Allow launcher homescreen rotation on smartphones too (author: neobuddy89)
+- Attempt fixes for "Free Fire" game account ban issue and its other variant games
+- Hide homescreen elements (app icons, searchbar etc.) when transparent  app drawer opened [Only legacy fullscreen appdrawer style] (author: shutter-cat)
+- Make Navigation bar burnin protection toggleable (author: shutter-cat)
+- Improve some statusbar icons paddings and spacing
+- Fix a potential system freeze issue on some devices (like marble) while connecting to a bluetooth device
+- Improve lockscreen big weather widget (icon removal)
+- Add feature to enable "Fast scroll" for lockscreen clock style previews
+- Fix inflated QS Panel style components in landscape mode when split shade qs enabled
+- Add feature to auto fetch pif json files from pixel devices (author: neobuddy89)
+- Fix QS Panel style media player getting blank triggered for Youtube shorts or during calls
+- Allow disabling slow OEM style app opening animations that were introduced in 3.11
+- Fix dynamic bar media popup colors in light theme
+- Fix dynamic bar media congestions / confusions while skipping too many media tracks at a moment
+- Fix a systemui crash instance while rotating a video to landscape mode during QS column layout set to <=3 
+- Fix occasional display of a duplicate lockscreen clock
+- Fix automatic horizontal shifts of some lockscreen clocks after 3.11
+- Fixed issues with inconsistent application of custom fonts and some prebuilt fonts after 3.11
+- Bring back support for Netflix and Snapchat spoof
+- Fixed QS Panel volume slider not updating value on bluetooth/external device connection
+- Fix bootloader unlocked status in key attestation after 3.11
+- Fix lockscreen empty space when lockscreen media player hidden
+- Fix system apps not displaying in expanded volume panel's per app volume display
+- More improvements for QS Panel fluidity under high load or work and in general cases
+- Add app rename feature (author: TwistedVision518, Ghosuto)
+- Add Pirate weather provider in OmniJaws Weather app (author: 306bobby-android)
+- Add new free Open-Meteo weather provider in OmniJaws Weather app (author: neobuddy89)
+- Improvements for OmniJaws Weather Icon Packs (author: Localhorst04)
+- Tonnes of visual and functionality improvements for OmniJaws Weather widget and frontend app (author: rmp22, neobuddy89)
+- Improve sleep mode feature
