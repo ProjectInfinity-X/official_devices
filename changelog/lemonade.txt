@@ -1,1 +1,3 @@
-- Source changelog (https://t.me/ProjectInfinityX/1882)
+- Source changelog (https://t.me/ProjectInfinityX/1886)
+- Performance Improvements
+- Switched To Aperture Camera
