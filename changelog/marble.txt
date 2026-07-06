@@ -12,6 +12,3 @@
 - Improve overall system stability and performance
 - Apply kernel optimizations for better battery life
 
-* Know Bugs:
-- Peek AOD ( will fix later )
-
