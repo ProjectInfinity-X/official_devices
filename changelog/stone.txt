@@ -1,9 +1,9 @@
-- Source changelog (https://t.me/ProjectInfinityX/1882)
-- June Security Patch
-- Kang graphic blobs from xperia 10 V
-- Kang display blobs from fogos_g
-- Declare missing zram algo and swapiness
-- Use BBR and FQ
-- Optimize I/O performance
+- Source changelog (https://t.me/ProjectInfinityX/1886)
+- July Security Patch
+- Switch to zstd zram
+- Update in-kernel zstd to v1.5.7 (thanks kami) 
+- More powerhint tweaks for better thermals and battery
+- Cleanup init.target.rc
+- Optimize memory management and scheduler
 - Merge latest LOS kernel changes
 - Synced with latest sources
