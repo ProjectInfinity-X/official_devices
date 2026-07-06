@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-lemonade-11.06.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/lemonade/16/gapps/Project_Infinity-X-3.11-lemonade-11.06.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1781184420,
-			"md5": "890579a8e3c4caa167969a46714c30fd",
-			"size": 2417028273,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-lemonade-06.07.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/lemonade/16/gapps/Project_Infinity-X-3.12-lemonade-06.07.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1783303997,
+			"md5": "6655c42479607eff103bc8ca608aa87a",
+			"size": 2380131517,
+			"version": "3.12"
 		}
 	]
 }
