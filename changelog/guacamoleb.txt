@@ -2,19 +2,9 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 07/01/2026
+Date - 07/07/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1882
-• Dolby Atmos and DTS:X Ultra can now run together on the music stream, so both effects are applied at once
-expanded DTS:X Ultra headphone support from the newest ZTE/• RedMagic dumps:
-    - refreshed the accessory tuning database with the RedMagic 11 Pro (NX809J) set, so more headphones get their dedicated tuning profile
-    - refreshed the bundled headphone catalog from the RedMagic 11 Air (NX799J, DTS:X Ultra 16.0), 491 -> 513 models - now lists e.g. Sony WH-1000XM3, Bose Noise Cancelling 700, HyperX Cloud Alpha and the Asus ROG headsets
-    - patched the DtsUltra offline-database integrity check so the newer catalog loads cleanly (one ZTE entry is mistyped as Standard in DTS's own data)
-• synced with the crDroid kernel and device changes.
-• Imported the DTS:X Ultra from the ZTE A2020G Pro (P855A01), based on the module by Reiryuki, later modified by ShadoV
-• Keep spatial audio off the built-in speaker
-• Ship Vanilla Build also
-• Misc. improvements
+• Source Changelog: https://t.me/ProjectInfinityX/1886
 
 Note: 
 • Flash rooted boot image to boot partition to get KernelSuNext and SuSFS
