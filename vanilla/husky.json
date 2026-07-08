@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-husky-16.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/husky/16/vanilla/Project_Infinity-X-3.11-husky-16.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1781578117,
-			"md5": "7ba49024d415e5879698d7693d6ef988",
-			"size": 2149404921,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-husky-08.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/husky/16/vanilla/Project_Infinity-X-3.12-husky-08.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1783524774,
+			"md5": "ad0ae4ebe2327db042a4ea6231c748d0",
+			"size": 1624959491,
+			"version": "3.12"
 		}
 	]
 }
