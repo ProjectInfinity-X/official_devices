@@ -2,6 +2,24 @@ Device: Xiaomi 12T Pro / Redmi K50 Ultra
 Device code name : diting
 Device maintainer: Jezzay097
 
+Date - 7/7/2026
+=================
+- Remove virtual framebuffer
+- overlay: Reduce blur radius
+- Include vendor/infinity.config to kernel configs target
+- Configure powerkey input boost
+- Refactor thermal settings fragments
+- Set androidboot.init_fatal_reboot_target=recovery
+- sepolicy: Allow init to write to proc in recovery
+- Remove PASR leftovers
+- Set `debug.sf.disable_client_composition_cache` to 0
+
+Kernel:
+- switched to Pablo Escobar's Zois kernel
+- Apply kernel optimizations for better battery life
+- Merge 5.10.258 into android12-5.10-lts
+- Support KernelSU-Next && susfs
+
 Date - 16/6/2026
 =================
 - Update blobs and firmware from OS3.0.4.0.VLFMIXM
