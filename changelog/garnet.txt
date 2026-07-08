@@ -1,8 +1,6 @@
-Date - 07/06/2026
+Date - 08/07/2026
 
-- Switch to leica cam with Mi Gallery - (Only install this version if you accept that some things need to be configured in the Leica settings for perfect operation)
-- Update blobs from OS3.0.5.0.WNRMIXM (use last 3.0 HOS fw!) (author:AdarshGrewal)
-- Update GPU drivers to V837.0.7 (author:zylhdrXP)
-- Drop video filter LUTs and libraries (author:kleidione)
-- Rollback and pin video filter LUTs and libraries to OS2.0.11.0.VNRMIXM (author:kleidione)
-- dolby: Implement Fully working DolbyVision (author: swiitchOFF & ArianK16a)
+- Switch to Miuicamera 6.4 & enabled Experimental features (author:AdarshGrewal & zylhdrXP)
+- Added MiuiScanner (author:sudo-joaopuser)
+- parts: Fix performance profile handling and QS tile (author:bezke)
+- props: Clean up props and enable full Vulkan rendering pipeline (author:bezke)
