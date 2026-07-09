@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-peridot-07.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/peridot/16/vanilla/Project_Infinity-X-3.11-peridot-07.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1780829541,
-			"md5": "0fb2caba6947c1fc90ea994ad13c541a",
-			"size": 2867234453,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-peridot-08.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/peridot/16/vanilla/Project_Infinity-X-3.12-peridot-08.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1783555062,
+			"md5": "445575a98ff23de3e61e59865339fc98",
+			"size": 2894765371,
+			"version": "3.12"
 		}
 	]
 }
