@@ -2,11 +2,10 @@ Device: Google Pixel 7 Pro
 Device code name : Cheetah
 Device maintainer: Pyrtle93
 
-Date - 06/26/2026
+Date - 07/09/2026
 =================
-- June security (rom)
-- Source changelog (https://t.me/ProjectInfinityX/1882)
-- Synced with 3.11
+- July security (rom)
+- Synced with latest Source (https://t.me/ProjectInfinityX/1886)
 - Esim improvements
 - Add privapp permissions for EuiccGoogle (Esim)
 - Add privapp permissions for HbmSVManager
