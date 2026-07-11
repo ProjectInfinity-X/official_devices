@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-klee-20.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/klee/16/vanilla/Project_Infinity-X-3.11-klee-20.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1781941878,
-			"md5": "e6faeb5ff80057e114fb0b31c7e49a27",
-			"size": 2933865358,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-klee-11.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/klee/16/vanilla/Project_Infinity-X-3.12-klee-11.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1783787899,
+			"md5": "7957507fc39a08dac28c1690092c231a",
+			"size": 2957300938,
+			"version": "3.12"
 		}
 	]
 }
