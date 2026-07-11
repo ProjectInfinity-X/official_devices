@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-rubyx-16.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/rubyx/16/vanilla/Project_Infinity-X-3.11-rubyx-16.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1781622507,
-			"md5": "88f12d6a4fc1c45b0d04d53b73b61d41",
-			"size": 1945974500,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-rubyx-11.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/rubyx/16/vanilla/Project_Infinity-X-3.12-rubyx-11.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1783740638,
+			"md5": "4c2a3cca073320c54145beb58208870d",
+			"size": 1976578709,
+			"version": "3.12"
 		}
 	]
 }

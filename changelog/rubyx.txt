@@ -1,6 +1,1 @@
-- Source changelog (https://t.me/ProjectInfinityX/1882)
-- Reworked powerhint to align close with stock rom
-- Fixed stuttering in 4k videos
-- Reworked dolby atmos to not jump volumes in same level
-- Fixed memory misalignment algorithm
-- Bumped swappiness
+- Source changelog (https://t.me/ProjectInfinityX/1886)
