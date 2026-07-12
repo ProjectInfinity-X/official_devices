@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-d2s-08.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/d2s/16/vanilla/Project_Infinity-X-3.11-d2s-08.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1780953631,
-			"md5": "ae3113495ff7973b62525833ce419cc1",
-			"size": 1545170730,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-d2s-12.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/d2s/16/vanilla/Project_Infinity-X-3.12-d2s-12.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1783824091,
+			"md5": "fde208338031585dd6b852a6189dd4e3",
+			"size": 1571019532,
+			"version": "3.12"
 		}
 	]
 }
