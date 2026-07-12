@@ -2,6 +2,21 @@ Device: OnePlus 13R 5G
 Device code name : giulia
 Device maintainer: Genoxci
 
+Date - 11/07/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1886)
+- Sync with latest source
+- July android security bulletin
+- Dropped Vulkan
+- Kernel upstream to 6.1.173
+- Switched sony dolby source
+- Upstreamed lunaris dolby ui
+- More under the hood changes
+- This ROM ships with OOS 16.0.8.300 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device 
+
 Date - 07/06/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1882)
