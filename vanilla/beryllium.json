@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-beryllium-19.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/beryllium/16/vanilla/Project_Infinity-X-3.11-beryllium-19.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1781853491,
-			"md5": "0ecb09505edab116201e70970b6a26cd",
-			"size": 1528834415,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-beryllium-12.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/beryllium/16/vanilla/Project_Infinity-X-3.12-beryllium-12.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1783853918,
+			"md5": "93e2b4ef49cc4c49b06f571d862a1d18",
+			"size": 1560222771,
+			"version": "3.12"
 		}
 	]
 }
