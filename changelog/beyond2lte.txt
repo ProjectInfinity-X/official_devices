@@ -2,8 +2,11 @@ Device: Samsung Galaxy S10+
 Device code name : beyond2lte
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 06/17/2026
-- Revert to FrEeRuNnErKeRnEl v-3.7-R3 as uclamp was causing issues
+Device Changelog 07/12/2026
+- Bump back to FrEeRuNnErKeRnEl v-3.8 with latest Susfs v2.2.0 and KernelSU-Next v3.3.0
+- Set Window animation/transition scale to 50%
+- Disable wallpaper zooming
+- Disable blurs by default
 
 * Gapps build
 * Vanlla build
