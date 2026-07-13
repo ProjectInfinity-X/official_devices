@@ -2,6 +2,14 @@ Device: Redmi Note 13 4G / NFC
 Device code name : sapphire/sapphiren
 Device maintainer: Liekoo
 
+Date - 13/07/2026
+=================
+- Source Changelogs: https://t.me/ProjectInfinityX/1886
+- Rebase CPU/GPU freq during games
+- Fixed auxiliary camera package
+- Fixed up old GPU tunings
+- Switched to user type build
+
 
 Date - 16/06/2026
 =================
