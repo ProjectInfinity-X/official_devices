@@ -1,9 +1,6 @@
 - Source changelog (https://t.me/ProjectInfinityX/1886)
-- July Security Patch
-- Switch to zstd zram
-- Update in-kernel zstd to v1.5.7 (thanks kami) 
+- Fix network/ping issue in games
+- Bump FCM to 7
+- Add missing permissions and sepolicy for cpu_dma_latency hint
 - More powerhint tweaks for better thermals and battery
-- Cleanup init.target.rc
-- Optimize memory management and scheduler
-- Merge latest LOS kernel changes
 - Synced with latest sources
