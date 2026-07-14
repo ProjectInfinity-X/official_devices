@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-ktm-15.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/ktm/16/vanilla/Project_Infinity-X-3.11-ktm-15.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1781535436,
-			"md5": "c3aea1ea214b58dc3d40e04e06cb216f",
-			"size": 2757984725,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-ktm-14.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/ktm/16/vanilla/Project_Infinity-X-3.12-ktm-14.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1784017249,
+			"md5": "4daa557f1123589835ef7088333ececf",
+			"size": 2787402995,
+			"version": "3.12"
 		}
 	]
 }
