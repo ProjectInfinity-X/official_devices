@@ -1,1 +1,6 @@
-• Synced With Latest Source (https://t.me/ProjectInfinityX/1886)
+• Synced With Latest Source
+• Switched to OSS kernel (compiled with r563880c) (5.10.256)
+• Eliminated All QS janks and lags while blur on
+• Fixed DT2W
+• Performance & Memory & Audio improvements
+• !!! DIRTY FLASH WORKS FINE !!!
