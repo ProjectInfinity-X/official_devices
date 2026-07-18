@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-RM6785-14.06.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/RM6785/16/vanilla/Project_Infinity-X-3.11-RM6785-14.06.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1781429693,
-			"md5": "c6ddc77500f30eb9c32749a77e189d2e",
-			"size": 1768470568,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-RM6785-18.07.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/RM6785/16/vanilla/Project_Infinity-X-3.12-RM6785-18.07.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1784345395,
+			"md5": "ac8f12da8322fb49db0ce1d5accabdeb",
+			"size": 1815414252,
+			"version": "3.12"
 		}
 	]
 }
