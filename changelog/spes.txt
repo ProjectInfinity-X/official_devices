@@ -1,1 +1,12 @@
-- Source changelog (https://t.me/ProjectInfinityX/1882)
+ProjectInfinityX | 3.12 | Android 16-QPR2
+Build Date - 20/07/26
+- Define vm/vfs_cache_pressure for bengal/khaje
+- Remove unused camera sensor.eeprom and flash blobs
+- Remove unused f2player camera binary
+- Dalvik: pinner quota to dalvik heap props for 4GB
+- Use "libidl_shim" and "libpiex_shim" from source
+- Bind mount bms cycle_count to battery cycle_count
+- Set default pin amount for home app
+- More Misc changes
+
+- Source changelog (https://t.me/ProjectInfinityX/1886)
