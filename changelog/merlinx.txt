@@ -1,3 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1882)
-- Dolby Added
-- Improvements In The Ram Management
+- Source changelog (https://t.me/ProjectInfinityX/1886)
+- Switched to 13.0.2.0 Firmware
+- Must do clean flash
+- Dolby removed
+
