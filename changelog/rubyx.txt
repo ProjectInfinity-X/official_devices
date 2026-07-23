@@ -1,1 +1,7 @@
 - Source changelog (https://t.me/ProjectInfinityX/1886)
+- Modify low memory killer to not be aggressive.
+- Bump zram to 60% with LZ4 algo, disable zram writeback.
+- Improve responsive swap tuning, UFFD garbage collection and refined kernel compaction/zsmalloc behavior.
+- Preserve system-wide job priorities, reduce MediaTek DVFS overhead, and using synchronous Mali event wakeups.
+- Tuned storage read-ahead and several kernel allocation paths.
+- Reverted many kernel changes to try and fix "random reboots and kills".
