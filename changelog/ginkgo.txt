@@ -1,1 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1886)
+- Source changelog (https://t.me/ProjectInfinityX/1890)
+- Updated GNSS configuration for better GPS performance and compatibility.
