@@ -2,6 +2,20 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 26/07/2026
+=================
+- Synced with latest source
+- overlay: Improve auto brightness responsiveness
+- Enabled ScrollOptimizer & frame pacing for a smoother visual and scrolling experience
+- Tweaked memory pressure for 3/4GB RAM devices
+- overlay: Add webview pinning
+- overlay: Add launcher3 pinning
+- Limit memory for webview and launcher
+- Improved browser launch speed.Faster launches now
+- Fixed browser killing issue when lmkd is activated
+- Updated kernel into latest v17
+- Many more underhood changes
+
 Date - 04/07/2026
 =================
 - Synced with latest source
