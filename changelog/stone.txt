@@ -1,6 +1,12 @@
-- Source changelog (https://t.me/ProjectInfinityX/1886)
-- Fix network/ping issue in games
-- Bump FCM to 7
-- Add missing permissions and sepolicy for cpu_dma_latency hint
+- Source changelog (https://t.me/ProjectInfinityX/1890)
+- Fix jitters during app switching
+- Cleanup props
+- Drop LMKD and MGLRU
+- Switch to SLMK
+- Reworked kernel
+- Merge openela LTS changes
+- Merge LOS changes
+- Patch CVE-2026-43499
+- Cleanup parts
 - More powerhint tweaks for better thermals and battery
 - Synced with latest sources
