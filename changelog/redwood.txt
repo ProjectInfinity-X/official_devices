@@ -1,13 +1,4 @@
-- Source Changelog (https://t.me/ProjectInfinityX/1890)
-- Shipped with Araxys-v3.0 kernel
-- Switched to Motorola Dolby Atmos
-- Added support for Dolby Vision
-- Enabled Wifi Multi STA Restricted Concurrency
-- Enabled ART optimization
-- Disabled RescureParty
-- Switched to skiaglthreaded renderthread backend
-- Fixed some selinux denials
-- Disabled NL80211_REG_CHANGED event
-- Migrated to AIDL camera provider
-- Set FCM level to 7
-- Reduce mlock() limit to 64 KB
+- Updated kernel to Araxys-v3.1
+- Switched to backslashxx_ksu
+- Dropped susfs patches
+- Fixed front cam video recording in miui camera
