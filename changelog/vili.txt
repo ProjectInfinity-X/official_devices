@@ -1,10 +1,6 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1882
+• https://t.me/ProjectInfinityX/1890
 • https://github.com/ProjectInfinity-X
 
 Device side:
-• dolby: Add Standalone Dolby Spatial Audio support
-• dolby: sepolicy: Rewrite dolby rules
-• sm8350-common: audio: Sync with Dolby Spatial Audio
-• sm8350-common: hidl: Sync with Lineage
-• sm8350-common: hidl: split Dolby Vision manifest and Guard it
+• Update/Flash > Reboot System
