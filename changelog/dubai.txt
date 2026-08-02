@@ -1,13 +1,8 @@
-- Source Changelog: https://t.me/ProjectInfinityX/1886
+- Source Changelog: https://t.me/ProjectInfinityX/1890
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Fix Audio distortion above 75% Volume
-- props: Enable apk fs-verity
-- props: Set short suspend threshold to 5 seconds
-- Enable BT low power adaptive control feature
-- wifi: Enable Optimized Power Management
-- props: Force set vendor.display.idle_time to 0
-- overlay: Switch to AVC 3.1 for screen recording
-- Switch to Sony Dolby
-- Add Support for Dolby Vision
-- Introduce MotoParts
-- parts: Override HDR types for dolby vision
+- Switch to rbs_fod_mmi kernel module
+- sepolicy: Don't audit kcmdlinectrl accessing DT firmware
+- sepolicy: Address a few more denials
+- Drop init.qcom.post_boot-shima.sh
+- Use Lineage charger
+- Drop Cirrus Audio Modules
