@@ -2,6 +2,12 @@ Device: Nothing CMF Phone 1
 Device code name : Tetris
 Device maintainer: Ashwani
 
+02/08/2026
+==========
+- Fixed an sepolicy denial.
+- Reduced the uclamp min value.
+- Improvement in the powerhint.
+
 23/06/2026
 ==========
 - Optimized dex2oat cpu affinity.
