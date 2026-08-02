@@ -2,9 +2,9 @@ Device: OnePlus 7
 Device code name : guacamoleb
 Device maintainer: H A R I S H
 
-Date - 07/07/2026
+Date - 08/01/2026
 =================
-• Source Changelog: https://t.me/ProjectInfinityX/1886
+• Source Changelog: https://t.me/ProjectInfinityX/1890
 
 Note: 
 • Flash rooted boot image to boot partition to get KernelSuNext and SuSFS
