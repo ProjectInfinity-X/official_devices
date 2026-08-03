@@ -2,6 +2,16 @@ Device: Xiaomi Pad 6
 Device code name : pipa
 Device maintainer: MufasaXz
 
+Date - 03/08/2026 (v3.12 Android 16 Stable)
+===================
+• Highlighted Source Changelog(https://t.me/ProjectInfinityX/1890)
+• Improved rendering stability
+• Updated Blobls from pipa OS2.0.20.0.UMZCNXM
+• Fixed Long boogle bar
+•  Pre rooted with Rksu v3.0.30
+• Removed Dekstop Mode
+
+
 Date - 19/04/2026 (v3.9 Android 16 Stable)
 ===================
 • Highlighted Source Changelog (https://t.me/ProjectInfinityX/1847)
