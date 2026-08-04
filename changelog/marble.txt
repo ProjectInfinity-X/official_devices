@@ -1,14 +1,8 @@
-* Date: 10-06-2026
+* Date: 04-08-2026
 * ================
 * Changelogs:
-- Allow init to write to `/proc` in recovery mode for improved recovery compatibility
-- Introduce a new Performance Monitor, inspired by GameBar
-- Enable SurfaceFlinger client composition cache for better rendering performance
-- Configure devices to reboot directly into recovery after fatal init failures
-- Tune scheduler PELT half-life to 8 for improved CPU load tracking
-- Add default CPU affinity boot arguments for Waipio devices
-- Enable `allow_file_spec_access` policy on Waipio
-- Refactor auxiliary camera control state handling for improved reliability
+- Upstream kernel
+- switched to 64bit-only
+- fixed peek AOD
+- Misc improvements and fixes
 - Improve overall system stability and performance
-- Apply kernel optimizations for better battery life
-
