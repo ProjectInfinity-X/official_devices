@@ -1,6 +1,8 @@
 Source Changelog (https://t.me/ProjectInfinityX/1886)
-- Decreased few boosts
-- Added MiuiCamera and removed old Leica cam
-- Reset readahead values to 128 always to reduce IO bottlenecks
-- Drop composer and allocator from pinner service
-- Fix Powerhal nodes for cpu_dma_latency
+- Addressed QMS Denials and label persist fingerprint dir
+- Disable FW roaming when in idle mode
+- Relax RSSI thresholds
+- Disable WLAN firmware logging
+- Disable graphics profiler support
+- Upstream to BBR-v3
+- Register QTI C2 and frameworks sensor service
