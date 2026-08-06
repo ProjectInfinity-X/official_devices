@@ -2,6 +2,18 @@ Device: OnePlus Ace 5 5G
 Device code name : giuliac
 Device maintainer: Genoxci
 
+Date - 06/08/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1890)
+- Sync with latest source
+- Kernel upstream to 6.1.174
+- Upstreamed gamebar
+- More under the hood changes
+- This ROM ships with OOS 16.0.8.300 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device 
+
 Date - 11/07/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1886)
