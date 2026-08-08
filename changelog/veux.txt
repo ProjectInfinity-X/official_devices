@@ -1,6 +1,7 @@
-• July Security Patch Level
-• Positron Kernel and  Ksu enabled by default. further use this apk. (https://t.me/sdm695devbuilds/16257)
-• Fully Functional Miui-Camera
-• Includes Oneplus Dolby
-• NFC works for all the variants.
-• Dirty flash will work from v3.11
+• July Security Patch Level.
+• Antraverse Kernel with ksu enabled by default.
+• Fully working Whatsapp Rear Camera
+• Torch strenght control & Battery Insight
+• Spatial audio support with Lunaris Dolby and ViperFx & MiuiCamera
+• Dc Dimming and optimized HBM ,Display Saturation,Per-app resolution,System resolution,Per-app refresh rate change and increase touch responsiveness function
+• Clean flash ONLY.
