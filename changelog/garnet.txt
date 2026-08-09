@@ -1,9 +1,6 @@
-Date - 08/07/2026
+Date - 09/08/2026
 
-- Switch to Leica 6.2 (author:sudo-joaopuser)
-- props: Merge reviewed performance tweaks )lot of dalvik props (author:bezke)
-- add device_id_attestation.xml to PRODUCT_COPY_FILES ( author: Garnet-Things)
-- props: Further reduce uclamp values (author: Ghosuto)
-- props: increase audio offload buffer size from 256KB to 64KB (author: Ghosuto)
-- props: Enable Client Composition Cache (author: Ghosuto)
-- vendor: Import GPU drivers V762.41 (author: zylhdrXP)
+Upstreamed Kernel to 5.10.257 (author: AdarshGrewal)
+display: garnet-sde: Bump minimal brightness to 25 for 41_02_0c panel (author: AdarshGrewal)
+update GPU driver blobs from greatwhite V@0863.1 (author: ZetyaWyn)
+&& some other fixments for performance!
