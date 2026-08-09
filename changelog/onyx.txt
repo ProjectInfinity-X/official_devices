@@ -1,10 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1886)
+- Source changelog (https://t.me/ProjectInfinityX/1890)
 
 - Device Changelogs:
-- Update blobs from OS3.0.302.0.WOLMIXM
-- Enable R8 optimizations for system_server and SystemUI
-- Add burn-in protection for statusbar and navbar
-- Allow HFR for Miui Camera
-- Add more VoNR props
-- Add nodes to hide Magisk in banking apps
-- Add restart_systemui to restart menu
+- Fix DolbyAtmos & DolbyVision(thanks @ndik aka reddragon)
+- bump device and miuicamera blobs to OS3.0.302.0.WOLMIXM
