@@ -2,6 +2,19 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 11/08/2026
+=================
+- Synced with latest source
+- init: tune scheduler and memory parameters
+- init: correct persist path for PowerOffAlarm
+- sepolicy: Allow kernel to create qipcrtr_socket
+- overlay: Enable subtle tick vibration when revealing shelf
+- Enabled QPOWER + Deepsleep at the same time
+- powerhint: Remove CPUBWHystTriggerCount and CPUBWHistMemory
+- Fixed logspam
+- Improved overall ui smoothness
+- Many more underhood changes
+
 Date - 26/07/2026
 =================
 - Synced with latest source
