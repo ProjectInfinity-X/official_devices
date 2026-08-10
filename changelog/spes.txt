@@ -1,4 +1,10 @@
 ProjectInfinityX | 3.12 | Android 16-QPR2
+Build Date - 08/04/26
+- Added Vanilla Build
+- Fixed Misc Changes
+- Source changelog (https://t.me/ProjectInfinityX/1890)
+
+ProjectInfinityX | 3.12 | Android 16-QPR2
 Build Date - 20/07/26
 - Define vm/vfs_cache_pressure for bengal/khaje
 - Remove unused camera sensor.eeprom and flash blobs
