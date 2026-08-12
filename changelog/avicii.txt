@@ -1,1 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1886)
+- Source changelog (https://t.me/ProjectInfinityX/1903)
+- Remove unwanted oplus additions & keep only necessary drivers in kernel
+- Added TCP (reno bbr cubic westwood veno illinois bic htcp) congestions (default: cubic) 
+- Merge tag 'v4.19.325-cip135-st19' of https://git.kernel.org/pub/scm/linux/kernel/git/cip/linux-cip.git into kernel
+- Implemented advanced livedisplay options
+- Fixed panic reboot with Aftermarket LCD display panel
