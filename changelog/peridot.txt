@@ -1,8 +1,6 @@
-Source Changelog (https://t.me/ProjectInfinityX/1886)
-- Addressed QMS Denials and label persist fingerprint dir
-- Disable FW roaming when in idle mode
-- Relax RSSI thresholds
-- Disable WLAN firmware logging
-- Disable graphics profiler support
-- Upstream to BBR-v3
-- Register QTI C2 and frameworks sensor service
+Source Changelog (https://t.me/ProjectInfinityX/1903)
+- Addressed isolated_app denials
+- Stripped some debugging
+- Set RenderEngine Blur algorithm to kawase
+- Disable redir_party_num
+- Upstreamed Kernel and merge Clo tags
