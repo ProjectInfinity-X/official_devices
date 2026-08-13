@@ -3,6 +3,10 @@ Device code name : cancunf
 Device maintainer: Soviet(ussr_1674)
 Credits: @cyberknight777 & @sarthakroy2002
 
+Date - 13/08/2026
+=================
+- Updated with latest Project Infinity X source.
+
 Date - 08/06/2026
 =================
 • Drop remnants of FPC1020.
