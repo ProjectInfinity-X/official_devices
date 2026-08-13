@@ -1,7 +1,9 @@
-Date - 10/08/2026
+Date - 13/08/2026
 
-Same as prev:
-Upstreamed Kernel to 5.10.257 (author: AdarshGrewal)
-display: garnet-sde: Bump minimal brightness to 25 for 41_02_0c panel (author: AdarshGrewal)
-update GPU driver blobs from greatwhite V@0863.1 (author: ZetyaWyn)
-&& some other fixments for performance!
+- Kernel: Upstreamed KSU & SUSFS 
+- display: garnet-sde: Bump minimal brightness to 25 for 41_02_0c panel (author: AdarshGrewal)
+- Revert: update GPU driver blobs from greatwhite V@0863.1
+- Import Adreno GPU drivers V837.0.9 (author: zylhdrXP)
+- fixx some thermal settings & tune init.kernel.post_boot-parrot.sh again for balanced profile
+- fix QS lags (wait some minute after 1st boot or change goverment in xiaomiparts from walt to sched...& back)
+- & some other fixments for performance!
