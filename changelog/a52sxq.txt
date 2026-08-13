@@ -1,37 +1,14 @@
-- Bump Security Patch Level to July 2026
-- Re-design Lockscreen media dynamic bar as Samsung NowBar
-- Add toggle to switch between Pixel Themed Icons and LawnIcons for app icons
-- Add automatic depth wallpaper subject image generation feature (author: rmp22, Ghosuto)
-- Fix sandbox applock issues after 3.11 where the password was repeatedly requested in the same app during different activities, also other fixes/improvements for apps sandbox / file vault / applock issues (author: rmp22, neobuddy89)
-- Fixed issue of bluetooth controllers/keyboards that stopped working after 3.11 (author: ArKT-7)
-- Fixed issues with expanded volume panel where the call volume slider was not displayed during calls in some instances
-- Allow launcher homescreen rotation on smartphones too (author: neobuddy89)
-- Attempt fixes for "Free Fire" game account ban issue and its other variant games
-- Hide homescreen elements (app icons, searchbar etc.) when transparent  app drawer opened [Only legacy fullscreen appdrawer style] (author: shutter-cat)
-- Make Navigation bar burnin protection toggleable (author: shutter-cat)
-- Improve some statusbar icons paddings and spacing
-- Fix a potential system freeze issue on some devices (like marble) while connecting to a bluetooth device
-- Improve lockscreen big weather widget (icon removal)
-- Add feature to enable "Fast scroll" for lockscreen clock style previews
-- Fix inflated QS Panel style components in landscape mode when split shade qs enabled
-- Add feature to auto fetch pif json files from pixel devices (author: neobuddy89)
-- Fix QS Panel style media player getting blank triggered for Youtube shorts or during calls
-- Allow disabling slow OEM style app opening animations that were introduced in 3.11
-- Fix dynamic bar media popup colors in light theme
-- Fix dynamic bar media congestions / confusions while skipping too many media tracks at a moment
-- Fix a systemui crash instance while rotating a video to landscape mode during QS column layout set to <=3 
-- Fix occasional display of a duplicate lockscreen clock
-- Fix automatic horizontal shifts of some lockscreen clocks after 3.11
-- Fixed issues with inconsistent application of custom fonts and some prebuilt fonts after 3.11
-- Bring back support for Netflix and Snapchat spoof
-- Fixed QS Panel volume slider not updating value on bluetooth/external device connection
-- Fix bootloader unlocked status in key attestation after 3.11
-- Fix lockscreen empty space when lockscreen media player hidden
-- Fix system apps not displaying in expanded volume panel's per app volume display
-- More improvements for QS Panel fluidity under high load or work and in general cases
-- Add app rename feature (author: TwistedVision518, Ghosuto)
-- Add Pirate weather provider in OmniJaws Weather app (author: 306bobby-android)
-- Add new free Open-Meteo weather provider in OmniJaws Weather app (author: neobuddy89)
-- Improvements for OmniJaws Weather Icon Packs (author: Localhorst04)
-- Tonnes of visual and functionality improvements for OmniJaws Weather widget and frontend app (author: rmp22, neobuddy89)
-- Improve sleep mode feature
+- Bump Android Security Patch Level to August 2026
+- Implement iOS-style Dynamic Island feature
+- Introduce Real-time lyrics card in dynamic bar for music playing (author: grepfox)
+- Implement Real-time lyrics for music playing on lockscreen
+- Fix Android/data folder storage access/null-creation issues for devices that use TWRP / older version OrangeFox recovery for flashing instead AOSP/Infinity-X recovery (author: cevente)
+- Use MD3 variable fonts across more different parts of UI, Launcher, Settings
+- Add one-time hotspot data sharing limit (author: beingashwani)
+- Add optional compact circle style for dynamic bar (author: Ghosuto)
+- Fix notification shelf transparency when translucent ls notifications enabled
+- Fix some constant CPU overhead and log spam on older kernel devices 
+- Fix some custom rom hide sysprop | crash issues (author: rmp22)
+- Ensure only json files are imported in import Pif json preference 
+- Fix some truncation issues for more clock styles
+- Improve launcher custom color picker dialog layout 
