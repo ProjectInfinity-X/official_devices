@@ -2,6 +2,20 @@ Device: Poco F6 Pro / Redmi K70
 Device codename : vermeer
 Device maintainer: Lunark
 
+Date - 15-08-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/1903)
+- Add missing overlays for IWLAN
+- Switch to vendor-managed color modes
+- Update from OS3.0.304.0.WMKCNXM(Socrates) and OS3.0.303.0.WNKMIXM(Vermeer)
+- Fix Touch sampling rate, now work 480hz
+- Fix Multitouch
+- Activate thp(Touch host Processing)
+- Fixed VoLTE
+- Update GameBar
+- Kernel Upstream 5.15.211
+- Use XiaomiDolby
+
 Date - 14-06-2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/1882)
