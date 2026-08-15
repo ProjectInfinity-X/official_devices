@@ -1,1 +1,4 @@
-Source Changelog (https://t.me/ProjectInfinityX/1890)
+Source Changelog (https://t.me/ProjectInfinityX/1903)
+
+- Fix WPA3 Wi-Fi connectivity
+- Switch SurfaceFlinger blur to Kawase2 render engine
