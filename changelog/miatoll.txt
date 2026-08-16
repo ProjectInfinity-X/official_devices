@@ -1,4 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/1886)
-- Leica Camera Update
-- Updated Libinit For Excalibur
+- Source changelog (https://t.me/ProjectInfinityX/1903)
 
