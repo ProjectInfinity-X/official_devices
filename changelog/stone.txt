@@ -1,12 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1890)
-- Fix jitters during app switching
-- Cleanup props
-- Drop LMKD and MGLRU
-- Switch to SLMK
-- Reworked kernel
-- Merge openela LTS changes
-- Merge LOS changes
-- Patch CVE-2026-43499
-- Cleanup parts
-- More powerhint tweaks for better thermals and battery
+- Source changelog (https://t.me/ProjectInfinityX/1903)
+- August 2026 Security Patch
+- Drop DEX2OAT DEBUG
+- Disable config_ui_enableFadingMarquee
+- Rebase on latest LOS common kernel
 - Synced with latest sources
