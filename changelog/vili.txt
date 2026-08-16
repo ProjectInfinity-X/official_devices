@@ -1,21 +1,9 @@
 Source Changelog:
-• https://t.me/ProjectInfinityX/1890
+• https://t.me/ProjectInfinityX/1903
 • https://github.com/ProjectInfinity-X
 
-Device side: 
-• Switched to schedutil mode by default
-• vili: Build Audio extensions from source
-• vili: Rename Audio HAL and prebuilt Audio extensions
-• sm8350-common: Guard partition reserved sizes with `WITH_GAPPS` as well
-• Revert "sm8350-common: Inherit common partition reserved sizes
-• sm8350-common: Build Audio HAL from source
-• sm8350-common: Build more audio extension from source
-• Revert "sm8350-common: Blob out audio HAL extensions"
-• sm8350-common: hidl: Set FCM level to 7
-• sm8350-common: hidl: Unset kernel target level
-• sm8350-common: hidl: Sync with Lineage
-• sm8350-common: Update DRM blobs from vili
-• Fixed fingerprint issue 
-• Kernel updated 
-• Switched to schedutil mode by default
-• Supports DFE
+Device side:
+• Now can use USB OTG with default rom recovery no need custom recovery like twrp/ofox
+• sm8350-common: Unmount /firmware after fastbootd starts
+• sm8350-common: Fix battery and USB OTG detection in recovery mode
+• vili: Load charger modules on recovery
