@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.11-oriole-10.06.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/oriole/16/gapps/Project_Infinity-X-3.11-oriole-10.06.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1781072656,
-			"md5": "11ca132d6970debdfd6121090f438951",
-			"size": 2461014693,
-			"version": "3.11"
+			"filename": "Project_Infinity-X-3.12-oriole-15.08.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/oriole/16/gapps/Project_Infinity-X-3.12-oriole-15.08.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1786786985,
+			"md5": "26a7542be9d5c4d9bcccd42ae77e2802",
+			"size": 2492145129,
+			"version": "3.12"
 		}
 	]
 }
