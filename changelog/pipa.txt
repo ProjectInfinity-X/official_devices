@@ -2,6 +2,18 @@ Device: Xiaomi Pad 6
 Device code name : pipa
 Device maintainer: MufasaXz
 
+Date - 18/08/2026 (v3.12 Android 16 Stable)
+===================
+• Highlighted Source Changelog(https://t.me/ProjectInfinityX/1903)
+• Added Bypass Charging
+• Fixed Dolby Atmos
+• Updated Blobls from pipa OS2.0.20.0.UMZCNXM
+• Updated WFD system blobs from dada OS2.0.217.0.WOCMIXM
+• Fixed Infinity Nowbar 
+• Pre rooted with Rksu v3.0.30
+• Readded Dekstop Mode
+
+
 Date - 03/08/2026 (v3.12 Android 16 Stable)
 ===================
 • Highlighted Source Changelog(https://t.me/ProjectInfinityX/1890)
