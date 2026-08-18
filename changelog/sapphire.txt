@@ -5,6 +5,13 @@ Device maintainer: Liekoo
 Date - 13/07/2026
 =================
 - Source Changelogs: https://t.me/ProjectInfinityX/1886
+- Optimized blur
+- Switched to 60hz-->120hz refresh rate only
+- And much more Perf Optimization
+
+Date - 13/07/2026
+=================
+- Source Changelogs: https://t.me/ProjectInfinityX/1886
 - Rebase CPU/GPU freq during games
 - Fixed auxiliary camera package
 - Fixed up old GPU tunings
