@@ -1,6 +1,6 @@
-Date - 30/07/2026
+Date - 19/08/2026
 
-!!! This is the first Fenrir build. **Do not update via OTA.** OTA is not supported for this release. You must manually flash both `boot.img` and `vendor_boot.img` before booting the ROM.
+!!! This is Fenrir build. **Do not update via OTA.** OTA is not supported for this release. You must manually flash both `boot.img` and `vendor_boot.img` before booting the ROM.
 
 boot.img:
 https://sourceforge.net/projects/bezke/files/klee-fenrir/boot.img/download
@@ -35,28 +35,19 @@ Installation instructions:
 
 Changelog:
 
-- Label `ro.fota.oem` and `ro.product.marketname` SELinux properties. (author: markakash)
-- Add SHA-1 verification for logo image. (author: kylieeXD)
-- Add SHA-1 verification for preloader image. (author: kylieeXD)
-- Set the default device name according to MIUI. (author: kylieeXD)
-- Set `PLATFORM_SECURITY_PATCH_TIMESTAMP` to `0`. (author: kylieeXD)
-- Disable prebuilt max page size checks. (author: kylieeXD)
-- Add SHA-1 verification for `lk-fenrir.img`. (author: kylieeXD)
-- Define AVF remote attestation property. (author: xyzuniverse)
-- Update device attestation properties. (author: xyzuniverse)
-- Refactor the AVB mechanism. (author: xyzuniverse)
-- Import Context Hub configuration. (author: xyzuniverse)
-- Refactor KeyMint blobs. (author: Mashopy)
-- Ship Fenrir firmware support. (author: xyzuniverse)
-- Move `seapp_contexts` to private SELinux policy. (author: bezke)
-- Update vendor blobs to OS3.0.306.0.WPJMIXM. (author: bezke)
-- Set the correct parameter for A2DP suspend. (author: Mashopy)
-- Enable FUSE passthrough by default. (author: balsini)
-- Disable linear lookup optimization. (author: Mashopy)
-- Enable RKPD support. (author: Tri Vo)
-- Update PocoWidget. (author: bezke)
-- Add a PocoParts home screen widget. (author: bezke)
-- Add Kernel/GPU Manager with selectable performance modes. (author: bezke)
-- Display live battery telemetry on the Charge Control screen. (author: bezke)
-- Improve backlight settings in PocoParts. (author: bezke)
+- FULLY FIXXED DOLBY VISION!!!!1st on poco mtk device with stock blobs....( By Me ..)
+- Fix Dolby Vision AVC denials in mediacodec and hal_graphics_composer_default. (author: bezke)
+- Grant required DMS binder, displayfeature fd, ambient light sensor, dmabuf, vendor property, and fd permissions for the Dolby Vision decode path. (author: bezke)
+- Fix Dolby Vision playback black screen and GPU MMU fault issues. (author: bezke)
+- Fix Dolby Vision playback continuation. (author: bezke)
+- Fix up C2 codec configuration and remove duplicated SELinux policy rules. (author: bezke)
+- Address additional MTD SELinux denials. (author: xyzuniverse)
+- Drop redundant SELinux rules already provided by MediaTek vendor policy. (author: kylieeXD)
+- Remove unused camera SELinux policies. (author: bezke)
+- Add Saturation control to PocoParts. (author: bezke)
+- Add advanced color controls for saturation, brightness, contrast, gamma, and display gamut. Its BETA NOW, will fixx later(author: bezke)
+- Allow PocoParts to access the DisplayFeature HAL. (author: AdarshGrewal, bezke)
+- Allow DisplayFeature and PQ HALs to read HDR/PQ configuration properties. (author: bezke)
+- Label HDR, HDR10+, PQ, and DisplayFeature vendor properties correctly in SELinux. (author: bezke)
+- Fix HDR tone-mapping and Dolby Vision property access. (author: bezke)
 - Big thanks to kylieeXD for all the Fenrir work!!!!!!!!
