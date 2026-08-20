@@ -1,5 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/1890)
+- Source changelog (https://t.me/ProjectInfinityX/1903)
 
 - Device Changelogs:
-- Fix DolbyAtmos & DolbyVision(thanks @ndik aka reddragon)
-- bump device and miuicamera blobs to OS3.0.302.0.WOLMIXM
+- Switch to Oss kernel
+- Fix DolbyAudio on lockscreen
