@@ -1,5 +1,6 @@
 - Source changelog (https://t.me/ProjectInfinityX/1903)
 
 - Device Changelogs:
-- Switch to Oss kernel
-- Fix DolbyAudio on lockscreen
+- Fix Double tap to wake
+- Increase Dolby audio
+- Enable R8 optimizations for system server & systemui
