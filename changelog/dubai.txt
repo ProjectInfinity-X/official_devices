@@ -1,8 +1,9 @@
-- Source Changelog: https://t.me/ProjectInfinityX/1890
+- Source Changelog: https://t.me/ProjectInfinityX/1903
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
-- Switch to rbs_fod_mmi kernel module
-- sepolicy: Don't audit kcmdlinectrl accessing DT firmware
-- sepolicy: Address a few more denials
-- Drop init.qcom.post_boot-shima.sh
-- Use Lineage charger
-- Drop Cirrus Audio Modules
+- Fix battery and USB OTG detection in recovery mode
+- Fix thermal-engine charge only class
+- Rework policies for moto services
+- Remove unused mbm_spy
+- fixup!: Use Lineage charger
+- Fix invalid usage of log utility
+- Merge Kernel changes from LineageOS
