@@ -2,6 +2,11 @@ Device: Google Pixel 9
 Device code name : Tokay
 Device maintainer: Pyrtle93
 
+Date - 08/23/26
+=================
+- August Security (rom)
+- Sync with latest source (https://t.me/ProjectInfinityX/1886) (https://t.me/ProjectInfinityX/1903)
+
 Date - 07/09/2026
 =================
 - July security (rom)
