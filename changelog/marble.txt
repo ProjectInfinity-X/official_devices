@@ -1,8 +1,5 @@
-* Date: 04-08-2026
+* Date: 28-08-2026
 * ================
 * Changelogs:
-- Upstream kernel
-- switched to 64bit-only
-- fixed peek AOD
 - Misc improvements and fixes
 - Improve overall system stability and performance

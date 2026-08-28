@@ -1,12 +1,12 @@
 {
-        "response": [
-                {
-                        "filename": "Project_Infinity-X-3.12-marble-04.08.2026-VANILLA-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/marble/16/vanilla/Project_Infinity-X-3.12-marble-04.08.2026-VANILLA-OFFICIAL.zip",
-                        "timestamp": 1785850244,
-                        "md5": "bb5d6e16bd74bdcf89adf9456c701369",
-                        "size": 2163617786,
-                        "version": "3.12"
-                }
-        ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.12-marble-28.08.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/marble/16/vanilla/Project_Infinity-X-3.12-marble-28.08.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1787922427,
+			"md5": "42ea73d2943b9ab2f5c3e513c8f0d322",
+			"size": 2163782456,
+			"version": "3.12"
+		}
+	]
 }
