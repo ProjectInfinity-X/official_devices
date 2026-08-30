@@ -1,4 +1,4 @@
-Date - 19/08/2026
+Date - 30/08/2026
 
 !!! This is Fenrir build. **Do not update via OTA.** OTA is not supported for this release. You must manually flash both `boot.img` and `vendor_boot.img` before booting the ROM.
 
@@ -35,19 +35,4 @@ Installation instructions:
 
 Changelog:
 
-- FULLY FIXXED DOLBY VISION!!!!1st on poco mtk device with stock blobs....( By Me ..)
-- Fix Dolby Vision AVC denials in mediacodec and hal_graphics_composer_default. (author: bezke)
-- Grant required DMS binder, displayfeature fd, ambient light sensor, dmabuf, vendor property, and fd permissions for the Dolby Vision decode path. (author: bezke)
-- Fix Dolby Vision playback black screen and GPU MMU fault issues. (author: bezke)
-- Fix Dolby Vision playback continuation. (author: bezke)
-- Fix up C2 codec configuration and remove duplicated SELinux policy rules. (author: bezke)
-- Address additional MTD SELinux denials. (author: xyzuniverse)
-- Drop redundant SELinux rules already provided by MediaTek vendor policy. (author: kylieeXD)
-- Remove unused camera SELinux policies. (author: bezke)
-- Add Saturation control to PocoParts. (author: bezke)
-- Add advanced color controls for saturation, brightness, contrast, gamma, and display gamut. Its BETA NOW, will fixx later(author: bezke)
-- Allow PocoParts to access the DisplayFeature HAL. (author: AdarshGrewal, bezke)
-- Allow DisplayFeature and PQ HALs to read HDR/PQ configuration properties. (author: bezke)
-- Label HDR, HDR10+, PQ, and DisplayFeature vendor properties correctly in SELinux. (author: bezke)
-- Fix HDR tone-mapping and Dolby Vision property access. (author: bezke)
-- Big thanks to kylieeXD for all the Fenrir work!!!!!!!!
+- Welcome HOS4 Miuicamera 6.7 with leica functions (modded by: bezke)
