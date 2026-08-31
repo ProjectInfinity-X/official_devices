@@ -1,9 +1,7 @@
 Source Changelog:
 • https://t.me/ProjectInfinityX/1903
 • https://github.com/ProjectInfinity-X
+• This build contains all Project Infinity X Features & Customization
 
 Device side:
-• Now can use USB OTG with default rom recovery no need custom recovery like twrp/ofox
-• sm8350-common: Unmount /firmware after fastbootd starts
-• sm8350-common: Fix battery and USB OTG detection in recovery mode
-• vili: Load charger modules on recovery
+• sm8350-common: Update GPS from BSP
