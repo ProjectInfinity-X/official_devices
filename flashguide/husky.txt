@@ -7,11 +7,7 @@ Download link for Husky IMGs
 • https://sourceforge.net/projects/infinity-x/files/husky/16/IMGs/
 
 Recommended Gapps (sideload)
-# Basic
-• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/05-Feb-2026/NikGapps-basic-pixels-arm64-16-20260205-signed.zip/download
-
-# Full
-• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/05-Feb-2026/NikGapps-full-pixels-arm64-16-20260205-signed.zip/download
+• https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16/
 
 Gapps/Vanilla
 • Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom

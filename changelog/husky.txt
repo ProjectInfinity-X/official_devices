@@ -1,9 +1,6 @@
-Date - 12/07/2026
+Date - 15/09/2026
 =================
-• MANDATORY SIDELOAD
-• I broke keys, need all users to sideload~
-  to re-establish Official connection
 • Version Bump 3.12
-• July Sercurity (rom)
+• September Sercurity (rom)
 • Synced with Latest Source Changes
-• Source Changelog (https://t.me/ProjectInfinityX/1886)
+• Source Changelog (https://t.me/ProjectInfinityX/1891)
