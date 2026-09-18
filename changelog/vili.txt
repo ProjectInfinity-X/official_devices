@@ -4,4 +4,6 @@ Source Changelog:
 • This build contains all Project Infinity X Features & Customization
 
 Device side:
-• sm8350-common: Update GPS from BSP
+• sm8350-common: Enable CameraX extensions support
+• sm8350-common: rootdir: Update missing dirs
+• sm8350-common: Switch to prebuilt libtinycompress
