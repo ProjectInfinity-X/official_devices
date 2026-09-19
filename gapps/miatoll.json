@@ -1,13 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.12-miatoll-15.08.2026-GAPPS-OFFICIAL.zip",
-                        "download": "https://sourceforge.net/projects/infinity-x/files/miatoll/16/gapps/Project_Infinity-X-3.12-miatoll-15.08.2026-GAPPS-OFFICIAL.zip",
-                        "timestamp": 1786824194,
-                        "md5": "426819efea64ac61b9c35376c68d2bc8",
-                        "size": 2195380371,
+                        "filename": "Project_Infinity-X-3.12-miatoll-19.09.2026-GAPPS-OFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/infinity-x/files/miatoll/16/gapps/Project_Infinity-X-3.12-miatoll-19.09.2026-GAPPS-OFFICIAL.zip",
+                        "timestamp": 1789809960,
+                        "md5": "d153bf241fc1084251e3f2d77f140be6",
+                        "size": 2208558324,
                         "version": "3.12"
                 }
         ]
 }
-
