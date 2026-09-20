@@ -1,7 +1,10 @@
 - Source Changelog: https://t.me/ProjectInfinityX/1903
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
 - Vanilla Users Please Read This: https://t.me/NotDheeraj06_Builds/74560
-- Revert "Enable call_screen_mode_supported"
-- Fixed Fast Charging
-- Fixed Type-C Earphones audio
-- Improved Battery Backup
+- BT Audio is fixed (when volume lowered to 0 audio stops playing)
+- Kernel Improvements 
+- Added Torch Strength
+- Updated kernel to 4.19-cip136
+- Fixed Some Wifi related denials
+- Updated Dolby Atmos
+- Some RIL Changes
