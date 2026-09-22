@@ -1,1 +1,6 @@
-- Source changelog (https://t.me/ProjectInfinityX/1903)
+- Final Android 16 Release
+- Merged September 2026 Security Patch
+- Fixed duplicate notifications overlap unless dynamicbar notif key reset
+- Properly align homescreen app folders with other app icons
+- Fixed widgets not adjusting / overlap on clock size/scale adjust
+- Prevent systemui crash if playing media without thumbnail
