@@ -2,6 +2,35 @@ Device: Redmi Note 5 Pro
 Device code name : whyred
 Device maintainer: Arijit Saha
 
+Date - 23/09/2026
+=================
+- Synced with latest source
+- wifi: Drop tracing
+- wifi: Drop adaptive_dwell_mode_enabled
+- disable pinner service
+- Enable auto_latch_unsignaled
+- Kang lmkd prop from rmx2020
+- Set lmk stall_limit_critical threshold
+- add filecache_min_kb tuning
+- Switch to Kawase2 render engine blur algorithm
+- Enable zram writeback job scheduler
+- adjust zram write back policy
+- props: Ensure 1.5 GB free space before creating zram backing device
+- Optimize zram to lz4
+- Optimize eMMC queue depth
+- Add ART dex2oat threads
+- tune dex2oat threads to 4 for memory stability
+- set msm_subsys restart_level to RELATED to prevent SOC reboot
+- props: Correct SoC manufacturer name
+- sepolicy: Label goodix fingerprint interfaces
+- Fix ClearSpeaker intent target in DeviceSettings
+- props: disable blur on app launch
+- For smoother scrolling and better responsivenes
+- props: Enable config_avoidGfxAccel
+- Stop disabling configstore
+- health: Add charging control configurations
+- Many more underhood changes
+
 Date - 11/08/2026
 =================
 - Synced with latest source
