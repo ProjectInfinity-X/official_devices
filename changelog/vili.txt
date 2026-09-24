@@ -1,9 +1,6 @@
-Source Changelog:
-• https://t.me/ProjectInfinityX/1903
-• https://github.com/ProjectInfinity-X
-• This build contains all Project Infinity X Features & Customization
-
-Device side:
-• sm8350-common: Enable CameraX extensions support
-• sm8350-common: rootdir: Update missing dirs
-• sm8350-common: Switch to prebuilt libtinycompress
+- Final Android 16 Release
+- Merged September 2026 Security Patch
+- Fixed duplicate notifications overlap unless dynamicbar notif key reset
+- Properly align homescreen app folders with other app icons
+- Fixed widgets not adjusting / overlap on clock size/scale adjust
+- Prevent systemui crash if playing media without thumbnail
