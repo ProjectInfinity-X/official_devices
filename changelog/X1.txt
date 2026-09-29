@@ -1,0 +1,9 @@
+Date - 29/09/2026
+- Initial Official Support
+- Official User & Signed Build (Secure)
+- Overlay: Switch to AVC 3.1 for screen recording
+- Powerhint: Add min/max gpu freq nodes
+- Add Pricam
+  1. Update NewIcon
+  2. pricam: fix bug watermark
+- Add Dolby Atmos
