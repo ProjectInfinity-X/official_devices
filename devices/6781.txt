@@ -1,0 +1,8 @@
+ {
+  "maintainer": "Doo",
+  "maintainerurl": "https://t.me/RizkKuy",
+  "devicemodel": "ADVAN X1",
+  "codename": "6781",
+  "supportgroupurl": "https://t.me/Mikudocumet",
+  "donateurl1": "https://sociabuzz.com/dooprjkt"
+}

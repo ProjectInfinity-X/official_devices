@@ -1,0 +1,24 @@
+Recommended Recovery: https://t.me/gudanggaramram/549
+
+1.Reboot your device into fastboot
+
+2.Connect device via USB and run:
+
+fastboot flash vendor_boot <filename>.img
+
+3.Reboot to recovery, then in recovery select Apply update > Apply from ADB > ADB sideload
+
+Flashing Instructions:
+Clean Flash
+Tap Factory reset > Format data/factory reset > Format data
+Format cache partition
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+Reboot
+
+Dirty Flash
+Sideload Infinity-X ROM zip via recovery (adb sideload <filename>.zip)
+
+Reboot
+
+OTA Update
+Simply upgrade via OTA updater
