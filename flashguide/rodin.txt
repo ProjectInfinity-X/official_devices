@@ -1,0 +1,15 @@
+Installation Guide
+1. Prep: Unlocked bootloader, 60%+ battery, and SDK Platform-Tools installed. Place ROM/GApps zip files in your platform-tools folder.
+2. Fastboot: Connect to PC, open terminal, and run:
+adb reboot bootloader
+3. Flash Recovery:
+fastboot flash boot boot.img
+fastboot flash vendor_boot vendor_boot.img
+fastboot reboot recovery
+4. Wipe: In recovery, go to Wipe > Format Data and confirm.
+5. Install ROM: Go to Advanced > ADB Sideload. On PC, run:
+adb sideload Project_Infinity-X-xxxxxxxx-OFFICIAL.zip
+6. Install GApps (If needed): If the recovery prompts to "Install another zip," you can select Yes. If it reboot and returns to the main menu, select Advanced > ADB Sideload again. On PC, run:
+adb sideload <filename_of_gapps>.zip
+7. Finish: Wipe data one last time (optional), then Reboot System.
+Note: SKIP STEP 6 IF GAPPS BUILD
