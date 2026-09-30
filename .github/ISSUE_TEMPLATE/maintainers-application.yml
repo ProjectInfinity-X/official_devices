@@ -1,0 +1,40 @@
+body:
+- attributes:
+    label: Device you want to apply for
+    description: 'Example: POCO F1 (beryllium)'
+  type: input
+  validations:
+    required: true
+- attributes:
+    description: One URL per line
+    label: Device Tree Sources
+  type: textarea
+  validations:
+    required: true
+- attributes:
+    label: Number of rom(s) you maintain, also name them stating official or unofficial
+  type: input
+  validations:
+    required: true
+- attributes:
+    label: Link to your one released Infinity-X Unofficial Build (must be a link of a platform eg. telegram or xda)
+  type: input
+  validations:
+    required: true
+- attributes:
+    label: Any Exceptions/special concern?
+  type: textarea
+- attributes:
+    label: Telegram username / or any alternative medium to reach you
+  type: input
+  validations:
+    required: true
+- attributes:
+    label: GitHub username
+  type: input
+  validations:
+    required: true
+name: Maintainership Form
+description: Application for applying as maintainer
+title: New maintainer
+assignees: [tejas101k]
