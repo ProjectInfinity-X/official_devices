@@ -1,0 +1,9 @@
+Device: OnePlus Ace 6
+Device codename : ktm
+Device maintainer: NullCode1337
+
+Date - 01/10/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/2017)
+- Added HDR support
+- Initial Android 17 Release
