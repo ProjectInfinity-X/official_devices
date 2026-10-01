@@ -1,0 +1,82 @@
+- Initial v4.0 (Android 17) Release
+
+Fully improved Leicacamera 6.7 (author: bezke)
+- Added LineageOS/AOSP compatibility fixes (obfuscated resources, network detection, audio handling, video saving)
+- Added Leica color profiles (Vibrant, Authentic, Original) in photo mode
+- Added Leica watermarks and Leica frames
+- Added Leica adaptive app icon
+- Added Short film and Vlog modes
+- Added VlogPro mode fix (registration and session)
+- Added ID photo mode
+- Added SuperMoon mode
+- Added Ambilight mode
+- Added Clone mode and extended Clone
+- Added Film effects menu
+- Added Slow shutter effect
+- Added Night time-lapse effect
+- Added Parallel world effect
+- Added Time freeze effect
+- Added Pro video inside Pro mode 
+
+Phone:
+- Fully Fixxed handset volume on calls. (author: bezke)
+
+Media
+- Dolby Vision playback works again: ship the stock Codec2 HAL stack (vndk, HAL common, HIDL, soft common, CCodec utils, bufferqueue helper) and point all MediaTek and Dolby C2 blobs at it. (author: bezke)
+- Point Dolby Vision and HDR metadata C2 plugins to the stock Codec2 implementation. (author: bezke)
+- Patch libsink-mtk.so with libaudioclient_shim.so. (author: ItsVixano, bezke)
+- Disable AVC secure media support. (author: rio004, bezke)
+- Rename libformatter to libformatter-v34. (author: snapboss, Aayush787, bezke)
+
+Security / KeyMint
+- Fix KeyMint: let Soong track the mitee KeyMint service dependencies (libtrusty, libcppbor_external) and install the V3 support libraries. (author: bezke)
+- Point libgoogleid and libmt_mitee to the V3 KeyMint libraries. (author: bezke)
+- Load the stock libbase for libkeymint_remote_prov_support_V3 (fmt v10). (author: bezke)
+- Install libkeymaster4support for mtd_mitee. (author: bezke)
+- Patch libkeymint_remote_prov_support_V3 to load libcppcose_rkp-V3. (author: snapboss, bezke)
+- Properly patch the KeyMint service. (author: Mashopy, bezke)
+- Disable ELF checks for libmt_mitee. (author: Saikrishna1504, Zeyy, kylieeXD, bezke)
+- Disable dependency checks for libgoogleid. (author: kylieeXD, bezke)
+
+WiFi
+- Use the MediaTek WiFi HAL from hardware/mediatek. (author: bezke)
+- Add MediaTek WiFi HAL and MT66xx WiFi driver library. (author: Mashopy, jmpfbmx, bezke)
+- Import MediaTek WLAN chip OUI changes to wpa_supplicant, rebased on lineage-24.0. (author: Mashopy, bezke)
+- Fix BITS macro mismatch in the MediaTek WLAN implementation. (author: sarthakroy2002, bezke)
+- Remove dead code from wpa_supplicant_8_lib. (author: Mashopy, bezke)
+- Add extended WiFi driver command support through the nl80211 testmode interface. (author: Mashopy, jmpfbmx, bezke)
+- Add station statistics collection and monitoring support. (author: Mashopy, jmpfbmx, bezke)
+- Add WiFi Direct (P2P) NoA and power-save support. (author: Mashopy, jmpfbmx, bezke)
+- Add country code, power management, and scan mode configuration. (author: Mashopy, jmpfbmx, bezke)
+- Add traffic class and queue management support. (author: Mashopy, jmpfbmx, bezke)
+- Add IRQ and performance monitoring support. (author: Mashopy, jmpfbmx, bezke)
+- Add PMKID handling for WPA2/WPA3 connections. (author: Mashopy, jmpfbmx, bezke)
+- Add RTT support for indoor positioning. (author: Mashopy, jmpfbmx, bezke)
+- Add NAN (Neighbor Awareness Networking) support. (author: Mashopy, jmpfbmx, bezke)
+- Add WAPI support to the MediaTek WiFi driver library. (author: Mashopy, jmpfbmx, bezke)
+- Improve MediaTek WiFi error handling, driver hang detection, and diagnostic logging. (author: Mashopy, jmpfbmx, bezke)
+
+Bluetooth
+- Enable L2CAP and A2DP offload coexistence mechanism, rebased on lineage-24.0. (author: rio004, nift4, bezke)
+- Recover MediaTek HCI client lifecycle. (author: kylieeXD, bezke)
+- Fix NULL pointer dereference in the USERIAL_CLOSE Bluetooth vendor operation. (author: kylieeXD, bezke)
+
+System
+- Add initial Android 17 device support. (author: bezke)
+- Build chipinfo, libladder, wlan_assistant and the MediaTek audio AIDL interface from source instead of stock blobs. (author: bezke)
+- Update included Soong namespaces for the split hardware/google/pixel. (author: mikeNG, bezke)
+- Keep the Xiaomi USB gadget init script over the generic MediaTek one. (author: bezke)
+- Grant sysfs_typec access after the /class/typec relabel. (author: kylieeXD, bezke)
+- Disable ELF checks for spkcal. (author: kylieeXD, bezke)
+- Add Xiaomi CIT app section to Settings, rebased on lineage-24.0. (author: Omkar Parte, bezke)
+- Import android.frameworks.displayservice@1.0. (author: Saikrishna1504, Zeyy, kylieeXD, bezke)
+- Rename libmnl to libmnl-v34. (author: snapboss, Aayush787, bezke)
+- Enable ScrollOptimizer. (author: Saikrishna1504, bezke)
+
+MediaTek common
+- Build minimal MediaTek telecom-common and telephony-common JARs. (author: Mashopy, bezke)
+- Move MediaTek IMS boot JARs back to system_ext. (author: Mashopy, bezke)
+- Move minimal MediaTek boot JARs to system_ext. (author: Mashopy, npjohnson)
+- Introduce a minimal mediatek-telecom-common JAR. (author: Mashopy, npjohnson)
+- Introduce a minimal mediatek-telephony-common JAR. (author: Mashopy, npjohnson)
+- Add a stub PowerHal_Wrap_EnableCameraMode symbol to libmtkperf_client. (author: unknown)

@@ -1,0 +1,31 @@
+Device: Poco X8 Pro 5G (klee)
+Recommended boot.img:https://sourceforge.net/projects/bezke/files/klee-fenrir/boot.img/download
+Recommenden vendor_boot.img:https://sourceforge.net/projects/bezke/files/klee-fenrir/vendor_boot.img/download
+
+Flashing Instructions:
+
+* Clean Flash:
+
+1. Reboot into the bootloader: adb reboot bootloader
+
+2. Flash `vendor_boot.img`: fastboot flash vendor_boot /path/to/vendor_boot.img
+
+3. Flash `boot.img`: fastboot flash boot /path/to/boot.img
+
+4. Reboot the device: fastboot reboot
+
+5. As soon as the device starts rebooting, immediately hold the **Volume Up** button to enter recovery.
+
+6. In recovery, select: Factory Reset → Format Data
+
+7. Then select: Apply Update → Apply from ADB
+
+8. Sideload the ROM: adb sideload /path/to/Project_Infinity-X-4.0-klee-...-OFFICIAL.zip
+   
+* Dirty Flash:
+1. Reboot into the recovery
+
+2. Sideload the ROM: adb sideload /path/to/Project_Infinity-X-4.0-klee-...-OFFICIAL.zip
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
