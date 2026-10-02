@@ -1,0 +1,9 @@
+- Initial Android 17 release
+- Switched to pure 64 bit ROM
+- Update C2 Media stack and configs from barbet
+- Update WFD system stack from marvel_g
+- Update WFD vendor stack from salami
+- Switch to libperfmgr
+- Added Dolby vision support (Upto 4K 60fps)
+- Fixed 32.3 MP resolution output in OnePlus Camera
+- Added Whatsapp and Instagram to aux camera exclude list
