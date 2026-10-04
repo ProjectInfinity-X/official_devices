@@ -1,0 +1,4 @@
+-- Initial v4.0 (Android 17) Release
+-- Adapt device sources for A17
+-- Use WCS Mod kernel
+-- Other more changes and improvements.
