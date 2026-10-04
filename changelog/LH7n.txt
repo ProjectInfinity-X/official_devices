@@ -1,0 +1,5 @@
+- Initial v4.0 (Android 17) release
+- Clean flash is MANDATORY
+- Fenrir added
+- Powerhints updated to allow full 1.1 GHz GPU performance
+- New recovery (vendor_boot) required: flash it before installing the ROM
