@@ -1,0 +1,23 @@
+Device: OnePlus 13R 5G (giuliac)
+Recommended Recovery: https://sourceforge.net/projects/infinity-x/files/giulia/17/images/recovery.img
+fastboot flash recovery recovery.img
+
+Flashing Instructions:
+
+* Clean Flash:
+1. Grab boot, init_boot, vendor_boot, and recovery.img (Get from here: https://sourceforge.net/projects/infinity-x/files/giulia/17/images)
+2. Reboot to bootloader and flash each image based on their respective names -> fastboot flash boot boot.img, and so on
+1. Reboot to recovery
+2. Apply update -> adb sideload
+3. adb sideload path/to/rom.zip
+4. Format data
+5. Reboot
+
+* Dirty Flash:
+1. Reboot to recovery
+2. Apply update -> adb sideload
+3. adb sideload rom.zip
+4. Reboot
+
+* OTA:
+1. Simply upgrade via OTA updater (if pushed or by importing local update)
