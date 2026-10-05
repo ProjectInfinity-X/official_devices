@@ -1,3 +1,15 @@
+Date - 05/10/2026
+=================
+- Fixed in-call speakerphone volume
+- Fixed Bluetooth audio (LHDC)
+- Fixed mtd_mitee crash (keystore/attestation)
+- Updated WiFi HAL
+- Added Leica camera (Dyper_Cam)
+Credits:
+Special Thanks to @rthedream For Base Trees
+
+Date - 01/10/2026
+=================
 - Source changelog (https://t.me/ProjectInfinityX/2017)
 - Initial v4.0 (Android 17) Release
 - Added MiuiCamera (fully works)
