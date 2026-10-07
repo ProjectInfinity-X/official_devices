@@ -1,0 +1,6 @@
+- Initial A17 Build
+- Clean flash is MANDATORY
+- OSS Sound Fixed
+- Kernel Updated
+- Volte/Vowifi Fixed
+- Livedisplay Dropped
