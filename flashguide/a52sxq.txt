@@ -1,0 +1,28 @@
+### Pre-installation:
+
+* Must have Android 14 OneUI 6/6.1 before the install
+* TWRP Recovery: https://twrp.me/samsung/samsunggalaxya52s5G.html
+* Optional gapps (from download page, gapps button)
+* Odin3: https://undocumented.software/Odin_3.13.1.zip
+* Disabled VBMETA: https://github.com/Mesa-Labs-Archive/proprietary_vendor_samsung_a52sxq/releases/download/A528BXXS6FXA1_CDR/A528BXXS6FXA1_patched_vbmeta.tar
+
+### First time installation (clean flash):
+
+* Remove all Google accounts from your device to avoid FRP (Factory reset protection).
+* Backup Data if needed.
+* Power off the phone, then enter Download Mode using Volume Down + Volume Up and connect phone to your computer, then press Volume Up.
+* In Odin3, select TWRP recovery file in the AP slot, and the VBMETA in USERDATA slot, then uncheck auto-reboot in Odin3 settings, then click start.
+* After the flash is done, hold Volume Down + Power until it reboots, then Volume Up + Power until in recovery.
+* In TWRP recovery, select Wipe, then Format data, type "yes"
+* After it's done, click on Reboot, then Reboot Recovery.
+* Back in recovery, select Install, select ROM files to flash Project Infinity X
+* After it's done, do the same steps to install any additional packages.
+* Reboot and enjoy.
+
+### Update installation:
+
+* Go to the system updater in the Settings app, and download the new update.
+* After the download is done, the update will be done automatically. 
+* Reboot.
+
+NOTE: If after OTA, some additional packages you had installed (e.g Magisk) are not there anymore, reflash them in recovery with TWRP Recovery

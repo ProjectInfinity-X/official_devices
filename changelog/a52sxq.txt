@@ -1,0 +1,9 @@
+- Project Infinity X 4.0 for Galaxy A52s 5G (a52sxq)
+- Fixed Always-On Display while charging
+- Fixed issues with the taskbar
+- Properly removed ongoing call and screen recording Android chips when Dynamic Island is showing
+- Removed duplicate incoming call heads-up notifications when Dynamic Island is active
+- Added back support for removing the emergency button from the power menu
+- Properly restored support for Ambient Pulse without overlapping lockscreen elements
+- Enabled blur effects on more surfaces
+- Added support for Icon Shapes
