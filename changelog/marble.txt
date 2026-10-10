@@ -1,0 +1,48 @@
+* Date: 06-10-2026
+* ================
+* Changelogs:
+- kernel upstream 5.10.269 lts
+- Drop WifiResTarget_spf
+- Clean up WiFi overlays
+- Update WifiResCommon from diting OS3.0.6.0.VLFMIXM
+- Remove Dialer overlay
+- Fix Wi-Fi controller TX levels array
+- Change default preferred network mode value
+- Handle missing sensor queues
+- Use Clang r563880c for kernel build
+- Update WFD system blobs from marvel_g A171WEH.20
+- Add workaround for broken offline charging
+- Let some Qualcomm components use lseek syscall
+- Add fallback SW A2DP routes
+- Silence libssc spam when light sensor is enabled
+- Revert blur radius reduction overlay
+- Use TelecomManager for default dialer lookup
+- Update 202504 sepolicy compatibility ignore list
+- Disable global mode and CDMA choices
+- Use CarrierConfig DTMF and CSP booleans
+- Remove config_sms_decode_gsm_8bit_data
+- Remove config_camera_sound_forced overlay
+- Remove config_cellBroadcastAppLinks
+- Remove config_powerDecoupleInteractiveModeFromDisplay
+- Remove non-existent config_optionalPackageVerifierName overlay
+- Remove unused tethering configs
+- Remove config_tether_upstream_types overlay
+- Remove bnep\\d from tetherable Bluetooth interfaces
+- Remove platform_number_verification_package
+- Remove config_no_sim_display_network_modes
+- Remove unused send_mic_mute_to_AudioManager
+- Remove unused OtaShowListeningScreen
+- Remove config_quickSettingsAutoAdd overlay
+- Remove multiuser overlays
+- Remove unused config_emergency_apn
+- Remove unused config_speed_up_audio_on_mt_calls
+- Remove config_bluetooth_le_peripheral_mode_supported
+- Remove config_bluetooth_hfp_inband_ringing_support
+- Remove deprecated config_mobile_tcp_buffers and networkAttributes
+- Fix MNC of carrier framework overlays
+- Clean up operator-specific overlays
+- Set FCM level to 7
+- Rewrite XiaomiParts sepolicy as system_app
+- label thermal_zone87 
+- Misc improvements and fixes
+- Improve overall system stability and performance
