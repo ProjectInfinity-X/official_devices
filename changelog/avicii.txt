@@ -1,2 +1,2 @@
-- Fixed audio/video playback issues
-- Fixed random application crashes
+- Source changelog (https://t.me/ProjectInfinityX/2028)
+- Update adreno graphics drivers from hollywood (UP1A.231005.007.A1)
