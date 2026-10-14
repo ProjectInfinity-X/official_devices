@@ -1,6 +1,3 @@
-- Initial A17 Build
-- Clean flash is MANDATORY
-- OSS Sound Fixed
-- Kernel Updated
-- Volte/Vowifi Fixed
-- Livedisplay Dropped
+- Switched to Krazey's IMS implementation
+- Switched to common fingerprint HAL
+- Fix screen lighting up on fingerprint press
