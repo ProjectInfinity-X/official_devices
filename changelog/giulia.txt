@@ -1,1 +1,6 @@
-- Initial v4.0 (Android 17) Release
+- Source Changelog (https://t.me/ProjectInfinityX/2028)
+- Synced with latest source
+- Updated blobs to 16.0.10.500
+- Updated kernel to 6.1.176
+- Reimplemented dolby vision
+- More device side changes
