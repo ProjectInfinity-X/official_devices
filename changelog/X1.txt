@@ -1,3 +1,5 @@
-Infinity v4.0
-Build Date : 03/10/2026
-- Initial Android-17 Release
+- Source changelog (https://t.me/ProjectInfinityX/2028)
+- Allow system to access cpu_dma_latency so the power HAL can
+request PM QoS latency constraints
+- adjust dynamic island
+- Ship with Aperture Camera
