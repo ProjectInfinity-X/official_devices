@@ -1,1 +1,5 @@
-- Initial v4.0 (Android 17) Release
+- Source Changelog (https://t.me/ProjectInfinityX/2028)
+- Shipped With Leica Camera
+- Shipped with Oneplus Dolby
+- KernelSU Next Added
+- Cleanup some useless Commits
