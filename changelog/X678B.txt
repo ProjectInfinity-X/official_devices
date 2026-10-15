@@ -1,4 +1,2 @@
-- Powerhints updated to allow full 1.1 GHz GPU performance
-- Battery Life Optimized
-- Added RAW support to camera
-- Kernel Updated
+- IMS Updated
+- Random Reboot Problem Fixed
