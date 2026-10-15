@@ -1,5 +1,5 @@
-- Source changelog (https://t.me/ProjectInfinityX/2017)
-- Initial v4.0 (Android 17) Release
-- Clean flash highly recommended
-- Drop Dolby for now
-- Upstream kernel to 5.4.304
+- Source changelog (https://t.me/ProjectInfinityX/2028)
+- October 2026 Security Patch
+- Add dolby
+- Fix mic issue
+- Misc changes for smoother perf
