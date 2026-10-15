@@ -1,0 +1,10 @@
+- Source Changelog (https://t.me/ProjectInfinityX/2028)
+- Intial Android 17 build
+- Updated Dolby Blobs for better Dolby Atmos experience
+- Fixed Transition lag
+- Fixed Modem dead issue on intial boot on new flash
+- Improved scrolling smoothness
+- Powerhint tweaked, for better Battery effeciency for normal usage
+- Improved Idle/Deep Sleep State
+- Updated Android Battery Saver to be More aggressive towards less power consumption
+- Improve Gaming Experience , and Uncap the Freq
