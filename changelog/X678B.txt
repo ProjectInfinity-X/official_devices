@@ -1,5 +1,4 @@
-- Initial v4.0 (Android 17) Release
-- Clean Flash is MANDATORY
-- Sound increased
-- Fenrir added
-- New recovery (vendor_boot) is needed
+- Powerhints updated to allow full 1.1 GHz GPU performance
+- Battery Life Optimized
+- Added RAW support to camera
+- Kernel Updated

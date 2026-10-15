@@ -1,6 +1,8 @@
-- Source changelog (https://t.me/ProjectInfinityX/2017)
-- Initial v4.0 (Android 17) Release
-- Added MiuiCamera (fully works)
-- Added Bypass charging support
-- Upstream blobs to OS3.0.300.0.WOJEUXM (kernel is using 6.6.89/OS3)
-- Shipped Fenrir kernel with updated patched Fenrir LKs
+- Corrected ownership for /dev/ufs-bsg0 (fixes issues when flashing updates locally)
+- Updated proprietary blobs to OS3.0.302.0.WOJMIXM (kernel is using 6.6.118/OS3)
+- Added Force GPU composition toggle (fixes washed-out/faded video playback in Facebook and other media apps)
+- Added per-app thermal profiles with a fresh new look
+- Fixed lock screen status bar offset
+- Back to stock thermal configuration for lower heat and better thermal management
+- Touchscreen now works in the Infinity X recovery, thanks to Ido
+- OTG now works in the Infinity X recovery, thanks to Ido

@@ -1,0 +1,17 @@
+Device: Poco F7 / Redmi Turbo 4 Pro
+
+1. Download the following files (from the same place you got your ROM build): "boot.img", "dtbo.img", "init_boot.img", "recovery.img", "vendor_boot.img"
+2. Power off the device, and boot it into bootloader mode: with the device powered off, hold Volume Down + Power. Keep holding both buttons until the word “FASTBOOT” appears on the screen, then release.
+3. Flash the downloaded image files to your device by typing:
+	fastboot flash boot boot.img
+	fastboot flash dtbo dtbo.img
+	fastboot flash init_boot init_boot.img
+	fastboot flash recovery recovery.img
+	fastboot flash vendor_boot vendor_boot.img
+4. Now reboot into recovery to verify the installation: fastboot reboot recovery
+5. Download the ROM ".zip" package for onyx that you would like to install.
+6. Sideload the ROM ".zip" package — but do not reboot to system before you have read/followed the rest of the instructions! On the device, select Apply update, then Apply from ADB to begin sideload. On the host machine, sideload the package using: adb -d sideload /path/to/zip
+7. Now select Factory Reset, then Format data / factory reset and continue with the formatting process.
+8. Reboot to system.
+
+- In case you want to use your own Google Apps package, MindTheGapps is recommended. You can install this by rebooting back into recovery after step 4.

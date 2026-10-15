@@ -1,0 +1,22 @@
+Device: Xiaomi 12T Pro / Redmi K50 Ultra
+Device code name : diting
+Device maintainer: Jezzay097
+
+Date - 6/10/2026
+=================
+- Initial v4.0 (Android 17) Release
+- Support for Xiaomi Parts has been added
+- Several optimizations were made to the Dalvik heap configurations
+- Several optimizations were made to CPU and graphics performance
+- A light intensity control was added to the flashlight
+- Dolby Audio support was added, and a new UI was added
+- Codec support, such as AC4, also continues to work
+- Support for Dolby Vision has been added
+- Some Xiaomi camera blobs have been updated
+- PowerHint has been re-added to improve performance and reduce temperatures
+- And many other improvements
+
+Kernel:
+- Merge 5.10.269 into android12-5.10-lts
+- KernelSU Next support has been added
+- input: touchscreen: goodix_berlin_driver: Restrict dev_confirm to Berlin-A

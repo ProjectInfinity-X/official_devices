@@ -1,0 +1,3 @@
+- Switched to Krazey's IMS implementation
+- Switched to common fingerprint HAL
+- Fix screen lighting up on fingerprint press

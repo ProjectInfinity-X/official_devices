@@ -1,0 +1,14 @@
+Device: Poco F6 Pro / Redmi K70
+Device codename : vermeer
+Device maintainer: Lunark
+
+Date - 04-10-2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/2017)
+- Initial Android 17 Release
+- KernelOSS Upstream 5.15.211
+- Include Fw OS3.0.304.0.WNKMIXM
+- Migrate to common libqti-perfd-client and power-libperfmgr
+- Dolby atmos
+- Remove GameBar for now
+- Miuicamera
