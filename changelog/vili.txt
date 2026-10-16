@@ -1,1 +1,3 @@
-• v4.1 Release
+• Hotfix!
+• Fixed sound with speaker 
+• Removed prebuilt firmware shipping
