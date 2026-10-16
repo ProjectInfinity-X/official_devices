@@ -1,0 +1,25 @@
+Device: POCO F6 (peridot)
+
+Flashing Instructions For ProjectInfinityX 4.0+
+
+---------------- Must be on HyperOS 3.0+ rom/fw before flashing this ----------------
+
+* FW is not included
+
+* Clean Flash is Recommended from v3.10
+
+* Download all files from: https://sourceforge.net/projects/infinity-x/files/peridot/17/recovery/recovery_files.zip/download
+  extract the zip 
+
+* Clean Flash:
+
+1. Reboot to bootloader by "adb reboot bootloader" and type "fastboot -w"
+2. fastboot flash boot boot.img
+3. fastboot flash init_boot init_boot.img
+4. fastboot flash dtbo dtbo.img
+5. fastboot flash recovery recovery.img
+6. fastboot flash vendor_boot vendor_boot.img
+7. Reboot to recovery by "fastboot reboot recovery"
+8. Flash ROM in recovery by "Apply Update > adb sideload > adb sideload /path/to/rom.zip"
+9. Format data
+10. Reboot system
