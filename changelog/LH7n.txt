@@ -1,2 +1,3 @@
-- IMS Updated
-- Random Reboot Problem Fixed
+-WPA3 Fixed
+-SIM on/off fixed
+-Offline Charging fixed
