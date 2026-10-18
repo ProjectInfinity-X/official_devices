@@ -1,2 +1,4 @@
-- IMS Updated
-- Random Reboot Problem Fixed
+-WPA3 Fixed
+-Stock DTS Sound Added for stock audio quality
+-SIM on/off fixed
+-Offline Charging fixed
