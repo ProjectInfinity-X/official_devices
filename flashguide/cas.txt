@@ -1,0 +1,60 @@
+Device: Xiaomi Mi 10 Ultra (cas)
+
+‼️Important Notes:
+▶️ You should have an unlocked bootloader. 
+▶️ You should have TWRP recovery flashed on your device.
+▶️ We advise you to use this TWRP or OFOX (https://t.me/c/1788305999/47311)
+
+
+1️⃣‼️If you are currently running MIUI/HyperOS ROM on your device, do the following:
+➡️Sideload approach:
+- Reboot into recovery.
+- Connect your mobile via USB cable to PC. You should have ADB/Fastboot (https://developer.android.com/tools/releases/platform-tools) on your PC. 
+- Flash ROM zip file by going to Advanced \ ADB Sideload and then Swipe to Start Sideload, then on your PC run the following command:
+adb sideload \path\to\Rom_File.zip
+- Once done, you need to Wipe \ Format Data in recovery.
+- Don't reboot to system immediately, reboot to recovery first.
+- Then in recovery reboot to system.
+
+➡️Normal approach:
+- Copy rom file to your mobile storage.
+- Reboot into recovery.
+- Flash ROM zip file by going to Install and then select the rom file.
+- Once done, you need to Wipe \ Format Data in recovery.
+- Don't reboot to system immediately, reboot to recovery first.
+- Then in recovery reboot to system.
+
+2️⃣‼️If you are currently running a custom ROM on your device (and changing to another custom rom) do the following:
+➡️Sideload approach:
+- Reboot into recovery.
+- Wipe \ Format Data, and then reboot to recovery.
+- Connect your mobile via USB cable to PC. You should have ADB/Fastboot (https://developer.android.com/tools/releases/platform-tools) on your PC. 
+- Flash MIUI Firmware zip file (v14.0.2.0) (https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-14.06.2023/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip) first by going to Advanced \ ADB Sideload and then Swipe to Start Sideload, then on your PC run the following command:
+adb sideload \path\to\fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip
+- Flash ROM zip file by going to Advanced \ ADB Sideload and then Swipe to Start Sideload, then on your PC run the following command:
+adb sideload \path\to\Rom_File.zip
+- Don't reboot to system immediately, reboot to recovery first.
+- Then in recovery reboot to system.
+
+➡️Normal approach:
+- Copy  MIUI Firmware zip file (v14.0.2.0) (https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-14.06.2023/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip)  and rom file to mobile storage.
+- Reboot into recovery.
+- Flash MIUI Firmware zip file (v14.0.2.0) (https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-14.06.2023/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip) first by going to Install and selecting the firmware file.
+- Flash ROM zip file by going to Install and selecting the rom file.
+- Once done, you need to Wipe \ Format Data in recovery.
+- Don't reboot to system immediately, reboot to recovery first.
+- Then in recovery reboot to system.
+
+3️⃣‼️If you are just upgrading to new build/release of the rom you are running:
+➡️Sideload approach:
+- Reboot into recovery.
+- Connect your mobile via USB cable to PC. You should have ADB/Fastboot (https://developer.android.com/tools/releases/platform-tools) on your PC. 
+- Flash ROM zip file by going to Advanced \ ADB Sideload and then Swipe to Start Sideload.
+adb sideload \path\to\Rom_File.zip
+- Once done, reboot to system.
+
+➡️Normal approach:
+- Copy rom file to mobile storage.
+- Reboot into recovery.
+- Flash ROM zip file by going to Install and then select the rom file.
+- Once done, reboot to system.
