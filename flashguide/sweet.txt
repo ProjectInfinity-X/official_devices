@@ -1,0 +1,20 @@
+Device: Redmi Note 10 Pro / Pro Max
+Recommended Recovery: https://t.me/musafirstuff/289
+
+Flashing Instructions:
+
+* Clean Flash:
+- Flash MIUI 14 FW according to your region
+- Flash ROM File
+- Format Data
+- Reboot
+
+* Dirty Flash:
+- Flash MIUI 14 FW according to your region
+- Flash ROM.zip
+- Reboot
+
+* OTA:
+- Simply upgrade via OTA updater (either if pushed or via local update import)
+
+Happy Flashing!!!!
