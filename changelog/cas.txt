@@ -1,1 +1,1 @@
-- Initial v4.1 (Android 17) Release
+- Integrated KernelSU-Next
