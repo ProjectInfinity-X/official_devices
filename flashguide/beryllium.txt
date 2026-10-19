@@ -1,0 +1,48 @@
+Device: POCO F1
+
+Flashing Instructions for InfinityX Recovery (Recommended Method):
+
+**Before start flashing.....**
+- Backup all your internal storage
+- Download latest recovery.img from here
+- Links-: https://sourceforge.net/projects/infinity-x/files/beryllium/16/recovery/recovery.img/download
+
+**Clean flash**
+1. Reboot to fastboot
+2. ```fastboot flash recovery recovery.img```
+3. Reboot to recovery
+4. Select Factory reset and Format data/factory reset
+5. Select Apply Update and Apply Update from ADB
+6. Now connect your phone to PC and type ```adb sideload InfinityX.zip```
+7. Reboot to system and enjoy :)
+
+**Dirty flash** 
+1. Reboot to recovery
+2. Select Apply Update and Apply Update from ADB
+3. Connect your phone to PC and flash rom with ```adb sideload infinityX.zip```
+4. Reboot to system and enjoy :)
+
+**OTA**:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
+
+
+Flashing Instructions for OrangeFox Recovery (Alternate Method):
+
+**Before start flashing.....**
+- Backup all your internal storage
+- Download OrangeFox Recovery from here
+- Links-: https://github.com/ThRE-Team/sdm845_fox/releases/tag/25716499605
+
+**Clean Flash**:
+1. Download OrangeFox Recovery zip and flash it in current recovery either by sideload or via SD Card
+2. Wipe all partitions except SD Card and OTG
+3. Flash Rom zip
+4. Format data (Just to be safe)
+5. Reboot to system and enjoy :)
+
+**Dirty Flash**:
+1. Download Rom zip
+2. Reboot to recovery
+3. Flash Rom zip
+4. Wipe Cache and Dalvik
+5. Reboot to system and enjoy :)
