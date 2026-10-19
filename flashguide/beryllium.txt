@@ -5,7 +5,7 @@ Flashing Instructions for InfinityX Recovery (Recommended Method):
 **Before start flashing.....**
 - Backup all your internal storage
 - Download latest recovery.img from here
-- Links-: https://sourceforge.net/projects/infinity-x/files/beryllium/16/recovery/recovery.img/download
+- Links-: https://sourceforge.net/projects/infinity-x/files/beryllium/17/recovery/recovery.img/download
 
 **Clean flash**
 1. Reboot to fastboot
