@@ -1,0 +1,10 @@
+- Source Changelog: https://t.me/ProjectInfinityX/2028
+- For play integrity, read this: https://t.me/ProjectInfinityX/1611
+- Vanilla Users Please Read This: https://t.me/NotDheeraj06_Builds/74560
+- Initial Android 17 Release
+- Fixed Colurs Settings
+- Fixed 160mhz wifi connection issue
+- Updated Graphics/Display Blobs from Fairphone 4
+- Implemented Dolby Vision support (So you can watch Vision videos without black screen issue)
+- Fixed some memory leaks in kernel
+- Implemented SBalance in kernel
