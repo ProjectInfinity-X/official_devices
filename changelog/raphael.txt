@@ -1,0 +1,7 @@
+Date - 21-10-2026
+=================
+- Initial A17 build
+- Added new Leica camera
+- Audio: Removed the direct VoIP output, which was causing an issue during WhatsApp/Telegram calls. When a notification arrived during a call, the call audio would be interrupted for a few seconds. (Thanks to ergdev for fixing this ancient bug)
+- Merged latest qcom kernel changes
+- Many more improvements and bug fixes!
