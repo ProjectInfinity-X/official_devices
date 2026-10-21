@@ -1,1 +1,2 @@
-- Initial Android 17 Release For Miatoll
+- Fixed Some Issues Regarding Custom Kernels
+
