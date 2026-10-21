@@ -1,5 +1,6 @@
-- Source Changelog (https://t.me/ProjectInfinityX/2028)
+- Source Changelog (https://projectinfinity-x.com/changelog/)
 - Shipped With Leica Camera
-- Shipped with Oneplus Dolby
-- KernelSU Next Added
-- Cleanup some useless Commits
+- Shipped with Dolby
+- KernelSU Added ( Use other kernel for KSUN )
+- Treewide Cleanup ( Recommended for Clean Flash )
+- AOD Fixed
