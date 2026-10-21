@@ -1,1 +1,3 @@
-- Integrated KernelSU-Next
+- Source update https://t.me/ProjectInfinityX/2029.
+- Integrated SUSFS v2.3.0 for KernelSU in the Kernel. Use this KernelSU-Next Manager https://t.me/ksunext_ci/15152.
+- Disabled SDCardFS for emulated storage to fix storage access issue on cloned profile.
