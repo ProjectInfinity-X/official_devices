@@ -1,0 +1,7 @@
+- Source changelog (https://t.me/ProjectInfinityX/2028)
+- Shipped with kernel Araxys-v4.0
+- Removed Ok Google Support
+- Dropped Dolby Atmos
+- Added support for ViPER4AndroidFX
+- Updated WFD system stack from LA.QSSI.17.0.r1-06700-qssi.0
+- Bumped FCM level to 7
