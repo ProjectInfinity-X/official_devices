@@ -1,5 +1,4 @@
-- Source changelog (https://t.me/ProjectInfinityX/2028)
-- October 2026 Security Patch
-- Add dolby
-- Fix mic issue
-- Misc changes for smoother perf
+- Source changelog (https://t.me/ProjectInfinityX/2029)
+- Mainly source changes with fixes for integrity and banking apps
+- Fully reworked parts ui
+- Switch to moto dolby ui
