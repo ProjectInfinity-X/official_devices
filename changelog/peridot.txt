@@ -1,24 +1,2 @@
-- Source Changelog (https://t.me/ProjectInfinityX/2028)
-- Dropped PowerProfile and other parts
-- Added ThermalProfiles
-- Added NotGameTurbo
-- Added Viper4AFX
-- Added AdpfConfig
-- Added some popular game packages to sched_lib_name
-- Fixed Dolby Crash and AC4 codec issues
-- Update system WFD stack from marvel_g A171WEH.20
-- optimize dalvik vm heap parameters and override dexopt flags
-- Add Qualcomm GPU driver and hardware rendering props
-- Set minimum HWC SF duration to 8.4ms
-- Downscale task snapshots to 70%
-- Allow getting lseek syscall for atfwd daemon
-- Add camera perf and postproc hwservice sepolicies
-- Toned down few Boosts from Powerhint
-- Bump CPU timer to 50% for better frame completion and reduced jank
-- Fixed Dual Number issue during calling
-- Upstreamed Kernel to 6.1.176 
-- Upstreamed Kernel with latest CLO tags
-- Use power efficient workingqueues
-- Disabled wakelocks & verbose logging
-- Improved Idle/Deep Sleep State
-- Improved Overall SystemUI smoothness
+- Source Changelog (https://projectinfinity-x.com/changelog/)
+- Fix issues with play integrity and banking apps
