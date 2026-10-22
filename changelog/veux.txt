@@ -1,1 +1,3 @@
 • v4.1 Release
+- Source Changelog (https://projectinfinity-x.com/changelog/)
+- Fix issues with play integrity and banking apps
