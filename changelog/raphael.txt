@@ -1,3 +1,14 @@
+Date - 23-10-2026
+=================
+- Fixed slow PD charging with some chargers.
+- Fixed random reboots.
+- Attempted to fix Setup Wizard freezing issues. If you still experience freezing, just force reboot once.
+- Themes: Dropped the SansSerifPro font.
+- Some minor changes and improvements.
+- Last build for Raphael from my side.
+
+Thank you all for the support throughout this journey!
+
 Date - 21-10-2026
 =================
 - Initial A17 build
