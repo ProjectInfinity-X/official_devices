@@ -1,0 +1,58 @@
+Infinity v4.1 (Android 17)
+
+Base
+
+Rebuild the device tree from scratch on a LineageOS base with Fleur-Project commits. (author: bezke)
+Update the blobs to OS3.0.302.0.WNRMIXM. (author: Alhaidar Latif)
+Adapt the device specific domains and the product to Android 17. (author: bezke)
+Set the FCM level to 7 and use the legacy libion implementation. (author: Nolen Johnson)
+Add an init library for region and SKU based device identification, with OS3.0.302.0 fingerprints and a fixed POCO global fingerprint. (author: bezke)
+Carry over the extras of the previous tree: Xiaomi touch HAL with high polling rate, TouchServices, FastCharge, GameBar, call recording, vibration patterns, 5G/VoNR and Wi-Fi overlays. (author: bezke)
+Fall back to device-side kernel module lists. (author: bezke)
+
+Leicacamera
+
+Bring up MiuiCamera (Leica). (author: bezke)
+Fix MiuiCamera on Android 17: platform apps targeting below SDK 37 run in a new SELinux domain, so the Leica rules now cover it again. (author: bezke)
+Let the camera postproc HAL reach platform_app_36. (author: Alhaidar Latif)
+
+Performance / Power
+
+Let the strongest request win in powerhint: launch and camera boosts are no longer cut back by touch, and games can no longer lift the battery saver GPU cap. (author: bezke)
+Tune the interaction, launch and expensive rendering hints, add camera shot, low power, uclamp and L3 boost hints and fix invalid frequencies. (author: Alhaidar Latif)
+Refine the performance hints for various scenarios. (author: kleidione Freitas)
+Build HWUI for performance and make Vulkan rendering opt-in. (author: bezke)
+
+XiaomiParts
+
+Add XiaomiParts, KProfiles and VoIPFix. (author: bezke)
+Rework the performance profiles: Performance holds a power HAL hint, Battery saver turns on the Android battery saver, and the profile resets to Balanced on every boot. (author: bezke)
+Fix bypass charging and the charge limit: bypass runs the phone from the charger through the charge current override, the limit resumes charging 2% below the set value, and bypass turns off when unplugged or when the device keeps charging. (author: bezke)
+Charge control: show the charging status and battery information (health, cycle count, current, voltage, temperature, power, capacity). (author: bezke)
+Add AI gestures: flip to mute, raise to answer and shake for flashlight. (author: bezke)
+Add header illustrations to the feature screens. (author: bezke)
+Kernel manager: show the real CPU settings on first launch and keep min below max when applying limits. (author: bezke)
+Stop depending on root: remove the RAM optimizer and write the widget nodes directly. (author: bezke)
+Remove the logcat viewer and the keybox manager. (author: bezke)
+
+Audio / Media
+
+Include Dolby Atmos. (author: swiitchOFF)
+Add Dolby Vision support. (author: bezke)
+Use the Dolby spatializer from hardware/dolby, so spatial audio loads again. (author: bezke)
+Fix a crash in the QTI codec2 services caused by an undersized store allocation. (author: bezke, based on work by Cosmin Tanislav and Joey)
+Increase the audio HAL buffer size to 240 to stop playback stutter. (author: bezke)
+Increase the audio offload buffer size to 64KB. (author: Ghosuto)
+Drop the ultrasound-handset profile to fix route transitions. (author: kleidione Freitas)
+Drop the fallback SW A2DP routes. (author: bezke)
+
+Recovery
+
+Keep the recovery partition out of the OTA, so the installed recovery stays in place. (author: bezke)
+
+Note for updaters
+
+Recommended firmware: OS3.0.302.0 (HyperOS 3, Android 16).
+The ROM no longer touches the recovery partition. If an earlier test build replaced your recovery, flash yours once more.
+The performance profile returns to Balanced after every reboot. This is intended.
+If bypass charging shows as unsupported, the self-check found the battery still charging 20 s after it was turned on. The option resets on the next boot.
