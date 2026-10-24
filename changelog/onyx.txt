@@ -1,1 +1,11 @@
-- Initial v4.0 (Android 17) Release
+- Source Changelog (https://projectinfinity-x.com/changelog/)
+
+Date - 23-10-2026
+=================
+- Swtich to LeicaCamera (thanks to @Sachinpawar86)
+- Fixed 5g icon (more stable now) (thanks to @Mayur_U)
+- Fixed Dolby Audio (effect not loading after sometime) (thanks to @unmoved)
+- Fixed offline charging while the device is powered off
+- Increase audio offload buffer size from 32KB to 64KB
+- Add a property to enable prefetching video (help improve playback performance for high frame-rate and high bitrate content)
+- Add DeviceAsWebcam support
