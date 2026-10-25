@@ -4,6 +4,11 @@ Device maintainer: Liekoo
 
 Date - 13/07/2026
 =================
+- Source Changelogs: https://t.me/ProjectInfinityX/2028
+- Update blobs to OS2.0.213.0.VNGMIXM
+
+Date - 13/07/2026
+=================
 - Source Changelogs: https://t.me/ProjectInfinityX/1886
 - Optimized blur
 - Switched to 60hz-->120hz refresh rate only
@@ -16,7 +21,6 @@ Date - 13/07/2026
 - Fixed auxiliary camera package
 - Fixed up old GPU tunings
 - Switched to user type build
-
 
 Date - 16/06/2026
 =================
