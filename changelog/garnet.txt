@@ -1,3 +1,4 @@
+Fixup json for ota!!!
 Infinity v4.1 (Android 17)
 
 Base
@@ -13,6 +14,7 @@ Fall back to device-side kernel module lists. (author: bezke)
 Leicacamera
 
 Bring up MiuiCamera (Leica). (author: bezke)
+leica camera apk thx to jotanh
 Fix MiuiCamera on Android 17: platform apps targeting below SDK 37 run in a new SELinux domain, so the Leica rules now cover it again. (author: bezke)
 Let the camera postproc HAL reach platform_app_36. (author: Alhaidar Latif)
 
