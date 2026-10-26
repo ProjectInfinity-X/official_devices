@@ -2,6 +2,15 @@ Device: OnePlus Ace 6
 Device codename : ktm
 Device maintainer: NullCode1337
 
+Date - 26/10/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/2031)
+- Added spatial audio
+- Added display color profiles
+- Added Dolby Vision
+- Added high touch rate
+- Added HAL Face Unlock
+
 Date - 01/10/2026
 =================
 - Source changelog (https://t.me/ProjectInfinityX/2017)
