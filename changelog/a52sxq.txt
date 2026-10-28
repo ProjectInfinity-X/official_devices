@@ -1,9 +1,33 @@
-- Project Infinity X 4.0 for Galaxy A52s 5G (a52sxq)
-- Fixed Always-On Display while charging
-- Fixed issues with the taskbar
-- Properly removed ongoing call and screen recording Android chips when Dynamic Island is showing
-- Removed duplicate incoming call heads-up notifications when Dynamic Island is active
-- Added back support for removing the emergency button from the power menu
-- Properly restored support for Ambient Pulse without overlapping lockscreen elements
-- Enabled blur effects on more surfaces
-- Added support for Icon Shapes
+- Merged October 2026 security patch
+- Allow user to change brightness level of Ambient display / Always ON Display
+- Bring back recents panel styles to launcher
+- Bring back launcher homescreen folder customizations (resize/grid/icon)
+- Bring back launcher app drawer folder support
+- Bring back recents swipe gestures feature to launcher
+- Bring back lock/unlock app in recents feature
+- Bring back App drawer styles to launcher
+- Bring back App rename & custom per-app icon feature
+- More app drawer customizations for launcher (author: shutter-cat)
+- Fix an issue where stock app icon flashed for a second while custom icon pack in use
+- Fix taskbar only containing two pinned icons for Tablets
+- Fix taskbar hotseat alignment overlap
+- Improve themepicker on vanilla builds
+- Bring back seekbar to adjust blur intensity level
+- Fixed PIF deadlock boot prevention on few devices
+- Fixed dynamic bar circle chip stlye not aligned in statusbar with other app notification icons
+- Ship Canvas prebuilt apk in Vanilla as image editor
+- Improve applock feature (author: rmp22 & Saikrishna1504)
+- Improve sandbox environment functionality and add multi-user support (author: rmp22 & Saikrishna1504)
+- Improve OmniJaws Weather app (author: neobuddy89 & 306bobby-android)
+- Improvements for Bluetooth module related to LHDC
+- Fix issues with inverted navigation keys on landscape 
+- Allow homescreen landscape rotation
+- Fix some launcher related crashes
+- Improve navigation bar compatibility with taskbar
+- Add support for private space face unlock enrollment (author: AshwinDS)
+- Tonnes of improvements for Android 17 high ram usage
+- Add custom height and color control in Pulse visualizer (author: Ghosuto)
+- Fix some issues related to dynamic bar
+- Improve dynamic bar layout and functionality
+- Make it mandatory to ask pin for shutdown/reboot on password-protected lockscreen (author: DarkJoker360)
+- Skip per process GPU memory usage trace if disabled in kernel (author: Tashar02)
