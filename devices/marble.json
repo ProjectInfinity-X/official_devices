@@ -1,9 +1,9 @@
 {
-    "maintainer": "PabloEscobar&Chaitanya",
+    "maintainer": "PabloEscobar & Chaitanya",
     "maintainerurl": "https://t.me/pablo_laboratory",
     "devicemodel": "POCO F5 / Redmi Note 12 Turbo",
     "codename": "marble",
     "supportgroupurl": "https://graph.org/donations-and-supportgroup-10-28",
-    "donateurl1": "https://graph.org/donations-and-supportgroup-10-28",
-    "donateurl2": "https://graph.org/donations-and-supportgroup-10-28"
+    "donateurl1": "",
+    "donateurl2": ""
 }
