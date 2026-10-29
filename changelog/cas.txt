@@ -1,3 +1,7 @@
 - Source update https://t.me/ProjectInfinityX/2029.
-- Integrated SUSFS v2.3.0 for KernelSU in the Kernel. Use this KernelSU-Next Manager https://t.me/ksunext_ci/15152.
-- Disabled SDCardFS for emulated storage to fix storage access issue on cloned profile.
+- Fixed the Zygisk module mounting issue.
+- Enabled doze.
+- Add irq_device_map for CPU wakeup attribution.
+- Built QTI AIDL thermal HAL and fix limits-hal deps.
+- Report GIC/TLMM/PCIe-MSI wake IRQs to wakeup_reason.
+- Mark WoW wakeup packets for Android wakeup attribution.
