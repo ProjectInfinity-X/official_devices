@@ -1,3 +1,2 @@
-- Source changelog (https://t.me/ProjectInfinityX/2017)
-- Updated kernel to 4.19
-- Dirty Flash may give problems
+- Source changelog (https://t.me/ProjectInfinityX/2031)
+- Tree Side Changes
