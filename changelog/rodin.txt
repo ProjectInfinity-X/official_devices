@@ -1,3 +1,14 @@
-- Synced with latest Infinity X 4.1 source changes
-- Updated proprietary blobs to OS3.0.303.0.WOJMIXM (kernel is using 6.6.118/OS3)
-- Reworked bypass charging (now uses smart_chg)
+- Added ViPER4Android FX (AIDL)
+- Added ColorBlendr as a built-in system app, works without root
+- Added stock Dolby audio properties and allowed codec2 to use Dolby DMS
+- Added charging power level selection in Xiaomi Parts
+- Moved Thermal profiles into Xiaomi Parts and fixed Default not saving after changing an app profile
+- Reworked per-app refresh rate and resolution UI
+- Added Xiaomi CIT shortcut in Xiaomi Parts
+- Removed Visual Enhancement and moved GPU composition to Display Resolution
+- Improved auto-brightness: relaxed adjustment, default brightness ramp rate values, skipped initial brightness ramps
+- Increased overlay priority to override MSSI common overlays
+- Silenced SurfaceFlinger log spam
+- Allowed SF, bootanim and system_server to find Mali ICompression
+- Build Mediatek interfaces (mtkpower, lbs, netdagent) from source and renamed bluetooth audio blob
+- Reverted displayfeature_aidl AIDL interface
