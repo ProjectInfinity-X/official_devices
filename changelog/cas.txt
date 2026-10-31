@@ -1,7 +1,4 @@
-- Source update https://t.me/ProjectInfinityX/2029.
-- Fixed the Zygisk module mounting issue.
-- Enabled doze.
-- Add irq_device_map for CPU wakeup attribution.
-- Built QTI AIDL thermal HAL and fix limits-hal deps.
-- Report GIC/TLMM/PCIe-MSI wake IRQs to wakeup_reason.
-- Mark WoW wakeup packets for Android wakeup attribution.
+- Source updated https://t.me/ProjectInfinityX/2039.
+- Switched to LineageOS IR to fix IR functionality
+- Fixed Dynamic Island.
+- Use this KSU-Next Manager with this build https://t.me/ksunext_ci/15152
