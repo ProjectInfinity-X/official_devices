@@ -1,0 +1,7 @@
+- Super EIS fixed
+- Night Mode fixed
+- AI Cam fixed
+- Documents Mode fixed
+- Portrait Mode fixed
+- OTA Updater fixed
+
