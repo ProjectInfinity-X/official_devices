@@ -1,9 +1,7 @@
-- Initial Android 17 build
-- Kernel updated to 4.14.357-openela with the latest patches from LineageOS's 4.14 kernel repos
-- Proximity sensor fixed
-- EIS fixed
-- 1080p60 fixed
-- Shipped with the stock camera, including the necessary patches
-- VoWiFi fixed
-- Ram usage optimized
-- Dolby fixed
+- Super EIS fixed
+- Night Mode fixed
+- AI Cam fixed
+- Documents Mode fixed
+- Portrait Mode fixed
+- OTA Updater fixed
+
