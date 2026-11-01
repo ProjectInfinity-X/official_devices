@@ -1,1 +1,20 @@
-- Initial v4.1 (Android 17) Release
+- Upstreamed kernel to 6.6.143.
+- Switched to Lunaris Dolby Atmos with updated tuning and Codec2 audio decoders.
+- Switched back to stock IMS and added stock APNs.
+- Enabled Jio native video-calling support.
+- Added Bluetooth codec notifications for the stock firmware.
+- Corrected Wi-Fi HAL compatibility and enabled IPv6 neighbour offload.
+- Added single-tap-to-wake and reworked double-tap-to-wake using sensors.
+- Restored flashlight strength control on the 6.6 kernel.
+- Improved fingerprint wake-up handling.
+- Improved camera and video codec compatibility.
+- Corrected GPS power and interrupt handling.
+- Corrected voice-call volume settings.
+- Reduced CPU boosting during low-latency audio playback.
+- Improved USB-PD capability detection and charger suspend handling.
+- Corrected Wi-Fi suspend blocking and power-button wake handling.
+- Improved thermal monitoring and reduced excessive kernel logging.
+- Switched to common MediaTek USB gadget handling and updated webcam detection.
+- Restored stock Keymaster attestation support.
+- Enabled compressed Virtual A/B updates and improved recovery sideload handling.
+- Restored userdata filesystem resizing.
