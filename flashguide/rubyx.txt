@@ -1,12 +1,13 @@
 Device: Redmi Note 12 Pro/ Pro+ 5G/ Discovery Edition
 
-Use the recommended recovery that's provided in the rom post, or use this: https://t.me/projectinfinityxscreenshots/60
+Use the recommended recovery that's provided in the rom post, or use this: https://t.me/projectinfinityxscreenshots/61
 
 Flashing Instructions:
 
 * Clean Flash:
 - Go to fastboot mode
 - Flash the boot image (the recovery is in the boot image) using *fastboot flash boot <path_to_boot.img>*
+- Flash the dtbo image using *fastboot flash dtbo <path_to_dtbo.img>*
 - After Flashing, go to recovery using *fastboot reboot recovery*
 - Click on Format Data and clear all data
 - Then click on Apply Update > ADB Sideload
