@@ -1,0 +1,5 @@
+Released Date - 02/10/2026
+==========================
+- Initial release for Android 17 build
+- Based on 4.14.357 custome tune kernel (HyperFusionX - zenith edition)
+- Source changelog (https://t.me/ProjectInfinityX/2028)
