@@ -1,0 +1,16 @@
+Device: OnePlus 7
+Device code name : guacamoleb
+Device maintainer: H A R I S H
+
+Date - 11/02/2026
+=================
+• Source Changelog: hhttps://t.me/ProjectInfinityX/2028
+• Initial Android 17 build
+• Adapt AlertSlider overlay to use windowlevel blur when available
+• Patch OOSCamera to avoid persistent notification
+• Add missing SYSTEM_CAMERA permission to OOSCam manifest
+• Sync kernel with LineageOS
+
+Note: 
+• Flash rooted boot image to boot partition to get KernelSuNext and SuSFS
+• Clean flash recommended when facing with any issues for users upgrading from Android 16
