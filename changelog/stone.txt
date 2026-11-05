@@ -1,4 +1,4 @@
 - Source changelog (https://t.me/ProjectInfinityX/2029)
-- Mainly source changes with fixes for integrity and banking apps
-- Fully reworked parts ui
-- Switch to moto dolby ui
+- Fix low and suppressed in-call mic volume
+- Disable default frame rate limit for games
+- Revert Configure SQLite to operate in MEMORY mode
