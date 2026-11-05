@@ -1,2 +1,6 @@
+Date - 05-11-2026
+- Spitful kernel (Non-ksu)
+- Synced with latest source
+
 Date - 19-10-2026
 - Initial v4.0 (Android 17) Release
