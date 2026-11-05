@@ -1,0 +1,6 @@
+Device: Samsung Galaxy S10e
+Device code name : beyond0lte
+Device maintainer: FrEeRuNnEr4EvEr
+
+Device Changelog 11/5/2026
+- Initial android 17 release

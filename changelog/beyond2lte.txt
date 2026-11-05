@@ -1,0 +1,6 @@
+Device: Samsung Galaxy S10+
+Device code name : beyond2lte
+Device maintainer: FrEeRuNnEr4EvEr
+
+Device Changelog 11/5/2026
+- Initial android 17 release

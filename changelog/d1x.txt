@@ -1,0 +1,6 @@
+Device: Samsung Galaxy Note 10 5G
+Device code name : d1x
+Device maintainer: FrEeRuNnEr4EvEr
+
+Device Changelog 11/5/2026
+- Initial android 17 release
