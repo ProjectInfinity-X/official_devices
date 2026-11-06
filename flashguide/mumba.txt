@@ -1,0 +1,65 @@
+Device: Motorola G57 Power (mumba)
+
+Recovery: https://sourceforge.net/projects/infinity-x/files/mumba/17/recovery.img/download
+Vendor boot: https://sourceforge.net/projects/infinity-x/files/mumba/17/vendor_boot.img/download
+- The recovery and vendor_boot provided above are required, a custom recovery is not supported.
+
+!!! WARNING !!!
+===============
+It is COMPULSORY to sideload copy-partitions-20220613-signed.zip before flashing the ROM.
+Failing to do so can HARD-BRICK your device.
+Download: https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip
+
+Requirements:
+=============
+- Unlocked bootloader
+- Full data backup and an IMEI backup
+- At least 30% battery
+- First boot may take 5-10 minutes, do not interrupt it
+
+
+Clean Flash:
+============
+1. Reboot to bootloader (hold Power + Volume Down)
+
+2. Flash the recovery and vendor_boot images:
+   fastboot flash recovery recovery.img
+   fastboot flash vendor_boot vendor_boot.img
+
+3. Reboot to recovery:
+   fastboot reboot recovery
+
+4. Factory reset -> Format data / Factory reset
+
+5. Apply update -> Apply from ADB, then sideload copy-partitions-20220613-signed.zip (MANDATORY):
+   adb sideload copy-partitions-20220613-signed.zip
+
+6. Apply update -> Apply from ADB, then sideload the ROM:
+   adb sideload ROM.zip
+
+7. If you want GApps and are flashing the vanilla build, reboot to recovery again and sideload the GApps package.
+   (The GAPPS build already includes Google apps.)
+
+8. Factory reset -> Format data / Factory reset
+
+9. Reboot system now
+
+
+Dirty Flash:
+============
+1. Reboot to recovery
+
+2. Apply update -> Apply from ADB, then sideload the ROM:
+   adb sideload ROM.zip
+
+3. Vanilla build only: reflash your GApps package after every update
+
+4. Reboot
+
+(Not supported across major Android upgrades.)
+
+
+OTA:
+====
+1. Simply update from Settings
+2. Vanilla build only: reflash your GApps package after every update
