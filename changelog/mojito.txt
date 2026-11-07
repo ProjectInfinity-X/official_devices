@@ -1,4 +1,5 @@
--- Initial v4.0 (Android 17) Release
--- Adapt device sources for A17
--- Use WCS Mod kernel
--- Other more changes and improvements.
+-- https://projectinfinity-x.com/changelog/
+
+-- Switch to strix kernel
+-- Inlined leica camera on gapps build only
+-- Other minor changes and improvements
