@@ -1,69 +1,51 @@
-- Infinity v4.1 (Android 17)
+- Infinity v4.2 (Android 17)
 
-Base
-- Update the blob list for OS3.1.260903 (MTPECN). (author: bezke)
-- Update the security patch, fingerprints and SKU props. (author: bezke)
-- Align the kernel cmdline with stock for the 6.6.102 kernel. (author: bezke)
-
-Leicacamera
-- Fixed the "permission restricted" toast on launch and mode switch: MiuiCamera can store its LUTs and watermarks through misys again, which also restores correct HDR processing. (author: bezke)
-
-Fingerprint
-- Fix the FOD circle (LHBM) and the touch FOD state getting stuck after unlocking, after a cancelled authentication and after a late finger-down event. (author: bezke)
-- Release the UDFPS state when the framework cancels a touch. (author: bezke)
-- Clear the FOD state before reporting the last enrollment step. (author: Nighty)
-
-XiaomiParts
-- Add bypass charging. (author: bezke)
-- Bypass charging: restore the previous charge current when it is turned off. (author: bezke)
-- Bypass charging: match the hub icon to charge control. (author: bezke)
-- Clear the expert colour state before applying a colour mode. (author: bezke)
-- Add header illustrations to the feature screens and a back light illustration. (author: bezke)
-- Remove the kernel manager. (author: bezke)
-
-Charging / Thermal
-- Let mi_thermald limit the charge current again. (author: bezke)
-
-Display
-- Disable SurfaceFlinger auto latch unsignaled. (author: bezke)
-
-Audio / Media
-- Expose unprocessed audio capture. (author: bezke)
-- Stop shipping the stock av-audio-types library. (author: bezke)
-- Pin the Dolby blobs to OS3.0.306.0.WPJMIXM. (author: bezke)
-- DRM: Netflix uprev to 29863. (author: bezke)
-
-Memory
-- Tune lmkd. (author: bezke)
-- Enable MM zRAM daemon support and move the zRAM writeback props to product.prop. (author: bezke)
-
-Recovery
-- Enable touch in recovery. (author: bezke)
-- Move the recovery touch firmware under vendor/odm. (author: bezke)
-
-Bluetooth
-- Drop the L2CAP and A2DP offload coex source patch. (author: bezke)
-
-System
-- Ship the Xiaomi CIT app. (author: bezke)
-- Clean up duplicated and dead props and blobs. (author: bezke)
-- Drop the msync2 module insmods. (author: bezke)
-- Drop the stock mmstat and scmi trace instances. (author: bezke)
-- fstab: Drop the mi_ext overlays. (author: bezke)
-- Stop logging the boot to /metadata. (author: bezke)
-
-SELinux
-- Run the misys domains in enforcing mode. (author: bezke)
-- Let misys look up camera data, persist and expdb, search /dev/block and read the bms power supply. (author: bezke)
-- Label /dev/io_monitor for misys. (author: bezke)
-- Let mfidoca, idmanager and mtdservice reach MiTEE. (author: bezke)
-- Let mlipay and mfidoca write to miev. (author: bezke)
-- Address rild, fuelgauged_nvram and mediacodec lookups. (author: bezke)
-- Label /dev/conn_dbg_dev. (author: bezke)
-- Label the VM reserve tunables for vendor_init. (author: bezke)
-- Label the bms and cp_master wakeup sources and drop the duplicate bms genfs label. (author: bezke)
-- Let citsensorservice search persist. (author: bezke)
-- Silence two harmless denials. (author: bezke)
-
-Note for updaters
-- If the camera thumbnail shows stripes right after taking a photo, clear the Camera app data once (Settings > Apps > Camera > Storage > Clear data).
+Changelog:
+- Update vendor blobs to HyperOS 4 (OS4.0.3.0, Fenrir firmware included). (author: bezke)
+- Update kernel to HyperOS 4 (6.6.118), with matching modules, DTB, and DTBO. (author: bezke)
+- Update radio firmware images to HyperOS 4 and keep the POCO boot logo. (author: bezke)
+- Raise the vendor, boot, and init_boot security patch levels to 2026-09-01. (author: bezke)
+- Rebase the ImsService patch on HyperOS 4. (author: bengris32, bezke)
+- Accept mihwcextension V2 in the framework compatibility matrix. (author: bezke)
+- Drop HALs, thermal configs, and init entries removed in HyperOS 4 (identity, metis, migt). (author: bezke)
+- Keep the global Dolby DAP and spatializer effects so the Dolby security check passes. (author: bezke)
+- Ship the stock `libnbaio_mono` for the HyperOS 4 audio HAL. (author: bezke)
+- Keep the stock bufferqueue helper for the vendor Codec2 stack. (author: bezke)
+- Ship `libaed` required by HyperOS 4 blobs. (author: bezke)
+- Update media codec performance data from HyperOS 4. (author: bezke)
+- Disable proactive memory compaction and label the node for vendor_init. (author: bezke)
+- Size ZRAM to 100% of RAM and tune LMKD for compressed swap. (author: bezke)
+- Add a ZRAM toggle to XiaomiParts. (author: bezke)
+- Enable LMKD PSI backpressure. (author: bezke)
+- Keep background work on the little cores. (author: SoloSaravanan, bezke)
+- Disable expedited RCU after boot and clean up duplicate cpuset writes. (author: SoloSaravanan, bezke)
+- Move VoNR defaults to system_ext properties. (author: SoloSaravanan, bezke)
+- Drop the NXP NFC client thread patch, merged upstream. (author: bezke)
+- Correct the Netflix BSP revision. (author: bezke)
+- Address SELinux denials for thermald, touchfeature, mlipay, and misys. (author: bezke)
+- Move `citsensorservice` to the background cpuset. (author: adithya2306, bezke)
+- Serialize DisplayFeature HAL calls to prevent concurrent access issues. (author: SoloSaravanan, bezke)
+- Pause per-app touch sampling polling when the screen is off. (author: bezke)
+- Avoid unnecessary touch sampling polling while idle. (author: SoloSaravanan, bezke)
+- Drop the A2DP suspend string patch. (author: bezke)
+- Correct ownership of `/dev/ufs-bsg0`. (author: snapboss, bezke)
+- Allow SurfaceFlinger, bootanimation, and system_server to find Mali ICompression. (author: Eron-Evan, bezke)
+- Restore stock GNSS support properties. (author: SoloSaravanan, bezke)
+- Label the audio HAL vibrator socket in SELinux. (author: bezke)
+- Label the rescue partition and silence unnecessary SELinux probes. (author: bezke)
+- Enable the SurfaceFlinger touch timer and restore the stock LMKD kill timeout. (author: bezke)
+- Align scheduler, VM, and F2FS tunables with stock configuration. (author: bezke)
+- Drop unsupported sysctl parameters from the 6.6 kernel configuration. (author: bezke)
+- List shipped radio firmware images in `proprietary-firmware.txt`. (author: bezke)
+- Build a stub MediaTek Power HAL. (author: Mashopy, bezke)
+- Build a dummy `libion_mtk` library. (author: Mashopy, bezke)
+- Keep the touch IC armed for screen-off fingerprint detection (FOD). (author: bezke)
+- Release `GPUBlockBoost` to `-1`, matching stock behavior. (author: bezke)
+- Align LAUNCH and GAME CPU performance hints with stock configuration. (author: bezke)
+- Remove fixed GPU OPP restrictions. (author: bezke)
+- Keep Mali devfreq on the MediaTek dummy governor. (author: bezke)
+- Re-enable UFS clock gating after boot. (author: bezke)
+- Remove the 12.5% cap on `uclamp.min` boosts. (author: bezke)
+- Configure per-FPS SurfaceFlinger work durations according to stock values. (author: bezke)
+- Drop secure video encoders to allow WebRTC fallback. (author: pedroSG94, bezke)
+- Arm the touch IC for screen-off fingerprint detection (FOD). (author: bezke)
