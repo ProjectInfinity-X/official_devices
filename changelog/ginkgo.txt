@@ -1,4 +1,3 @@
-- Source Changelog (https://projectinfinity-x.com/changelog/)
-- Fix issues with play integrity and banking apps
-- Ship Aperture as default camera app
+- Source Changelog (https://t.me/ProjectInfinityX/2049)
+- Revamp Dolby Atmos app UI and add more new features & fixes
 
