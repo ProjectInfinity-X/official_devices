@@ -1,0 +1,11 @@
+- Initial Android 17 Release for POCO X3 Pro (vayu/bhima)
+- Fixed SD Card issues
+- Revamp Dolby Atmos app UI and add more new features & fixes
+- Removed dirac (useless in presence of dolby)
+- Removed duplicate per-app refresh rate settings
+- Remove duplicate ambient display features
+- Replace the leica camera with stock miuicamera
+- Add CABC adjustment and HBM feature
+- Tune powerhint for better battery and heat management
+
+----- Must Clean Flash from v3.x (Android 16 Release) -----
