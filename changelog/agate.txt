@@ -1,4 +1,1 @@
-- Zoom Fixed
-- Vulkan Updated To 1.1->1.3
-- Mali GPU Drivers Updated To r32p1->r49p1
-- Full brightness range in manual brightness
+- Fix Vulkan/ANGLE device initialization failures on Mali r49p1 userspace driver
