@@ -1,3 +1,12 @@
+Date - 08/11/2026
+=================
+- Synced with latest source
+- DeviceSettings: Add doze help strings dropped from devicesettings
+- rootdir: Drop setting ro.opengles.version via init
+- Fixed app-zygote-hosted processes crash
+- Updated kernel into latest
+- Many more underhood changes
+
 Date - 05/11/2026
 =================
 - Synced with latest source
