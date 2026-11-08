@@ -1,3 +1,2 @@
--WPA3 Fixed
--SIM on/off fixed
--Offline Charging fixed
+- Ram Optimized and Leaks are Fixed
+- Switched to Common Mediatek Audio
