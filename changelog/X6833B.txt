@@ -1,4 +1,3 @@
--WPA3 Fixed
--Stock DTS Sound Added for stock audio quality
--SIM on/off fixed
--Offline Charging fixed
+- DTS On/Off Added
+- Ram Optimized and Leaks are Fixed
+- Switched to Common Mediatek Audio
