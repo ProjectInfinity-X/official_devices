@@ -3,7 +3,7 @@ Device: Xiaomi Mi 10 Ultra (cas)
 ‼️Important Notes:
 ▶️ You should have an unlocked bootloader. 
 ▶️ You should have TWRP recovery flashed on your device.
-▶️ We advise you to use this TWRP or OFOX (https://t.me/c/1788305999/47311)
+▶️ We advise you to use this TWRP or OFOX (https://t.me/c/1788305999/47783)
 
 
 1️⃣‼️If you are currently running MIUI/HyperOS ROM on your device, do the following:
