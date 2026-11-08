@@ -1,4 +1,7 @@
-- Source Changelog (https://projectinfinity-x.com/changelog/)
-- Initial A17 build
+- Source Changelog (https://t.me/ProjectInfinityX/2049)
+- Nov security patch
+- Last sync 08/11/2026
 - Add Dolby
-- Add KsuNext support
+- Add ViPER4AndroidFX
+- Add stock oss cam
+- Drop KsnuNext support
