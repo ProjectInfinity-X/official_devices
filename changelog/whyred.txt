@@ -1,3 +1,15 @@
+Date - 10/11/2026
+=================
+- Synced with latest source
+- Updated kernel version into v0.22.0
+- Disabled aod completely
+- Disable displayBlanksAfterDoze
+- props: Change default usb string
+- props: Change default bluetooth name
+- overlay: Change a default Settings.Global.DEVICE_NAME
+- Fixed vanilla build booting issue for some users
+- Many more underhood changes
+
 Date - 08/11/2026
 =================
 - Synced with latest source
