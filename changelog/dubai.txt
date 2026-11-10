@@ -1,6 +1,4 @@
-- Source Changelog: https://t.me/ProjectInfinityX/2028
+- Source Changelog: https://t.me/ProjectInfinityX/2049
 - For play integrity, read this: https://t.me/ProjectInfinityX/1611
 - Merge Kernel from LineageOS
-- Implement SBalance in kernel
-- Implement TEO Idle Governer in kernel
-- Fixed some kernel leaks
+- Rename MotoNrEnabler to MotoExtTelephony
