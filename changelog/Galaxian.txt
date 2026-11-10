@@ -1,0 +1,10 @@
+Device: Nothing Phone (3a) Lite
+Device code name : Galaxian
+Device maintainer: Samakshhhh
+
+Date - 10/11/2026
+=================
+- Source changelog (https://t.me/ProjectInfinityX/2049)
+- Initial official release
+- Synced to latest source
+- Update blobs from Galaxian_B4.1-261029-1756

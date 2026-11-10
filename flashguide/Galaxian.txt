@@ -1,0 +1,48 @@
+FLASHING GUIDE FOR Nothing Phone (3a) Lite
+
+rerequisites: Unlocked bootloader, Android Platform Tools, and necessary files (vendor_boot.img, super_empty.img, ROM .zip). Flashing steps: Connect phone via USB, use ADB & Fastboot commands to flash AOSP recovery, wipe super partition, reboot to recovery, perform factory reset, sideload ROM and optional GApps, then reboot to system.
+
+Prerequisites
+• Ensure the device's bootloader is already unlocked (https://github.com/spike0en/nothing_archive#unlocking-bootloader).
+• Latest Android Platform Tools (ADB & Fastboot tools) & USB drivers. (Available in unlock bootloader Note)
+• Download all necessary files (vendor_boot.img, super_empty.img, ROM .zip, and optional GApps .zip)
+
+Flashing Procedure
+Connect your phone to a PC via USB.
+Open a command prompt in the platform-tools folder:
+• Windows: Shift + Right Click > Open Command Prompt/Powershell here.
+• Mac/Linux: Open Terminal and navigate to platform-tools.
+
+1) Verify device connection
+In your PC terminal execute the following command.
+adb devices
+If prompted, allow USB debugging on the phone.
+
+2) Reboot to bootloader
+adb reboot bootloader
+
+3) Flash AOSP Recovery
+fastboot flash vendor_boot vendor_boot.img
+
+4) Wipe the Super Partition
+(This removes the system files from the previous ROM.)
+fastboot wipe-super super_empty.img
+
+5) Reboot To Recovery
+fastboot reboot recovery 
+
+6) Do A Factory Reset
+(On your phone Recovery go to Factory Reset > Format data / factory reset > format data)
+
+7) Sideload the ROM
+• (On your phone Recovery go to Apply Update -> Apply from ADB )
+• Now In your PC terminal, execute the sideload command.
+adb sideload lineage-packagename.zip
+• Be patient and wait until successfully flashed. If stuck at 47% wait little more time.
+
+8) To Flash Gapps (Optional)
+(Reboot to recovery - Follow Points 7)
+
+9) Reboot to System. Enjoy
+
+Note:- If doesn't boot , flash to another slot
