@@ -1,6 +1,14 @@
 - Source Changelog (https://projectinfinity-x.com/changelog/)
 
-Date - 23-10-2026
+Date: 09-11-2026
+=================
+- Nuked offline charging
+- Enable VoWiFi for NTC and Ncell 
+- Enable VoWiFi for Grameenphone and Banglalink
+- Tune sched_util_busy_hyst_cpu_util for optimal efficiency
+- Fix libperfmgr permissions for CPU scaling nodes
+
+Date: 23-10-2026
 =================
 - Swtich to LeicaCamera (thanks to @Sachinpawar86)
 - Fixed 5g icon (more stable now) (thanks to @Mayur_U)
