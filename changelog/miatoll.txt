@@ -1,2 +1,2 @@
-- Fixed Some Issues Regarding Custom Kernels
-
+- Increased Thermal Charging Throttle To 40C
+- Source Changelog (https://t.me/ProjectInfinityX/2049)
