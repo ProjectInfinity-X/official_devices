@@ -1,2 +1,5 @@
-- Source Changelog (https://projectinfinity-x.com/changelog/)
-- Fix issues with play integrity and banking apps
+- Source Changelog (https://t.me/ProjectInfinityX/2049)
+- Addressed multiple Denials
+- Fixed an issue where Mi Cam Photos took time to show in Gallery
+- Fixed lag on LockScreen while Unlocking with Fingerprint
+- Bring Back GameBar
