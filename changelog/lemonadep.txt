@@ -1,1 +1,4 @@
-- Initial Android 17 Build
+- Fixed Charging Info (Current/Watt) on AOD & Lockscreen
+- Kernel Updated (Thanks: varakumar02)
+- Dynamic Island Added
+- Many Improvements Related To A2DP And Audio Sharing (Thanks: varakumar02)
