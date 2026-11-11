@@ -1,1 +1,18 @@
-- Initial Android 17 release for Motorola G57 Power (mumba)
+- Synced Latest Source
+- Move persist.vendor.cne.feature prop to system_ext
+- Remove duplicate dpm property
+- Enable concurrent restricted connectivity
+- Enable SAE H2E support
+- Enable SAE upgrade offload
+- Disable thumbnail_block_model of libstagefright
+- BLE: Max GATT connections as a central increased to 10
+- Bluetooth: Set bluetooth.auto_connect_profiles.enabled to true
+- Drop UFFD flag
+- Drop no longer used TARGET_KERNEL_NO_GCC
+- Remove persist.vendor.qcom.bluetooth.scram.enabled
+- Remove IO read_ahead_kb tune
+- Disable continuous transaction tracing on all build types
+- Disable the debug.sf.enable_gl_backpressure property
+- Remove obsolete SurfaceFlinger properties (debug.sf.hw, debug.egl.hw)
+- Enable adaptive bitrate on the AAC offload encoder
+- Bluetooth: Move PAN properties to system_ext
