@@ -1,2 +1,3 @@
 - Initial A17 Build
 - Fix Dolby crash
+- Fix mic issues with WhatsApp & other audio related configs
