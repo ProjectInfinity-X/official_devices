@@ -1,1 +1,7 @@
-- Initial A17 Build
+- Fixed OTG (USB host) not working
+- Fixed USB-C (DAC) headphones not being detected
+- Fixed Wi-Fi and mobile data issues on Buddy 2 models
+- Updated Vulkan from 1.1.128 to 1.3.128
+- Updated GPU drivers from V@0502.39.1 to V@0762.40
+- Fixed SMS issues on some operators
+- Fixed charging control (pause/resume charging) and flashlight bugs
