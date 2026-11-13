@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-4.1-ktm-25.10.2026-GAPPS-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/ktm/17/gapps/Project_Infinity-X-4.1-ktm-25.10.2026-GAPPS-OFFICIAL.zip",
-			"timestamp": 1792952801,
-			"md5": "02a5569dd6999e5696f6162b82375988",
-			"size": 3696637089,
-			"version": "4.1"
+			"filename": "Project_Infinity-X-4.2-ktm-13.11.2026-GAPPS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/ktm/17/gapps/Project_Infinity-X-4.2-ktm-13.11.2026-GAPPS-OFFICIAL.zip",
+			"timestamp": 1794570573,
+			"md5": "8027ba9adb4d49249cffec6de0f054a2",
+			"size": 3701791158,
+			"version": "4.2"
 		}
 	]
 }
