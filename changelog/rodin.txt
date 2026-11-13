@@ -1,2 +1,10 @@
-- Fixed internal audio not recording when screen recording starts mid-game
-- Replaced Dolby app with Lunaris Dolby
+- Added Kernel Manager to Xiaomi Parts (CPU/GPU min/max frequency limits and governors). (author: Eron-Evan)
+- Moved Core Control into Kernel Manager in Xiaomi Parts. (author: Eron-Evan)
+- Added zRAM settings screen to Xiaomi Parts (size, compression algorithm and swappiness). (author: Eron-Evan)
+- Added Game Bar ring gauge overlay styles in Xiaomi Parts (Load Monitor and Mini Monitor). (author: Eron-Evan)
+- Added per-style Game Bar customization with reset to defaults in Xiaomi Parts. (author: Eron-Evan)
+- Added hotword enrollment apps for "Hey Google". (author: Eron-Evan)
+- Redesigned About me in Xiaomi Parts with GitHub profile link, avatar and link buttons. (author: Eron-Evan)
+- Moved Charging Control from Xiaomi Parts to Battery settings. (author: Eron-Evan)
+- Moved Bypass charging into Charging Control. (author: Eron-Evan)
+- Moved Xiaomi Parts entry to the Settings homepage. (author: Eron-Evan)
