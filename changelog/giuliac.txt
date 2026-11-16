@@ -1,7 +1,6 @@
-- Source Changelog (https://t.me/ProjectInfinityX/2028)
-- Initial release A17 by franlop77
-- Synced with latest source
-- Added Oneplus Camera
-- Added Oppo Gallery
-- Added and update LunarisDolby
-- Adjust automatic brightness curve
+- Source changelog (https://t.me/ProjectInfinityX/2049)
+- Fixed a few bugs (OTA...)
+- Improved the behavior of the automatic brightness
+- Switch Oneplus Reality Sound
+- Enable Lowi Server
+- Silence some spammy logging
