@@ -1,7 +1,4 @@
-- Source changelog (https://t.me/ProjectInfinityX/2028)
-- Shipped with kernel Araxys-v4.0
-- Removed Ok Google Support
-- Dropped Dolby Atmos
-- Added support for ViPER4AndroidFX
-- Updated WFD system stack from LA.QSSI.17.0.r1-06700-qssi.0
-- Bumped FCM level to 7
+- Source changelog (https://t.me/ProjectInfinityX/2049)
+- Fixed free fire max magenta screen while launching
+- Fixed miui camera filters
+- Fixed front camera video recording freeze during focus
