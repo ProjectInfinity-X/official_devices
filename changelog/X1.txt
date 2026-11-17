@@ -1,5 +1,6 @@
 - Source changelog (https://t.me/ProjectInfinityX/2028)
-- add Pricam back
-  - bug 64MP mode
-- adjust the dynamic island angle
-- fix CTS: circle to search not working.
+- fix issue wpa3 not working
+- a little patch for the camera for the glich feature issue
+- addressing VoLTE calls issues
+- tune zRAM performance
+- If the photo cannot be opened after taking the picture, use Google Photos. 
