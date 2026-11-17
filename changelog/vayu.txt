@@ -1,11 +1,5 @@
-- Ship with Helios kernel by default
-- Fixed MiuiCamera freeze after clicking 3 photos
-- Fixed MiuiCamera crash after attempting to download additional features
-- Fixed MiuiCamera only capturing 1.6MP photos
-- Fixed MiuiCamera 48MP mode
-- Fixed random MiuiCamera crashes and black screen events
-- Fixed USB Tethering
-- Fixed modules issues ((mountify/meta-mount errors)) with external kernelsu kernels 
-- Fixed flash errors while flashing microg/gapps zips on vanilla variant
-- Disable dynamic island chip squeezing
-- Reduce ROM zip size by 240 MB
+- Fixed MiuiCamera video recording glitches
+- Improve WiFi connectivity strength 
+- Fixed pink display issues in some games like FF Max etc.
+- Fix incompatible/crash issues in some games like Ludo King etc.
+
