@@ -1,3 +1,20 @@
+Released Date - 19/11/2026
+==========================
+- Source changelog (https://t.me/ProjectInfinityX/2049) v4.2 release
+- Enabled native face unlock support.
+- Added touch modes support (Game Mode and Glove Mode) in device settings.
+- Exposed manual KProfiles control in RealmeParts.
+- Implemented device-owned Thermal HAL and reworked post-boot scripts for better thermal management and performance.
+- Enabled CPU ADPF and tuned UI task profiles/uclamp for smoother frame rendering and responsiveness.
+- Migrated Lights HAL to AIDL and fixed Goodix fingerprint SELinux denials.
+- Added kernel-level High Brightness Mode (HBM) and improved optical FOD pressed layer support.
+- Implemented restricted charging support and USB Fast Charge (enabled by default).
+- Fixed VOOC/SuperDart charging status reporting until full and rectified 4500mAh battery profile reporting.
+- Maintained double-tap to wake gesture detection during Always-On Display (AOD).
+- Enabled USB OTG by default and fixed a potential camera context stability bug.
+- Applied F2FS, EXT4, and idle loop optimizations for better storage speed and standby battery life.
+
+
 Released Date - 02/10/2026
 ==========================
 - Initial release for Android 17 build
