@@ -1,33 +1,27 @@
-Device: Google Pixel 9 (tokay)
+Google Pixel 9 (tokay)
+Maintainer: vilckindima
 
-First Time Install (Note: These releases include firmware)
+Clean install
 
-Download link for Tokay IMGs 
-• https://sourceforge.net/projects/infinity-x/files/tokay/17/IMGs/
+Grab the ROM zip from the gapps folder and boot.img, dtbo.img, vendor_kernel_boot.img and vendor_boot.img from IMGs here: https://sourceforge.net/projects/infinity-x/files/tokay/17/
+The images in IMGs are always from the latest build.
 
-• Download boot, dtbo, vendor_kernel_boot, vendor_boot & rom
-• Reboot to bootloader
-• fastboot flash boot boot.img
-• fastboot flash dtbo dtbo.img
-• fastboot flash vendor_kernel_boot vendor_kernel_boot.img
-• fastboot flash vendor_boot vendor_boot.img
-• fastboot reboot recovery
-• While in recovery, navigate to Factory reset -> Format data/factory reset and confirm to format the device. When done formatting, go back to the main menu and then navigate to Apply update -> Apply from ADB
-• adb sideload rom.zip (replace "rom" with actual filename) 7 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
-• Reboot to system
+1. Flash the October 2026 stock, CP3A.261005.005, with https://flash.android.com and boot it once. Pick that build yourself: the site offers the newest one, and newer stock doesn't work with this ROM yet. Tick Wipe device and Force flash all partitions, leave Lock bootloader unticked.
+2. Reboot to the bootloader and flash the images:
+   fastboot flash boot boot.img
+   fastboot flash dtbo dtbo.img
+   fastboot flash vendor_kernel_boot vendor_kernel_boot.img
+   fastboot flash vendor_boot vendor_boot.img
+   fastboot reboot recovery
+3. In recovery: Factory reset -> Format data/factory reset.
+4. Apply update -> Apply from ADB, then on your PC:
+   adb sideload <ROM zip>
+5. Reboot system now. The first boot takes a few minutes, that's normal.
 
-Dirty Flash (when updating your infinity x version)
+Updating
 
-• Reboot to recovery
-• Apply update -> adb sideload
-• adb sideload romname.zip
-• Reboot
-• Or simply just update via ota updater in settings
+Just use the updater in Settings, or sideload the new zip in recovery like in step 4, no formatting and no images needed. The zip brings its own bootloader and modem, so don't flash newer stock on top.
 
-Download and Install Magisk apk
+Coming from my unofficial builds? Do a clean install once, they were signed with different keys.
 
-• Unzip the factory image from here for example (https://developers.google.com/android/images), Extract the IMGs folder, copy the init_boot file to your Pixel device.
-• Patch init_boot.img file, Open Magisk app on your device, tap on install and tap again on “Select and Patch a file” and browse the init_boot.img file you’ve just copied. It will patch the file and save it in the same folder. Now you’ve to transfer patched init_boot.img file to your PC to flash it using an adb command.
-• Reboot the device in Fastboot
-• On your PC, open the plaform tools folder, hold the Windows button and right click in the folder and select open command here. Type the following commands to flash the patch boot file, below is an example; fastboot flash init_boot magisk_patched-25200_xgjAS.img
-• Once complete and no errors are returned type fastboot reboot
+And please never lock the bootloader with a custom ROM on the phone, it won't boot anymore.
