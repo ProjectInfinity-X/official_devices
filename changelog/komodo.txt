@@ -1,1 +1,3 @@
-- Initial v4.0 (Android 17) Release
+- Source changelog (https://t.me/ProjectInfinityX/2049)
+- New maintainer: vilckindima
+- Built on the October 2026 stock firmware (CP3A.261005.005), firmware included
