@@ -4,6 +4,9 @@ Flashing Instructions:
 
 * Clean Flash:
 - Flash dynamic recovery
+- First time only (coming from MIUI/stock or a ROM without /metadata):
+  format logdump as ext4, it is used as /metadata
+  (recovery terminal: mke2fs -t ext4 /dev/block/by-name/logdump)
 - Wipe dalvik cache
 - Do format data
 - Reboot to recovery
