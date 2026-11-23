@@ -1,0 +1,24 @@
+Device: Motorola G54/G64
+Device code name: cancunf
+Device maintainer: Soviet (ussr_1674)
+Credits: @cyberknight777 & @sarthakroy2002
+
+Date - 23/11/2026
+=================
+Firmware warning: This release raises the anti-rollback counter. After
+installing it, flashing Android 16/15 ROMs or older stock firmware can
+permanently brick the device. Read the Android 17 installation guide.
+
+- Initial Android 17 build.
+- Enable AVB for DTBO.
+- Update CarrierConfigOverlay to V1TDS35H.83-20-5-12.
+- Set FCM level to 7 and configure AVB chained partition hash algorithms.
+- Use the correct device identifiers in the build fingerprint and description.
+- Switch to the open source AIDL fingerprint HAL.
+- Build wlan_assistant from source.
+- Switch Bluetooth audio to the AOSP implementation.
+- Update the VT stack from Motorola nice A171VNH.25.
+- Update the GNSS stack from ALPS 14 V10.69.
+- Deduplicate dynamic sensor HAL SELinux rules.
+- Clean up unused blobs.
+- Update device blobs and bundled firmware to V1TDS35H.83-20-5-14.
