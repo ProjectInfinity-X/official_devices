@@ -1,0 +1,58 @@
+Project Infinity-X 4.2 / Android 17
+Motorola Moto G54 and G64 (cancunf)
+
+Firmware and rollback
+---------------------
+This build includes Motorola firmware V1TDS35H.83-20-5-14. It raises the
+device's anti-rollback counter. After installing this build or Motorola's
+September 2026 stock update, do not flash Android 16 or Android 15 custom ROMs,
+older stock firmware, or individual firmware images from those releases.
+Doing so can permanently brick the phone. For stock recovery, use Motorola
+firmware for your exact model and region at or above the new rollback level.
+
+If a stock update is already in progress, complete it and boot into stock
+before unlocking or flashing. The ROM includes its firmware. Devices on stock
+older than the May 2024 Android 14 build U1TDS34.94-12-7-5 need a second
+sideload of this same ROM, without a second factory reset, to update both slots.
+
+Prepare to install
+------------------
+Back up your files. Unlocking the bootloader and the factory reset during a
+clean install both erase user data. Install the latest Android Platform Tools
+on your computer and, on Windows, install the USB driver if needed.
+
+Android Platform Tools: https://developer.android.com/tools/releases/platform-tools
+Motorola bootloader unlock: https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a
+
+To unlock, enable OEM unlocking in Developer options, boot into the bootloader
+with Power and Volume Down, and run `fastboot oem get_unlock_data`. Submit the
+device ID to Motorola and follow its instructions using the unlock token.
+
+Clean install
+-------------
+Use these steps for the first Android 17 installation and when coming from
+stock, a different ROM, or a different build variant.
+
+1. Download the Android 17 ROM ZIP and reuse the Infinity-X Android 16
+   initial install ZIP for the same variant.
+   GApps: https://sourceforge.net/projects/infinity-x/files/cancunf/16/gapps/infinity_gms_initial_install.zip/download
+   Vanilla: https://sourceforge.net/projects/infinity-x/files/cancunf/16/vanilla/infinity_vanilla_initial_install.zip/download
+2. Boot into the bootloader and connect the phone over USB. Run
+   `fastboot reboot fastboot` to enter fastbootd. Run `fastboot devices` to
+   check the connection and `fastboot getvar is-userspace` to confirm it says
+   `yes` before flashing.
+3. Run `fastboot --skip-reboot update infinity_gms_initial_install.zip`
+   or substitute `infinity_vanilla_initial_install.zip` for Vanilla.
+   This installs boot and vendor_boot for recovery. Use the ZIP only for
+   initial installation.
+4. Run `fastboot reboot recovery`. In recovery, select Factory reset and
+   confirm Format data.
+5. Select Apply update, then Apply from ADB. Run `adb sideload <ROM ZIP>`,
+   replacing `<ROM ZIP>` with the path to the downloaded ROM.
+6. When recovery reports success, reboot to system.
+
+Updating Android 17
+-------------------
+Keep the same variant (GApps or Vanilla). Use the built-in Updater or reboot
+into recovery and sideload the newer ROM using Apply from ADB. Reboot when
+the update completes.
