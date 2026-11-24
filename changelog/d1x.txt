@@ -2,5 +2,8 @@ Device: Samsung Galaxy Note 10 5G
 Device code name : d1x
 Device maintainer: FrEeRuNnEr4EvEr
 
-Device Changelog 11/5/2026
-- Initial android 17 release
+Device Changelog 11/24/2026
+- Bumped FrEeRuNnErKeRnEl to version 3.9-r2
+- Added WPA3 wifi support
+- Switched from KernelSU-Next to KazeSU with susFS v2.4.0
+- Swithed to Gralloc4 allocator
