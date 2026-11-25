@@ -1,11 +1,11 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-4.2-mumba-11.11.2026-VANILLA-OFFICIAL.zip",
-			"download": "https://sourceforge.net/projects/infinity-x/files/mumba/17/vanilla/Project_Infinity-X-4.2-mumba-11.11.2026-VANILLA-OFFICIAL.zip",
-			"timestamp": 1794374406,
-			"md5": "2b013cf36a73ee3b930c06cb24a44109",
-			"size": 1608088468,
+			"filename": "Project_Infinity-X-4.2-mumba-25.11.2026-VANILLA-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/mumba/17/vanilla/Project_Infinity-X-4.2-mumba-25.11.2026-VANILLA-OFFICIAL.zip",
+			"timestamp": 1795609191,
+			"md5": "a65300d1b93517c492df2b5450dd8bdd",
+			"size": 1530208134,
 			"version": "4.2"
 		}
 	]

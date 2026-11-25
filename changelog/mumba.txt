@@ -1,18 +1,22 @@
 - Synced Latest Source
-- Move persist.vendor.cne.feature prop to system_ext
-- Remove duplicate dpm property
-- Enable concurrent restricted connectivity
-- Enable SAE H2E support
-- Enable SAE upgrade offload
-- Disable thumbnail_block_model of libstagefright
-- BLE: Max GATT connections as a central increased to 10
-- Bluetooth: Set bluetooth.auto_connect_profiles.enabled to true
-- Drop UFFD flag
-- Drop no longer used TARGET_KERNEL_NO_GCC
-- Remove persist.vendor.qcom.bluetooth.scram.enabled
-- Remove IO read_ahead_kb tune
-- Disable continuous transaction tracing on all build types
-- Disable the debug.sf.enable_gl_backpressure property
-- Remove obsolete SurfaceFlinger properties (debug.sf.hw, debug.egl.hw)
-- Enable adaptive bitrate on the AAC offload encoder
-- Bluetooth: Move PAN properties to system_ext
+- Switched to OSS kernel
+- Implemented Torch Strength control
+- Implemented Moto Parts (Core Control, Kernel Manager, GPU Manager, Battery Charge Limit & Bypass Charging, Memory/ZRAM Tuning, Clear Speaker, Display Saturation, KProfiles with QS tile, Live System Telemetry, Per-App Refresh Rate, Per-App Thermal Profiles, UFS Storage Health Monitor, plus shortcuts for Display Features, Game Mode, Dolby Atmos, and Moto Gestures)
+- Dropped QTI PowerHAL and migrated to libperfmgr
+- Tuned powerhint configuration for improved performance and efficiency
+- Implemented Game Mode
+- Dropped legacy ZRAM setup
+- Dropped proprietary firmware
+- Enabled CPU temperature reporting in Celsius
+- Defined config_screenRecorderAVCProfileLevel for screen recording
+- Implemented DisplayFeatures
+- Implemented KProfiles
+- Fixed UI blur lag
+- Implemented Bypass Charging
+- Enabled CPU ADPF hint sessions
+- Enabled RKPD (Remote Key Provisioning Daemon)
+- Disabled SDM writeback
+- Switched RenderEngine blur algorithm to Kawase2
+- Fixed ultrawide camera not appearing in Aperture
+- Implemented MMD (Memory Management Daemon)
+- Opted out of VIDEO_ENCODE flag for DeviceAsWebcam
