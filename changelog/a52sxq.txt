@@ -1,33 +1,37 @@
-- Merged October 2026 security patch
-- Allow user to change brightness level of Ambient display / Always ON Display
-- Bring back recents panel styles to launcher
-- Bring back launcher homescreen folder customizations (resize/grid/icon)
-- Bring back launcher app drawer folder support
-- Bring back recents swipe gestures feature to launcher
-- Bring back lock/unlock app in recents feature
-- Bring back App drawer styles to launcher
-- Bring back App rename & custom per-app icon feature
-- More app drawer customizations for launcher (author: shutter-cat)
-- Fix an issue where stock app icon flashed for a second while custom icon pack in use
-- Fix taskbar only containing two pinned icons for Tablets
-- Fix taskbar hotseat alignment overlap
-- Improve themepicker on vanilla builds
-- Bring back seekbar to adjust blur intensity level
-- Fixed PIF deadlock boot prevention on few devices
-- Fixed dynamic bar circle chip stlye not aligned in statusbar with other app notification icons
-- Ship Canvas prebuilt apk in Vanilla as image editor
-- Improve applock feature (author: rmp22 & Saikrishna1504)
-- Improve sandbox environment functionality and add multi-user support (author: rmp22 & Saikrishna1504)
-- Improve OmniJaws Weather app (author: neobuddy89 & 306bobby-android)
-- Improvements for Bluetooth module related to LHDC
-- Fix issues with inverted navigation keys on landscape 
-- Allow homescreen landscape rotation
-- Fix some launcher related crashes
-- Improve navigation bar compatibility with taskbar
-- Add support for private space face unlock enrollment (author: AshwinDS)
-- Tonnes of improvements for Android 17 high ram usage
-- Add custom height and color control in Pulse visualizer (author: Ghosuto)
-- Fix some issues related to dynamic bar
-- Improve dynamic bar layout and functionality
-- Make it mandatory to ask pin for shutdown/reboot on password-protected lockscreen (author: DarkJoker360)
-- Skip per process GPU memory usage trace if disabled in kernel (author: Tashar02)
+- Merged November 2026 security patch
+- Fix an issue where the stock app icon briefly appeared during the app-to-home-screen transition when using a custom icon pack
+- Bring back the combined Internet tile from Android 16
+- Allow changing the horizontal and vertical position of the Dynamic Island chip to prevent misalignment and let users customize it according to their punch-hole layout
+- Add support for Dynamic Island on devices with corner punch-hole layouts
+- Fix QS Panel lag when Dynamic Island is active and media is playing
+- Add an optional toggle to enable aggressive standby sleep mode to minimize idle drain
+- Add transparent blur effects for revamped volume panel and more system surfaces and dynamic bar surfaces 
+- Add more optimized and cleaner glass blur UI
+- Fix transparent status bar overlap while scrolling on the Settings app homepage
+- Allow disabling Private DNS while VPN is active (author: idoybh)
+- Fix Private DNS tile long-press opening nothing (author: idoybh)
+- Add per-connection Wi-Fi MAC address randomization option (author: muhomorr)
+- Fix occasional crash on the Settings Wi-Fi data usage page
+- Don't show the call timer in the Dynamic Island chip until the call is connected
+- Improve custom ROM/root detection handling in various banking and security apps
+- Revamp Spoofing section in Material Expressive & Add more spoofing features (spoof keystore provider, ROM signature, Vending SDK level, etc.) (author: joeyhuab, neobuddy89)
+- Improve Trickystore and spoofing feature backend
+- Add feature to disable forced dark theme in Battery Saver (author: Blackseafisher1)
+- Fix volume panel not showing in legacy keyguard mode (author: neobuddy89)
+- Fix AliPay app crash
+- Fix Tidal app crash (author: QuinceROMS)
+- Add feature to prevent in-use apps from being cleared by the Recents panel's Clear All button
+- Fix inability to set SIM 1 ringtone on some devices
+- Revamp Header Image settings in Material 3 Expressive and improve Header Image functionality (author: neobuddy89)
+- Fix status bar being hidden while lockscreen media art is showing
+- Fix async notification inflation warning causing UI lag in some instances
+- Add support for wallpaper effects and live/Pixel wallpapers in vanilla builds (author: uwu-gl)
+- Fix keybox fetch failed error and improve keybox fetching speed by a lot
+- Add toggle to disable custom ambient/AOD brightness, allowing users to use the auto-brightness sensor for ambient/doze brightness
+- Don't force an opaque app drawer background when window-level blurs are disabled in legacy fullscreen/One UI app drawer style
+- Fix predictive back gesture animation in InfinitySuite
+- Fix sandbox crash when the app list contains no user apps (author: Varakumar)
+- Hide weather clock/At a Glance when notifications are present
+- Make the Wallpaper & Styles app show the lockscreen clock with applied clock fonts (author: eldainosor)
+- Make the expanded volume panel open the media output switcher instead of the extended stock volume panel
+- Apply variable fonts to the lyrics card and lockscreen lyrics
